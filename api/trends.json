@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T14:16:04.268158+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2025-11-06T15:02:51.300569+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时42分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时42分 ~ 15时02分]"
         },
         {
           "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
@@ -51,11 +51,12 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时04分 ~ 14时16分]"
+          "appearance_count": 11,
+          "time_info": "[05时04分 ~ 15时02分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -109,6 +110,17 @@
           "time_info": "[11时42分 ~ 14时16分]"
         },
         {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时11分 ~ 15时02分]"
+        },
+        {
           "title": "涉及特朗普，BBC被曝严重造假！",
           "url": "https://news.ifeng.com/c/8o2gk5AC6pP",
           "source": "凤凰网",
@@ -119,17 +131,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时42分 ~ 12时16分]"
-        },
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时11分 ~ 14时16分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -179,6 +180,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "特朗普再次对尼日利亚发出威胁",
@@ -574,6 +586,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "高盛：即使美最高法院裁定特朗普关税违法，对整体贸易局势影响也有限",
+          "url": "https://flash.jin10.com/detail/20251106140838691800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "美国总统特朗普：我们必须把牛肉价格降下来。",
           "url": "https://flash.jin10.com/detail/20251106071655409800",
           "source": "金十数据",
@@ -605,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "特朗普政府决定提供三分之二食品援助福利 修正此前“计算错误”",
+          "url": "https://flash.jin10.com/detail/20251106140101223800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
@@ -632,8 +666,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时42分 ~ 15时02分]"
+        },
+        {
+          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
+          "url": "https://www.cls.cn/detail/2192518",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时42分 ~ 14时16分]"
+          "time_info": "[10时27分 ~ 15时02分]"
         },
         {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
@@ -650,19 +697,6 @@
           "time_info": "[00时35分 ~ 08时42分]"
         },
         {
-          "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
-          "url": "https://www.cls.cn/detail/2192518",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 14时16分]"
-        },
-        {
           "title": "美股泡沫有多大？瑞银给出七个观测指标",
           "url": "https://wallstreetcn.com/articles/3758712",
           "source": "华尔街见闻",
@@ -672,8 +706,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时27分 ~ 14时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 15时02分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -851,7 +885,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "报道：谷歌下周将宣布其在德国的历来最大投资计划",
@@ -860,7 +894,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
         },
@@ -972,6 +1006,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
+          "url": "https://wallstreetcn.com/livenews/3000351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
           "url": "https://flash.jin10.com/detail/20251106104149768800",
           "source": "金十数据",
@@ -981,6 +1026,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
+          "url": "https://flash.jin10.com/detail/20251106140725860800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
+          "title": "据德国《商报》：谷歌正准备宣布在德国的有史以来最大的投资计划。",
+          "url": "https://flash.jin10.com/detail/20251106140533490800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
@@ -1084,7 +1151,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十图示：2025年11月06日（周四）上海金早盘价为912.29元/克，较国际金价(911.43元/克)，高0.86元/克",
@@ -1108,6 +1175,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时11分 ~ 14时16分]"
+        },
+        {
+          "title": "紫金黄金国际港股涨逾8%，创一周来盘中最大涨幅。摩根士丹利给予其超配的初始评级，目标价为175港元，称其当前估值隐含的黄金价格仅约为3500美元/盎司，具有吸引力。",
+          "url": "https://wallstreetcn.com/livenews/3000356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "中信证券：展望明年，预计金价主线仍是上行",
@@ -1146,8 +1224,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
+          "url": "https://wallstreetcn.com/articles/3758696",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时42分 ~ 15时02分]"
+        },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
           "url": "https://wallstreetcn.com/articles/3758696",
@@ -1158,17 +1247,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 06时02分]"
-        },
-        {
-          "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
-          "url": "https://wallstreetcn.com/articles/3758696",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时42分 ~ 14时16分]"
         },
         {
           "title": "10年期美债收益率涨7个基点，美国ADP小非农就业报告和ISM非制造业数据提供支撑",
@@ -1192,12 +1270,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时00分 ~ 03时14分]"
+        },
+        {
+          "title": "机构：黄金冲关4000美元乏力，强势美债收益率成逆风",
+          "url": "https://flash.jin10.com/detail/20251106142028591800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "比特币日内涨幅达3.0%，报104450美元。 标普500指数涨0.8%，道指涨280点涨幅0.6%，纳指涨1.2%，半导体指数涨4%。 美国总统特朗普：预计三季度GDP将至少增长4.2%。",
@@ -1234,6 +1323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
+        },
+        {
+          "title": "美元指数DXY失守100，日内跌幅0.12%。",
+          "url": "https://flash.jin10.com/detail/20251106140451205800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         }
       ]
     }
