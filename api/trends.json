@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T19:04:11.607010+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2025-11-06T20:19:43.364427+08:00",
+  "total_titles_processed": 1820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普：美国第一，俄罗斯第二，中国第三",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时11分 ~ 19时04分]"
+          "appearance_count": 12,
+          "time_info": "[13时11分 ~ 20时19分]"
         },
         {
           "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
@@ -42,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时42分 ~ 19时04分]"
+          "appearance_count": 16,
+          "time_info": "[08时42分 ~ 20时19分]"
         },
         {
           "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
@@ -80,8 +81,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[05时04分 ~ 19时04分]"
+          "appearance_count": 19,
+          "time_info": "[05时04分 ~ 20时19分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -174,6 +175,17 @@
           "time_info": "[00时35分 ~ 07时04分]"
         },
         {
+          "title": "特朗普为什么总是针对南非？",
+          "url": "https://news.ifeng.com/c/8o3ygttojoa",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "美国白宫：特朗普将于周四上午11点（北京时间周周五零点）发表声明。",
           "url": "https://flash.jin10.com/detail/20251106080755974800",
           "source": "金十数据",
@@ -238,7 +250,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -679,6 +691,17 @@
           "time_info": "01时25分"
         },
         {
+          "title": "特朗普重申不会出席G20峰会",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E4%B8%8D%E4%BC%9A%E5%87%BA%E5%B8%ADG20%E5%B3%B0%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "特朗普政府决定提供三分之二食品援助福利 修正此前“计算错误”",
           "url": "https://flash.jin10.com/detail/20251106140101223800",
           "source": "金十数据",
@@ -905,7 +928,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -1128,7 +1151,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
         },
@@ -1267,7 +1290,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金十图示：2025年11月06日（周四）上海金早盘价为912.29元/克，较国际金价(911.43元/克)，高0.86元/克",
@@ -1302,6 +1325,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         },
         {
           "title": "中信证券：展望明年，预计金价主线仍是上行",
@@ -1351,8 +1385,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时42分 ~ 19时04分]"
+          "appearance_count": 16,
+          "time_info": "[08时42分 ~ 20时19分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
