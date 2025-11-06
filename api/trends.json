@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T01:11:49.964882+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-11-07T02:16:46.847060+08:00",
+  "total_titles_processed": 451,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "特朗普为什么总是针对南非？",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "特朗普重申不会出席G20峰会",
@@ -37,8 +37,20 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
+        },
+        {
+          "title": "特朗普会否成为“跛脚总统”",
+          "url": "https://www.toutiao.com/trending/7569576151731932699/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时11分]"
+          "time_info": "[01时11分 ~ 02时16分]"
         },
         {
           "title": "美联储威廉姆斯、巴尔将于十分钟后出席活动；美国总统特朗普将于十分钟后就减肥药物发表声明。",
@@ -52,24 +64,101 @@
           "time_info": "00时12分"
         },
         {
+          "title": "美国总统特朗普：如果最高法院做出不利于关税的裁决，那将是“毁灭性的”。",
+          "url": "https://wallstreetcn.com/livenews/3000682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普：感谢礼来与诺和诺德与美国达成药品价格协议。 两家公司的GLP-1s减肥药将在TrumpRX网站上架销售。 Zepbound和Wegovy价格将下调，医疗保险和医疗补助将涵盖这些减肥药物。 两家公司将在美国新建工厂。 礼来将在美国投资270亿美元，诺和诺德将投资100亿美元。 许多应用广泛的药品将实施60%的折扣。 美国民众应该支付全球最低的药价。 其他国家对美国医药定价协议感到不满。",
+          "url": "https://wallstreetcn.com/livenews/3000680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员摔倒，讲话随即暂停。",
+          "url": "https://flash.jin10.com/detail/20251107013741993800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "特朗普政府与礼来、诺和诺德达成减肥药降价协议",
+          "url": "https://wallstreetcn.com/livenews/3000679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack（2026年FOMC票委）：当前的利率环境“几乎不存在限制性”。 并没有明显的证据表明，应该在2025年继续采取货币政策行动。 通胀是更加迫切的担忧。 预计2026年更快的经济增速将利好就业。 （由于总统特朗普政府关门影响到经济的缘故）预计失业率将在未来数月上升。",
+          "url": "https://wallstreetcn.com/livenews/3000676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普：美国今年的投资可能超过21万亿美元。",
+          "url": "https://flash.jin10.com/detail/20251107013332153800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普：最高法院对关税案若作出负面裁决，对美国来说将是毁灭性的。",
+          "url": "https://flash.jin10.com/detail/20251107013319980800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美国总统特朗普：美国人必须能够以全球最低的价格购买药品，这是他们的权利。",
+          "url": "https://flash.jin10.com/detail/20251107013210117800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
           "title": "美国众议长约翰逊：现在，对结束“特朗普政府关门”的乐观情绪更低。",
           "url": "https://wallstreetcn.com/livenews/3000652",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "特朗普会否成为“跛脚总统”",
-          "url": "https://www.toutiao.com/trending/7569576151731932699/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
         },
@@ -80,7 +169,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
         },
@@ -91,9 +180,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "特朗普宣布与礼来、诺和诺德降低减肥药价格",
+          "url": "https://flash.jin10.com/detail/20251107012559495800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         },
         {
           "title": "美国联邦上诉法院为特朗普提供新机会，允其再次举证封口费刑事案应属联邦法院管辖。",
@@ -110,7 +210,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
@@ -120,8 +220,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "Datadog美股盘初涨19%，创2022年2月份以来盘中新高。",
@@ -146,13 +246,35 @@
           "time_info": "00时12分"
         },
         {
+          "title": "金十图示：2025年11月06日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251107013137479800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "金十图示：2025年11月06日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251107013117259800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
           "title": "美股跌势扩大，道指跌幅达1%，标普500指数跌1.07%，纳指现跌1.73%。",
           "url": "https://flash.jin10.com/detail/20251107002658179800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
         },
@@ -193,8 +315,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时11分]"
+          "time_info": "[01时11分 ~ 02时16分]"
         },
         {
           "title": "金价",
@@ -206,17 +340,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时11分"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -240,11 +363,12 @@
           "url": "https://wallstreetcn.com/articles/3758696",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "美国就业形势严峻引发降息预期，美股指数集体低开低走，美元承压，黄金短线下挫，美债走高",
@@ -252,11 +376,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "美股、黄金、比特币齐跌，日元和美债上涨，投资者静候一波美联储官员的讲话",
@@ -277,7 +402,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
         }
@@ -296,8 +421,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时12分 ~ 01时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 02时16分]"
         },
         {
           "title": "微软将目标瞄准“超级智能”，此前修订与OpenAI的合作关系",
@@ -309,6 +434,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
+          "url": "https://wallstreetcn.com/livenews/3000693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时16分"
         }
       ]
     }
