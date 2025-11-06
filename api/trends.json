@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T16:15:41.386746+08:00",
-  "total_titles_processed": 1403,
+  "generated_at": "2025-11-06T17:03:12.794827+08:00",
+  "total_titles_processed": 1494,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 16时15分]"
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 17时03分]"
+        },
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时11分 ~ 17时03分]"
         },
         {
           "title": "就在今天，特朗普任期首次重大选举！市场将获得重要数据，预判明年美国“中选”格局",
@@ -55,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[05时04分 ~ 16时15分]"
+          "appearance_count": 14,
+          "time_info": "[05时04分 ~ 17时03分]"
         },
         {
           "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
@@ -83,17 +95,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时42分 ~ 14时16分]"
-        },
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时11分 ~ 16时15分]"
         },
         {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
@@ -133,6 +134,18 @@
           "time_info": "[08时42分 ~ 12时16分]"
         },
         {
+          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
+          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时02分 ~ 17时03分]"
+        },
+        {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
           "url": "https://news.ifeng.com/c/8o2w70KHTf3",
           "source": "凤凰网",
@@ -143,17 +156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时42分 ~ 10时27分]"
-        },
-        {
-          "title": "爱沙尼亚外长怂恿：特朗普说了，中国对俄施压有用",
-          "url": "https://news.ifeng.com/c/8o3ahiOpYbf",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 16时15分]"
         },
         {
           "title": "纽约新市长为何成特朗普的“噩梦”",
@@ -340,6 +342,18 @@
           "time_info": "[03时00分 ~ 04时04分]"
         },
         {
+          "title": "民主党想把特朗普赶下台吗",
+          "url": "https://www.toutiao.com/trending/7569499059413585417/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时03分]"
+        },
+        {
           "title": "美国总统特朗普称赞加密货币，称其减轻了美元压力。",
           "url": "https://flash.jin10.com/detail/20251106031759230800",
           "source": "金十数据",
@@ -416,7 +430,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -608,17 +622,6 @@
           "time_info": "15时02分"
         },
         {
-          "title": "民主党想把特朗普赶下台吗",
-          "url": "https://www.toutiao.com/trending/7569499059413585417/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "美国总统特朗普：我们必须把牛肉价格降下来。",
           "url": "https://flash.jin10.com/detail/20251106071655409800",
           "source": "金十数据",
@@ -705,6 +708,19 @@
           "time_info": "[10时27分 ~ 16时15分]"
         },
         {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时27分 ~ 17时03分]"
+        },
+        {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
           "url": "https://wallstreetcn.com/articles/3758685",
           "source": "华尔街见闻",
@@ -717,19 +733,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 08时42分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时27分 ~ 16时15分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -1246,7 +1249,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1256,8 +1259,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 16时15分]"
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 17时03分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -1281,6 +1284,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时04分 ~ 06时02分]"
+        },
+        {
+          "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
+          "url": "https://www.cls.cn/detail/2192526",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 17时03分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
