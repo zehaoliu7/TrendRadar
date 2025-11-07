@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T12:14:06.577104+08:00",
-  "total_titles_processed": 1106,
+  "generated_at": "2025-11-07T13:04:32.273529+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
@@ -42,6 +42,18 @@
           "time_info": "[00时12分 ~ 08时44分]"
         },
         {
+          "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
+          "url": "https://news.ifeng.com/c/8o4WnZCvvkZ",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 13时04分]"
+        },
+        {
           "title": "特朗普会否成为“跛脚总统”",
           "url": "https://www.toutiao.com/trending/7569576151731932699/",
           "source": "今日头条",
@@ -55,18 +67,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时11分 ~ 06时03分]"
-        },
-        {
-          "title": "五角大楼和国会参议院分歧加大，罕见体现对特朗普政府的不满",
-          "url": "https://news.ifeng.com/c/8o4WnZCvvkZ",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 12时14分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事",
@@ -102,6 +102,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
+          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 13时04分]"
+        },
+        {
           "title": "特朗普回应佩洛西退休：对美国是件大好事",
           "url": "https://wallstreetcn.com/livenews/3000884",
           "source": "华尔街见闻-快讯",
@@ -135,15 +146,32 @@
           "time_info": "08时44分"
         },
         {
-          "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
-          "url": "https://news.ifeng.com/c/8o4vHMfvYBT",
-          "source": "凤凰网",
+          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
+          "url": "https://www.cls.cn/detail/2193664",
+          "source": "财联社热门",
           "ranks": [
-            6
+            13,
+            12,
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 12时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 13时04分]"
+        },
+        {
+          "title": "男子在特朗普身边晕倒 发布会中断",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E8%BE%B9%E6%99%95%E5%80%92+%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%AD%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            19,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 13时04分]"
         },
         {
           "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
@@ -170,30 +198,30 @@
           "time_info": "[11时38分 ~ 12时14分]"
         },
         {
-          "title": "禁止特朗普绕过国会对委内瑞拉动武议案被否",
-          "url": "https://www.cls.cn/detail/2193664",
-          "source": "财联社热门",
+          "title": "美脱口秀节目就政府停摆整活特朗普",
+          "url": "https://www.toutiao.com/trending/7568727581982474303/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            12,
-            11
+            14,
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时26分 ~ 12时14分]"
+          "time_info": "[11时38分 ~ 13时04分]"
         },
         {
-          "title": "男子在特朗普身边晕倒 发布会中断",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E8%BA%AB%E8%BE%B9%E6%99%95%E5%80%92+%E5%8F%91%E5%B8%83%E4%BC%9A%E4%B8%AD%E6%96%AD",
-          "source": "百度热搜",
+          "title": "特朗普：美国人正为关税付出代价",
+          "url": "https://www.toutiao.com/trending/7569021464603901971/",
+          "source": "今日头条",
           "ranks": [
-            30,
-            19,
-            14
+            15,
+            10,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时26分 ~ 12时14分]"
+          "time_info": "[11时38分 ~ 13时04分]"
         },
         {
           "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
@@ -207,30 +235,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 05时02分]"
-        },
-        {
-          "title": "美脱口秀节目就政府停摆整活特朗普",
-          "url": "https://www.toutiao.com/trending/7568727581982474303/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 12时14分]"
-        },
-        {
-          "title": "特朗普：美国人正为关税付出代价",
-          "url": "https://www.toutiao.com/trending/7569021464603901971/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时38分 ~ 12时14分]"
         },
         {
           "title": "白宫：美国总统特朗普的医药活动很快将恢复正常。",
@@ -624,6 +628,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "特朗普称明年可能访问印度",
+          "url": "https://www.toutiao.com/trending/7569001007863103514/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "美国总统特朗普在椭圆形办公室发表讲话时，一名官员晕倒，讲话随即暂停。",
           "url": "https://flash.jin10.com/detail/20251107013741993800",
           "source": "金十数据",
@@ -685,6 +700,18 @@
       "match_count": 20,
       "titles": [
         {
+          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
+          "url": "https://www.cls.cn/detail/2193592",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时02分 ~ 13时04分]"
+        },
+        {
           "title": "美股三大期指集体上涨 特斯拉股东大会来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2193483",
           "source": "财联社热门",
@@ -699,29 +726,6 @@
           "time_info": "[00时12分 ~ 10时26分]"
         },
         {
-          "title": "铜、银、铀入选美国新版关键矿产清单，美股概念股巨幅震荡",
-          "url": "https://www.cls.cn/detail/2193592",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时02分 ~ 12时14分]"
-        },
-        {
-          "title": "小摩：美股牛市格局未改，标普500指数近期料突破7000点",
-          "url": "https://flash.jin10.com/detail/20251107114842148800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
           "url": "https://wallstreetcn.com/articles/3758813",
           "source": "华尔街见闻",
@@ -730,8 +734,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 12时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 13时04分]"
+        },
+        {
+          "title": "小摩：美股牛市格局未改，标普500指数近期料突破7000点",
+          "url": "https://flash.jin10.com/detail/20251107114842148800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 13时04分]"
         },
         {
           "title": "美股",
@@ -924,8 +940,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时02分 ~ 12时14分]"
+          "appearance_count": 8,
+          "time_info": "[07时02分 ~ 13时04分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -939,8 +955,33 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 12时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 13时04分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 13时04分]"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 13时04分]"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -981,18 +1022,6 @@
           "time_info": "[04时04分 ~ 05时02分]"
         },
         {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 12时14分]"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
           "url": "https://flash.jin10.com/detail/20251107032614746800",
           "source": "金十数据",
@@ -1027,19 +1056,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时03分]"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 12时14分]"
         },
         {
           "title": "微软将目标瞄准“超级智能”，此前修订与OpenAI的合作关系",
@@ -1091,8 +1107,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 12时14分]"
+          "appearance_count": 6,
+          "time_info": "[08时44分 ~ 13时04分]"
         },
         {
           "title": "美国裁员数创20年新高，Mag7重挫领跌美股，美债大涨，加密货币黄金齐跌",
@@ -1151,11 +1167,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 12时14分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 13时04分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -1224,8 +1241,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时02分 ~ 12时14分]"
+          "appearance_count": 10,
+          "time_info": "[06时02分 ~ 13时04分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -1234,11 +1251,12 @@
           "ranks": [
             5,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 12时14分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 13时04分]"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
