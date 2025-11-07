@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T20:19:05.661147+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2025-11-07T21:22:19.625863+08:00",
+  "total_titles_processed": 1946,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时14分 ~ 20时19分]"
+          "appearance_count": 8,
+          "time_info": "[16时14分 ~ 21时22分]"
         },
         {
           "title": "特朗普：佩洛西退休对美国是大好事，她是个邪恶的女人",
@@ -259,6 +259,17 @@
           "time_info": "[14时16分 ~ 17时03分]"
         },
         {
+          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
+          "url": "https://news.ifeng.com/c/8o5WciamJwF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时04分 ~ 21时22分]"
+        },
+        {
           "title": "据CNN：消息人士称，特朗普政府正考虑从周五起削减4%的航班，并在此后政府停摆每持续一天，再逐日增加1%的削减幅度。",
           "url": "https://flash.jin10.com/detail/20251107023254631800",
           "source": "金十数据",
@@ -283,15 +294,17 @@
           "time_info": "[11时38分 ~ 12时14分]"
         },
         {
-          "title": "拉美领导人在COP30集体开喷，哥伦比亚总统：特朗普反人类",
-          "url": "https://news.ifeng.com/c/8o5WciamJwF",
-          "source": "凤凰网",
+          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            20,
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时04分 ~ 20时19分]"
+          "appearance_count": 4,
+          "time_info": "[19时04分 ~ 21时22分]"
         },
         {
           "title": "诺和诺德：与特朗普达成的协议将按更低的成本向更大范围的美国民众提供GLP-1s减肥药。",
@@ -330,18 +343,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时03分 ~ 05时02分]"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时04分 ~ 20时19分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -1174,8 +1175,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时26分 ~ 20时19分]"
+          "appearance_count": 15,
+          "time_info": "[10时26分 ~ 21时22分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -1302,8 +1303,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时44分 ~ 20时19分]"
+          "appearance_count": 16,
+          "time_info": "[08时44分 ~ 21时22分]"
         },
         {
           "title": "逢低买盘再现，部分科技股撑美股反弹，加密货币扭转颓势，美油跌破60美元，美债跌",
@@ -1403,8 +1404,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时02分 ~ 20时19分]"
+          "appearance_count": 20,
+          "time_info": "[06时02分 ~ 21时22分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
@@ -1564,7 +1565,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -1575,7 +1576,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -1586,7 +1587,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         }
