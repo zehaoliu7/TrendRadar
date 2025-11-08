@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T20:15:35.645581+08:00",
-  "total_titles_processed": 1421,
+  "generated_at": "2025-11-08T21:16:51.480477+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -91,11 +91,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时02分 ~ 20时15分]"
+          "appearance_count": 8,
+          "time_info": "[15时02分 ~ 21时16分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -106,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 20时15分]"
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 21时16分]"
         },
         {
           "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
@@ -123,17 +124,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时30分 ~ 15时02分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
-          "url": "https://flash.jin10.com/detail/20251108183318165800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
         },
         {
           "title": "美国总统特朗普：将与匈牙利总理欧尔班讨论贸易、能源和乌克兰问题。",
@@ -188,6 +178,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时30分 ~ 15时02分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
+          "url": "https://flash.jin10.com/detail/20251108183318165800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 21时16分]"
         },
         {
           "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
@@ -327,6 +329,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时30分 ~ 13时02分]"
+        },
+        {
+          "title": "为关键矿产特朗普再向中亚发力，美国能否缓解“稀土困局”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31917706",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时02分 ~ 21时16分]"
+        },
+        {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 21时16分]"
         },
         {
           "title": "美国政府：总统特朗普将于12月10日拍卖大约8000万英亩的墨西哥湾石油与天然气开采权益。",
@@ -472,18 +498,6 @@
           "time_info": "[03时03分 ~ 04时03分]"
         },
         {
-          "title": "为关键矿产特朗普再向中亚发力，美国能否缓解“稀土困局”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31917706",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时02分 ~ 20时15分]"
-        },
-        {
           "title": "特朗普开启矿产外交为何中国不紧反松",
           "url": "https://www.toutiao.com/trending/7570123970922434075/",
           "source": "今日头条",
@@ -504,17 +518,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时39分 ~ 08时40分]"
-        },
-        {
-          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
-          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
         },
         {
           "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
@@ -686,8 +689,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时39分 ~ 20时15分]"
+          "appearance_count": 15,
+          "time_info": "[08时39分 ~ 21时16分]"
         },
         {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -713,8 +716,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时12分 ~ 20时15分]"
+          "appearance_count": 27,
+          "time_info": "[00时12分 ~ 21时16分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -948,11 +951,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 20时15分]"
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 21时16分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
@@ -991,11 +995,12 @@
             9,
             8,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时04分 ~ 20时15分]"
+          "appearance_count": 7,
+          "time_info": "[16时04分 ~ 21时16分]"
         },
         {
           "title": "美国10年期国债收益率短线走低，在美国消费者信心创逾三年新低之际回落至4.0850%下方，完全回吐日内稍早涨幅。 两年期美债收益率跌至3.55%下方；10年期TIPS收益率回落至1.8150%下方，两年期TIPS收益率暂时守住1.02%。 彭博美元指数刷新日低。 标普500指数跌幅收窄至0.54%，纳斯达克综合指数一度下跌1.53%——目前收窄至不到1%。 现货黄金持稳于3990美元上方，日内当前涨幅将近0.4%。 比特币转涨，重返10.1万美元上方。",
@@ -1032,11 +1037,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D1%26lcate%3D5001%26cate%3D5001%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26realpos%3D8%26stream_entry_id%3D31%26c_type%3D31%26pos%3D8%26band_rank%3D8%26dgr%3D0%26display_time%3D1762603394%26pre_seqid%3D17626033948080333906015&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 21时16分]"
         }
       ]
     },
