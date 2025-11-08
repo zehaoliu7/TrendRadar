@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T14:13:53.732574+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2025-11-08T15:02:21.662613+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -43,6 +43,18 @@
           "time_info": "[00时12分 ~ 07时04分]"
         },
         {
+          "title": "死对头要走了，特朗普开心坏了",
+          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 15时02分]"
+        },
+        {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
           "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
           "source": "澎湃新闻",
@@ -57,18 +69,6 @@
           "time_info": "[00时12分 ~ 12时04分]"
         },
         {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 14时13分]"
-        },
-        {
           "title": "特朗普达成减肥药降价计划，“美民众一年将合计减重5600万公斤”",
           "url": "https://m.thepaper.cn/newsDetail_forward_31916480",
           "source": "澎湃新闻",
@@ -76,11 +76,27 @@
             20,
             18,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时39分 ~ 14时13分]"
+          "appearance_count": 7,
+          "time_info": "[08时39分 ~ 15时02分]"
+        },
+        {
+          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
+          "url": "https://flash.jin10.com/detail/20251108105346756800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            12,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时30分 ~ 15时02分]"
         },
         {
           "title": "美国总统特朗普：将与匈牙利总理欧尔班讨论贸易、能源和乌克兰问题。",
@@ -92,20 +108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
-        },
-        {
-          "title": "美最高法院允许特朗普政府暂不全额发放食品援助金",
-          "url": "https://flash.jin10.com/detail/20251108105346756800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时30分 ~ 14时13分]"
         },
         {
           "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
@@ -134,6 +136,21 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时30分 ~ 14时13分]"
+        },
+        {
+          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
+          "url": "https://flash.jin10.com/detail/20251108101917094800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            19,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时30分 ~ 15时02分]"
         },
         {
           "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
@@ -209,20 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时15分]"
-        },
-        {
-          "title": "美国最高法院目前允许特朗普政府扣留数十亿美元的食品援助资金。",
-          "url": "https://flash.jin10.com/detail/20251108101917094800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时30分 ~ 14时13分]"
         },
         {
           "title": "特朗普：美国人正为关税付出代价",
@@ -429,6 +432,17 @@
           "time_info": "[08时39分 ~ 08时40分]"
         },
         {
+          "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
+          "url": "https://wallstreetcn.com/articles/3758942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "美国总统特朗普欢迎匈牙利总理访问白宫。",
           "url": "https://flash.jin10.com/detail/20251108012705456800",
           "source": "金十数据",
@@ -438,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
+          "url": "https://www.cls.cn/detail/2194868",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
         },
         {
           "title": "美国上诉法院批准法官“强迫特朗普政府在关门期间全额发放‘补充营养援助计划’（SNAP）资金”的命令。",
@@ -550,6 +575,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "佩洛西如何与特朗普步步结怨",
+          "url": "https://www.toutiao.com/trending/7570207145937882665/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时02分"
+        },
+        {
           "title": "美国总统特朗普：我们正在讨论有关与俄罗斯总统普京会晤的问题。",
           "url": "https://flash.jin10.com/detail/20251108015002431800",
           "source": "金十数据",
@@ -578,6 +614,19 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时39分 ~ 15时02分]"
+        },
+        {
           "title": "美政府停摆担忧重燃，美股承压下跌，现货黄金涨幅收窄，比特币一度跌破10万美元",
           "url": "https://wallstreetcn.com/articles/3758914",
           "source": "华尔街见闻",
@@ -590,18 +639,6 @@
           "time_info": "[01时02分 ~ 07时04分]"
         },
         {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时39分 ~ 14时13分]"
-        },
-        {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2194710",
           "source": "财联社热门",
@@ -609,11 +646,12 @@
             12,
             13,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时12分 ~ 14时13分]"
+          "appearance_count": 20,
+          "time_info": "[00时12分 ~ 15时02分]"
         },
         {
           "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
@@ -789,6 +827,17 @@
           "time_info": "[10时19分 ~ 13时02分]"
         },
         {
+          "title": "形势危急！伊朗总统：可能从德黑兰撤离",
+          "url": "https://news.ifeng.com/c/8o6zKd55xJa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时13分 ~ 15时02分]"
+        },
+        {
           "title": "以色列方面称挫败了一起针对其驻墨西哥大使的阴谋，并表示该阴谋“由伊朗指使”。",
           "url": "https://flash.jin10.com/detail/20251107233737190800",
           "source": "金十数据",
@@ -799,17 +848,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时02分]"
-        },
-        {
-          "title": "形势危急！伊朗总统：可能从德黑兰撤离",
-          "url": "https://news.ifeng.com/c/8o6zKd55xJa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时13分"
         },
         {
           "title": "伊朗总统：愿在国际法框架内谈判，但不会接受羞辱",
@@ -923,11 +961,12 @@
           "ranks": [
             4,
             9,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时04分 ~ 14时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时04分 ~ 15时02分]"
         }
       ]
     },
