@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T05:04:54.520385+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-11-09T06:03:03.688120+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 06时03分]"
         },
         {
           "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时03分]"
         },
         {
           "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时03分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时03分]"
         },
         {
           "title": "特朗普首席经济顾问：政府关门对经济影响远比预期严重，美Q4 GDP增速恐减半",
@@ -71,11 +71,12 @@
             5,
             8,
             9,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 06时03分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-08）",
@@ -85,8 +86,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 06时03分]"
         },
         {
           "title": "特朗普开始调整“话术”以争取选民",
@@ -116,8 +117,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时03分]"
         },
         {
           "title": "伊朗总统：“美国想让伊朗一直跪着”",
@@ -127,11 +128,12 @@
             2,
             5,
             6,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时03分 ~ 05时04分]"
+          "appearance_count": 7,
+          "time_info": "[00时03分 ~ 06时03分]"
         }
       ]
     },
@@ -148,8 +150,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时03分]"
         }
       ]
     },
@@ -182,8 +184,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时03分]"
         }
       ]
     },
@@ -201,8 +203,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 05时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 06时03分]"
         }
       ]
     }
