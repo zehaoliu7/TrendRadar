@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T15:11:13.792599+08:00",
-  "total_titles_processed": 1346,
+  "generated_at": "2025-11-12T16:03:04.928641+08:00",
+  "total_titles_processed": 1429,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,20 @@
           "time_info": "[00时11分 ~ 07时02分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时25分 ~ 16时03分]"
+        },
+        {
           "title": "换了件“马甲”，他见上特朗普了(图)",
           "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
           "source": "凤凰网",
@@ -53,19 +67,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时11分 ~ 08时43分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时25分 ~ 15时11分]"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -93,8 +94,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时11分 ~ 15时11分]"
+          "appearance_count": 22,
+          "time_info": "[00时11分 ~ 16时03分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -226,6 +227,18 @@
           "time_info": "[04时03分 ~ 05时02分]"
         },
         {
+          "title": "邵永灵：特朗普“打脸”高市早苗",
+          "url": "https://www.toutiao.com/trending/7571706495159520811/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 16时03分]"
+        },
+        {
           "title": "美国总统特朗普谈众议院就结束停摆协议的潜在投票：我认为投票结果会是积极的。",
           "url": "https://wallstreetcn.com/livenews/3002940",
           "source": "华尔街见闻-快讯",
@@ -346,17 +359,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时03分]"
-        },
-        {
-          "title": "邵永灵：特朗普“打脸”高市早苗",
-          "url": "https://www.toutiao.com/trending/7571706495159520811/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时10分 ~ 15时11分]"
         },
         {
           "title": "评论员：明年中期选举特朗普或遇挫",
@@ -718,7 +720,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "谷歌高管贾斯图斯：数据中心不存在德国政府补贴。",
@@ -779,6 +781,17 @@
           "time_info": "14时17分"
         },
         {
+          "title": "道达尔能源公司：道达尔能源将向谷歌的数据中心供应可再生能源电力，为期15年。",
+          "url": "https://flash.jin10.com/detail/20251112153139780800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "谷歌高管贾斯图斯：投资将确保在德国创造9000个就业岗位。",
           "url": "https://flash.jin10.com/detail/20251111232740907800",
           "source": "金十数据",
@@ -826,7 +839,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -839,8 +852,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时11分 ~ 15时11分]"
+          "appearance_count": 22,
+          "time_info": "[00时11分 ~ 16时03分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -854,6 +867,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时43分 ~ 15时11分]"
+        },
+        {
+          "title": "鸿海：将于下周公布与OpenAI合作的具体细节。",
+          "url": "https://wallstreetcn.com/livenews/3003282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -897,7 +921,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
         },
@@ -927,7 +951,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价",
@@ -998,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "澳新银行预计，到2026年年中，黄金价格将达到每盎司约4800美元的峰值。",
+          "url": "https://flash.jin10.com/detail/20251112152305188800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         }
       ]
     },
@@ -1055,7 +1090,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -1063,11 +1098,23 @@
           "source": "微博",
           "ranks": [
             9,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 15时11分]"
+          "appearance_count": 5,
+          "time_info": "[14时17分 ~ 16时03分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时03分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -1084,7 +1131,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -1096,8 +1143,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时43分 ~ 15时11分]"
+          "appearance_count": 11,
+          "time_info": "[08时43分 ~ 16时03分]"
+        },
+        {
+          "title": "机构：10年期美债收益率近期或升至4.50%",
+          "url": "https://flash.jin10.com/detail/20251112153324698800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "美债期货上涨，美元走软，美国就业前景低迷",
