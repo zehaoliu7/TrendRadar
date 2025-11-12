@@ -1,33 +1,23 @@
 {
-  "generated_at": "2025-11-12T07:02:39.024741+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2025-11-12T08:43:50.492825+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
-        {
-          "title": "特朗普宣布美国不再资助乌克兰",
-          "url": "https://www.toutiao.com/trending/7571447279153971246/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 07时02分]"
-        },
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
           "url": "https://wallstreetcn.com/articles/3759093",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 08时43分]"
         },
         {
           "title": "特朗普：美国不再资助乌克兰，将通过北约向乌方收钱",
@@ -45,11 +35,24 @@
           "url": "https://news.ifeng.com/c/8oCDS4GYWAj",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 08时43分]"
+        },
+        {
+          "title": "特朗普宣布美国不再资助乌克兰",
+          "url": "https://www.toutiao.com/trending/7571447279153971246/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 08时43分]"
         },
         {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
@@ -70,11 +73,12 @@
             11,
             12,
             14,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 08时43分]"
         },
         {
           "title": "释新闻｜高管连续辞职、被特朗普索赔：BBC为何陷入数十年来最大危机",
@@ -86,8 +90,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 08时43分]"
         },
         {
           "title": "特朗普威胁起诉BBC 索赔10亿美元",
@@ -110,11 +114,12 @@
             27,
             17,
             16,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时02分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[03时02分 ~ 08时43分]"
         },
         {
           "title": "特朗普回应高市早苗涉台言论",
@@ -124,11 +129,23 @@
             21,
             20,
             19,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时11分 ~ 08时43分]"
+        },
+        {
+          "title": "特朗普：将降低部分咖啡关税。",
+          "url": "https://wallstreetcn.com/livenews/3003047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "“美元微笑理论”提出者：美元在特朗普任期内将再跌超13%",
@@ -288,6 +305,28 @@
           "time_info": "[03时02分 ~ 04时03分]"
         },
         {
+          "title": "特朗普宣称美国不再资助乌克兰",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "据CBS记者：摩根大通CEO戴蒙也受邀参加明晚的特朗普晚宴。",
+          "url": "https://flash.jin10.com/detail/20251112075535490800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "美国加州州长纽森表示，未来的民主党总统将“毫不犹豫”地重新加入《巴黎气候协定》，并抨击特朗普让美国退出该协定的决定。",
           "url": "https://flash.jin10.com/detail/20251112012840941800",
           "source": "金十数据",
@@ -332,6 +371,28 @@
           "time_info": "02时14分"
         },
         {
+          "title": "据CBS记者：消息人士透露，部分金融业高管已获邀参加明晚在白宫举行的特朗普晚宴，纳斯达克首席执行官阿德娜·弗里德曼在列。此次晚宴距特朗普9月4日为科技公司首席执行官们举办的晚宴仅隔数月。周三的晚宴将以私人形式举行。",
+          "url": "https://flash.jin10.com/detail/20251112074930925800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "美国总统特朗普明天将与金融业高管们举行晚宴，纳斯达克CEO、摩根大通CEO等将出席。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "据Politico：特朗普政府宣布消费者金融保护局拨款非法。",
           "url": "https://flash.jin10.com/detail/20251112010827200800",
           "source": "金十数据",
@@ -341,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：尽管面临市长和州长的极端反对与阻挠，伊利诺伊州芝加哥市的汽车盗窃、枪击案、抢劫案、暴力犯罪及其他各类案件均大幅下降。",
+          "url": "https://flash.jin10.com/detail/20251112073543613800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "美国总统特朗普：我们正在重启我们的国家。",
@@ -365,6 +437,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "特朗普夸赞沙拉：他是个硬汉",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E8%B5%9E%E6%B2%99%E6%8B%89%EF%BC%9A%E4%BB%96%E6%98%AF%E4%B8%AA%E7%A1%AC%E6%B1%89",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "据华尔街日报：知情人士透露，房利美监督人员正在调查特朗普任命的联邦住房金融局局长普尔特是否不当获取了包括纽约总检察长在内的关键民主党官员的抵押贷款记录。消息人士称，对普尔特的调查已升级至监察长，并已移交检察官。",
           "url": "https://flash.jin10.com/detail/20251112045606789800",
           "source": "金十数据",
@@ -387,6 +470,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "市场消息：美国最高法院延长了对法官判决的暂停执行期限，原判决要求特朗普政府在联邦政府停摆期间，为4200万美国人提供全额食品援助。",
+          "url": "https://flash.jin10.com/detail/20251112070247139800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "美国加州州长：特朗普的海上钻油计划是“死路一条”",
           "url": "https://wallstreetcn.com/livenews/3002928",
           "source": "华尔街见闻-快讯",
@@ -396,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "特朗普宣布不再资助乌克兰",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%8D%E5%86%8D%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D28%26filter_type%3Drealtimehot%26realpos%3D27%26c_type%3D31%26lcate%3D5001%26band_rank%3D27%26cate%3D5001%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%25AE%25A3%25E5%25B8%2583%25E4%25B8%258D%25E5%2586%258D%25E8%25B5%2584%25E5%258A%25A9%25E4%25B9%258C%25E5%2585%258B%25E5%2585%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26display_time%3D1762908066%26pre_seqid%3D176290806605602615017&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         }
       ]
     },
@@ -414,6 +519,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时02分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时43分]"
         },
         {
           "title": "AMD股价美股盘后涨4.5%。",
@@ -496,17 +613,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
-          "url": "https://www.cls.cn/detail/2197739",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         },
         {
           "title": "美股盘初，行业ETF多数走高，能源业ETF涨0.94%，银行业ETF涨0.47%，可选消费ETF与全球航空业ETF大致持平。 网络股指数ETF跌0.28%，科技行业ETF跌0.62%，半导体ETF跌0.94%",
@@ -631,18 +737,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时11分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时11分 ~ 08时43分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -664,9 +771,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2197744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "AMD(AMD.O)CEO：公司与OpenAI的合作非常谨慎。与OpenAI的交易包含具体的部署计划。",
@@ -675,7 +793,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -697,7 +815,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -748,7 +866,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -789,7 +907,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -800,9 +918,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "美债期货上涨，美元走软，美国就业前景低迷",
+          "url": "https://wallstreetcn.com/livenews/3002855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
         }
       ]
     },
@@ -828,23 +974,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债期货上涨，美元走软，美国就业前景低迷",
-          "url": "https://wallstreetcn.com/livenews/3002855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
