@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T14:17:53.167988+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2025-11-12T15:11:13.792599+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -55,6 +55,19 @@
           "time_info": "[00时11分 ~ 08时43分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时25分 ~ 15时11分]"
+        },
+        {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
           "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
           "source": "凤凰网",
@@ -76,11 +89,12 @@
             13,
             11,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时11分 ~ 14时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时11分 ~ 15时11分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -109,19 +123,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时11分 ~ 07时02分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时25分 ~ 14时17分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -347,6 +348,28 @@
           "time_info": "[03时02分 ~ 04时03分]"
         },
         {
+          "title": "邵永灵：特朗普“打脸”高市早苗",
+          "url": "https://www.toutiao.com/trending/7571706495159520811/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
+          "title": "评论员：明年中期选举特朗普或遇挫",
+          "url": "https://www.toutiao.com/trending/7570679186156077097/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 15时11分]"
+        },
+        {
           "title": "特朗普宣称美国不再资助乌克兰",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E7%A7%B0%E7%BE%8E%E5%9B%BD%E4%B8%8D%E5%86%8D%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0",
           "source": "百度热搜",
@@ -430,7 +453,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -572,8 +595,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 14时17分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 15时11分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -751,7 +774,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -803,7 +826,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
@@ -816,8 +839,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时11分 ~ 14时17分]"
+          "appearance_count": 20,
+          "time_info": "[00时11分 ~ 15时11分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -829,8 +852,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时43分 ~ 14时17分]"
+          "appearance_count": 9,
+          "time_info": "[08时43分 ~ 15时11分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -866,6 +889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "市场消息：三菱日联金融集团与OpenAI达成战略合作。",
+          "url": "https://flash.jin10.com/detail/20251112144050948800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
@@ -1028,11 +1062,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26band_rank%3D9%26lcate%3D5001%26c_type%3D31%26realpos%3D9%26cate%3D5001%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26dgr%3D0%26stream_entry_id%3D31%26pos%3D10%26filter_type%3Drealtimehot%26display_time%3D1762928210%26pre_seqid%3D176292821055702532609&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 15时11分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -1041,7 +1076,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         }
@@ -1061,8 +1096,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时43分 ~ 14时17分]"
+          "appearance_count": 9,
+          "time_info": "[08时43分 ~ 15时11分]"
         },
         {
           "title": "美债期货上涨，美元走软，美国就业前景低迷",
