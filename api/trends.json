@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T20:18:32.095245+08:00",
-  "total_titles_processed": 1808,
+  "generated_at": "2025-11-12T21:27:48.497520+08:00",
+  "total_titles_processed": 1926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "市场“大事件”：特朗普首次明确“关税返还”具体金额，每人2000美元重现“疫情支票”？",
@@ -189,6 +189,20 @@
           "time_info": "19时02分"
         },
         {
+          "title": "特朗普为何拒为高市涉台谬论撑腰",
+          "url": "https://www.toutiao.com/trending/7571742416873459251/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时12分 ~ 21时27分]"
+        },
+        {
           "title": "邵永灵：特朗普“打脸”高市早苗",
           "url": "https://www.toutiao.com/trending/7571706495159520811/",
           "source": "今日头条",
@@ -248,19 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时03分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普为何拒为高市涉台谬论撑腰",
-          "url": "https://www.toutiao.com/trending/7571742416873459251/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时12分 ~ 20时18分]"
         },
         {
           "title": "加州州长：特朗普的西海岸钻油计划是“死路一条”",
@@ -579,7 +580,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时18分"
         },
@@ -637,12 +638,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "英国自由民主党领袖Davey：特朗普正试图摧毁BBC。",
+          "url": "https://wallstreetcn.com/livenews/3003428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -657,6 +669,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[07时02分 ~ 15时11分]"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112211910657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -785,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "高盛预计未来十年美股表现落后其他市场 新兴市场将带来最丰厚回报",
+          "url": "https://wallstreetcn.com/livenews/3003429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     },
@@ -948,6 +982,19 @@
           "time_info": "[00时12分 ~ 01时03分]"
         },
         {
+          "title": "第一批金价下跌卖出的人后悔了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D7%26pos%3D8%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26c_type%3D31%26band_rank%3D7%26stream_entry_id%3D31%26cate%3D5001%26flag%3D1%26display_time%3D1762945127%26pre_seqid%3D176294512761201141890153&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            7,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时27分]"
+        },
+        {
           "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
           "url": "https://www.cls.cn/detail/2197016",
           "source": "财联社热门",
@@ -957,18 +1004,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时11分 ~ 00时12分]"
-        },
-        {
-          "title": "第一批金价下跌卖出的人后悔了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26realpos%3D7%26pos%3D8%26dgr%3D0%26filter_type%3Drealtimehot%26q%3D%2523%25E7%25AC%25AC%25E4%25B8%2580%25E6%2589%25B9%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E5%258D%2596%25E5%2587%25BA%25E7%259A%2584%25E4%25BA%25BA%25E5%2590%258E%25E6%2582%2594%25E4%25BA%2586%2523%26c_type%3D31%26band_rank%3D7%26stream_entry_id%3D31%26cate%3D5001%26flag%3D1%26display_time%3D1762945127%26pre_seqid%3D176294512761201141890153&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时18分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）上海金早盘价为947.47元/克，较国际金价(944.4元/克)，高3.07元/克",
@@ -1153,6 +1188,69 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3759125",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[08时43分 ~ 21时27分]"
+        },
+        {
+          "title": "机构：10年期美债收益率近期或升至4.50%",
+          "url": "https://flash.jin10.com/detail/20251112153324698800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
+          "url": "https://flash.jin10.com/detail/20251112162921044800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
+          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3003444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "美债期货上涨，美元走软，美国就业前景低迷",
+          "url": "https://wallstreetcn.com/livenews/3002855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
       "titles": [
@@ -1203,58 +1301,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3759125",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时43分 ~ 20时18分]"
-        },
-        {
-          "title": "机构：10年期美债收益率近期或升至4.50%",
-          "url": "https://flash.jin10.com/detail/20251112153324698800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
-          "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
-          "url": "https://flash.jin10.com/detail/20251112162921044800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时12分"
-        },
-        {
-          "title": "美债期货上涨，美元走软，美国就业前景低迷",
-          "url": "https://wallstreetcn.com/livenews/3002855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
         }
       ]
     },
@@ -1312,7 +1358,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伊朗革命卫队情报部门称，美国-以色列间谍网络已被瓦解。",
@@ -1336,6 +1382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "欧佩克月报：二手资料显示，伊朗10月原油产量减少6.6万桶/日，至320.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251112210345876800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         }
       ]
     }
