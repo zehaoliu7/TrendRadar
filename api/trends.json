@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T10:29:08.187805+08:00",
-  "total_titles_processed": 912,
+  "generated_at": "2025-11-13T11:42:21.765335+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时10分 ~ 10时29分]"
+          "appearance_count": 15,
+          "time_info": "[01时10分 ~ 11时42分]"
         },
         {
           "title": "特朗普罕见为中国留学生辩护",
@@ -31,8 +31,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 11时42分]"
+        },
+        {
+          "title": "特朗普致信以总统求赦免内塔尼亚胡",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%87%B4%E4%BF%A1%E4%BB%A5%E6%80%BB%E7%BB%9F%E6%B1%82%E8%B5%A6%E5%85%8D%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普希望今晚签署结束政府停摆的法案。",
@@ -55,6 +66,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "特朗普：共和党人从未希望政府停摆，并曾15次投票支持继续拨款。然而，对方政党的极端分子却执意制造美国历史上持续时间最长的政府停摆，他们这样做纯粹是出于政治原因。",
+          "url": "https://flash.jin10.com/detail/20251113112722111800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -154,6 +176,39 @@
           "time_info": "[04时11分 ~ 05时02分]"
         },
         {
+          "title": "特朗普：呼吁直接向民众支付资金以购买医疗保健服务。",
+          "url": "https://flash.jin10.com/detail/20251113112355110800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "特朗普：美国政府不应该再次出现停摆，政府现在将恢复正常运作。",
+          "url": "https://wallstreetcn.com/livenews/3003838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "美国总统特朗普再次呼吁取消参议院冗长辩论规则。",
+          "url": "https://wallstreetcn.com/livenews/3003837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "美国上诉法院暂时阻止了特朗普政府的命令，该命令要求达美航空和墨西哥航空公司于1月1日前终止合资企业。",
           "url": "https://flash.jin10.com/detail/20251113062840962800",
           "source": "金十数据",
@@ -163,6 +218,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普：今天，我们发出一个明确的信息，那就是我们绝不会屈服于“敲诈勒索”。",
+          "url": "https://flash.jin10.com/detail/20251113112217348800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "特朗普签署临时拨款法案，持续43天的美国政府史上最长“停摆”结束。",
+          "url": "https://wallstreetcn.com/livenews/3003836",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "特朗普：政府将恢复正常运作。",
+          "url": "https://flash.jin10.com/detail/20251113112133905800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "特朗普：政府绝不能再次关闭。",
+          "url": "https://flash.jin10.com/detail/20251113112100845800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：我非常尊重美联储主席鲍威尔。 我认同美国总统特朗普关于“利率可以更低”的看法。 如果特朗普提出要求，我会担任下一任美联储主席。",
@@ -176,6 +275,28 @@
           "time_info": "02时14分"
         },
         {
+          "title": "特朗普：我要感谢那8位做了正确事情的参议院民主党人。",
+          "url": "https://flash.jin10.com/detail/20251113112009111800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "特朗普：呼吁终止阻挠议事规则，以免此类事件再次发生。",
+          "url": "https://flash.jin10.com/detail/20251113111854322800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
           "title": "美国总统特朗普：我很高兴宣布提名艾伦·彼得森（Aaron Peterson）担任美国阿拉斯加地区联邦地区法院的法官。",
           "url": "https://flash.jin10.com/detail/20251113015430870800",
           "source": "金十数据",
@@ -185,6 +306,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普：真正计算出损失的总体影响需要数周甚至数月的时间。",
+          "url": "https://flash.jin10.com/detail/20251113111820386800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "特朗普的50年期房贷构想遇冷，房管局长改提“可转移抵押贷款”方案",
@@ -207,6 +339,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普：民主党现在看起来很糟糕。",
+          "url": "https://flash.jin10.com/detail/20251113111707644800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "特朗普：政府停摆造成了1.5万亿美元损失。",
+          "url": "https://flash.jin10.com/detail/20251113111539854800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         },
         {
           "title": "特朗普政府新规：外国人可能被拒签的慢性疾病包括肥胖、高血压、心血管等",
@@ -256,18 +410,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
+          "appearance_count": 4,
+          "time_info": "[10时28分 ~ 11时42分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -292,6 +447,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时11分 ~ 05时02分]"
+        },
+        {
+          "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
+          "url": "https://www.zhihu.com/question/1972154575545955995",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时41分 ~ 11时42分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -397,8 +563,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 10时29分]"
+          "appearance_count": 8,
+          "time_info": "[07时02分 ~ 11时42分]"
         },
         {
           "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
@@ -443,7 +609,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
@@ -460,11 +626,12 @@
           "ranks": [
             19,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 10时29分]"
+          "appearance_count": 16,
+          "time_info": "[00时13分 ~ 11时42分]"
         },
         {
           "title": "【百度首次亮相昆仑芯超节点，单卡性能可提升95%】2025百度世界大会今日举办，在本次大会同步举办的“百度世界展区”内，百度昆仑芯超节点首次公开亮相，集中展示百度“核芯科技”。据百度内部人士透露，今年4月，昆仑芯超节点已在百度百舸5.0中全面启用，目前已实现大规模部署。借助该节点，目前业界最大规模的1万亿参数开源模型可在几分钟内、通过单一云实例完成运行。此外，通过将多张昆仑芯AI加速卡整合为统一的超节点架构，在DeepSeek V3/R1 PD分离推理架构的优化下实现了单卡性能提升95%，单实例推理性能大幅提升高达8倍。（新浪）",
@@ -473,7 +640,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -489,6 +656,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时14分 ~ 04时11分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "渣打银行：2026年第一季度金价存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251113063512644800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
+          "url": "https://wallstreetcn.com/livenews/3003663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "金十图示：2025年11月13日（周四）上海金早盘价为957.96元/克，较国际金价(958.64元/克)，低0.68元/克",
+          "url": "https://flash.jin10.com/detail/20251113110141972800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时42分"
         }
       ]
     },
@@ -531,34 +737,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "渣打银行：2026年第一季度金价存在上行风险。",
-          "url": "https://flash.jin10.com/detail/20251113063512644800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
-          "url": "https://wallstreetcn.com/livenews/3003663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
         }
       ]
     },
