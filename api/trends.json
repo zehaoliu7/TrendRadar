@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T08:45:18.445099+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2025-11-17T10:27:54.711295+08:00",
+  "total_titles_processed": 736,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -66,7 +66,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -101,7 +101,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -110,33 +110,12 @@
           "url": "https://www.toutiao.com/trending/7573470510160399923/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时45分"
-        },
-        {
-          "title": "现货黄金抹去日内逾20美元的涨幅，现报4084.5美元/盎司。特朗普此前透露，可能会与委内瑞拉总统马杜罗进行讨论。",
-          "url": "https://flash.jin10.com/detail/20251117081602441800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时45分"
-        },
-        {
-          "title": "特朗普削减多种农产品关税，美媒：物价上涨已引起选民不满",
-          "url": "https://news.ifeng.com/c/8oKyk6ulAUK",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 10时27分]"
         },
         {
           "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
@@ -145,7 +124,40 @@
           "ranks": [
             12
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 10时27分]"
+        },
+        {
+          "title": "现货黄金抹去日内逾20美元的涨幅，现报4084.5美元/盎司。特朗普此前透露，可能会与委内瑞拉总统马杜罗进行讨论。",
+          "url": "https://flash.jin10.com/detail/20251117081602441800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "特朗普：可能与委内瑞拉总统进行对话",
+          "url": "https://news.ifeng.com/c/8oLf4PqxV5b",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "特朗普削减多种农产品关税，美媒：物价上涨已引起选民不满",
+          "url": "https://news.ifeng.com/c/8oKyk6ulAUK",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -156,7 +168,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -167,7 +179,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         },
@@ -178,7 +190,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         }
@@ -200,8 +212,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 08时45分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 10时27分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -241,7 +253,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         }
@@ -294,7 +306,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
         }
