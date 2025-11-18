@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T07:02:41.676618+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2025-11-18T08:42:41.494094+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 43,
       "titles": [
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3759513",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 08时42分]"
         },
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -60,7 +61,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -71,7 +72,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -227,7 +228,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -238,7 +239,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -254,13 +255,24 @@
           "time_info": "00时13分"
         },
         {
+          "title": "美国总统特朗普：加沙和平委员会将包括来自受尊重国家的领导人。",
+          "url": "https://flash.jin10.com/detail/20251118075206117800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
           "title": "美国总统特朗普考虑将联邦应急管理局（FEMA）总部迁移到得州。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3006089",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -271,7 +283,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -285,6 +297,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美国总统特朗普：咖啡价格有点高，我们会降低它。",
+          "url": "https://flash.jin10.com/detail/20251118075137844800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "美国总统特朗普：我们会让通胀率稍微降低一些，希望通胀率为1%。",
+          "url": "https://flash.jin10.com/detail/20251118075058680800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "美国总统特朗普：我听说麦当劳(MCD.N)正在重新致力于提供价格实惠的选择。",
+          "url": "https://flash.jin10.com/detail/20251118074732873800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
         },
         {
           "title": "美国总统特朗普：我将很自豪能摧毁哥伦比亚制造可卡因的工厂，但并没有说我正在这样做。",
@@ -364,6 +409,28 @@
           "time_info": "05时03分"
         },
         {
+          "title": "白宫官员：若特朗普保留最终决策权，其将签署对俄制裁法案",
+          "url": "https://flash.jin10.com/detail/20251118071300493800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普：麦当劳有美国最好的可口可乐。",
+          "url": "https://wallstreetcn.com/livenews/3006107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
           "title": "美国总统特朗普：我们跟爱泼斯坦案一点关系都没有，这是民主党人干的。",
           "url": "https://flash.jin10.com/detail/20251118041709697800",
           "source": "金十数据",
@@ -384,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "特朗普：我们会让通胀率稍微降低一些；希望通胀率为1%。",
+          "url": "https://wallstreetcn.com/livenews/3006105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
         },
         {
           "title": "美国总统特朗普：预计可能在2026年中期，根据关税收入向美国人发放红利。",
@@ -422,7 +500,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股七巨头收盘播报｜英伟达、苹果、Meta至多收跌将近1.9%",
@@ -461,6 +539,18 @@
           "time_info": "[02时03分 ~ 03时02分]"
         },
         {
+          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
+          "url": "https://www.cls.cn/detail/2203159",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时42分]"
+        },
+        {
           "title": "金十图示：2025年11月17日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251118013112350800",
           "source": "金十数据",
@@ -484,15 +574,26 @@
           "time_info": "04时03分"
         },
         {
-          "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
-          "url": "https://www.cls.cn/detail/2203159",
+          "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
+          "url": "https://www.cls.cn/detail/2202782",
           "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时42分"
+        },
+        {
+          "title": "美股收跌 英伟达及科技股普跌",
+          "url": "https://www.toutiao.com/trending/7572747124203372594/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
         },
         {
           "title": "（美股）加密货币与加密货币关联指数收跌2.72%，报63.59点。 MarketVector数字资产100小盘指数下跌2.93%，暂报19205.59点，最近24小时跌1.92%。 周一（11月17日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌2.87%，报91655.00美元。 CME以太币期货DCR主力合约跌5.69%，报2991美元。 北京时间05:57，现货比特币跌2.62%，报91800美元；以太坊跌3%，报3004.78美元；Solana跌4.86%，狗狗币跌3.26%，XRP跌2.93%。",
@@ -501,7 +602,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -534,7 +635,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -595,11 +696,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时13分 ~ 08时42分]"
         },
         {
           "title": "谷歌：将投资建设两个面向跨印度洋地区的全新连接枢纽。",
@@ -694,7 +796,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -719,6 +821,17 @@
           "time_info": "[05时02分 ~ 07时02分]"
         },
         {
+          "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
           "url": "https://wallstreetcn.com/livenews/3006029",
           "source": "华尔街见闻-快讯",
@@ -740,6 +853,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "美联储降息前景受数据真空影响，国际金价延续跌势",
+          "url": "https://flash.jin10.com/detail/20251118074643279800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时42分"
         }
       ]
     },
