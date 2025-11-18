@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T19:03:01.737695+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2025-11-18T20:18:19.198890+08:00",
+  "total_titles_processed": 1800,
   "failed_sources": [],
   "trends": [
     {
@@ -585,7 +585,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -598,8 +598,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时25分 ~ 19时03分]"
+          "appearance_count": 14,
+          "time_info": "[10时25分 ~ 20时18分]"
         },
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -711,6 +711,18 @@
           "time_info": "[13时02分 ~ 14时15分]"
         },
         {
+          "title": "拼多多美股盘前转跌，此前一度涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3006456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 20时18分]"
+        },
+        {
           "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
           "url": "https://flash.jin10.com/detail/20251118154840821800",
           "source": "金十数据",
@@ -720,17 +732,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
-        },
-        {
-          "title": "拼多多美股盘前转跌，此前一度涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3006456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
         },
         {
           "title": "美股三大股指均跌超1%。",
@@ -753,6 +754,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "拼多多美股盘前跌超4%，此前一度涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3006480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "家得宝第三季度同店销售增长0.2％，预估增长1.36％。 第三季度销售净额413.5亿美元，同比增长2.8%，预估409.7亿美元。 第三季度调整后每股收益3.74美元，上年同期3.78美元，预估3.84美元。 第三季度每股收益3.62美元，上年同期3.67美元。 家得宝预计2026年营收大约增长3％，此前预计大约增长2.8％ 家得宝预计2026营业利益率大约12.6％，此前预计大约13％，市场预估13.3％。 家得宝美股盘前跌近2%。",
+          "url": "https://wallstreetcn.com/livenews/3006479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "美股收跌 英伟达及科技股普跌",
@@ -992,8 +1015,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时42分 ~ 19时03分]"
+          "appearance_count": 15,
+          "time_info": "[08时42分 ~ 20时18分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -1018,6 +1041,20 @@
           "time_info": "[05时02分 ~ 07时02分]"
         },
         {
+          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时12分 ~ 20时18分]"
+        },
+        {
           "title": "金十图示：2025年11月18日（周二）上海金早盘价为921.22元/克，较国际金价(917.98元/克)，高3.24元/克",
           "url": "https://flash.jin10.com/detail/20251118110222619800",
           "source": "金十数据",
@@ -1027,19 +1064,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
-        },
-        {
-          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时12分 ~ 19时03分]"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
