@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T15:02:31.843903+08:00",
-  "total_titles_processed": 1324,
+  "generated_at": "2025-11-18T16:14:15.507741+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
             27,
             15,
             17,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 16时14分]"
         },
         {
           "title": "美国一家上诉法院预计将在周一听取部分家庭的辩论，他们敦促上诉法院恢复超过500起针对泰诺制造商Kenvue（科赴）的索赔诉讼。此前，特朗普政府公开宣传了他们的说法，即这种广泛使用的止痛药与儿童自闭症有关。",
@@ -388,7 +389,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -572,8 +573,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时25分 ~ 16时14分]"
+        },
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
           "url": "https://www.cls.cn/detail/2203159",
@@ -584,20 +597,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时02分 ~ 15时02分]"
-        },
-        {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时25分 ~ 15时02分]"
+          "appearance_count": 11,
+          "time_info": "[07时02分 ~ 16时14分]"
         },
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -608,8 +609,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时25分 ~ 15时02分]"
+          "appearance_count": 9,
+          "time_info": "[10时25分 ~ 16时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达、苹果、Meta至多收跌将近1.9%",
@@ -682,6 +683,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 14时15分]"
+        },
+        {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "美股三大股指均跌超1%。",
@@ -942,8 +954,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时42分 ~ 15时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时42分 ~ 16时14分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -1066,11 +1078,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时39分 ~ 16时14分]"
         },
         {
           "title": "美债收复上周部分失地 市场押注数据恢复将提振降息预期",
