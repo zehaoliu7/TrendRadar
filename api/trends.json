@@ -1,11 +1,261 @@
 {
-  "generated_at": "2025-11-20T01:10:39.979829+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2025-11-20T02:14:51.017551+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "美国总统特朗普：在拜登执政期间，新创造的每四个职位中就有一个是联邦政府的职位，这表明政府规模扩张令人担忧。",
+          "url": "https://flash.jin10.com/detail/20251120014205241800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：股市上扬正在提振美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3007361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：核心通胀自上任以来已降至2.7%以下，沃尔玛最近宣布其标准感恩节大餐的价格相比去年下调了25%。",
+          "url": "https://flash.jin10.com/detail/20251120014149788800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：我对与外部合作伙伴进行大规模芯片制造的潜力表示怀疑，我们将占据40-50%的计算机芯片市场。",
+          "url": "https://flash.jin10.com/detail/20251120014133722800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普谈及前段时间突击检查现代汽车（并强行遣返相关人员）事件，称：我们解决了这个问题。",
+          "url": "https://wallstreetcn.com/livenews/3007359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
+          "url": "https://wallstreetcn.com/articles/3759659",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
+        },
+        {
+          "title": "马斯克出席特朗普与沙特王储晚宴",
+          "url": "https://www.toutiao.com/trending/7573762239518228521/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
+        },
+        {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 01时10分]"
+        },
+        {
+          "title": "美国总统特朗普：自当选以来，股市在九个月内达到了46次创纪录的高点，以前所未有的方式提振了美国人和经济，工人工资以60年来最高的速度上升。",
+          "url": "https://flash.jin10.com/detail/20251120014112215800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：我认为建设我们国家的正确方式是通过私营部门，而不是通过增加联邦就业。",
+          "url": "https://flash.jin10.com/detail/20251120014042235800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普赞赏（飞机发动机制造商）GE Aerospace。",
+          "url": "https://wallstreetcn.com/livenews/3007354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普谈及前段时间突击检查现代汽车（并强行遣返相关人员）事件，称：我们解决了这个问题。",
+          "url": "https://flash.jin10.com/detail/20251120013800979800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：股市增长正在提振美国经济，股市涨幅令人惊叹。",
+          "url": "https://flash.jin10.com/detail/20251120013615194800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "特朗普的经济顾问哈塞特：我们失去了对美国通胀的控制",
+          "url": "https://wallstreetcn.com/livenews/3007297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "美国总统特朗普告诉英伟达CEO黄仁勋：你完成了不错的工作。",
+          "url": "https://wallstreetcn.com/livenews/3007351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：我曾考虑过让财长贝森特进入美联储，但他不愿意。",
+          "url": "https://wallstreetcn.com/livenews/3007346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：（美国与沙特之间）数十家公司今天签署2700亿美元协议和销售（合同）。",
+          "url": "https://wallstreetcn.com/livenews/3007345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。 未来的数据修正可能会表明生产力更加强劲。 美国85%的经济正经历“大幅的”生产力转变。 生产力繁荣是“空前绝后”的。 失业率“略微高于”均衡水平。",
+          "url": "https://wallstreetcn.com/livenews/3007285",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "美国总统特朗普：对于美国而言，沙特是北约之外一个非常强大的盟友。",
+          "url": "https://wallstreetcn.com/livenews/3007342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普：黄仁勋做的非常出色，波音(BA.N)公司也做得很好。",
+          "url": "https://flash.jin10.com/detail/20251120012803828800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "C罗马斯克现身白宫 出席特朗普晚宴",
+          "url": "https://www.baidu.com/s?wd=C%E7%BD%97%E9%A9%AC%E6%96%AF%E5%85%8B%E7%8E%B0%E8%BA%AB%E7%99%BD%E5%AE%AB+%E5%87%BA%E5%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E6%99%9A%E5%AE%B4",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -15,8 +265,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -25,9 +275,33 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
+        },
+        {
+          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
+          "url": "https://wallstreetcn.com/articles/3759700",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
         },
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -41,39 +315,27 @@
           "time_info": "00时13分"
         },
         {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
-        },
-        {
-          "title": "英伟达财报前夕，美股集体上涨，谷歌新高，日本股债汇三杀，现货黄金逼近4120美元",
-          "url": "https://wallstreetcn.com/articles/3759700",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
-        },
-        {
           "title": "Gemini3有哪些新功能",
           "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8A%9F%E8%83%BD",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 02时14分]"
+        },
+        {
+          "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
+          "url": "https://wallstreetcn.com/articles/3759713",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "02时14分"
         },
         {
           "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
@@ -85,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "谷歌公司：与迈凯伦车队（McLaren Formulate 1）扩大合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3007341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "谷歌A涨约6%创历史新高，纳指涨超1%，半导体指数涨超2%",
@@ -100,93 +373,20 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
-          "url": "https://wallstreetcn.com/articles/3759659",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
-        },
-        {
-          "title": "马斯克出席特朗普与沙特王储晚宴",
-          "url": "https://www.toutiao.com/trending/7573762239518228521/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
-        },
-        {
-          "title": "特朗普的经济顾问哈塞特：我们失去了对美国通胀的控制",
-          "url": "https://wallstreetcn.com/livenews/3007297",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        },
-        {
-          "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。 未来的数据修正可能会表明生产力更加强劲。 美国85%的经济正经历“大幅的”生产力转变。 生产力繁荣是“空前绝后”的。 失业率“略微高于”均衡水平。",
-          "url": "https://wallstreetcn.com/livenews/3007285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
           "url": "https://wallstreetcn.com/livenews/3007331",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 02时14分]"
         },
         {
           "title": "美股三大期指小幅走高 市场紧盯英伟达盘后业绩 | 今夜看点",
@@ -197,8 +397,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
@@ -207,9 +407,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251120013118860800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "金十图示：2025年11月19日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251120013100112800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "行业ETF美股盘初多数走高，全球航空业ETF涨1.32%，区域银行ETF涨0.61%，银行业ETF涨0.54%，半导体ETF涨0.39%，网络股指数ETF则跌0.15%，能源业ETF跌1.88%。",
@@ -265,6 +487,45 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗外交部：伊朗伊斯兰共和国外交部长与巴西外交部长通话 。",
+          "url": "https://flash.jin10.com/detail/20251120013913508800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "伊朗外长：伊朗绝不接受“零浓缩铀”",
+          "url": "https://wallstreetcn.com/livenews/3007353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "伊朗外长：伊朗绝不接受“零浓缩铀”",
+          "url": "https://flash.jin10.com/detail/20251120012614116800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -286,7 +547,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         }
@@ -305,8 +566,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "卖空者浑水创始人Carson Block：现在喜欢做多股票。 看涨加拿大初级金矿公司Snowline Gold Corp.（SGD）。 相比黄金价格，该公司参与的潜在项目的价值被低估了。",
+          "url": "https://wallstreetcn.com/livenews/3007340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         }
       ]
     }
