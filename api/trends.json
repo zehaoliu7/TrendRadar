@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T04:02:43.100050+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2025-11-21T05:09:57.044446+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
-          "url": "https://flash.jin10.com/detail/20251121034506288800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望处决国会山成员。",
@@ -63,6 +52,18 @@
           "time_info": "02时14分"
         },
         {
+          "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
+          "url": "https://flash.jin10.com/detail/20251121034506288800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时09分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对继续打击毒贩“非常有兴趣”。",
           "url": "https://wallstreetcn.com/livenews/3008133",
           "source": "华尔街见闻-快讯",
@@ -73,6 +74,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时02分]"
+        },
+        {
+          "title": "特朗普重提：我对普京挺失望",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%EF%BC%9A%E6%88%91%E5%AF%B9%E6%99%AE%E4%BA%AC%E6%8C%BA%E5%A4%B1%E6%9C%9B",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时12分 ~ 05时09分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案 将与特朗普通话磋商",
@@ -87,16 +100,28 @@
           "time_info": "[02时14分 ~ 03时03分]"
         },
         {
-          "title": "特朗普重提：我对普京挺失望",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E6%8F%90%EF%BC%9A%E6%88%91%E5%AF%B9%E6%99%AE%E4%BA%AC%E6%8C%BA%E5%A4%B1%E6%9C%9B",
-          "source": "百度热搜",
+          "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
+          "url": "https://wallstreetcn.com/livenews/3008137",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28,
-            22
+            16,
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "time_info": "[04时02分 ~ 05时09分]"
+        },
+        {
+          "title": "特朗普“化缘”21万亿美元意味着啥",
+          "url": "https://www.toutiao.com/trending/7574747368273219114/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时09分]"
         },
         {
           "title": "美国白宫：特朗普经常与马克龙交谈。",
@@ -105,7 +130,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -127,18 +152,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "美国参议院一个委员会举行程序性投票，支持总统特朗普提名的商品期货交易委员会（CFTC）主席Selig。",
-          "url": "https://wallstreetcn.com/livenews/3008137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -149,7 +163,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -160,7 +174,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -182,7 +196,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -193,7 +207,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -218,17 +232,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
-        },
-        {
-          "title": "特朗普“化缘”21万亿美元意味着啥",
-          "url": "https://www.toutiao.com/trending/7574747368273219114/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
         },
         {
           "title": "民主党籍联邦通信委员会（FCC）委员Anna Gomez表示，特朗普总统威胁吊销ABC广播执照的做法在法庭上将不会成功。",
@@ -256,7 +259,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -268,8 +271,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时09分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20251121043853690800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "美股尾盘，标普500指数跌1.3%，道指跌0.65%，纳指跌443点跌幅2%，纳斯达克100指数跌526点跌幅2.14%，半导体指数跌2.59%。",
+          "url": "https://wallstreetcn.com/livenews/3008168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览（美股盘中）",
@@ -287,11 +312,12 @@
           "url": "https://flash.jin10.com/detail/20251121032845526800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时09分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股盘中）",
@@ -303,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "周四（11月20日）纽约尾盘，ICE美元指数跌0.03%，报100.193点，日内交投区间为100.360-100.028点，北京时间21:30发布美国就业数据时刷新日高，随后快速转跌，并在美股盘初刷新日低。 彭博美元指数涨0.09%，报1226.52点，日内交投区间为1223.76-1227.11点。",
+          "url": "https://wallstreetcn.com/livenews/3008162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "美股高开低走动能迅速消退 降息疑虑与避险情绪笼罩市场",
@@ -385,7 +422,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -395,8 +432,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时12分 ~ 05时09分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -406,8 +443,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 05时09分]"
         },
         {
           "title": "Gemini3",
@@ -416,11 +453,23 @@
           "ranks": [
             28,
             4,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[02时14分 ~ 05时09分]"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
+          "url": "https://wallstreetcn.com/livenews/3008167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
         },
         {
           "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
@@ -479,6 +528,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "谷歌突破苹果生态壁垒 新款手机可实现跨生态文件共享",
+          "url": "https://flash.jin10.com/detail/20251121034642254800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
           "title": "谷歌：从Pixel 10系列开始，Quick Share已实现与Air Drop的互操作性。",
           "url": "https://flash.jin10.com/detail/20251121010137294800",
           "source": "金十数据",
@@ -493,8 +553,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美国财政部：加强对支持伊朗军队的石油网络的制裁。",
+          "url": "https://flash.jin10.com/detail/20251121043834811800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
         {
           "title": "伊朗伊斯兰革命卫队：冲突会随时爆发 已提高战备水平",
           "url": "https://flash.jin10.com/detail/20251121004522969800",
@@ -511,22 +582,24 @@
           "url": "https://flash.jin10.com/detail/20251121033022510800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时09分]"
         },
         {
           "title": "伊朗外长：与国际原子能机构签署的开罗协议正式终止",
           "url": "https://wallstreetcn.com/livenews/3008149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时09分]"
         },
         {
           "title": "俄罗斯外交部：11月20日，俄罗斯外交部长拉夫罗夫与伊朗伊斯兰共和国外交部长阿拉格奇进行了电话交谈。谈话的重点是地区安全。",
@@ -565,9 +638,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时09分]"
         }
       ]
     },
