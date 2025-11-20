@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T08:42:14.742577+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2025-11-20T10:24:24.181045+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -193,8 +193,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 10时24分]"
+        },
+        {
+          "title": "特朗普政府宣布拆解教育部计划",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 10时24分]"
         },
         {
           "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
@@ -255,17 +267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时02分]"
-        },
-        {
-          "title": "特朗普政府宣布拆解教育部计划",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E6%8B%86%E8%A7%A3%E6%95%99%E8%82%B2%E9%83%A8%E8%AE%A1%E5%88%92",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
         },
         {
           "title": "美国总统特朗普：自当选以来，股市在九个月内达到了46次创纪录的高点，以前所未有的方式提振了美国人和经济，工人工资以60年来最高的速度上升。",
@@ -356,6 +357,28 @@
           "time_info": "02时14分"
         },
         {
+          "title": "据美国能源部一位官员透露，美国总统特朗普计划周一在白宫签署的一项行政命令中，推出一项“创世使命”，以加强美国的人工智能发展。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3007558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
+          "title": "特朗普将于11月21日会见纽约候任市长马姆达尼。",
+          "url": "https://wallstreetcn.com/livenews/3007555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "美国总统特朗普：我曾考虑过让财长贝森特进入美联储，但他不愿意。",
           "url": "https://wallstreetcn.com/livenews/3007346",
           "source": "华尔街见闻-快讯",
@@ -406,9 +429,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：（美国总统特朗普挑起的）关税对美国通胀的最终影响还有待观察。 未来的数据修正可能会表明生产力更加强劲。 美国85%的经济正经历“大幅的”生产力转变。 生产力繁荣是“空前绝后”的。 失业率“略微高于”均衡水平。",
@@ -455,15 +489,37 @@
           "time_info": "03时02分"
         },
         {
+          "title": "共和党内斗加剧 特朗普签署爱泼斯坦文件公开法案",
+          "url": "https://flash.jin10.com/detail/20251120094512620800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "特朗普考虑最早周五签署有关AI的行政令。（The Verge）",
           "url": "https://wallstreetcn.com/livenews/3007479",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "特朗普称，他已经签署了公布爱泼斯坦文件的法案。",
+          "url": "https://wallstreetcn.com/livenews/3007541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
         },
         {
           "title": "美国总统特朗普：我们将开始着手处理苏丹问题。",
@@ -548,8 +604,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 08时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 10时24分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -560,19 +616,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 08时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 10时24分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 10时24分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.34%，报296.82点。 纽约证交所ARCA金矿开采商指数收涨1.36%，报2151.78点，北京时间22:30美股开盘前持稳于2135点附近——一直维持微幅上涨状态，随扈跳空走高，22:37刷新日高至2193.46点，之后快速回吐这一波涨幅。",
@@ -756,7 +813,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -796,8 +853,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 08时42分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 10时24分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -810,8 +867,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时10分 ~ 08时42分]"
+          "appearance_count": 12,
+          "time_info": "[01时10分 ~ 10时24分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -820,11 +877,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时14分 ~ 08时42分]"
+          "appearance_count": 11,
+          "time_info": "[02时14分 ~ 10时24分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -893,6 +951,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        },
+        {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
           "url": "https://flash.jin10.com/detail/20251120050112244800",
           "source": "金十数据",
@@ -953,7 +1022,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
         },
