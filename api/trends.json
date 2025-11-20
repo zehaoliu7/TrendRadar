@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T19:03:10.464565+08:00",
-  "total_titles_processed": 1656,
+  "generated_at": "2025-11-20T20:18:15.208184+08:00",
+  "total_titles_processed": 1758,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时12分 ~ 19时03分]"
+          "appearance_count": 13,
+          "time_info": "[12时12分 ~ 20时18分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -181,7 +182,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -539,7 +540,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -550,7 +551,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -712,7 +713,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -774,8 +775,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时13分 ~ 19时03分]"
+          "appearance_count": 28,
+          "time_info": "[00时13分 ~ 20时18分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -827,6 +828,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 20时18分]"
         },
         {
           "title": "土耳其副总统：谷歌将在土耳其投资20亿美元建设数据中心。",
@@ -977,8 +989,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时41分 ~ 19时03分]"
+          "appearance_count": 18,
+          "time_info": "[08时41分 ~ 20时18分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -1302,6 +1314,17 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
+          "url": "https://wallstreetcn.com/articles/3759753",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 20时18分]"
+        },
+        {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
           "url": "https://wallstreetcn.com/articles/3759753",
           "source": "华尔街见闻",
@@ -1313,17 +1336,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时02分 ~ 17时11分]"
-        },
-        {
-          "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价跌破4100美元",
-          "url": "https://wallstreetcn.com/articles/3759753",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，纳指100期货涨1.9%，日经225涨超3%，比特币反弹至9.2万美元，金价冲高回落跌破4100美元",
@@ -1365,7 +1377,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -1384,7 +1396,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数涨穿100关口，为11月6日以来首次，日内当前涨超0.4%。",
@@ -1433,6 +1445,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "瑞银全球财富管理2026年展望：瑞银预计标普500指数年底目标为7,700点。 瑞银将欧洲股市评级上调至“有吸引力”。 瑞银预计英国富时100指数年底目标为10,000点。 瑞银更看好欧元和澳元，相较于美元。",
+          "url": "https://wallstreetcn.com/livenews/3007917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
           "title": "美元指数DXY站上100，为11月6日以来首次，日内涨0.41%。",
           "url": "https://flash.jin10.com/detail/20251119234342491800",
           "source": "金十数据",
@@ -1447,7 +1470,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗外长：伊朗绝不接受“零浓缩铀”",
@@ -1468,7 +1491,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -1479,7 +1502,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -1493,6 +1516,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "伊朗驻国际原子能机构大使称理事会决议为“政治化且无建设性”。",
+          "url": "https://flash.jin10.com/detail/20251120194948687800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "伊朗外长：伊朗绝不接受“零浓缩铀”",
