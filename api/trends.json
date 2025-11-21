@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T02:14:40.933879+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-11-22T03:02:29.056305+08:00",
+  "total_titles_processed": 490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
@@ -65,8 +65,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时02分]"
         },
         {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
@@ -103,6 +103,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时02分]"
+        },
+        {
+          "title": "德国政府发言人：美国总统特朗普与德国总理默茨于周五晚间就美国的乌克兰和平计划进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20251122023534438800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "美国总统特朗普：下周四是乌克兰接受美国支持的和平方案的合适期限。",
@@ -144,7 +155,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -160,13 +171,24 @@
           "time_info": "00时12分"
         },
         {
+          "title": "美联储12月降息投票陷“僵局” 被特朗普施压的库克或成关键一票",
+          "url": "https://flash.jin10.com/detail/20251122021918507800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
           "title": "特朗普社媒帖子引发连锁威胁 民主党议员要求警察调查总统",
           "url": "https://flash.jin10.com/detail/20251122012739675800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -213,6 +235,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "特朗普关税政策为何“急转弯”",
+          "url": "https://www.toutiao.com/trending/7575149035590258239/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
@@ -228,8 +261,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时02分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -239,8 +272,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时02分]"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时02分]"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
@@ -268,17 +312,6 @@
           "time_info": "[01时02分 ~ 02时14分]"
         },
         {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时14分]"
-        },
-        {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
           "url": "https://www.cls.cn/detail/2207754",
           "source": "财联社热门",
@@ -287,8 +320,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时02分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
@@ -298,8 +331,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时02分]"
         },
         {
           "title": "高盛合伙人：美股出现多头缴械迹象，市场似乎正进入AI周期的新阶段",
@@ -320,7 +353,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -331,7 +364,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -353,7 +386,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -372,18 +405,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
           "url": "https://flash.jin10.com/detail/20251122020035429800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时14分 ~ 03时02分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -392,7 +426,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
         },
@@ -403,9 +437,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "谷歌推出BigQuery AI",
+          "url": "https://wallstreetcn.com/livenews/3008826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         }
       ]
     },
@@ -421,8 +466,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时02分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -432,8 +477,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时12分 ~ 02时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时12分 ~ 03时02分]"
         }
       ]
     }
