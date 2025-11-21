@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T04:03:01.537121+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2025-11-22T05:03:06.131223+08:00",
+  "total_titles_processed": 555,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -17,19 +17,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
-          "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
-          "url": "https://flash.jin10.com/detail/20251122032426694800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：与Mamdani（马姆达尼，纽约市长当选人）的会谈非常有成效。 我们谈到了（纽约市/全美的）住房问题和住房建设。 纽约市有望迎来一位非常棒的市长。",
+          "url": "https://wallstreetcn.com/livenews/3008890",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时03分"
+          "time_info": "05时03分"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
@@ -68,6 +68,18 @@
           "time_info": "[00时12分 ~ 01时02分]"
         },
         {
+          "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
+          "url": "https://flash.jin10.com/detail/20251122032426694800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 05时03分]"
+        },
+        {
           "title": "美国总统特朗普：如果事情进展顺利，倾向于延长截止日期。",
           "url": "https://flash.jin10.com/detail/20251121234229867800",
           "source": "金十数据",
@@ -85,11 +97,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时03分]"
         },
         {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
@@ -138,6 +151,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时03分]"
+        },
+        {
+          "title": "白宫回应特朗普称女记者为“小猪”",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%A5%B3%E8%AE%B0%E8%80%85%E4%B8%BA%E2%80%9C%E5%B0%8F%E7%8C%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 05时03分]"
+        },
+        {
+          "title": "美国白宫：特朗普总统签署公告，为某些固定污染源提供“监管减免”，以促进美国焦炉加工的安全性。",
+          "url": "https://flash.jin10.com/detail/20251122035727750800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "美国总统特朗普：下周四是乌克兰接受美国支持的和平方案的合适期限。",
@@ -193,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "特朗普批准炼焦炉监管豁免，以支持钢铁产业",
+          "url": "https://wallstreetcn.com/livenews/3008879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "特朗普社媒帖子引发连锁威胁 民主党议员要求警察调查总统",
@@ -274,8 +320,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -285,8 +331,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -296,8 +342,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -308,8 +354,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
@@ -319,8 +365,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
@@ -364,11 +410,12 @@
           "url": "https://wallstreetcn.com/livenews/3008862",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时03分 ~ 05时03分]"
         },
         {
           "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览（美股盘中）",
@@ -429,7 +476,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -453,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
+          "url": "https://wallstreetcn.com/livenews/3008876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         },
         {
           "title": "谷歌：我们推出BigQuery AI。",
@@ -490,8 +548,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时03分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -501,8 +559,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 04时03分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数本周涨0.9%",
+          "url": "https://wallstreetcn.com/livenews/3008883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时03分"
         }
       ]
     }
