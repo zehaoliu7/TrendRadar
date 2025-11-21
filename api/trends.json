@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T06:09:31.158120+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2025-11-22T07:02:33.694957+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时03分 ~ 06时09分]"
+          "appearance_count": 4,
+          "time_info": "[04时03分 ~ 07时02分]"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
@@ -42,6 +42,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "德国政府发言人：美国总统特朗普与德国总理默茨于周五晚间就美国的乌克兰和平计划进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20251122023534438800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 07时02分]"
         },
         {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
@@ -93,19 +106,6 @@
           "time_info": "[00时12分 ~ 01时02分]"
         },
         {
-          "title": "德国政府发言人：美国总统特朗普与德国总理默茨于周五晚间就美国的乌克兰和平计划进行了电话交谈。",
-          "url": "https://flash.jin10.com/detail/20251122023534438800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 06时09分]"
-        },
-        {
           "title": "美国白宫：特朗普总统签署公告，为某些固定污染源提供“监管减免”，以促进美国焦炉加工的安全性。",
           "url": "https://flash.jin10.com/detail/20251122035727750800",
           "source": "金十数据",
@@ -113,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时09分]"
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 07时02分]"
         },
         {
           "title": "美国总统特朗普：我并没有向民主党议员发出“死亡/死刑威胁”。",
@@ -127,6 +127,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 01时02分]"
+        },
+        {
+          "title": "美国总统特朗普：需要与总部位于纽约的公用事业公司康爱迪生公司(Con Edison)会谈，以降低电价。",
+          "url": "https://wallstreetcn.com/livenews/3008908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时09分 ~ 07时02分]"
         },
         {
           "title": "美国总统特朗普：伊朗希望（围绕其核问题）达成一份协议，我们可能会这样做。",
@@ -198,17 +210,6 @@
           "time_info": "00时12分"
         },
         {
-          "title": "美国总统特朗普：需要与总部位于纽约的公用事业公司康爱迪生公司(Con Edison)会谈，以降低电价。",
-          "url": "https://wallstreetcn.com/livenews/3008908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
           "title": "美国总统特朗普：不会取消对俄石油制裁。",
           "url": "https://flash.jin10.com/detail/20251121233951186800",
           "source": "金十数据",
@@ -270,7 +271,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -281,7 +282,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -292,7 +293,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
@@ -355,7 +356,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
@@ -365,8 +366,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -376,8 +377,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
@@ -387,8 +388,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -399,8 +400,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "美股为何高台跳水？华尔街分析师：五大力量共同作用",
@@ -411,8 +412,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "美股半导体ETF跌约3.9%，英伟达大跌4.2%",
@@ -462,6 +463,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 05时03分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
+          "url": "https://wallstreetcn.com/livenews/3008920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
+          "url": "https://www.cls.cn/detail/2207916",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "金十图示：2025年11月21日（周五）美股热门股票行情一览（美股盘中）",
@@ -584,7 +607,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美联储高官安抚市场，美股指数集体高开，美债走高，礼来市值破万亿美元，比特币短线反弹3000美元，金银跌幅收窄",
@@ -594,8 +617,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "美股上演四月关税风暴来最大盘中逆转，英伟达跌超3%，美债走强，比特币七个月新低",
@@ -605,8 +628,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时12分 ~ 06时09分]"
+          "appearance_count": 10,
+          "time_info": "[00时12分 ~ 07时02分]"
+        },
+        {
+          "title": "两年期美债收益率周五跌超2.5个基点，本周累跌超9.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3008925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
