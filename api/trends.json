@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-23T22:02:31.398161+08:00",
-  "total_titles_processed": 1208,
+  "generated_at": "2025-11-23T23:02:29.053567+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普下最后通牒：27日是乌克兰接受美国“28点计划”的最后期限",
@@ -21,6 +21,26 @@
           "time_info": "[00时02分 ~ 08时49分]"
         },
         {
+          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            15,
+            14,
+            13,
+            11,
+            12,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[10时51分 ~ 23时02分]"
+        },
+        {
           "title": "特朗普紧逼，泽连斯基艰难抉择：放弃尊严还是失去美国？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32020985",
           "source": "澎湃新闻",
@@ -34,25 +54,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时02分 ~ 12时24分]"
-        },
-        {
-          "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32017617",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            15,
-            14,
-            13,
-            11,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时51分 ~ 22时02分]"
         },
         {
           "title": "特朗普政府在法院裁决前准备关税备用方案。（彭博）",
@@ -156,8 +157,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时09分 ~ 22时02分]"
+          "appearance_count": 9,
+          "time_info": "[17时09分 ~ 23时02分]"
         },
         {
           "title": "特朗普：若泽连斯基不同意，可以继续拼死抵抗",
@@ -167,8 +168,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时09分 ~ 22时02分]"
+          "appearance_count": 9,
+          "time_info": "[17时09分 ~ 23时02分]"
         },
         {
           "title": "特朗普暗示“28点”计划方案有调整空间",
@@ -231,15 +232,39 @@
           "time_info": "[19时01分 ~ 22时02分]"
         },
         {
-          "title": "加拿大总理卡尼在二十国集团（G20）峰会期间表示：在美国缺席的情况下，这个世界仍然能在许多问题上取得进展。 尽管美国总统特朗普政府进行了抵制，但二十国集团领导人约翰内斯堡会议上达成的共识仍然具有分量。 宣布在与阿联酋总统谢赫·穆罕默德·本·扎耶德会晤后，阿拉伯联合酋长国承诺向加拿大投资700亿加元。 我不会让自己的议程受特朗普摆布，当重要时刻到来、当美国希望就贸易方面进行讨论时，我会再次与总统对话。",
-          "url": "https://wallstreetcn.com/livenews/3009111",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
+          "url": "https://flash.jin10.com/detail/20251123222329110800",
+          "source": "金十数据",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "23时02分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
+          "url": "https://flash.jin10.com/detail/20251123221720269800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "德国总理默茨：我不确定未来几天我们能否找到美国总统特朗普所期望的解决方案。",
+          "url": "https://flash.jin10.com/detail/20251123204843492800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时02分]"
         },
         {
           "title": "美国上诉法院驳回特朗普政府扩大快速驱逐移民的请求。",
@@ -253,18 +278,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时49分 ~ 11时52分]"
-        },
-        {
-          "title": "德国总理默茨：我不确定未来几天我们能否找到美国总统特朗普所期望的解决方案。",
-          "url": "https://flash.jin10.com/detail/20251123204843492800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时16分 ~ 22时02分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-23）",
@@ -284,11 +297,24 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时16分 ~ 23时02分]"
+        },
+        {
+          "title": "加拿大总理卡尼在二十国集团（G20）峰会期间表示：在美国缺席的情况下，这个世界仍然能在许多问题上取得进展。 尽管美国总统特朗普政府进行了抵制，但二十国集团领导人约翰内斯堡会议上达成的共识仍然具有分量。 宣布在与阿联酋总统谢赫·穆罕默德·本·扎耶德会晤后，阿拉伯联合酋长国承诺向加拿大投资700亿加元。 我不会让自己的议程受特朗普摆布，当重要时刻到来、当美国希望就贸易方面进行讨论时，我会再次与总统对话。",
+          "url": "https://wallstreetcn.com/livenews/3009111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时16分 ~ 22时02分]"
+          "time_info": "[22时02分 ~ 23时02分]"
         },
         {
           "title": "特朗普下“最后通牒”：27日是乌接受美和平计划最后期限，普京：已收到美提出的计划，俄方愿谈判",
@@ -345,6 +371,72 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时14分 ~ 20时15分]"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰“领导层”对我们的努力毫无感激之情，而欧洲却继续从俄罗斯购买石油。",
+          "url": "https://wallstreetcn.com/livenews/3009128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
+          "url": "https://flash.jin10.com/detail/20251123221310746800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3009125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "特朗普向乌克兰下最后通牒",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E4%B8%8B%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "芬兰总统斯图布：美国总统特朗普正在非常努力地寻求解决俄乌冲突的方案。",
+          "url": "https://flash.jin10.com/detail/20251123214049380800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "特朗普“28点和平计划”背后",
+          "url": "https://www.toutiao.com/trending/7575909628328807990/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
@@ -426,11 +518,12 @@
             23,
             10,
             16,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时02分 ~ 22时02分]"
+          "appearance_count": 8,
+          "time_info": "[18时02分 ~ 23时02分]"
         }
       ]
     },
