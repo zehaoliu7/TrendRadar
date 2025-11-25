@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-11-26T06:02:48.641075+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2025-11-26T07:02:56.946658+08:00",
+  "total_titles_processed": 651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
           "url": "https://m.thepaper.cn/newsDetail_forward_32037044",
           "source": "澎湃新闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "与特朗普通话是否谈及涉台言论？高市早苗：不便透露",
@@ -25,11 +26,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
@@ -39,8 +41,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -51,8 +53,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "特朗普主动和高市通话所为何事",
@@ -78,6 +80,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
@@ -312,6 +325,17 @@
           "time_info": "[01时12分 ~ 02时15分]"
         },
         {
+          "title": "美国白宫：美国总统特朗普不考虑直接延长两年补贴，将在近期提出医改政策改进建议。",
+          "url": "https://flash.jin10.com/detail/20251126061216297800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
           "title": "外媒：泽连斯基希望在感恩节期间与特朗普会面 敲定和平协议",
           "url": "https://flash.jin10.com/detail/20251126002358851800",
           "source": "金十数据",
@@ -354,6 +378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普：俄乌和平协议已“非常接近达成”",
+          "url": "https://www.cls.cn/detail/2210903",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "特朗普：我们从华盛顿特区撤离了1700人。",
@@ -403,42 +438,33 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2210782",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时02分]"
-        },
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
           "url": "https://wallstreetcn.com/articles/3760086",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时11分 ~ 06时02分]"
+          "appearance_count": 10,
+          "time_info": "[01时11分 ~ 07时02分]"
         },
         {
-          "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
-          "url": "https://wallstreetcn.com/livenews/3010418",
-          "source": "华尔街见闻-快讯",
+          "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2210782",
+          "source": "财联社热门",
           "ranks": [
-            2
+            12,
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
@@ -451,6 +477,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 01时12分]"
+        },
+        {
+          "title": "周二（11月25日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌2.35%，报87080美元。 CME以太币期货DCR主力合约跌1.38%，报2935.50美元。 美股加密货币与加密货币关联指数涨0.31%，报64.80点，呈现出W形走势。 最近24小时，MarketVector数字资产100小盘指数跌1.48%，暂报18261.32点。",
+          "url": "https://wallstreetcn.com/livenews/3010418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股盘中）",
@@ -481,22 +519,24 @@
           "url": "https://wallstreetcn.com/livenews/3010414",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "区域银行ETF收涨超2.8%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3010410",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "金十图示：2025年11月25日（周二）美股热门股票行情一览（美股收盘）",
@@ -505,7 +545,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -516,7 +556,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
         },
@@ -538,9 +578,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜Meta收涨约3.8%，英伟达则跌约2.6%",
+          "url": "https://wallstreetcn.com/livenews/3010399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "周二美股盘前你需要了解的全球要闻",
@@ -557,7 +608,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -568,8 +619,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
@@ -587,11 +638,12 @@
           "url": "https://wallstreetcn.com/articles/3760047",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "【焦点复盘】创业板指高开高走涨近2%，谷歌产业链获持续热捧，福建本地股卷土重来",
@@ -602,8 +654,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时02分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时02分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -654,6 +706,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时03分 ~ 05时03分]"
+        },
+        {
+          "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
+          "url": "https://www.cls.cn/detail/2210906",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
@@ -750,11 +813,12 @@
           "url": "https://wallstreetcn.com/livenews/3010419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
         },
         {
           "title": "短端美债收益率走低，报道称哈塞特在美联储主席人选中领先",
