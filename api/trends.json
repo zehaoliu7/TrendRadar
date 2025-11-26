@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T22:02:43.441975+08:00",
-  "total_titles_processed": 2014,
+  "generated_at": "2025-11-26T23:02:55.749135+08:00",
+  "total_titles_processed": 2096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时14分 ~ 22时02分]"
+          "appearance_count": 11,
+          "time_info": "[16时14分 ~ 23时02分]"
         },
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -318,6 +318,43 @@
           "time_info": "05时03分"
         },
         {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E5%90%8E+%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%AA%E6%9C%89%E6%B2%89%E9%BB%98",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时18分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普一通电话后 高市早苗只有沉默",
+          "url": "https://www.toutiao.com/trending/7576901878579990070/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            25,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时18分 ~ 23时02分]"
+        },
+        {
           "title": "美国总统特朗普：特使Witkoff将在莫斯科会见俄罗斯总统普京。 我期待很快会见普京和乌克兰总统泽连斯基。",
           "url": "https://wallstreetcn.com/livenews/3010375",
           "source": "华尔街见闻-快讯",
@@ -416,31 +453,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时43分 ~ 11时42分]"
-        },
-        {
-          "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32044682",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时18分 ~ 22时02分]"
-        },
-        {
-          "title": "特朗普一通电话后 高市早苗只有沉默",
-          "url": "https://www.toutiao.com/trending/7576901878579990070/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            25,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时18分 ~ 22时02分]"
         },
         {
           "title": "特朗普：将于明年4月访华",
@@ -690,6 +702,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普力推,尖峰时刻4要来了?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347542&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%2C%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E8%A6%81%E6%9D%A5%E4%BA%86%3F",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "外媒：泽连斯基希望在感恩节期间与特朗普会面 敲定和平协议",
@@ -1004,8 +1027,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时43分 ~ 22时02分]"
+          "appearance_count": 20,
+          "time_info": "[08时43分 ~ 23时02分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -1049,11 +1072,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时28分 ~ 22时02分]"
+          "appearance_count": 19,
+          "time_info": "[10时28分 ~ 23时02分]"
         },
         {
           "title": "谷歌TPU抢风头 英伟达紧急发声：我们仍领先行业一代",
@@ -1107,6 +1131,18 @@
           "time_info": "[00时12分 ~ 07时02分]"
         },
         {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时12分 ~ 23时02分]"
+        },
+        {
           "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
           "url": "https://wallstreetcn.com/articles/3760076",
           "source": "华尔街见闻",
@@ -1132,18 +1168,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时28分 ~ 16时14分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时12分 ~ 22时02分]"
         },
         {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
@@ -1198,6 +1222,19 @@
           "time_info": "[03时02分 ~ 05时03分]"
         },
         {
+          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
+          "url": "https://wallstreetcn.com/livenews/3010908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时02分]"
+        },
+        {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
           "url": "https://wallstreetcn.com/livenews/3010316",
           "source": "华尔街见闻-快讯",
@@ -1210,18 +1247,6 @@
           "time_info": "[00时13分 ~ 01时12分]"
         },
         {
-          "title": "广联达：CONCETTO智能设计产品已接入谷歌Nano Banana Pro",
-          "url": "https://wallstreetcn.com/livenews/3010908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时02分]"
-        },
-        {
           "title": "美股盘前，戴尔科技涨超4%，公司三季度营收不及预期但AI订单激增，全年AI服务器出货目标上调至250亿美元。博通涨约1%，谷歌A涨约1%，甲骨文涨0.1%，英伟达跌0.5%。",
           "url": "https://wallstreetcn.com/livenews/3010785",
           "source": "华尔街见闻-快讯",
@@ -1232,6 +1257,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时13分 ~ 18时12分]"
+        },
+        {
+          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
+          "url": "https://wallstreetcn.com/articles/3760128",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时02分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -1304,17 +1340,6 @@
           "time_info": "[12时16分 ~ 13时02分]"
         },
         {
-          "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
-          "url": "https://wallstreetcn.com/articles/3760128",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
           "url": "https://flash.jin10.com/detail/20251126154853273800",
           "source": "金十数据",
@@ -1340,7 +1365,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "“矛盾”数据加剧降息分歧，美股指涨跌不一，英伟达跌超5%，原油走低，加密货币跳水",
@@ -1367,6 +1392,28 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时12分 ~ 11时42分]"
+        },
+        {
+          "title": "金十图示：2025年11月26日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251126224412823800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
+          "url": "https://wallstreetcn.com/articles/3760164",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "WTI原油期货约3%，报57.10美元/桶，美股盘前消息，美国官员称乌克兰同意和平协议条款。 布伦特原油跌破61美元/桶关口，报60.96美元/桶。",
@@ -1453,6 +1500,50 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "行业ETF美股盘初多数上涨，半导体ETF涨1.73%，全球科技股指数ETF涨1.2%，科技行业ETF涨1.13%，银行业ETF回撤0.13%，区域银行ETF回调0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3010940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.18%，标普500指数涨0.41%，纳指开涨0.56%。理想汽车(LI.O)跌1.4%，公司对第四季度营收指引低于市场预估，Alphabet(GOOG.O)跌0.47%。英伟达(NVDA.O)涨1.7%，AMD(AMD.O)涨近2%。",
+          "url": "https://flash.jin10.com/detail/20251126223027730800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2212003",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3010933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "理想汽车美股盘前跌幅收窄至不足1%，此前一度跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3010820",
           "source": "华尔街见闻-快讯",
@@ -1533,7 +1624,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -1545,19 +1636,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时11分 ~ 22时02分]"
-        },
-        {
-          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3010926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "appearance_count": 8,
+          "time_info": "[18时11分 ~ 23时02分]"
         },
         {
           "title": "暴跌40%！软银成为“OpenAI链”风向标",
@@ -1565,11 +1645,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            6
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 23时02分]"
+        },
+        {
+          "title": "美股盘前：OpenAI链概念股反弹，甲骨文涨近6%，英伟达涨近2%，CoreWeave涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3010926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时02分]"
+          "time_info": "[22时02分 ~ 23时02分]"
         },
         {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
@@ -1582,6 +1675,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时02分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)在德意志银行指出其受益于OpenAI后开盘上涨5%。",
+          "url": "https://flash.jin10.com/detail/20251126223134754800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "OpenAI：持续改进ChatGPT的训练，以识别并回应心理或情绪困扰的迹象。",
