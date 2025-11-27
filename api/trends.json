@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T04:03:01.065539+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2025-11-28T05:02:38.148239+08:00",
+  "total_titles_processed": 505,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             15,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -29,8 +30,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -41,8 +42,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "美国国土安全部：美国总统特朗普政府正在审查前总统拜登任内批准的所有庇护案件。",
@@ -50,11 +51,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时02分]"
         },
         {
           "title": "墨西哥总统辛鲍姆：如果去参加世界杯抽签，可能会考虑与特朗普会面。",
@@ -115,11 +117,12 @@
           "ranks": [
             1,
             11,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 04时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 05时02分]"
         },
         {
           "title": "据华尔街日报：消息人士称，伊朗向真主党的资金正经由迪拜流动。",
@@ -127,11 +130,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 04时03分]"
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 05时02分]"
         },
         {
           "title": "伊朗最高领袖哈梅内伊：有关伊方间接地向美国发出讯息的传闻“完全是谎言”。",
@@ -140,11 +144,12 @@
           "ranks": [
             9,
             13,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 04时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 05时02分]"
         }
       ]
     },
@@ -160,8 +165,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "DeepSeek发布可自验证数学模型DeepSeekMath-V2",
@@ -189,8 +194,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -201,8 +206,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时02分]"
         }
       ]
     },
@@ -220,8 +225,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时02分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -231,8 +236,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时02分 ~ 04时03分]"
+          "appearance_count": 7,
+          "time_info": "[00时02分 ~ 05时02分]"
         }
       ]
     },
@@ -265,11 +270,12 @@
           "ranks": [
             13,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时14分 ~ 04时03分]"
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 05时02分]"
         }
       ]
     }
