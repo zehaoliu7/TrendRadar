@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T22:02:52.050677+08:00",
-  "total_titles_processed": 1907,
+  "generated_at": "2025-11-28T23:02:34.320886+08:00",
+  "total_titles_processed": 2004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
@@ -62,8 +62,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时24分 ~ 22时02分]"
+          "appearance_count": 17,
+          "time_info": "[10时24分 ~ 23时02分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -337,7 +337,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -373,6 +373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "外媒：特朗普沉默加剧日方紧张情绪",
+          "url": "https://www.toutiao.com/trending/7577677708164186166/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美国总统特朗普：我们可能会因为关税收入而几乎完全取消所得税。",
@@ -552,11 +563,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时11分 ~ 22时02分]"
+          "appearance_count": 11,
+          "time_info": "[15时11分 ~ 23时02分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -620,8 +632,117 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
+          "url": "https://wallstreetcn.com/articles/3760251",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[08时41分 ~ 23时02分]"
+        },
+        {
+          "title": "金十图示：2025年11月28日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251128223720423800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
+          "url": "https://flash.jin10.com/detail/20251128174843998800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3012282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时02分 ~ 23时02分]"
+        },
+        {
+          "title": "提醒：美股周四休市，周五将提前三个小时收盘",
+          "url": "https://wallstreetcn.com/livenews/3011578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时02分]"
+        },
+        {
+          "title": "美股开盘，道指开涨0.11%，标普500指数涨0.17%，纳指涨0.35%。甲骨文(ORCL.N)跌2%，报道称多家银行正商谈再向该公司和数据中心建设商VANTAGE提供380亿美元贷款；阿里巴巴(BABA.N)跌0.7%。霸王茶姬(CHA.O)涨3%。闪存龙头闪迪股价跳涨6%，此前两个交易日累计下跌超过5%。",
+          "url": "https://flash.jin10.com/detail/20251128223032429800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "行业ETF美股盘初多数走高，网络股指数ETF涨0.73%，可选消费ETF涨0.41%，全球科技股指数ETF涨0.21%，半导体ETF涨0.16%，医疗业ETF跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3012297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
+          "url": "https://www.cls.cn/detail/2213450",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2214556",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -681,6 +802,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时11分"
+        },
+        {
+          "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3012294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美股盘前，科技股多数上涨，美光科技涨2%，高通涨逾1%，谷歌A涨逾1%。",
@@ -793,70 +925,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "感恩节美股休市，美股指期货走平，欧股交投清淡，原油盘中闪跌",
-          "url": "https://wallstreetcn.com/articles/3760251",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[08时41分 ~ 22时02分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3012282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
-          "url": "https://flash.jin10.com/detail/20251128174843998800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "提醒：美股周四休市，周五将提前三个小时收盘",
-          "url": "https://wallstreetcn.com/livenews/3011578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时02分]"
-        },
-        {
-          "title": "新一轮牛市已在路上？华尔街纷纷给美股定下高目标价",
-          "url": "https://www.cls.cn/detail/2213450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 4,
       "titles": [
@@ -867,7 +935,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -908,6 +976,45 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时14分 ~ 05时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普500指数期货、纳斯达克100指数期货、WTI原油、美债恢复交易",
+          "url": "https://wallstreetcn.com/livenews/3012277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "芝商所（CME）：交易平台BrokerTec美债期货已恢复交易，其他市场目前仍暂停交易。",
+          "url": "https://flash.jin10.com/detail/20251128190714411800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        },
+        {
+          "title": "标普500指数期货、纳斯达克100指数期货、WTI原油、美债等恢复交易",
+          "url": "https://wallstreetcn.com/livenews/3012277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
@@ -986,34 +1093,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 12时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "标普500指数期货、纳斯达克100指数期货、WTI原油、美债恢复交易",
-          "url": "https://wallstreetcn.com/livenews/3012277",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
-          "title": "芝商所（CME）：交易平台BrokerTec美债期货已恢复交易，其他市场目前仍暂停交易。",
-          "url": "https://flash.jin10.com/detail/20251128190714411800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时18分"
         }
       ]
     }
