@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-29T17:09:57.403734+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2025-11-29T18:02:40.065927+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "外媒：特朗普沉默加剧日方紧张情绪",
@@ -135,6 +135,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时02分 ~ 08时41分]"
+        },
+        {
+          "title": "特朗普：将赦免在美被判45年的洪都拉斯前总统埃尔南德斯",
+          "url": "https://flash.jin10.com/detail/20251129173734317800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "特朗普宣布：拜登任内通过“自动签名笔”签署的所有文件即刻终止效力",
@@ -327,8 +338,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时41分 ~ 17时09分]"
+          "appearance_count": 13,
+          "time_info": "[08时41分 ~ 18时02分]"
         },
         {
           "title": "美股三大期指小幅走高 CME交易中断引发关注 | 今夜看点",
@@ -582,8 +593,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 17时09分]"
+          "appearance_count": 12,
+          "time_info": "[10时24分 ~ 18时02分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -591,11 +602,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时13分 ~ 17时09分]"
+          "appearance_count": 6,
+          "time_info": "[14时13分 ~ 18时02分]"
         },
         {
           "title": "印度阿达尼计划对谷歌公司位于印度南部的AI基础设施中心投资至多50亿美元。",
@@ -622,11 +634,12 @@
             17,
             11,
             15,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时02分 ~ 17时09分]"
+          "appearance_count": 8,
+          "time_info": "[13时02分 ~ 18时02分]"
         },
         {
           "title": "金价",
