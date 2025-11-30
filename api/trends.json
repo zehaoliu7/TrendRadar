@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T08:49:14.258767+08:00",
-  "total_titles_processed": 503,
+  "generated_at": "2025-11-30T10:50:47.269415+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 10时50分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -37,11 +38,12 @@
           "ranks": [
             11,
             12,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 10时50分]"
         },
         {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
@@ -191,22 +193,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时50分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时50分]"
         }
       ]
     },
@@ -226,8 +230,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时50分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -290,11 +294,12 @@
           "ranks": [
             2,
             3,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 10时50分]"
         }
       ]
     }
