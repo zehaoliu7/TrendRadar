@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T18:02:57.950487+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2025-11-30T19:02:34.818171+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -48,6 +48,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时02分 ~ 10时50分]"
+        },
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时15分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：我们应该会在中期选举中以创纪录的票数获胜。我是“平价医疗总统”。",
@@ -115,20 +129,6 @@
           "time_info": "[00时02分 ~ 08时49分]"
         },
         {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时15分 ~ 18时02分]"
-        },
-        {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
           "url": "https://news.ifeng.com/c/8og9MLOfFoi",
           "source": "凤凰网",
@@ -188,6 +188,17 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
+          "title": "美媒：特朗普直接要求马杜罗下台",
+          "url": "https://news.ifeng.com/c/8ohnEF3YUW5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特朗普感恩节威胁对乌无用",
           "url": "https://www.toutiao.com/trending/7578337181966552617/",
           "source": "今日头条",
@@ -200,6 +211,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时52分 ~ 14时15分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-30）",
+          "url": "https://flash.jin10.com/detail/20251130174813876800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "特朗普与委总统通话 直接要求其下台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E5%A7%94%E6%80%BB%E7%BB%9F%E9%80%9A%E8%AF%9D+%E7%9B%B4%E6%8E%A5%E8%A6%81%E6%B1%82%E5%85%B6%E4%B8%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         }
       ]
     },
@@ -249,46 +282,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            4,
-            3,
-            2,
-            13,
-            14,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 18时02分]"
-        },
-        {
-          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
-          "url": "https://wallstreetcn.com/articles/3760369",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时02分 ~ 08时49分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
@@ -317,6 +312,55 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时15分 ~ 18时02分]"
+        },
+        {
+          "title": "伊朗萨汉德号军舰重新服役",
+          "url": "https://flash.jin10.com/detail/20251130181802259800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            4,
+            3,
+            2,
+            13,
+            14,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 19时02分]"
+        },
+        {
+          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
+          "url": "https://wallstreetcn.com/articles/3760369",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时02分 ~ 08时49分]"
         }
       ]
     },
@@ -331,11 +375,12 @@
           "ranks": [
             6,
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时12分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时12分 ~ 19时02分]"
         }
       ]
     },
