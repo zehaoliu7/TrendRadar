@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T05:02:34.882627+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-12-01T06:02:39.130984+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "“特朗普交易”遭重创",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：有一些消息已泄露。 若特朗普选我，我乐意出任美联储主席。",
           "url": "https://wallstreetcn.com/livenews/3012550",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
@@ -76,11 +77,12 @@
           "ranks": [
             3,
             5,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -91,8 +93,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时02分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -103,11 +105,12 @@
             28,
             20,
             23,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时02分]"
         }
       ]
     },
@@ -123,8 +126,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时02分]"
         }
       ]
     },
@@ -140,8 +143,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时02分]"
         }
       ]
     },
@@ -156,11 +159,12 @@
           "ranks": [
             16,
             18,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 05时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时10分 ~ 06时02分]"
         }
       ]
     }
