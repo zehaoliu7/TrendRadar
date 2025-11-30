@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T12:25:02.607290+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2025-11-30T13:10:53.962156+08:00",
+  "total_titles_processed": 765,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时02分 ~ 12时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时02分 ~ 13时10分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -176,11 +176,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时52分 ~ 12时25分]"
+          "appearance_count": 4,
+          "time_info": "[11时52分 ~ 13时10分]"
         }
       ]
     },
@@ -223,8 +224,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 12时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 13时10分]"
         }
       ]
     },
@@ -246,8 +247,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 12时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时02分 ~ 13时10分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
