@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T14:17:59.799615+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2025-12-01T15:14:42.040393+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -54,8 +54,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 15时14分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[11时01分 ~ 15时14分]"
         },
         {
           "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
@@ -79,8 +79,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时54分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时54分 ~ 14时17分]"
+          "time_info": "[11时01分 ~ 15时14分]"
         },
         {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
@@ -107,17 +118,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时54分 ~ 13时20分]"
-        },
-        {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时01分 ~ 14时17分]"
         },
         {
           "title": "特朗普：俄乌和平协议“很有可能”达成",
@@ -193,9 +193,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普：俄乌和平协议很有可能达成",
+          "url": "https://www.toutiao.com/trending/7578340057447514175/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 15时14分]"
         },
         {
           "title": "美国总统特朗普：我做了个核磁共振，但不是大脑方面的问题。",
@@ -330,17 +341,6 @@
           "time_info": "00时10分"
         },
         {
-          "title": "特朗普：俄乌和平协议很有可能达成",
-          "url": "https://www.toutiao.com/trending/7578340057447514175/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "美国总统特朗普：相信洪都拉斯前总统埃尔南德斯在毒品走私指控上是被设局陷害的。",
           "url": "https://flash.jin10.com/detail/20251201054526929800",
           "source": "金十数据",
@@ -429,11 +429,12 @@
             22,
             9,
             10,
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时10分 ~ 14时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时10分 ~ 15时14分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -454,11 +455,40 @@
           "url": "https://wallstreetcn.com/livenews/3012823",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 15时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月01日（周一）上海金午盘价为958元/克，较国际金价(963.11元/克)，低5.11元/克",
+          "url": "https://flash.jin10.com/detail/20251201150238954800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "15时14分"
+        },
+        {
+          "title": "金十图示：2025年12月01日（周一）上海金早盘价为961.25元/克，较国际金价(965.51元/克)，低4.26元/克",
+          "url": "https://flash.jin10.com/detail/20251201101746189800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
@@ -524,23 +554,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时10分 ~ 14时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月01日（周一）上海金早盘价为961.25元/克，较国际金价(965.51元/克)，低4.26元/克",
-          "url": "https://flash.jin10.com/detail/20251201101746189800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
         }
       ]
     },
