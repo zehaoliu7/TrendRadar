@@ -1,33 +1,35 @@
 {
-  "generated_at": "2025-12-03T07:02:52.372359+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2025-12-03T08:43:49.524511+08:00",
+  "total_titles_processed": 789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 63,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
           "url": "https://news.ifeng.com/c/8okzUol0Uy6",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 08时43分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
           "url": "https://news.ifeng.com/c/8oksAa0SOcr",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 08时43分]"
         },
         {
           "title": "美国总统特朗普结束在白宫活动上的讲话。",
@@ -63,15 +65,15 @@
           "time_info": "05时02分"
         },
         {
-          "title": "美国总统特朗普：与巴西总统卢拉的通话富有成效。 我们讨论了贸易、关税、制裁问题。 期待很快就会见卢拉。",
-          "url": "https://wallstreetcn.com/livenews/3013948",
-          "source": "华尔街见闻-快讯",
+          "title": "哥伦比亚总统回应特朗普威胁：侵犯主权即宣战",
+          "url": "https://flash.jin10.com/detail/20251203075451348800",
+          "source": "金十数据",
           "ranks": [
-            3
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时43分"
         },
         {
           "title": "美国农业部长威胁称：要对多个蓝州削减拨款，因为它们在“补充营养援助计划”（SNAP）救济金发放数据上不符合（总统特朗普的）规定。",
@@ -149,6 +151,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时11分 ~ 05时02分]"
+        },
+        {
+          "title": "美国总统特朗普：与巴西总统卢拉的通话富有成效。 我们讨论了贸易、关税、制裁问题。 期待很快就会见卢拉。",
+          "url": "https://wallstreetcn.com/livenews/3013948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时43分]"
         },
         {
           "title": "金十提示：特朗普内阁会议讲话结束。",
@@ -404,6 +418,17 @@
           "time_info": "[02时23分 ~ 03时11分]"
         },
         {
+          "title": "美媒：特朗普取消本周的美联储主席遴选面试",
+          "url": "https://flash.jin10.com/detail/20251203075259305800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "特朗普：不清楚有关委内瑞拉船只遭到第二次袭击的事",
           "url": "https://flash.jin10.com/detail/20251203042601542800",
           "source": "金十数据",
@@ -415,6 +440,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
+          "url": "https://www.cls.cn/detail/2217685",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "首位美籍教皇利奥十四世敦促特朗普政府不要试图通过军事手段推翻委内瑞拉总统马杜罗，利奥十四世表示，如果华盛顿寻求变革，与其采取对抗，不如尝试对话或施加经济压力。",
           "url": "https://flash.jin10.com/detail/20251203003259046800",
           "source": "金十数据",
@@ -424,6 +460,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "一封信函显示，AT&T(T.N)承诺将终止多元、公平与包容项目（DEI），此举旨在争取特朗普政府批准其收购US Cellular公司频谱牌照。",
@@ -443,7 +490,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -498,7 +545,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -531,7 +578,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -600,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "美国总统特朗普：在拜登执政期间由“自动签名机”签署的文件、公告、行政命令、备忘录或合同即刻作废，不再具有任何效力。",
+          "url": "https://flash.jin10.com/detail/20251203070124426800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "巴西总统府：卢拉感谢特朗普决定取消咖啡、牛肉等产品的关税。",
@@ -682,7 +740,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -712,11 +770,34 @@
           "url": "https://www.cls.cn/detail/2217558",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[02时23分 ~ 08时43分]"
+        },
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
+          "url": "https://www.cls.cn/detail/2217711",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "能源业ETF收跌约1.3%，领跌美股行业ETF，半导体ETF涨超1.8%",
@@ -773,7 +854,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -806,7 +887,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -817,7 +898,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -858,7 +939,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -899,6 +980,17 @@
           "time_info": "[00时13分 ~ 01时14分]"
         },
         {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
           "url": "https://wallstreetcn.com/livenews/3013822",
           "source": "华尔街见闻-快讯",
@@ -919,6 +1011,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "谷歌的TPU要干掉英伟达吗",
+          "url": "https://www.toutiao.com/trending/7579260643052621321/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         }
       ]
     },
@@ -990,6 +1093,33 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
+          "url": "https://www.cls.cn/detail/2217435",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 08时43分]"
+        },
+        {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时13分 ~ 08时43分]"
+        },
+        {
           "title": "实测DeepSeekV3.2正式版",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
           "source": "bilibili 热搜",
@@ -1000,31 +1130,6 @@
             19,
             15,
             20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时02分]"
-        },
-        {
-          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
-          "url": "https://www.cls.cn/detail/2217435",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 07时02分]"
-        },
-        {
-          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
-          "url": "https://wallstreetcn.com/articles/3760505",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -1083,6 +1188,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通预计美债收益率明年将上升，降息预期料减弱",
+          "url": "https://wallstreetcn.com/livenews/3013963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         }
       ]
     }
