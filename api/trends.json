@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T21:30:00.071667+08:00",
-  "total_titles_processed": 1883,
+  "generated_at": "2025-12-04T22:12:51.210543+08:00",
+  "total_titles_processed": 1968,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时20分 ~ 21时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时20分 ~ 22时12分]"
         },
         {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
@@ -73,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时20分 ~ 21时29分]"
+          "appearance_count": 13,
+          "time_info": "[12时20分 ~ 22时12分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -284,6 +284,17 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 22时12分]"
+        },
+        {
           "title": "美国总统特朗普建议对乘用车下调燃油效率标准。",
           "url": "https://wallstreetcn.com/livenews/3014620",
           "source": "华尔街见闻-快讯",
@@ -309,17 +320,6 @@
           "time_info": "[02时15分 ~ 04时02分]"
         },
         {
-          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
-          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时29分]"
-        },
-        {
           "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
           "url": "https://www.cls.cn/detail/2218431",
           "source": "财联社热门",
@@ -341,6 +341,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时02分 ~ 14时16分]"
+        },
+        {
+          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
+          "url": "https://news.ifeng.com/c/8oohPdXia4u",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时12分]"
         },
         {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
@@ -463,6 +474,18 @@
           "time_info": "[00时15分 ~ 01时14分]"
         },
         {
+          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
+          "url": "https://www.cls.cn/detail/2219893",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时12分]"
+        },
+        {
           "title": "美国总统特朗普重申将很快对毒品恐怖分子发动陆地打击。",
           "url": "https://flash.jin10.com/detail/20251204052252756800",
           "source": "金十数据",
@@ -570,17 +593,6 @@
           "time_info": "19时02分"
         },
         {
-          "title": "哥伦比亚总统警告特朗普：不要惊醒“美洲豹”",
-          "url": "https://news.ifeng.com/c/8oohPdXia4u",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
           "title": "美墨加协定将到期 特朗普：要么失效 要么达成新协议",
           "url": "https://flash.jin10.com/detail/20251204055451717800",
           "source": "金十数据",
@@ -623,17 +635,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        },
-        {
-          "title": "特朗普又有“鬼点子”：批准在美国卖日本国民神车 因为“很可爱”？",
-          "url": "https://www.cls.cn/detail/2219893",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
         },
         {
           "title": "美国国务院备忘录显示，特朗普政府下令加强对H-1B签证申请人的审查。",
@@ -746,6 +747,17 @@
           "time_info": "16时15分"
         },
         {
+          "title": "特朗普打断美交通部长发言",
+          "url": "https://www.toutiao.com/trending/7579194741204500543/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
           "url": "https://flash.jin10.com/detail/20251204104330590800",
           "source": "金十数据",
@@ -826,7 +838,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -1051,6 +1063,28 @@
           "time_info": "06时02分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3015223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "AI估值担忧再起 美股三大期指接近持平 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2220115",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3014632",
           "source": "华尔街见闻-快讯",
@@ -1093,6 +1127,82 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2219026",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 15时13分]"
+        },
+        {
+          "title": "美元指数DXY向上触及99，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20251204112158676800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "美元指数DXY短线上扬后快速回落，波幅约10余点。",
+          "url": "https://flash.jin10.com/detail/20251204213414965800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美元指数3日下跌",
+          "url": "https://flash.jin10.com/detail/20251204054201862800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美元指数跌0.5%，失守50日均线",
+          "url": "https://wallstreetcn.com/livenews/3014616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 06时02分]"
+        },
+        {
+          "title": "美国上周首次申请失业救济人数创2022年以来最低水平，美元指数短线拉升",
+          "url": "https://wallstreetcn.com/livenews/3015212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -1185,11 +1295,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 22时12分]"
         },
         {
           "title": "DeepSeek新模型让硅谷“失眠”",
@@ -1216,56 +1327,53 @@
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "美债",
       "match_count": 4,
       "titles": [
         {
-          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2219026",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时46分 ~ 15时13分]"
-        },
-        {
-          "title": "美元指数DXY向上触及99，日内涨0.13%。",
-          "url": "https://flash.jin10.com/detail/20251204112158676800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时46分"
-        },
-        {
-          "title": "美元指数3日下跌",
-          "url": "https://flash.jin10.com/detail/20251204054201862800",
-          "source": "金十数据",
+          "title": "周三（12月3日）纽约尾盘，美国10年期基准国债收益率跌2.32个基点，报4.0633%。 两年期美债收益率跌2.24个基点，报3.4855%。",
+          "url": "https://wallstreetcn.com/livenews/3014649",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
-          "title": "美元指数跌0.5%，失守50日均线",
-          "url": "https://wallstreetcn.com/livenews/3014616",
-          "source": "华尔街见闻-快讯",
+          "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
+          "url": "https://wallstreetcn.com/articles/3760712",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            29
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "机构：10年期美债收益率短期盘整 突破4.1%或成2026年结构性趋势",
+          "url": "https://flash.jin10.com/detail/20251204142500817800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 06时02分]"
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "美债收益率在亚洲交易时段上涨 市场继续押注美联储降息",
+          "url": "https://flash.jin10.com/detail/20251204151726193800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
@@ -1305,49 +1413,9 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周三（12月3日）纽约尾盘，美国10年期基准国债收益率跌2.32个基点，报4.0633%。 两年期美债收益率跌2.24个基点，报3.4855%。",
-          "url": "https://wallstreetcn.com/livenews/3014649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "机构：10年期美债收益率短期盘整 突破4.1%或成2026年结构性趋势",
-          "url": "https://flash.jin10.com/detail/20251204142500817800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "美债收益率在亚洲交易时段上涨 市场继续押注美联储降息",
-          "url": "https://flash.jin10.com/detail/20251204151726193800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时15分"
         }
       ]
     },
@@ -1376,6 +1444,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通全球市场策略师Nikolaos Panigirtzoglou认为，如果比特币出现类似黄金那样的交易，其价格可能会达到17万美元。",
+          "url": "https://wallstreetcn.com/livenews/3015221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     }
