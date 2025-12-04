@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T08:44:25.101424+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2025-12-04T10:31:04.287859+08:00",
+  "total_titles_processed": 863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -26,11 +26,12 @@
           "ranks": [
             17,
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 08时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 10时31分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -41,8 +42,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 08时44分]"
+          "appearance_count": 11,
+          "time_info": "[01时14分 ~ 10时31分]"
+        },
+        {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 10时31分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -55,17 +67,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时15分 ~ 04时02分]"
-        },
-        {
-          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
-          "url": "https://www.cls.cn/detail/2218990",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
@@ -110,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "美国财长贝森特：特朗普剩余任期内，美中关系将保持良好态势。（FOX NEWS）",
+          "url": "https://wallstreetcn.com/livenews/3014812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         },
         {
           "title": "报道：债券市场担心哈塞特通过激进降息来取悦特朗普，已就此警告财长贝森特",
@@ -342,6 +354,17 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
           "title": "美国总统特朗普：加沙停火协议的第二阶段正在推进，很快就会实现。",
           "url": "https://flash.jin10.com/detail/20251204052139386800",
           "source": "金十数据",
@@ -443,7 +466,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -476,7 +499,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -509,7 +532,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -564,7 +587,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -586,7 +609,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         },
@@ -608,7 +631,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         }
@@ -653,8 +676,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时14分 ~ 08时44分]"
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 10时31分]"
         },
         {
           "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
@@ -666,6 +689,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 10时31分]"
+        },
+        {
+          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
+          "url": "https://www.cls.cn/detail/2218940",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 10时31分]"
         },
         {
           "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
@@ -729,18 +777,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时15分 ~ 04时02分]"
-        },
-        {
-          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
-          "url": "https://www.cls.cn/detail/2218975",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 08时44分]"
         },
         {
           "title": "区域银行ETF收涨约2.1%，领跑美股行业ETF",
@@ -826,17 +862,6 @@
           "time_info": "06时02分"
         },
         {
-          "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
-          "url": "https://www.cls.cn/detail/2218940",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
           "title": "C3.ai第二财季营收7510万美元，分析师预期7470万美元。 预计全财年营收2.895亿-3.095亿美元，公司原本预计4.475亿-4.845亿美元。 预计第三财季营收7200万-8000万美元，分析师预期7560万美元。 C3.ai美股盘后跌5%。",
           "url": "https://wallstreetcn.com/livenews/3014632",
           "source": "华尔街见闻-快讯",
@@ -884,7 +909,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI的基金会将向美国非营利组织捐赠4050万美元。",
@@ -932,6 +957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "OpenAI拟与SpaceX竞争 曾探讨与火箭公司进行交易",
+          "url": "https://flash.jin10.com/detail/20251204093928191800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
         }
       ]
     },
@@ -956,9 +992,39 @@
           "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时44分 ~ 10时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月04日（周四）上海金早盘价为952.5元/克，较国际金价(955.12元/克)，低2.62元/克",
+          "url": "https://flash.jin10.com/detail/20251204101723963800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
+          "url": "https://flash.jin10.com/detail/20251204082809199800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时44分"
         }
@@ -1006,28 +1072,12 @@
             4,
             3,
             7,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 08时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛资产配置主管Christian Mueller-Glissmann：在过去两年金价强劲上涨的背景下，回过头看，最优的黄金配置比例应远高于大多数投资者实际持有的水平。",
-          "url": "https://flash.jin10.com/detail/20251204082809199800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时44分"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 10时31分]"
         }
       ]
     },
