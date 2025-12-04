@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T18:02:51.205651+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2025-12-04T19:02:37.908364+08:00",
+  "total_titles_processed": 1706,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 65,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时20分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[12时20分 ~ 19时02分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -76,18 +76,6 @@
           "time_info": "[00时15分 ~ 13时02分]"
         },
         {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.douyin.com/hot/2325113",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时14分 ~ 17时14分]"
-        },
-        {
           "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
           "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
           "source": "澎湃新闻",
@@ -99,8 +87,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时20分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[12时20分 ~ 19时02分]"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.douyin.com/hot/2325113",
+          "source": "抖音",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[01时14分 ~ 17时14分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -138,8 +138,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时15分 ~ 19时02分]"
         },
         {
           "title": "美国总统特朗普：我们将允许人们抵扣汽车贷款利息。",
@@ -545,6 +545,17 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-04）",
+          "url": "https://flash.jin10.com/detail/20251204183019208800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美墨加协定将到期 特朗普：要么失效 要么达成新协议",
           "url": "https://flash.jin10.com/detail/20251204055451717800",
           "source": "金十数据",
@@ -576,6 +587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
@@ -1115,11 +1137,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "DeepSeek新模型让硅谷“失眠”",
