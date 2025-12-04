@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T11:46:35.112076+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2025-12-04T12:20:59.432398+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -20,6 +20,17 @@
           "time_info": "[00时15分 ~ 08时44分]"
         },
         {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时20分]"
+        },
+        {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32092056",
           "source": "澎湃新闻",
@@ -28,11 +39,12 @@
             16,
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 11时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 12时20分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -43,19 +55,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时14分 ~ 11时46分]"
-        },
-        {
-          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
-          "url": "https://www.cls.cn/detail/2218990",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 11时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时14分 ~ 12时20分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -150,6 +151,18 @@
           "time_info": "[05时03分 ~ 06时02分]"
         },
         {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 12时20分]"
+        },
+        {
           "title": "特朗普提议大幅削减燃油经济性要求",
           "url": "https://flash.jin10.com/detail/20251204033431474800",
           "source": "金十数据",
@@ -208,18 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时02分]"
-        },
-        {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时30分 ~ 11时46分]"
         },
         {
           "title": "特朗普盟友：约翰逊正在失去对众议院共和党人的控制",
@@ -484,6 +485,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
           "url": "https://wallstreetcn.com/articles/3760574",
           "source": "华尔街见闻",
@@ -550,6 +562,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
+        },
+        {
           "title": "美国财长贝森特：乐观认为最高法院将维持特朗普关税的合法性",
           "url": "https://flash.jin10.com/detail/20251203231524536800",
           "source": "金十数据",
@@ -589,7 +612,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -703,8 +726,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时02分 ~ 11时46分]"
+          "appearance_count": 6,
+          "time_info": "[07时02分 ~ 12时20分]"
         },
         {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
@@ -716,8 +739,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时44分 ~ 11时46分]"
+          "appearance_count": 5,
+          "time_info": "[08时44分 ~ 12时20分]"
         },
         {
           "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
@@ -997,7 +1020,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -1014,6 +1037,17 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
+          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
+          "url": "https://www.cls.cn/detail/2219026",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 12时20分]"
+        },
+        {
           "title": "美元指数跌0.5%，失守50日均线",
           "url": "https://wallstreetcn.com/livenews/3014616",
           "source": "华尔街见闻-快讯",
@@ -1024,17 +1058,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时02分]"
-        },
-        {
-          "title": "美元指数跌破50日均线 伦铜再创历史新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2219026",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时46分"
         }
       ]
     },
