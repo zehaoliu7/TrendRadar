@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T11:45:45.801926+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2025-12-05T12:20:21.777255+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
@@ -77,17 +77,6 @@
           "time_info": "08时44分"
         },
         {
-          "title": "市场消息：美国总统特朗普将于当地时间周五下午3点（北京时间次日凌晨4点）签署行政令。",
-          "url": "https://flash.jin10.com/detail/20251205110849030800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
           "title": "加拿大总理卡尼不打算在国际足联活动上与特朗普讨论贸易问题",
           "url": "https://flash.jin10.com/detail/20251205005303788800",
           "source": "金十数据",
@@ -125,6 +114,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将于当地时间周五下午3点（北京时间次日凌晨4点）签署行政令。",
+          "url": "https://flash.jin10.com/detail/20251205110849030800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时20分]"
         },
         {
           "title": "据日经新闻：特朗普政府将在即将发布的国防战略中，将韩国和以色列突出为“模范盟友”。",
@@ -326,8 +327,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 12时20分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.40%，报319.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.37%，报2284.55点；北京时间22:30美股开盘之前微跌、持稳于2270点上方，23:08刷新日低至2252.98点，之后快速转涨。",
@@ -500,8 +501,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 11时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 12时20分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -512,8 +513,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时44分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[08时44分 ~ 12时20分]"
         },
         {
           "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
@@ -553,11 +554,12 @@
             5,
             4,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 11时45分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 12时20分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -685,9 +687,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时20分]"
         }
       ]
     },
