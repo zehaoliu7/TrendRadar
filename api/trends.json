@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T14:14:22.366153+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2025-12-06T15:02:45.136385+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -100,6 +100,21 @@
           "time_info": "[04时11分 ~ 08时42分]"
         },
         {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://flash.jin10.com/detail/20251206105234128800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            13,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 15时02分]"
+        },
+        {
           "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
           "url": "https://wallstreetcn.com/livenews/3016084",
           "source": "华尔街见闻-快讯",
@@ -114,18 +129,19 @@
           "time_info": "[02时02分 ~ 05时02分]"
         },
         {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://flash.jin10.com/detail/20251206105234128800",
-          "source": "金十数据",
+          "title": "特朗普提议给美式橄榄球改名",
+          "url": "https://wallstreetcn.com/livenews/3016211",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
             7,
-            13,
-            18
+            9,
+            16,
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 14时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 15时02分]"
         },
         {
           "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
@@ -133,11 +149,27 @@
           "source": "金十数据",
           "ranks": [
             1,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 14时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 15时02分]"
+        },
+        {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://wallstreetcn.com/livenews/3016210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            17,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 15时02分]"
         },
         {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
@@ -145,11 +177,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 14时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时10分 ~ 15时02分]"
         },
         {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆（在华盛顿）会晤。",
@@ -203,20 +236,6 @@
           "time_info": "[07时02分 ~ 08时42分]"
         },
         {
-          "title": "特朗普提议给美式橄榄球改名",
-          "url": "https://wallstreetcn.com/livenews/3016211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            9,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 14时14分]"
-        },
-        {
           "title": "加拿大总理办公室：总理卡尼、美国总统特朗普、墨西哥总统辛鲍姆本次会谈持续了45分钟。 三方将继续致力于（翻新）美国墨西哥加拿大贸易协议（USMCA）。",
           "url": "https://wallstreetcn.com/livenews/3016151",
           "source": "华尔街见闻-快讯",
@@ -227,20 +246,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时42分]"
-        },
-        {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://wallstreetcn.com/livenews/3016210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 14时14分]"
         },
         {
           "title": "美国总统特朗普：已经安排会见加拿大总理卡尼和墨西哥总统辛鲍姆的事宜。",
@@ -509,8 +514,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 14时14分]"
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 15时02分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -523,8 +528,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 14时14分]"
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 15时02分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -533,11 +538,12 @@
           "ranks": [
             7,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 14时14分]"
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 15时02分]"
         },
         {
           "title": "美股开盘：百度涨超4%",
@@ -680,6 +686,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 15时02分]"
+        },
+        {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
           "url": "https://flash.jin10.com/detail/20251206034533252800",
           "source": "金十数据",
@@ -690,18 +708,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时02分 ~ 08时42分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 14时14分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -831,8 +837,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 14时14分]"
+          "appearance_count": 6,
+          "time_info": "[11时36分 ~ 15时02分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -842,11 +848,12 @@
             12,
             14,
             20,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 14时14分]"
+          "appearance_count": 5,
+          "time_info": "[11时37分 ~ 15时02分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
