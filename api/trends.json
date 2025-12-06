@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T08:42:09.209432+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-12-06T10:23:48.816700+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时11分 ~ 08时42分]"
+        },
+        {
+          "title": "特朗普世界杯抽签搞抽象",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8A%BD%E7%AD%BE%E6%90%9E%E6%8A%BD%E8%B1%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         },
         {
           "title": "加拿大总理办公室：总理卡尼与墨西哥总统辛鲍姆讨论了近期的双边框架。 后续，北美三国将讨论美国总统特朗普第一任期内出现的美国墨西哥加拿大贸易协议（USMCA）的修订事宜。（PMO）",
@@ -334,23 +345,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "白宫：特朗普签署法案，废止土地管理局关于“阿拉斯加国家石油储备综合活动计划决策记录”的相关规定。",
+          "url": "https://flash.jin10.com/detail/20251206085353161800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "美国总统特朗普：签署了一份总统备忘录，指示卫生与公众服务部快速推进对其他国家疫苗接种计划的全面评估。疾控中心疫苗委员会做出了一个非常明智的决定，终止其乙型肝炎疫苗接种建议。",
+          "url": "https://flash.jin10.com/detail/20251206083946203800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "特朗普：疾控中心叫停乙肝疫苗建议的决定是正确的。 已签署备忘录要求卫生与公众服务部评估疫苗接种时间表。",
+          "url": "https://wallstreetcn.com/livenews/3016179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "特朗普真的要对委内瑞拉动手吗",
+          "url": "https://www.toutiao.com/trending/7580531603269504555/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
           "url": "https://wallstreetcn.com/articles/3760797",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 10时23分]"
+        },
+        {
+          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
+          "url": "https://wallstreetcn.com/articles/3760810",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 10时23分]"
         },
         {
           "title": "美股开盘：百度涨超4%",
@@ -417,26 +485,16 @@
           "time_info": "[07时02分 ~ 08时42分]"
         },
         {
-          "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
-          "url": "https://wallstreetcn.com/articles/3760810",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
-        },
-        {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
           "url": "https://www.cls.cn/detail/2221625",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 08时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 10时23分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌",
@@ -485,6 +543,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251206090540434800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251206090522263800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
@@ -613,9 +693,38 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
+          "url": "https://wallstreetcn.com/livenews/3016097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时11分 ~ 05时02分]"
+        },
+        {
+          "title": "OpenAI最快将于下周发布GPT-5.2",
+          "url": "https://flash.jin10.com/detail/20251206082425729800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     },
@@ -646,24 +755,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
-          "url": "https://wallstreetcn.com/livenews/3016097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时11分 ~ 05时02分]"
         }
       ]
     },
