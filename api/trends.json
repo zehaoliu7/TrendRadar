@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-07T14:14:04.758313+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2025-12-07T15:02:34.841640+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
@@ -64,11 +64,12 @@
             27,
             23,
             5,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 14时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时51分 ~ 15时02分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -76,22 +77,35 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时02分 ~ 14时14分]"
+          "appearance_count": 3,
+          "time_info": "[13时02分 ~ 15时02分]"
         },
         {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
           "url": "https://flash.jin10.com/detail/20251207124750348800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时14分 ~ 15时02分]"
+        },
+        {
+          "title": "年终总结特朗普重返白宫",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E8%BF%94%E7%99%BD%E5%AE%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时14分"
+          "time_info": "15时02分"
         }
       ]
     },
@@ -159,11 +173,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时13分 ~ 14时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时13分 ~ 15时02分]"
         }
       ]
     },
@@ -193,8 +208,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 14时14分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 15时02分]"
         }
       ]
     },
@@ -214,8 +229,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 14时14分]"
+          "appearance_count": 18,
+          "time_info": "[00时02分 ~ 15时02分]"
         }
       ]
     }
