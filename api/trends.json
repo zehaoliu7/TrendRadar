@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T22:02:39.842099+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2025-12-07T23:02:37.724402+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
@@ -72,17 +72,6 @@
           "time_info": "[10时51分 ~ 15时02分]"
         },
         {
-          "title": "特朗普获国际足联和平奖",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 22时02分]"
-        },
-        {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
           "url": "https://flash.jin10.com/detail/20251207122838853800",
           "source": "金十数据",
@@ -109,8 +98,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时02分 ~ 22时02分]"
+          "appearance_count": 6,
+          "time_info": "[18时02分 ~ 23时02分]"
+        },
+        {
+          "title": "特朗普获国际足联和平奖",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%8E%B7%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%92%8C%E5%B9%B3%E5%A5%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时18分 ~ 23时02分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -119,11 +120,12 @@
           "ranks": [
             3,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时15分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[20时15分 ~ 23时02分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们已接近特朗普加沙计划的第二阶段。",
@@ -132,11 +134,12 @@
           "ranks": [
             4,
             10,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时15分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[20时15分 ~ 23时02分]"
         },
         {
           "title": "特朗普签署行政令调查外资企业食品反竞争行为",
@@ -159,11 +162,12 @@
           "ranks": [
             12,
             18,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时15分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[20时15分 ~ 23时02分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-07）",
