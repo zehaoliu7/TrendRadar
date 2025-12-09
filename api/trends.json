@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-09T14:16:28.179193+08:00",
-  "total_titles_processed": 1289,
+  "generated_at": "2025-12-09T15:23:22.591230+08:00",
+  "total_titles_processed": 1397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://www.cls.cn/detail/2223487",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时30分 ~ 15时23分]"
+        },
         {
           "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
           "url": "https://wallstreetcn.com/articles/3760897",
@@ -20,19 +33,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时13分 ~ 11时45分]"
-        },
-        {
-          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
-          "url": "https://www.cls.cn/detail/2223487",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时30分 ~ 14时16分]"
         },
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -52,9 +52,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 15时23分]"
         },
         {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
@@ -245,6 +245,17 @@
           "time_info": "[02时15分 ~ 04时02分]"
         },
         {
+          "title": "特朗普女婿，“杀回来了”",
+          "url": "https://news.ifeng.com/c/8owSp96lgRc",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 15时23分]"
+        },
+        {
           "title": "美国总统特朗普：尚未就派拉蒙收购案与库什纳（特朗普女婿）交流。",
           "url": "https://flash.jin10.com/detail/20251209042938587800",
           "source": "金十数据",
@@ -413,17 +424,6 @@
           "time_info": "[11时45分 ~ 12时19分]"
         },
         {
-          "title": "特朗普女婿，“杀回来了”",
-          "url": "https://news.ifeng.com/c/8owSp96lgRc",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
-        },
-        {
           "title": "特朗普考虑对加拿大化肥和印度大米加征关税",
           "url": "https://flash.jin10.com/detail/20251209063630862800",
           "source": "金十数据",
@@ -477,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/articles/3760972",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "美国总统特朗普：正采取行动保护农民。",
@@ -609,6 +620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
+        },
+        {
+          "title": "特朗普：是否公布视频由美防长决定",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%98%AF%E5%90%A6%E5%85%AC%E5%B8%83%E8%A7%86%E9%A2%91%E7%94%B1%E7%BE%8E%E9%98%B2%E9%95%BF%E5%86%B3%E5%AE%9A",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -626,8 +648,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时02分 ~ 14时16分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 15时23分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -882,8 +904,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 15时23分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -909,8 +931,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 15时23分]"
         },
         {
           "title": "谷歌与XREAL联合发布Project Aura",
@@ -1087,11 +1109,53 @@
           "url": "https://www.zhihu.com/question/1981658527434053567",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 15时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
+          "url": "https://wallstreetcn.com/livenews/3017432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 15时23分]"
+        },
+        {
+          "title": "OpenAI报告称：企业人工智能应用激增",
+          "url": "https://wallstreetcn.com/livenews/3017061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 01时12分]"
+        },
+        {
+          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。",
+          "url": "https://flash.jin10.com/detail/20251209140918642800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时16分"
+          "time_info": "15时23分"
         }
       ]
     },
@@ -1108,8 +1172,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 14时16分]"
+          "appearance_count": 9,
+          "time_info": "[08时44分 ~ 15时23分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
@@ -1138,31 +1202,19 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：与欧洲最大电信运营商之一德国电信达成合作。德国电信将使用ChatGPT企业版。",
-          "url": "https://wallstreetcn.com/livenews/3017432",
-          "source": "华尔街见闻-快讯",
+          "title": "土耳其银行业人士：土耳其央行上周的净储备预计已增加55亿美元，达到近780亿美元。土耳其央行上周购买了逾30亿美元资产，其中因金价变动带来的增值超过10亿美元。",
+          "url": "https://flash.jin10.com/detail/20251209144133610800",
+          "source": "金十数据",
           "ranks": [
-            2
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时16分"
-        },
-        {
-          "title": "OpenAI报告称：企业人工智能应用激增",
-          "url": "https://wallstreetcn.com/livenews/3017061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时12分]"
+          "time_info": "15时23分"
         }
       ]
     },
