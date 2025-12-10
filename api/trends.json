@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T16:15:13.639364+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2025-12-10T17:14:41.920404+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
@@ -57,8 +57,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时13分 ~ 16时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时13分 ~ 17时14分]"
+        },
+        {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 17时14分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -87,18 +99,6 @@
           "time_info": "[00时13分 ~ 07时03分]"
         },
         {
-          "title": "特朗普：泰柬又打起来了，我得打个电话",
-          "url": "https://news.ifeng.com/c/8oyCMciyCox",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时16分 ~ 16时15分]"
-        },
-        {
           "title": "美国总统特朗普宣布，允许英伟达向中国出售 H200 芯片，此举意味着什么？",
           "url": "https://www.zhihu.com/question/1981659657740234762",
           "source": "知乎",
@@ -125,17 +125,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时13分 ~ 08时45分]"
-        },
-        {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 16时15分]"
         },
         {
           "title": "特朗普：北约叫我爸爸",
@@ -174,6 +163,18 @@
           "time_info": "[00时13分 ~ 07时03分]"
         },
         {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 17时14分]"
+        },
+        {
           "title": "美国总统特朗普：股票市场和401(k)正在上涨，但对物价水平存在误解；实际上，价格正在大幅下跌。",
           "url": "https://flash.jin10.com/detail/20251210083231703800",
           "source": "金十数据",
@@ -206,6 +207,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
+        },
+        {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普：我们现在的重点必须放在赢得中期选举上。",
@@ -341,17 +354,6 @@
           "time_info": "[11时49分 ~ 12时23分]"
         },
         {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时14分 ~ 16时15分]"
-        },
-        {
           "title": "周二（12月9日），降息赢家指数跌0.37%，报97.42点。 “特朗普关税输家”指数涨0.38%，散户抱团概念股指数/迷因股（meme stock）指数涨0.83%。",
           "url": "https://wallstreetcn.com/livenews/3017890",
           "source": "华尔街见闻-快讯",
@@ -460,7 +462,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -570,7 +572,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -967,8 +969,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时45分 ~ 16时15分]"
+          "appearance_count": 13,
+          "time_info": "[08时45分 ~ 17时14分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1008,7 +1010,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2025年12月10日（周三）上海金午盘价为951.34元/克，较国际金价(954.44元/克)，低3.1元/克",
@@ -1020,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
+        },
+        {
+          "title": "澳新银行：金价小幅回落，市场对美联储后续宽松步伐趋于谨慎",
+          "url": "https://flash.jin10.com/detail/20251210164920560800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
