@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T05:11:46.442755+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2025-12-11T06:02:45.581087+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时02分]"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -26,19 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时11分]"
-        },
-        {
-          "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
-          "url": "https://wallstreetcn.com/livenews/3018662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 06时02分]"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -63,26 +52,146 @@
           "time_info": "03时10分"
         },
         {
+          "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
+          "url": "https://wallstreetcn.com/livenews/3018662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
           "url": "https://wallstreetcn.com/livenews/3018654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
         },
         {
           "title": "IBM的CEO要求美国总统特朗普降低对特定国家的管控力度。",
           "url": "https://wallstreetcn.com/livenews/3018652",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普就柬埔寨-泰国问题表示：我们正安排明天通电话。",
+          "url": "https://flash.jin10.com/detail/20251211050040616800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普：今天将与美联储前理事凯文·沃什会面。",
+          "url": "https://flash.jin10.com/detail/20251211050012508800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普：美联储利率应降至全球最低。",
+          "url": "https://flash.jin10.com/detail/20251211045950749800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普就柬埔寨与泰国问题表示：我认为我能让他们停止争斗。",
+          "url": "https://flash.jin10.com/detail/20251211045830104800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为CNN应该被出售。",
+          "url": "https://flash.jin10.com/detail/20251211045339717800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰很久没有举行过选举了。",
+          "url": "https://flash.jin10.com/detail/20251211045154571800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈乌克兰问题）他们希望我们在周末前往欧洲参加一场会议。我们将根据他们带回的内容做出判断。",
+          "url": "https://flash.jin10.com/detail/20251211045109665800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普：明年将任命加沙和平委员会成员。",
+          "url": "https://flash.jin10.com/detail/20251211051053263800",
+          "source": "金十数据",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时02分"
+        },
+        {
+          "title": "周三（12月10日），降息赢家指数涨2.84%，报100.19点，美联储宣布降息之前持稳于98.50点——维持上涨状态，之后持续加速上涨。 “特朗普关税输家”指数涨1.71%。 散户抱团概念股指数/迷因股（meme stock）指数跌1.50%，报16.89点，美联储主席鲍威尔新闻发布会临近结束时还曾涨至17.37点刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3018669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
@@ -107,48 +216,15 @@
           "time_info": "02时16分"
         },
         {
-          "title": "美国总统特朗普就柬埔寨-泰国问题表示：我们正安排明天通电话。",
-          "url": "https://flash.jin10.com/detail/20251211050040616800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：今天将与美联储前理事凯文·沃什会面。",
-          "url": "https://flash.jin10.com/detail/20251211050012508800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：美联储利率应降至全球最低。",
-          "url": "https://flash.jin10.com/detail/20251211045950749800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普就柬埔寨与泰国问题表示：我认为我能让他们停止争斗。",
-          "url": "https://flash.jin10.com/detail/20251211045830104800",
-          "source": "金十数据",
+          "title": "美国总统特朗普：美国的利率应该是全世界最低的。",
+          "url": "https://wallstreetcn.com/livenews/3018663",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时02分"
         },
         {
           "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
@@ -168,40 +244,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：我认为CNN应该被出售。",
-          "url": "https://flash.jin10.com/detail/20251211045339717800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：乌克兰很久没有举行过选举了。",
-          "url": "https://flash.jin10.com/detail/20251211045154571800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美国总统特朗普：（谈乌克兰问题）他们希望我们在周末前往欧洲参加一场会议。我们将根据他们带回的内容做出判断。",
-          "url": "https://flash.jin10.com/detail/20251211045109665800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -212,7 +255,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -223,7 +266,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -245,7 +288,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -256,7 +299,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -267,7 +310,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         },
@@ -289,7 +332,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
         }
@@ -297,7 +340,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -308,30 +351,89 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时13分 ~ 05时11分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 06时02分]"
+        },
+        {
+          "title": "区域银行ETF收涨超3.4%，在美联储降息日领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3018674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251211050826516800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
         },
         {
           "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251211050549928800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 银行股走强",
+          "url": "https://flash.jin10.com/detail/20251211050116386800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "周三（12月10日）纽约尾盘，彭博谷物分类指数跌0.39%，报29.7937点。 CBOT玉米期货跌0.89%，CBOT小麦期货跌0.98%。 CBOT大豆期货涨0.44%，美股开盘以来持续反弹。",
+          "url": "https://wallstreetcn.com/livenews/3018646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收跌超2.7%，特斯拉、亚马逊至少涨1.4%",
+          "url": "https://wallstreetcn.com/livenews/3018673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时02分"
+        },
+        {
+          "title": "新思科技Synopsys第四财季营收22.6亿美元，同比增长38%。 预计2026财年营收95.6亿-96.6亿美元，分析师预期96.3亿美元。 预计第一财季营收23.7亿-24.2亿美元，分析师预期23.6亿美元。 新思科技美股盘后涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3018670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
         },
         {
           "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
@@ -345,17 +447,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "美股收盘：三大股指收涨 银行股走强",
-          "url": "https://flash.jin10.com/detail/20251211050116386800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251211013428018800",
           "source": "金十数据",
@@ -365,17 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
-        },
-        {
-          "title": "周三（12月10日）纽约尾盘，彭博谷物分类指数跌0.39%，报29.7937点。 CBOT玉米期货跌0.89%，CBOT小麦期货跌0.98%。 CBOT大豆期货涨0.44%，美股开盘以来持续反弹。",
-          "url": "https://wallstreetcn.com/livenews/3018646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）热门中概股行情一览（美股盘中）",
@@ -392,8 +472,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
+          "url": "https://wallstreetcn.com/livenews/3018677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
         {
           "title": "消息人士：谷歌(GOOG.O)还可做出更多调整以避免罚款。",
           "url": "https://flash.jin10.com/detail/20251211005244896800",
@@ -514,19 +605,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时14分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时14分 ~ 06时02分]"
         },
         {
           "title": "美国国债收益率持续走低，两年期美债收益率跌幅扩大至8个基点。",
           "url": "https://wallstreetcn.com/livenews/3018647",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
         }
       ]
     },
@@ -550,11 +642,12 @@
           "url": "https://flash.jin10.com/detail/20251211045554004800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时02分]"
         }
       ]
     },
