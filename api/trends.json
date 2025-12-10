@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T13:12:57.804539+08:00",
-  "total_titles_processed": 1227,
+  "generated_at": "2025-12-10T14:16:55.226520+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时16分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时13分 ~ 13时12分]"
+          "appearance_count": 18,
+          "time_info": "[00时13分 ~ 14时16分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -184,6 +184,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "美国总统特朗普：我们现在的重点必须放在赢得中期选举上。",
           "url": "https://flash.jin10.com/detail/20251210083007668800",
           "source": "金十数据",
@@ -305,6 +316,30 @@
           "time_info": "[06时02分 ~ 07时03分]"
         },
         {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 14时16分]"
+        },
+        {
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时12分 ~ 14时16分]"
+        },
+        {
           "title": "欧盟重罚X平台遭特朗普抨击",
           "url": "https://www.douyin.com/hot/2331490",
           "source": "抖音",
@@ -349,17 +384,6 @@
           "time_info": "05时02分"
         },
         {
-          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
-          "url": "https://www.toutiao.com/trending/7581084674962473014/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
           "title": "美国财长贝森特：很荣幸今天上午有机会与乌克兰总理以及她的团队交谈。我强调了特朗普总统致力于确保乌克兰持久和平的承诺，并讨论了财政部对俄罗斯两大石油巨头卢克石油公司和俄罗斯石油公司实施的制裁，这些制裁符合美国总统大胆果断的领导力。",
           "url": "https://flash.jin10.com/detail/20251210041544325800",
           "source": "金十数据",
@@ -369,6 +393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "美国总统特朗普将于本周启动美联储主席人选的最后一轮面试。",
@@ -426,6 +461,17 @@
           "time_info": "11时50分"
         },
         {
+          "title": "特朗普厕所门口受访被人推门撞到",
+          "url": "https://www.toutiao.com/trending/7582097221663936046/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "市场消息：美国总统特朗普关于食品供应链的行政令已在《联邦公报》上发布。",
           "url": "https://flash.jin10.com/detail/20251210002300479800",
           "source": "金十数据",
@@ -457,6 +503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "特朗普抱怨为什么收垃圾国家移民",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B1%E6%80%A8%E4%B8%BA%E4%BB%80%E4%B9%88%E6%94%B6%E5%9E%83%E5%9C%BE%E5%9B%BD%E5%AE%B6%E7%A7%BB%E6%B0%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "“影子美联储主席”哈塞特：无论特朗普提出什么要求，我都照做",
@@ -492,6 +549,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "美财长向乌总理重申特朗普承诺",
+          "url": "https://www.toutiao.com/trending/7582063864838209562/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "特朗普：明天需要给柬埔寨和泰国打电话。",
           "url": "https://wallstreetcn.com/livenews/3018039",
           "source": "华尔街见闻-快讯",
@@ -501,17 +569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
-        },
-        {
-          "title": "邵永灵：特朗普正用国家权力变现",
-          "url": "https://www.toutiao.com/trending/7582064656005467699/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时12分"
         }
       ]
     },
@@ -530,8 +587,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时02分 ~ 13时12分]"
+          "appearance_count": 10,
+          "time_info": "[07时02分 ~ 14时16分]"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -798,8 +855,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时16分]"
         },
         {
           "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
@@ -861,8 +918,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 13时12分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时16分]"
         },
         {
           "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
