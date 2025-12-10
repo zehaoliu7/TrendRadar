@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T17:14:41.920404+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2025-12-10T18:02:58.900893+08:00",
+  "total_titles_processed": 1677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -57,8 +57,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时13分 ~ 17时14分]"
+          "appearance_count": 24,
+          "time_info": "[00时13分 ~ 18时02分]"
         },
         {
           "title": "特朗普：泰柬又打起来了，我得打个电话",
@@ -127,6 +127,31 @@
           "time_info": "[02时13分 ~ 08时45分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 18时02分]"
+        },
+        {
+          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
+          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 18时02分]"
+        },
+        {
           "title": "特朗普：北约叫我爸爸",
           "url": "https://www.toutiao.com/trending/7581363071462408202/",
           "source": "今日头条",
@@ -163,18 +188,6 @@
           "time_info": "[00时13分 ~ 07时03分]"
         },
         {
-          "title": "失去耐心？特朗普要泽连斯基签下“节前之盟”",
-          "url": "https://news.ifeng.com/c/8oyJa7lvayk",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 17时14分]"
-        },
-        {
           "title": "美国总统特朗普：股票市场和401(k)正在上涨，但对物价水平存在误解；实际上，价格正在大幅下跌。",
           "url": "https://flash.jin10.com/detail/20251210083231703800",
           "source": "金十数据",
@@ -207,18 +220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 17时14分]"
         },
         {
           "title": "美国总统特朗普：我们现在的重点必须放在赢得中期选举上。",
@@ -434,6 +435,17 @@
           "time_info": "07时03分"
         },
         {
+          "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
+          "url": "https://news.ifeng.com/c/8oySvvFnvcj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "以色列议会议长阿米尔·奥哈纳和美国众议院议长约翰逊共同发起了一项全球议会倡议，提名特朗普角逐2026年诺贝尔和平奖。",
           "url": "https://flash.jin10.com/detail/20251210041816454800",
           "source": "金十数据",
@@ -454,6 +466,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普要搞“美联储主席最终面试”，哈塞特尚未“板上钉钉”，贝森特仍有望后续接任？",
+          "url": "https://wallstreetcn.com/articles/3761053",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫：美国总统特朗普目前并未急于解除对莫斯科的制裁，反而加强了制裁措施。",
@@ -969,8 +992,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时45分 ~ 17时14分]"
+          "appearance_count": 14,
+          "time_info": "[08时45分 ~ 18时02分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
@@ -1030,7 +1053,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
