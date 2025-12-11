@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T18:03:00.484215+08:00",
-  "total_titles_processed": 1777,
+  "generated_at": "2025-12-11T19:02:44.466936+08:00",
+  "total_titles_processed": 1868,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
@@ -67,8 +67,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 19时02分]"
         },
         {
           "title": "特朗普：被扣押油轮上的石油归美国了",
@@ -128,6 +128,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
+          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时15分 ~ 19时02分]"
+        },
+        {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
           "url": "https://wallstreetcn.com/livenews/3018662",
           "source": "华尔街见闻-快讯",
@@ -138,17 +149,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时02分]"
-        },
-        {
-          "title": "泰国总理回应特朗普：一通电话无法解决泰柬冲突",
-          "url": "https://news.ifeng.com/c/8ozyUBmNa9F",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时15分 ~ 18时03分]"
         },
         {
           "title": "特朗普回应美联储降息：幅度太小",
@@ -428,6 +428,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "据AXIOS网站：特朗普计划任命一名美国将军领导加沙内部安全部队。",
+          "url": "https://flash.jin10.com/detail/20251211180342849800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "美国总统特朗普：美国的利率应该是全世界最低的。",
           "url": "https://wallstreetcn.com/livenews/3018663",
           "source": "华尔街见闻-快讯",
@@ -461,6 +472,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-11）",
+          "url": "https://flash.jin10.com/detail/20251211180126675800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
           "title": "特朗普继续批评鲍威尔，声称美联储降息幅度本来可以翻倍的",
           "url": "https://wallstreetcn.com/livenews/3018645",
           "source": "华尔街见闻-快讯",
@@ -481,6 +503,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "德国总理默茨：与美国总统特朗普的电话会谈富有建设性，双方互相尊重。",
+          "url": "https://flash.jin10.com/detail/20251211175511025800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "德国总理默茨：（就与美国总统特朗普的电话会谈表示）我们告诉他，只有乌克兰才能决定自己的领土归属。",
+          "url": "https://flash.jin10.com/detail/20251211175449735800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "IBM(IBM.N)首席执行官呼吁特朗普放松对某些管制。",
@@ -606,8 +661,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时45分 ~ 18时03分]"
+          "appearance_count": 19,
+          "time_info": "[08时45分 ~ 19时02分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -823,7 +878,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -853,7 +908,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
@@ -932,6 +987,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
+          "url": "https://www.zhihu.com/question/1980552349165564560",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时02分"
         },
         {
           "title": "消息人士：若谷歌不做出更多让步，将面临欧盟罚款",
