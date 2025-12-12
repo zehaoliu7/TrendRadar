@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T22:02:24.524349+08:00",
-  "total_titles_processed": 2134,
+  "generated_at": "2025-12-12T23:12:13.480353+08:00",
+  "total_titles_processed": 2228,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 76,
       "titles": [
         {
           "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
@@ -35,8 +35,33 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时12分 ~ 22时02分]"
+          "appearance_count": 14,
+          "time_info": "[13时12分 ~ 23时12分]"
+        },
+        {
+          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
+          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时15分 ~ 23时12分]"
+        },
+        {
+          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
+          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时15分 ~ 23时12分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -78,31 +103,6 @@
           "time_info": "[00时15分 ~ 07时03分]"
         },
         {
-          "title": "C5替换G7？梅德韦杰夫：特朗普公然羞辱欧洲",
-          "url": "https://news.ifeng.com/c/8p1L6GS7kXE",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时15分 ~ 22时02分]"
-        },
-        {
-          "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
-          "url": "https://news.ifeng.com/c/8p1ctCRfRRQ",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时15分 ~ 22时02分]"
-        },
-        {
           "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
           "url": "https://news.ifeng.com/c/8p1EpDusf8A",
           "source": "凤凰网",
@@ -134,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "Tilray Brands Inc.涨40%，媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
+          "url": "https://wallstreetcn.com/livenews/3020048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "大陪审团拒绝起诉纽约州总检察长，特朗普再遭挫折",
@@ -593,6 +604,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "美联储Hammack：美国总统特朗普推行的政策将在2026年带来“得体的”刺激。",
+          "url": "https://wallstreetcn.com/livenews/3020034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普签署行政命令，加强对代理顾问行业的监管，并采取行动恢复公众对该行业的信心。",
           "url": "https://flash.jin10.com/detail/20251212080825037800",
           "source": "金十数据",
@@ -613,6 +635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "美联储哈玛克：特朗普的法案将在明年增加“可观的”刺激作用。",
+          "url": "https://flash.jin10.com/detail/20251212222202957800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "特朗普称美对委行动“很快将从海上延伸至陆地”",
@@ -860,7 +893,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -899,6 +932,17 @@
           "time_info": "02时14分"
         },
         {
+          "title": "随着银价创下历史新高，美股银矿股股价飙升，恩迪沃银业上涨0.3%，西尔科金属上涨0.6%，赫克拉矿业上涨3.5%，科埃尔矿业上涨2.5%，赫克拉矿业上涨3.5%，科埃尔矿业上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20251212223502098800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "金十图示：2025年12月11日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251212013102151800",
           "source": "金十数据",
@@ -908,6 +952,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "高盛：看好美股2026市场表现 六大科技公司将贡献近半增长",
+          "url": "https://flash.jin10.com/detail/20251212223434535800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
@@ -944,6 +999,17 @@
           "time_info": "[05时11分 ~ 07时03分]"
         },
         {
+          "title": "全球股市涨幅扩大，科技股拖累美股指期货，铜银续创新高，现货黄金重新站上4300美元",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
+        },
+        {
           "title": "博通(AVGO.O)美股盘后涨4%。",
           "url": "https://flash.jin10.com/detail/20251212051638252800",
           "source": "金十数据",
@@ -954,6 +1020,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时03分]"
+        },
+        {
+          "title": "美股开盘，道指开涨0.2%，标普500指数跌0.17%，纳指跌0.46%。花旗集团(C.N)涨1.3%，摩根大通将其评级从中性上调至超配；博通(AVGO.O)跌超7%，公司称第一财季毛利润率将因AI产品而收缩1%。甲骨文(ORCL.N)下跌1.1%，此前一交易日已下跌近11%。",
+          "url": "https://flash.jin10.com/detail/20251212223022214800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "行业ETF美股盘初多数上涨，航空业ETF涨超1.4%，科技行业ETF则跌超0.8%，半导体ETF跌超1.5%",
+          "url": "https://wallstreetcn.com/livenews/3020040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -1055,6 +1143,17 @@
           "time_info": "20时19分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3020018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "纳斯达克金龙中国指数美股盘初跌0.8%。 拼多多美股盘初跌3.8%，Boss直聘跌3.4%，金山云跌超3.2%，大全新能源、阿里巴巴跌超2.7%，小鹏跌2.6%，蔚来跌2%。 百度涨0.6%，中通快递和百胜中国涨超0.8%，贝壳涨3.2%。 ETF中，KWEB跌1.29%，CQQQ跌1.32%。",
           "url": "https://wallstreetcn.com/livenews/3019299",
           "source": "华尔街见闻-快讯",
@@ -1125,8 +1224,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时24分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[12时24分 ~ 23时12分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -1337,11 +1436,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时46分 ~ 22时02分]"
+          "appearance_count": 17,
+          "time_info": "[10时46分 ~ 23时12分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -1350,11 +1450,12 @@
           "ranks": [
             15,
             8,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时03分 ~ 22时02分]"
+          "appearance_count": 7,
+          "time_info": "[19时03分 ~ 23时12分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
@@ -1561,47 +1662,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
-          "url": "https://flash.jin10.com/detail/20251212102205776800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时46分"
-        },
-        {
-          "title": "金十图示：2025年12月12日（周五）上海金午盘价为965.28元/克，较国际金价(972.09元/克)，低6.81元/克",
-          "url": "https://flash.jin10.com/detail/20251212154709689800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
-          "title": "金价延续涨势 德商银行：预计美联储降息幅度将超过市场预期",
-          "url": "https://flash.jin10.com/detail/20251212212056056800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数11日下跌",
@@ -1638,6 +1700,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时02分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数盘初涨约1%。 热门中概股逸仙电商涨22.6%，金山云涨4.2%，网易涨3%，中通快递、新东方、阿特斯太阳能、再鼎医药涨超2%，百度则跌0.8%，文远知行跌1%，小马智行跌1.1%，Boss直聘跌1.4%。 此外，九紫新能涨30%，该公司将非公开配售规模扩大至10亿美元，希望满足投资者强劲的需求。 ETF中，KWEB涨0.76%，CQQQ涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3020041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
+          "url": "https://flash.jin10.com/detail/20251212102205776800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "金十图示：2025年12月12日（周五）上海金午盘价为965.28元/克，较国际金价(972.09元/克)，低6.81元/克",
+          "url": "https://flash.jin10.com/detail/20251212154709689800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "金价延续涨势 德商银行：预计美联储降息幅度将超过市场预期",
+          "url": "https://flash.jin10.com/detail/20251212212056056800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
