@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T15:02:36.706527+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2025-12-13T16:13:18.076408+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -61,11 +61,25 @@
             14,
             16,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时11分 ~ 15时02分]"
+          "appearance_count": 21,
+          "time_info": "[00时11分 ~ 16时13分]"
+        },
+        {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 16时13分]"
         },
         {
           "title": "特朗普称泰柬已同意停火 泰方否认",
@@ -83,6 +97,21 @@
           "time_info": "[10时27分 ~ 14时14分]"
         },
         {
+          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
+          "url": "https://flash.jin10.com/detail/20251213111612295800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            4,
+            8,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 16时13分]"
+        },
+        {
           "title": "法院文件显示，加利福尼亚州起诉特朗普政府，因其撤销超3300万美元联邦拨款，这些拨款原用于针对非美国居民的卡车司机英语能力要求规定。",
           "url": "https://flash.jin10.com/detail/20251213102355663800",
           "source": "金十数据",
@@ -98,18 +127,6 @@
           "time_info": "[11时42分 ~ 15时02分]"
         },
         {
-          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
-          "url": "https://flash.jin10.com/detail/20251213131305142800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时14分 ~ 15时02分]"
-        },
-        {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
           "url": "https://flash.jin10.com/detail/20251213034901959800",
           "source": "金十数据",
@@ -121,20 +138,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时03分 ~ 10时27分]"
-        },
-        {
-          "title": "美国文物保护组织就白宫宴会厅项目起诉特朗普",
-          "url": "https://flash.jin10.com/detail/20251213111612295800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            4,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 15时02分]"
         },
         {
           "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
@@ -152,17 +155,17 @@
           "time_info": "[10时27分 ~ 14时14分]"
         },
         {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            10,
-            9
+            2,
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时14分 ~ 16时13分]"
         },
         {
           "title": "特朗普：泰国和柬埔寨已同意今晚起停止交火",
@@ -410,6 +413,17 @@
           "time_info": "[13时02分 ~ 14时14分]"
         },
         {
+          "title": "爱泼斯坦案新影像曝光，有特朗普与6女子合照",
+          "url": "https://news.ifeng.com/c/8p315VNzI20",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 16时13分]"
+        },
+        {
           "title": "特朗普称泰柬双方同意停火",
           "url": "https://www.toutiao.com/trending/7582909402869452342/",
           "source": "今日头条",
@@ -455,17 +469,6 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
-          "title": "爱泼斯坦案新影像曝光，有特朗普与6女子合照",
-          "url": "https://news.ifeng.com/c/8p315VNzI20",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
           "title": "美国总统特朗普：泰国和柬埔寨已经同意从今晚起停止一切交火行动。",
           "url": "https://flash.jin10.com/detail/20251213013909297800",
           "source": "金十数据",
@@ -483,7 +486,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -497,6 +500,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
         },
         {
           "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
@@ -543,6 +557,17 @@
           "time_info": "14时14分"
         },
         {
+          "title": "邵永灵：欧盟阻击特朗普“和平计划”",
+          "url": "https://www.toutiao.com/trending/7583206442077785654/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "泰国总理：我已请求美国总统特朗普敦促柬埔寨停止敌对行动。",
           "url": "https://flash.jin10.com/detail/20251212231047745800",
           "source": "金十数据",
@@ -580,8 +605,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时02分 ~ 15时02分]"
+          "appearance_count": 12,
+          "time_info": "[07时02分 ~ 16时13分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -727,11 +752,12 @@
             5,
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时02分 ~ 15时02分]"
+          "appearance_count": 12,
+          "time_info": "[07时02分 ~ 16时13分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -984,6 +1010,36 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据伊朗国家媒体报道，伊朗在阿曼湾查获一艘载有600万升走私柴油的外国油轮。",
+          "url": "https://flash.jin10.com/detail/20251213035649501800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时03分 ~ 10时27分]"
+        },
+        {
+          "title": "伊朗媒体称，在阿曼湾被扣押的外国油轮的18名船员因涉嫌运输“走私燃料”而被拘留。",
+          "url": "https://flash.jin10.com/detail/20251213151317078800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1015,25 +1071,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据伊朗国家媒体报道，伊朗在阿曼湾查获一艘载有600万升走私柴油的外国油轮。",
-          "url": "https://flash.jin10.com/detail/20251213035649501800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时03分 ~ 10时27分]"
         }
       ]
     }
