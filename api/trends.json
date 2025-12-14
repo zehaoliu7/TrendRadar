@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T17:02:49.880238+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2025-12-14T18:02:46.741115+08:00",
+  "total_titles_processed": 1118,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时02分 ~ 12时27分]"
+        },
+        {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时52分 ~ 18时02分]"
         },
         {
           "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
@@ -110,19 +123,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时52分 ~ 17时02分]"
         },
         {
           "title": "美国国务卿卢比奥：卢旺达在刚果（金）东部的行动明显违反了特朗普总统签署的《华盛顿协议》。",
@@ -306,6 +306,17 @@
           "time_info": "08时49分"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普称将“严厉报复”",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "特朗普称泰柬已同意停火 泰方否认",
           "url": "https://www.toutiao.com/trending/7582072617088548873/",
           "source": "今日头条",
@@ -372,33 +383,36 @@
           "url": "https://flash.jin10.com/detail/20251214161354390800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时02分]"
         },
         {
           "title": "伊朗外交部：有关任命伊朗新任驻黎巴嫩大使的程序正在进行中，我们希望这些程序能够正常进行。",
           "url": "https://flash.jin10.com/detail/20251214161332352800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时02分]"
         },
         {
           "title": "伊朗外交部：我们呼吁黎巴嫩朋友们注重黎巴嫩社会各阶层之间的理解和对话。",
           "url": "https://flash.jin10.com/detail/20251214161320478800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时02分]"
         },
         {
           "title": "美军被曝突袭从中国驶往伊朗货轮",
@@ -472,8 +486,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时02分 ~ 17时02分]"
+          "appearance_count": 20,
+          "time_info": "[00时02分 ~ 18时02分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -520,11 +534,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时11分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时11分 ~ 18时02分]"
         }
       ]
     }
