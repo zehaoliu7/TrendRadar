@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T05:02:38.274078+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2025-12-16T06:03:01.540043+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 39,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -39,11 +39,12 @@
             8,
             10,
             17,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -59,6 +60,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 05时02分]"
+        },
+        {
+          "title": "美国总统特朗普：“强烈”考虑通过行政命令重新归类大麻。",
+          "url": "https://wallstreetcn.com/livenews/3021183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "周一（12月15日），降息赢家指数跌0.38%，“特朗普关税输家”指数涨0.29%，散户抱团概念股指数/迷因股（meme stock）指数跌3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3021182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "美国总统特朗普邀请斯洛伐克总理访美商谈核能合作事宜。",
@@ -78,18 +101,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
-          "url": "https://wallstreetcn.com/livenews/3021155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -116,6 +128,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时16分]"
+        },
+        {
+          "title": "美国总统特朗普：一个小时之前与欧洲领导人对话。 与乌克兰总统泽连斯基谈论了很长时间。 今天对话之后，乌克兰战事将比任何时候都更加接近结束。",
+          "url": "https://wallstreetcn.com/livenews/3021155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时03分]"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -155,13 +179,24 @@
           "time_info": "[03时12分 ~ 04时02分]"
         },
         {
+          "title": "美国总统特朗普：我今天没看股市，也许它上涨了。",
+          "url": "https://flash.jin10.com/detail/20251216050700724800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "美国总统特朗普：将开始打击陆地上的毒品走私贩。",
           "url": "https://flash.jin10.com/detail/20251216042346554800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -172,7 +207,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -183,7 +218,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -205,7 +240,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -216,9 +251,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：我今天没看股市，可能涨了。",
+          "url": "https://wallstreetcn.com/livenews/3021167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "美联储理事米兰：总统特朗普并未与我商谈美联储席位的安排。",
@@ -238,7 +284,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -249,9 +295,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：我要起诉BBC，对方将文字塞进我的嘴里。 我们可能会在今天或明天早间递交诉状。",
+          "url": "https://wallstreetcn.com/livenews/3021165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "德国总理默茨：存在实现真正和平进程的契机，这是自俄乌冲突爆发以来最大的一次契机。没有美国总统特朗普，我们不可能取得过去数小时的积极态势。",
@@ -265,6 +322,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国总统特朗普：丰田刚刚批准了在美国建设制造工厂。",
+          "url": "https://flash.jin10.com/detail/20251216050154625800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "美国纽约联储主席威廉姆斯：企业在一定程度上消耗掉（总统特朗普挑起）关税之前的库存。",
           "url": "https://wallstreetcn.com/livenews/3021099",
           "source": "华尔街见闻-快讯",
@@ -274,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "美国总统特朗普：国际维和部队已经在以某种形式运行了。",
+          "url": "https://flash.jin10.com/detail/20251216045805156800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "非农前夜，特朗普的BLS发布预警：11月住户调查统计方差更大",
@@ -287,6 +366,39 @@
           "time_info": "01时16分"
         },
         {
+          "title": "美国总统特朗普：更多国家将加入加沙国际维和部队。",
+          "url": "https://flash.jin10.com/detail/20251216045719232800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "特朗普：现在比以往任何时候都更接近达成“和平协议”",
+          "url": "https://flash.jin10.com/detail/20251216045556707800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美国总统特朗普：直接与俄罗斯总统普京进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251216045447003800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "斯洛伐克总理菲佐：将前往美国，并在2026年世界杯期间与美国总统特朗普会面，商讨核电站协议。",
           "url": "https://flash.jin10.com/detail/20251215234849282800",
           "source": "金十数据",
@@ -298,6 +410,28 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美国总统特朗普：将对极端组织 “伊斯兰国” 实施严厉打击。",
+          "url": "https://flash.jin10.com/detail/20251216044703308800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美国总统特朗普：我与内塔尼亚胡一直保持着良好的关系。",
+          "url": "https://flash.jin10.com/detail/20251216044528423800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
           "title": "美联储主席人选博弈加剧，哈塞特面临特朗普身边高层反对",
           "url": "https://flash.jin10.com/detail/20251215234404561800",
           "source": "金十数据",
@@ -307,12 +441,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在调查以色列是否通过杀害哈马斯领导人而违反了停火协议。",
+          "url": "https://flash.jin10.com/detail/20251216044444718800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
@@ -324,8 +469,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时03分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -338,8 +483,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 05时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 06时03分]"
+        },
+        {
+          "title": "科技行业ETF收跌将近1%，领跌美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3021176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251216050605553800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -362,6 +529,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        },
+        {
+          "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251216050520167800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "美股收盘：三大股指收跌 特斯拉涨3.5%",
+          "url": "https://flash.jin10.com/detail/20251216050109624800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时03分"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股盘中）",
@@ -460,11 +649,12 @@
           "url": "https://wallstreetcn.com/livenews/3021163",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时03分]"
         }
       ]
     },
@@ -477,11 +667,12 @@
           "url": "https://wallstreetcn.com/livenews/3021162",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时03分]"
         }
       ]
     }
