@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:02:46.874510+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2025-12-16T19:02:42.169552+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时46分 ~ 18时02分]"
+          "appearance_count": 11,
+          "time_info": "[08时46分 ~ 19时02分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -83,11 +83,12 @@
             13,
             12,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 19时02分]"
         },
         {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
@@ -116,6 +117,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时15分 ~ 05时02分]"
+        },
+        {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 19时02分]"
         },
         {
           "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
@@ -172,7 +184,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -197,17 +209,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -900,7 +901,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -933,7 +934,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -966,7 +967,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
@@ -999,6 +1000,17 @@
           "time_info": "02时16分"
         },
         {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时02分]"
+        },
+        {
           "title": "“俄版谷歌”，正帮中国商人大赚",
           "url": "https://news.ifeng.com/c/8p87L7ByRCW",
           "source": "凤凰网",
@@ -1021,17 +1033,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时16分 ~ 04时02分]"
-        },
-        {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时02分]"
         }
       ]
     },
@@ -1069,7 +1070,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
