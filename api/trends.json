@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T14:16:50.907590+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2025-12-16T15:15:33.240671+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "日媒：特朗普曾警告高市早苗“别添乱”",
@@ -57,8 +57,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 14时16分]"
+          "appearance_count": 6,
+          "time_info": "[10时46分 ~ 15时15分]"
         },
         {
           "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
@@ -71,8 +71,21 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时46分 ~ 15时15分]"
+        },
+        {
+          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://news.ifeng.com/c/8p7htngCHQD",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            12,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[08时46分 ~ 14时16分]"
+          "time_info": "[10时46分 ~ 15时15分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -90,19 +103,6 @@
           "time_info": "[00时15分 ~ 05时02分]"
         },
         {
-          "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://news.ifeng.com/c/8p7htngCHQD",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时46分 ~ 14时16分]"
-        },
-        {
           "title": "文件显示：美国总统特朗普向英国广播公司（BBC）索赔50亿美元。",
           "url": "https://flash.jin10.com/detail/20251216081629510800",
           "source": "金十数据",
@@ -112,6 +112,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时46分 ~ 15时15分]"
         },
         {
           "title": "文件显示：美国总统特朗普就“1月6日事件”演讲的剪辑片段起诉英国广播公司诽谤。",
@@ -158,17 +172,18 @@
           "time_info": "05时02分"
         },
         {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
+          "title": "特朗普正式起诉BBC 共索赔100亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            15,
-            13,
-            12
+            22,
+            25,
+            24,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时46分 ~ 14时16分]"
+          "time_info": "[11时52分 ~ 15时15分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -241,19 +256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时03分]"
-        },
-        {
-          "title": "特朗普正式起诉BBC 共索赔100亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89BBC+%E5%85%B1%E7%B4%A2%E8%B5%94100%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 14时16分]"
         },
         {
           "title": "美联储理事米兰：可能会继续留在美联储，直至（美国总统特朗普）新的提名人获得国会山确认。",
@@ -504,6 +506,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美特使和特朗普女婿疑似没认出德总理",
+          "url": "https://www.toutiao.com/trending/7584270560197099539/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "美国总统特朗普：国际维和部队已经在以某种形式运行了。",
           "url": "https://flash.jin10.com/detail/20251216045805156800",
           "source": "金十数据",
@@ -652,8 +665,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时02分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[07时02分 ~ 15时15分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -937,9 +950,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 15时15分]"
         }
       ]
     },
