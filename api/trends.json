@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:14:42.638306+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2025-12-17T16:15:56.570609+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -109,11 +109,12 @@
             1,
             2,
             10,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 16时15分]"
         },
         {
           "title": "特朗普下令封锁所有受制裁委油轮",
@@ -222,6 +223,18 @@
           "time_info": "[04时02分 ~ 05时03分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时14分 ~ 16时15分]"
+        },
+        {
           "title": "特朗普称认定委政府是“恐怖组织”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%AE%A4%E5%AE%9A%E5%A7%94%E6%94%BF%E5%BA%9C%E6%98%AF%E2%80%9C%E6%81%90%E6%80%96%E7%BB%84%E7%BB%87%E2%80%9D",
           "source": "百度热搜",
@@ -231,17 +244,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时30分 ~ 11时48分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时14分 ~ 15时14分]"
         },
         {
           "title": "特朗普称已下令封锁进出委受制裁油轮",
@@ -349,6 +351,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时13分 ~ 01时15分]"
+        },
+        {
+          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
+          "url": "https://www.cls.cn/detail/2231712",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 16时15分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
@@ -550,15 +564,15 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普称已下令封锁所有进出委内瑞拉受制裁油轮",
-          "url": "https://www.cls.cn/detail/2231712",
+          "title": "特朗普签署公告 进一步限制外国公民入境美国",
+          "url": "https://www.cls.cn/detail/2231615",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时16分"
+          "time_info": "16时15分"
         },
         {
           "title": "委内瑞拉副总统：特朗普正以威胁手段图谋掠夺本国资源。",
@@ -688,7 +702,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
