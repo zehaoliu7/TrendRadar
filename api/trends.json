@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T11:49:35.072557+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2025-12-18T12:24:38.601064+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -33,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时49分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时24分]"
         },
         {
           "title": "打破沉默，冯德莱恩回应特朗普：不能让他人的世界观定义欧洲",
@@ -81,6 +81,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
+          "url": "https://flash.jin10.com/detail/20251218121134659800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "白宫官员：美国总统特朗普预计将于周四就大麻重新分类问题发表讲话。",
           "url": "https://flash.jin10.com/detail/20251218063414755800",
           "source": "金十数据",
@@ -114,6 +125,18 @@
           "time_info": "10时31分"
         },
         {
+          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
+          "url": "https://wallstreetcn.com/articles/3761566",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时41分 ~ 12时24分]"
+        },
+        {
           "title": "美国总统特朗普：华盛顿特区的安全水平达到了前所未有的高度。",
           "url": "https://flash.jin10.com/detail/20251218100614750800",
           "source": "金十数据",
@@ -145,18 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
-        },
-        {
-          "title": "刚宣布封锁委内瑞拉，特朗普又威胁对俄新制裁，布油重回60美元！",
-          "url": "https://wallstreetcn.com/articles/3761566",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时41分 ~ 11时49分]"
         },
         {
           "title": "美国总统特朗普在自家社交媒体平台谈论NBC和ABC，称：电视网络占用公共电波资源应当获得适当的许可证。 该行业应该支付“大量资金”，它们应该为了这个有价值的空间付费。",
@@ -206,6 +217,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时14分 ~ 02时16分]"
+        },
+        {
+          "title": "特朗普对马杜罗下狠手",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 12时24分]"
         },
         {
           "title": "特朗普政府计划拆解主要气候研究中心",
@@ -266,18 +290,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普对马杜罗下狠手",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A9%AC%E6%9D%9C%E7%BD%97%E4%B8%8B%E7%8B%A0%E6%89%8B",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 11时49分]"
         },
         {
           "title": "特朗普：我为以色列做了太多",
@@ -412,6 +424,17 @@
           "time_info": "10时31分"
         },
         {
+          "title": "美国总统特朗普预计将于美东时间下午1点30分（北京时间次日02:30）签署行政命令。另外，特朗普将于美东时间下午6点（北京时间次日07:00）签署《国防授权法案》。",
+          "url": "https://flash.jin10.com/detail/20251218120122593800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "据华尔街日报：上诉法院批准美国总统特朗普在华盛顿哥伦比亚特区部署国民警卫队。",
           "url": "https://flash.jin10.com/detail/20251218001757472800",
           "source": "金十数据",
@@ -467,6 +490,17 @@
           "time_info": "00时14分"
         },
         {
+          "title": "特朗普将发表全国讲话强调政绩",
+          "url": "https://www.douyin.com/hot/2339868",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        },
+        {
           "title": "美智库：特朗普重返白宫不到一年，签署行政命令已超其首任总和",
           "url": "https://flash.jin10.com/detail/20251218005333021800",
           "source": "金十数据",
@@ -509,6 +543,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普发表演讲称接手了一个烂摊子",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E6%BC%94%E8%AE%B2%E7%A7%B0%E6%8E%A5%E6%89%8B%E4%BA%86%E4%B8%80%E4%B8%AA%E7%83%82%E6%91%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "美国财长贝森特：桥水基金创始人瑞·达利欧加入助力特朗普账户的行动。",
@@ -561,7 +606,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         }
@@ -580,8 +625,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时02分 ~ 11时49分]"
+          "appearance_count": 8,
+          "time_info": "[06时02分 ~ 12时24分]"
         },
         {
           "title": "美股收盘：甲骨文带崩大盘 三大指数齐跌 纳指跌近2%",
@@ -593,8 +638,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 11时49分]"
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 12时24分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -779,8 +824,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时31分 ~ 11时49分]"
+          "appearance_count": 3,
+          "time_info": "[10时31分 ~ 12时24分]"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -819,6 +864,18 @@
           "time_info": "[06时02分 ~ 07时03分]"
         },
         {
+          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
+          "url": "https://www.cls.cn/detail/2232789",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时49分 ~ 12时24分]"
+        },
+        {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
           "url": "https://wallstreetcn.com/livenews/3022526",
           "source": "华尔街见闻-快讯",
@@ -831,24 +888,13 @@
           "time_info": "[01时15分 ~ 02时16分]"
         },
         {
-          "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
-          "url": "https://www.cls.cn/detail/2232789",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时49分"
-        },
-        {
           "title": "白银成全球第四大资产 市值超越谷歌",
           "url": "https://flash.jin10.com/detail/20251218105307391800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         },
@@ -982,7 +1028,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
         }
