@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-19T14:16:05.303859+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2025-12-19T15:14:16.100125+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 72,
       "titles": [
+        {
+          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
+          "url": "https://www.cls.cn/detail/2234192",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 15时14分]"
+        },
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2233937",
@@ -21,23 +34,24 @@
           "time_info": "[00时13分 ~ 10时47分]"
         },
         {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 15时14分]"
+        },
+        {
           "title": "特朗普再次向乌克兰施压",
           "url": "https://news.ifeng.com/c/8pCpqaXsvao",
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 14时16分]"
-        },
-        {
-          "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
-          "url": "https://www.cls.cn/detail/2234192",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -52,24 +66,12 @@
             5,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时45分 ~ 14时16分]"
-        },
-        {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://news.ifeng.com/c/8pCbX95hrxq",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 14时16分]"
+          "appearance_count": 12,
+          "time_info": "[08时45分 ~ 15时14分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -83,6 +85,17 @@
           "time_info": "[00时13分 ~ 07时02分]"
         },
         {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 15时14分]"
+        },
+        {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
           "url": "https://m.thepaper.cn/newsDetail_forward_32204359",
           "source": "澎湃新闻",
@@ -91,22 +104,12 @@
             17,
             15,
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时15分 ~ 14时16分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 14时16分]"
+          "appearance_count": 19,
+          "time_info": "[02时15分 ~ 15时14分]"
         },
         {
           "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
@@ -131,6 +134,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
+          "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
+          "url": "https://www.cls.cn/detail/2234375",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时13分 ~ 15时14分]"
         },
         {
           "title": "特朗普：美国将在月球部署核反应堆",
@@ -213,18 +240,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 13时13分]"
-        },
-        {
-          "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
-          "url": "https://www.cls.cn/detail/2234375",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 14时16分]"
         },
         {
           "title": "特朗普18分钟全国电视讲话说了什么",
@@ -320,6 +335,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "美国总统特朗普：尚未与以色列总理安排会面，但他很想见我。",
@@ -846,6 +872,19 @@
           "time_info": "[07时02分 ~ 14时16分]"
         },
         {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 15时14分]"
+        },
+        {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
           "url": "https://wallstreetcn.com/articles/3761635",
           "source": "华尔街见闻",
@@ -856,19 +895,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时15分 ~ 06时02分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时46分 ~ 14时16分]"
         },
         {
           "title": "甲骨文美股盘后涨3%。",
@@ -1254,7 +1280,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
@@ -1278,6 +1304,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时11分]"
+        },
+        {
+          "title": "白宫：微软、谷歌等24家公司签署协议 加入美国AI“创世纪计划”",
+          "url": "https://www.cls.cn/detail/2234237",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "谷歌：扩展内容透明度工具，帮助更轻松地识别人工智能生成内容。图像和视频验证现已在Gemini应用支持的所有语言和国家/地区可用。",
