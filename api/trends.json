@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-19T07:02:39.335170+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2025-12-19T08:46:07.381934+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普+核聚变概念股诞生 美国CPI刺激期指拉涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2233937",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 08时46分]"
         },
         {
           "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
@@ -36,11 +37,34 @@
           "ranks": [
             18,
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 07时02分]"
+          "appearance_count": 9,
+          "time_info": "[02时15分 ~ 08时46分]"
+        },
+        {
+          "title": "特朗普：美国将在月球部署核反应堆",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E5%9C%A8%E6%9C%88%E7%90%83%E9%83%A8%E7%BD%B2%E6%A0%B8%E5%8F%8D%E5%BA%94%E5%A0%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "特朗普：美国将在月球部署核反应堆",
+          "url": "https://www.toutiao.com/trending/7585339674915573286/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         },
         {
           "title": "特朗普将签署命令，重新归类大麻",
@@ -102,6 +126,17 @@
           "time_info": "[02时16分 ~ 03时11分]"
         },
         {
+          "title": "特朗普下令要求美国人2028年登月",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%BA%BA2028%E5%B9%B4%E7%99%BB%E6%9C%88%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
           "url": "https://wallstreetcn.com/livenews/3023318",
           "source": "华尔街见闻-快讯",
@@ -148,6 +183,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 04时11分]"
+        },
+        {
+          "title": "特朗普媒体集团大涨42%，公司拟并购核聚变公司TAE，计划明年开始建设核聚变发电厂",
+          "url": "https://wallstreetcn.com/articles/3761652",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         },
         {
           "title": "美国总统特朗普：希望国会山不至于泄露关于打击委内瑞拉的情报。",
@@ -222,6 +268,17 @@
           "time_info": "[04时11分 ~ 05时02分]"
         },
         {
+          "title": "特朗普商业帝国再扩张！DJT并购TAE转型为聚变能源公司",
+          "url": "https://www.cls.cn/detail/2233997",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
           "title": "美国总统特朗普：（宣布美联储主席人选）可能要到年底之后。",
           "url": "https://flash.jin10.com/detail/20251219031834867800",
           "source": "金十数据",
@@ -282,6 +339,17 @@
           "time_info": "[04时11分 ~ 05时02分]"
         },
         {
+          "title": "特朗普摊牌了：委内瑞拉夺走石油，美国必须要回来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32201489",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
           "title": "特朗普签署命令，放宽美国联邦政府对大麻的限制",
           "url": "https://wallstreetcn.com/livenews/3023303",
           "source": "华尔街见闻-快讯",
@@ -300,9 +368,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美总统特朗普签署2026财年国防授权法案",
+          "url": "https://wallstreetcn.com/livenews/3023413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "文件显示：如果交易在特定情况下终止，特朗普媒体科技集团(DJT.O)可能需要向核聚变公司TAE支付9000万美元的终止费。",
@@ -311,7 +390,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -377,7 +456,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -391,6 +470,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "美总统特朗普签署2026财年国防授权法案",
+          "url": "https://flash.jin10.com/detail/20251219080228338800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "美媒：特朗普拟设平安夜及圣诞节次日为联邦假日",
@@ -459,6 +549,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "白宫称，特朗普已签署国防授权法案。",
+          "url": "https://wallstreetcn.com/livenews/3023394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "美国高级政府官员：特朗普将于周四签署行政命令，旨在加速将大麻重新归类为第三类管制物质。",
           "url": "https://flash.jin10.com/detail/20251219024503670800",
           "source": "金十数据",
@@ -487,7 +588,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -594,7 +695,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -626,9 +727,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2234084",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时46分]"
         },
         {
           "title": "周四（12月18日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.45%，报85575美元，北京时间21:30发布美国CPI数据之前持续、稳扎稳打地走高，之后涨幅扩大，22：01刷新日高至89660美元，经过一段时间的高位震荡后，01:00出现一波显著的回落行情，04:00刷新日低并跌向84500美元。 CME以太币期货DCR主力合约跌0.35%，报2822美元，日内交投于3002.50-2780美元区间。 美股加密货币与加密货币关联指数涨0.84%，报58.73点，美股开盘后曾刷新日高至62.26点，之后逐步回落。 最近24小时，MarketVector数字资产100小盘指数跌3.53%，暂报3400.92点。",
@@ -739,24 +852,13 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
-          "title": "美股收盘：11月CPI提振市场 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2234084",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
           "title": "周四（12月18日，美国CPI通胀数据发布日），降息赢家指数涨0.31%，报99.84点，跳空高开之后，美股盘初刷新日高至101.57点，之后逐步回吐涨幅。 “特朗普关税输家”指数涨0.87%，散户抱团概念股指数/迷因股（meme stock）指数涨2.0%。",
           "url": "https://wallstreetcn.com/livenews/3023371",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -805,6 +907,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "甲骨文美股盘后涨3.59%。",
+          "url": "https://wallstreetcn.com/livenews/3023381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "行业ETF美股盘初普遍上涨，半导体ETF涨3.3%，全球科技股指数ETF、科技行业ETF、可选消费ETF至多涨1.66%，网络股指数ETF涨1.11%，银行业ETF涨0.58%，能源业ETF回撤0.9%。",
           "url": "https://wallstreetcn.com/livenews/3023222",
           "source": "华尔街见闻-快讯",
@@ -827,11 +940,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时13分 ~ 07时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 08时46分]"
         },
         {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
@@ -937,7 +1051,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -1068,23 +1182,24 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时02分 ~ 08时46分]"
+        },
+        {
           "title": "日本美债持有规模升至1.2万亿美元",
           "url": "https://flash.jin10.com/detail/20251219050608165800",
           "source": "金十数据",
           "ranks": [
             9,
             30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
-          "url": "https://wallstreetcn.com/articles/3761610",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1108,7 +1223,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -1130,7 +1245,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
