@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T06:02:37.090657+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2025-12-21T07:02:39.253242+08:00",
+  "total_titles_processed": 453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -37,8 +37,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -106,8 +106,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
@@ -118,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -131,8 +131,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -143,8 +143,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         }
       ]
     },
@@ -161,8 +161,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -170,11 +170,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 07时02分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -185,8 +186,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 07时02分]"
         }
       ]
     },
