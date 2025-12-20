@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T14:15:08.994593+08:00",
-  "total_titles_processed": 1085,
+  "generated_at": "2025-12-20T15:02:29.923185+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 14时15分]"
+          "appearance_count": 10,
+          "time_info": "[08时42分 ~ 15时02分]"
         },
         {
           "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
@@ -56,6 +56,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时11分 ~ 08时43分]"
+        },
+        {
+          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3024224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            8,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 15时02分]"
         },
         {
           "title": "特朗普年终演讲为何不提中国",
@@ -112,21 +127,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时11分 ~ 08时43分]"
-        },
-        {
-          "title": "美国总统特朗普：将与健康保险公司召开会议，或许会达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3024224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            8,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 14时15分]"
         },
         {
           "title": "美国总统特朗普：保险公司“正在敲诈美国”，医疗费用必须直接归人民所有。民主党必须加入进来！",
@@ -500,8 +500,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 14时15分]"
+          "appearance_count": 10,
+          "time_info": "[08时42分 ~ 15时02分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
+          "url": "https://www.cls.cn/detail/2235346",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时42分 ~ 15时02分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -515,19 +528,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
-          "url": "https://www.cls.cn/detail/2235346",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 14时15分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -552,8 +552,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时26分 ~ 14时15分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 15时02分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -573,11 +573,12 @@
           "url": "https://www.cls.cn/detail/2235373",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时02分 ~ 14时15分]"
+          "appearance_count": 4,
+          "time_info": "[13时02分 ~ 15时02分]"
         },
         {
           "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
@@ -690,8 +691,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 14时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时26分 ~ 15时02分]"
         },
         {
           "title": "以色列暗杀伊朗核专家细节曝光",
@@ -722,6 +723,21 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13,
+            15,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时02分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3024168",
           "source": "华尔街见闻-快讯",
@@ -732,20 +748,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
-        },
-        {
-          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
-          "url": "https://flash.jin10.com/detail/20251220105539232800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            13,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时15分]"
         },
         {
           "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
@@ -775,8 +777,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时02分 ~ 14时15分]"
+          "appearance_count": 12,
+          "time_info": "[06时02分 ~ 15时02分]"
         },
         {
           "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
