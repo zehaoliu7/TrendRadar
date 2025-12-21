@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T19:02:28.357608+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2025-12-21T20:16:50.278623+08:00",
+  "total_titles_processed": 1231,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
@@ -57,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时12分 ~ 19时02分]"
+          "appearance_count": 8,
+          "time_info": "[13时12分 ~ 20时16分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -72,17 +72,6 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
-          "url": "https://flash.jin10.com/detail/20251221182933074800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
           "url": "https://flash.jin10.com/detail/20251221140435040800",
           "source": "金十数据",
@@ -91,11 +80,12 @@
             6,
             10,
             14,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时10分 ~ 19时02分]"
+          "appearance_count": 6,
+          "time_info": "[15时10分 ~ 20时16分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -136,6 +126,17 @@
           "time_info": "[01时02分 ~ 05时02分]"
         },
         {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
           "title": "特朗普为何频繁起诉媒体",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E9%A2%91%E7%B9%81%E8%B5%B7%E8%AF%89%E5%AA%92%E4%BD%93",
           "source": "bilibili 热搜",
@@ -174,6 +175,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时14分 ~ 17时02分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
+          "url": "https://flash.jin10.com/detail/20251221182933074800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 20时16分]"
         },
         {
           "title": "特朗普为何推出史上最高金额对台军售",
@@ -252,8 +265,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时02分 ~ 19时02分]"
+          "appearance_count": 22,
+          "time_info": "[00时02分 ~ 20时16分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -279,11 +292,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时14分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[14时14分 ~ 20时16分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -457,7 +471,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美媒爆以色列准备再次打击伊朗",
@@ -469,8 +483,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时28分 ~ 19时02分]"
+          "appearance_count": 9,
+          "time_info": "[12时28分 ~ 20时16分]"
+        },
+        {
+          "title": "以总理访美前伊朗军方最新表态：密切关注相关事态发展",
+          "url": "https://flash.jin10.com/detail/20251221195815576800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时16分"
         },
         {
           "title": "以色列拟告知美方或再次打击伊朗",
