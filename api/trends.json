@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-21T08:49:26.647744+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2025-12-21T10:52:56.728241+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 10时52分]"
         },
         {
           "title": "以色列官员计划向特朗普通报可能对伊朗发动新一轮打击的计划",
@@ -25,11 +26,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 10时52分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -41,6 +43,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时02分 ~ 07时02分]"
+        },
+        {
+          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
+          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时52分]"
         },
         {
           "title": "特朗普提名特战副司令执掌南方司令部",
@@ -81,17 +95,6 @@
           "time_info": "[01时02分 ~ 05时02分]"
         },
         {
-          "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
-          "url": "https://news.ifeng.com/c/8pFTv3cncwR",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        },
-        {
           "title": "特朗普为何推出史上最高金额对台军售",
           "url": "https://www.toutiao.com/trending/7585013065943859238/",
           "source": "今日头条",
@@ -103,6 +106,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 03时02分]"
+        },
+        {
+          "title": "特朗普对华“降调”能持续吗",
+          "url": "https://www.toutiao.com/trending/7586095120680750646/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     },
@@ -117,11 +131,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时52分]"
         },
         {
           "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
@@ -133,8 +148,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时52分]"
         },
         {
           "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
@@ -144,11 +159,12 @@
             10,
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时52分]"
         },
         {
           "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
@@ -188,11 +204,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 08时49分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 10时52分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -210,7 +227,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -222,6 +239,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时02分 ~ 04时02分]"
+        },
+        {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时52分"
         }
       ]
     }
