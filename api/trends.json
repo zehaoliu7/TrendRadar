@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-22T07:02:53.874265+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2025-12-22T08:48:31.903018+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时48分]"
+        },
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
           "url": "https://news.ifeng.com/c/8pGiw6orh2a",
@@ -19,15 +31,17 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
+          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
+          "url": "https://wallstreetcn.com/articles/3761799",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时48分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -42,19 +56,6 @@
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时02分 ~ 07时02分]"
-        },
-        {
-          "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
-          "url": "https://wallstreetcn.com/articles/3761799",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
@@ -98,6 +99,19 @@
           "time_info": "[03时02分 ~ 07时02分]"
         },
         {
+          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时13分 ~ 08时48分]"
+        },
+        {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
           "url": "https://flash.jin10.com/detail/20251222043841056800",
           "source": "金十数据",
@@ -124,16 +138,17 @@
           "time_info": "[05时02分 ~ 07时02分]"
         },
         {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            17,
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[02时13分 ~ 07时02分]"
+          "time_info": "[03时02分 ~ 08时48分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -149,16 +164,15 @@
           "time_info": "[00时02分 ~ 05时02分]"
         },
         {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
+          "title": "美国中东问题特使威特科夫：过去两天在佛罗里达州，俄罗斯主权财富基金总裁德米特里耶夫与美国代表团举行了富有成效和建设性的会议，以推进特朗普总统对乌克兰的和平计划。",
+          "url": "https://flash.jin10.com/detail/20251222081646625800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            17
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时02分 ~ 07时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时48分"
         }
       ]
     },
@@ -247,8 +261,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时48分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -295,8 +309,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时02分 ~ 07时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 08时48分]"
         }
       ]
     },
