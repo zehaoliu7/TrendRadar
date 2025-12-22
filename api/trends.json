@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T17:17:53.826027+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2025-12-22T18:02:27.553606+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -31,6 +31,20 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 18时02分]"
+        },
+        {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
           "url": "https://wallstreetcn.com/articles/3761799",
           "source": "华尔街见闻",
@@ -42,22 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 17时17分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 17时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 18时02分]"
         },
         {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
@@ -146,6 +146,21 @@
           "time_info": "[00时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时38分 ~ 18时02分]"
+        },
+        {
           "title": "特朗普表态：必须是“超级鸽派”！",
           "url": "https://news.ifeng.com/c/8pI2JngwUGB",
           "source": "凤凰网",
@@ -168,20 +183,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时02分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 17时17分]"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -245,18 +246,6 @@
           "time_info": "08时48分"
         },
         {
-          "title": "飞机闯入特朗普官邸上空被紧急拦截",
-          "url": "https://www.toutiao.com/trending/7586445374106796082/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时15分 ~ 17时17分]"
-        },
-        {
           "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
           "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
           "source": "凤凰网",
@@ -264,8 +253,65 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时02分]"
+        },
+        {
+          "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
+          "url": "https://flash.jin10.com/detail/20251222174043679800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "飞机闯入特朗普官邸上空被紧急拦截",
+          "url": "https://www.toutiao.com/trending/7586445374106796082/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            7,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时17分]"
+          "time_info": "[16时15分 ~ 18时02分]"
+        },
+        {
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222173421961800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         },
         {
           "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
@@ -304,7 +350,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美媒爆以色列准备再次打击伊朗",
@@ -374,6 +420,17 @@
           "time_info": "[10时54分 ~ 17时17分]"
         },
         {
+          "title": "伊朗要下场帮委内瑞拉了吗",
+          "url": "https://www.toutiao.com/trending/7586586005637959214/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "美军为何批量山寨伊朗“小摩托”",
           "url": "https://www.toutiao.com/trending/7585348306629361718/",
           "source": "今日头条",
@@ -388,7 +445,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价又涨了",
@@ -426,6 +483,17 @@
           "time_info": "12时00分"
         },
         {
+          "title": "在金价首次突破4400美元/盎司后，美国上市黄金矿业股盘前上涨。Sibanye Stillwater股价上涨3.5%，AngloGold Ashanti上涨4.2%，纽蒙特矿业上涨2.5%。金罗斯黄金上涨2.8%，Gold Fields上涨3.8%，Agnico Eagle上涨2.1%，巴里克黄金上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20251222171819261800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
           "title": "金价再创新高，哪些长线逻辑值得关注？",
           "url": "https://flash.jin10.com/detail/20251222102334389800",
           "source": "金十数据",
@@ -461,11 +529,12 @@
             10,
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时59分 ~ 17时17分]"
+          "appearance_count": 10,
+          "time_info": "[11时59分 ~ 18时02分]"
         },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
@@ -487,9 +556,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时02分]"
         },
         {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
@@ -498,22 +567,24 @@
           "ranks": [
             13,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时02分]"
         },
         {
           "title": "美股盘前，半导体股多数上涨，美光科技涨约3%，AMD、英伟达、台积电、英特尔涨约1%。",
           "url": "https://wallstreetcn.com/livenews/3024841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 18时02分]"
         }
       ]
     },
@@ -532,8 +603,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时02分 ~ 17时17分]"
+          "appearance_count": 21,
+          "time_info": "[00时02分 ~ 18时02分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -613,8 +684,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 18时02分]"
         }
       ]
     }
