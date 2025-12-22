@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T13:16:28.023270+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2025-12-22T14:17:56.401697+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 13时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 14时17分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -56,8 +56,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时02分 ~ 13时16分]"
+          "appearance_count": 12,
+          "time_info": "[03时02分 ~ 14时17分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -70,8 +70,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时13分 ~ 13时16分]"
+          "appearance_count": 13,
+          "time_info": "[02时13分 ~ 14时17分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -190,6 +190,18 @@
           "time_info": "08时48分"
         },
         {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时17分]"
+        },
+        {
           "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
           "url": "https://www.cls.cn/detail/2235857",
           "source": "财联社热门",
@@ -198,19 +210,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 13时16分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 14时17分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -220,8 +221,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时17分]"
+        },
+        {
+          "title": "特朗普表态：必须是“超级鸽派”！",
+          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -397,8 +409,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时02分 ~ 13时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时02分 ~ 14时17分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -406,11 +418,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时16分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 14时17分]"
         }
       ]
     },
@@ -472,8 +485,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 14时17分]"
         }
       ]
     },
