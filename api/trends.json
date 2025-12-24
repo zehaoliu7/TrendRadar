@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T13:16:03.034627+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2025-12-24T14:16:56.632164+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -66,8 +66,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时12分 ~ 13时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 14时16分]"
         },
         {
           "title": "特朗普又自恋,新战舰用自己名",
@@ -78,11 +78,12 @@
             16,
             18,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时12分 ~ 13时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时12分 ~ 14时16分]"
         },
         {
           "title": "美军将建造“特朗普级”战舰",
@@ -119,11 +120,38 @@
             4,
             7,
             14,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 13时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时16分]"
+        },
+        {
+          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
+          "url": "https://www.cls.cn/detail/2238272",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时16分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时16分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -138,32 +166,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 04时11分]"
-        },
-        {
-          "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
-          "url": "https://www.cls.cn/detail/2238272",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 13时16分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 13时16分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -195,11 +197,23 @@
           "ranks": [
             20,
             7,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 13时16分]"
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 14时16分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时51分 ~ 14时16分]"
         },
         {
           "title": "美国法官驳回了特朗普政府针对纽约州法律的诉讼，特朗普政府称该法律阻碍了移民执法。",
@@ -224,17 +238,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时15分 ~ 03时11分]"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时51分 ~ 13时16分]"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -388,6 +391,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "尽管欧盟曾向特朗普承诺在未来三年内购买价值7500亿美元的美国能源，但在过去四个月里，欧盟从美国购买石油和天然气的支出却减少了7%。",
+          "url": "https://flash.jin10.com/detail/20251224130340552800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "特朗普批评市场“利好不涨”反常现象，并警告异见者休想掌舵美联储",
           "url": "https://flash.jin10.com/detail/20251224021338133800",
           "source": "金十数据",
@@ -493,6 +507,18 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
+          "url": "https://www.cls.cn/detail/2238248",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时16分]"
+        },
+        {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
           "url": "https://wallstreetcn.com/articles/3761906",
           "source": "华尔街见闻",
@@ -503,18 +529,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时12分 ~ 06时02分]"
-        },
-        {
-          "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
-          "url": "https://www.cls.cn/detail/2238248",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 13时16分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -800,8 +814,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时45分 ~ 13时16分]"
+          "appearance_count": 8,
+          "time_info": "[08时45分 ~ 14时16分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -879,6 +893,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时11分 ~ 05时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "数据分析公司Crisil Coalition Greenwich的数据显示，在黄金和白银价格飙升的背景下，今年前九个月，主要银行贵金属交易部门的收入比2024年同期增长了50%。",
+          "url": "https://flash.jin10.com/detail/20251224130812700800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         }
       ]
     }
