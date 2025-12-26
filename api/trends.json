@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T17:13:05.274615+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2025-12-26T18:03:04.277429+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时47分 ~ 17时13分]"
+          "appearance_count": 13,
+          "time_info": "[10时47分 ~ 18时03分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -87,6 +87,17 @@
           "time_info": "[04时11分 ~ 07时10分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 18时03分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
           "url": "https://flash.jin10.com/detail/20251226001306612800",
           "source": "金十数据",
@@ -110,17 +121,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时14分 ~ 17时13分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时12分 ~ 17时13分]"
         },
         {
           "title": "Marko Papic万字访谈：委内瑞拉救不了油价，特朗普或在2026年“压榨”美联储，股市迎来“YOLO时刻”",
@@ -239,8 +239,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时47分 ~ 17时13分]"
+          "appearance_count": 13,
+          "time_info": "[10时47分 ~ 18时03分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -430,7 +430,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -443,6 +443,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时12分 ~ 07时10分]"
+        },
+        {
+          "title": "美股太空概念股Sidus Space盘前延续大涨，现涨超30%，前一交易日收涨33%。",
+          "url": "https://flash.jin10.com/detail/20251226172626463800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         },
         {
           "title": "美股今日正常开市，欧洲股市继续休市",
@@ -472,8 +483,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时12分 ~ 17时13分]"
+          "appearance_count": 24,
+          "time_info": "[00时12分 ~ 18时03分]"
         }
       ]
     },
