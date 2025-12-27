@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T17:10:36.773099+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2025-12-27T18:02:39.919811+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
             7,
             10,
             13,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时49分 ~ 17时10分]"
+          "appearance_count": 8,
+          "time_info": "[11时49分 ~ 18时02分]"
         },
         {
           "title": "将见泽连斯基，特朗普放话：未经我批准，他无法敲定任何事",
@@ -115,6 +116,19 @@
           "time_info": "[02时15分 ~ 07时10分]"
         },
         {
+          "title": "特朗普：未经我批准 泽连斯基一无所有",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时14分 ~ 18时02分]"
+        },
+        {
           "title": "泽连斯基：将与特朗普会晤，讨论“敏感”问题",
           "url": "https://news.ifeng.com/c/8pPc87WsghO",
           "source": "凤凰网",
@@ -137,6 +151,20 @@
           "time_info": "05时03分"
         },
         {
+          "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
+          "url": "https://flash.jin10.com/detail/20251227143953526800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 18时02分]"
+        },
+        {
           "title": "加利福尼亚州确认已撤回针对美国总统特朗普政府撤销逾40亿美元高铁资金决定的诉讼。",
           "url": "https://flash.jin10.com/detail/20251227122711483800",
           "source": "金十数据",
@@ -149,32 +177,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时12分 ~ 16时02分]"
-        },
-        {
-          "title": "特朗普：未经我批准 泽连斯基一无所有",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%AA%E7%BB%8F%E6%88%91%E6%89%B9%E5%87%86+%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E4%B8%80%E6%97%A0%E6%89%80%E6%9C%89",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            22,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时14分 ~ 17时10分]"
-        },
-        {
-          "title": "美国参议员们呼吁特朗普政府暂停提高国家公园门票价格",
-          "url": "https://flash.jin10.com/detail/20251227143953526800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时10分]"
         },
         {
           "title": "俄罗斯副外长Ryabkov：在（俄罗斯总统普京与美国总统特朗普）达成的Ankorage Agreements（安克雷奇协议）之外，不可能达成其他协议。（塔斯社）",
@@ -202,6 +204,18 @@
           "time_info": "[06时02分 ~ 07时10分]"
         },
         {
+          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
+          "url": "https://wallstreetcn.com/articles/3762159",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时10分 ~ 18时02分]"
+        },
+        {
           "title": "欧盟委员会主席冯德莱恩将于周六参加与乌克兰总统泽连斯基、美国总统特朗普及其他欧盟领导人举行的通话。",
           "url": "https://flash.jin10.com/detail/20251227131840644800",
           "source": "金十数据",
@@ -215,16 +229,15 @@
           "time_info": "[14时15分 ~ 16时02分]"
         },
         {
-          "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
-          "url": "https://wallstreetcn.com/articles/3762159",
-          "source": "华尔街见闻",
+          "title": "特朗普回应泽连斯基：没我，你啥都不是",
+          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时10分 ~ 17时10分]"
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 18时02分]"
         },
         {
           "title": "乌总统：乌美安全保障协议接近完成，签署取决于与特朗普会晤",
@@ -249,17 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时10分]"
-        },
-        {
-          "title": "特朗普回应泽连斯基：没我，你啥都不是",
-          "url": "https://news.ifeng.com/c/8pQGvvrjsvt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时10分"
         },
         {
           "title": "特朗普下令袭击尼日利亚，有人急了：万一跟中国打呢",
@@ -330,8 +332,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 17时10分]"
+          "appearance_count": 11,
+          "time_info": "[08时44分 ~ 18时02分]"
         },
         {
           "title": "美股指开盘涨跌不一，霸王茶姬股价创新低，金属再度狂飙，金银铜齐创新高，沪铜首次站上十万关口",
@@ -355,8 +357,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 17时10分]"
+          "appearance_count": 11,
+          "time_info": "[08时44分 ~ 18时02分]"
         },
         {
           "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
@@ -366,11 +368,12 @@
             12,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时44分 ~ 17时10分]"
+          "appearance_count": 11,
+          "time_info": "[08时44分 ~ 18时02分]"
         },
         {
           "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
@@ -384,8 +387,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时11分 ~ 15时10分]"
+          "appearance_count": 20,
+          "time_info": "[00时11分 ~ 18时02分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
