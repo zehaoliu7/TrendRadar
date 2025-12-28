@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:17:06.723876+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2025-12-28T21:23:18.221202+08:00",
+  "total_titles_processed": 1219,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,20 @@
           "time_info": "[00时10分 ~ 08时52分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时15分 ~ 21时23分]"
+        },
+        {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
           "url": "https://flash.jin10.com/detail/20251227214522049800",
           "source": "金十数据",
@@ -44,20 +58,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时11分 ~ 11时01分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时15分 ~ 20时17分]"
         },
         {
           "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
@@ -103,6 +103,17 @@
           "time_info": "[00时10分 ~ 06时03分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 21时23分]"
+        },
+        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -112,17 +123,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时10分 ~ 03时02分]"
-        },
-        {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 20时17分]"
         },
         {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
@@ -238,8 +238,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 20时17分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 21时23分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -331,8 +331,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时12分 ~ 20时17分]"
+          "appearance_count": 7,
+          "time_info": "[15时12分 ~ 21时23分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
