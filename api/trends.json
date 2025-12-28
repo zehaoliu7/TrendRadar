@@ -1,12 +1,68 @@
 {
-  "generated_at": "2025-12-29T06:02:28.612065+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2025-12-29T07:02:49.539160+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时02分]"
+        },
+        {
+          "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
+          "url": "https://wallstreetcn.com/livenews/3027678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            11,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 07时02分]"
+        },
+        {
+          "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
+          "url": "https://wallstreetcn.com/livenews/3027677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7,
+            12,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 07时02分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
+          "url": "https://wallstreetcn.com/livenews/3027672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            13,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 07时02分]"
+        },
         {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
           "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
@@ -58,59 +114,6 @@
           "time_info": "[00时11分 ~ 06时02分]"
         },
         {
-          "title": "美国住房部长Scott Turner：将在佛罗里达州会见总统特朗普，讨论关于楼市的若干想法。 需要围绕50年期抵押贷款相关想法展开更多研究。",
-          "url": "https://wallstreetcn.com/livenews/3027678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 06时02分]"
-        },
-        {
-          "title": "美国总统特朗普：泰国与柬埔寨之间的冲突将暂停。 泰国与柬埔寨将回到“和平条约协议”。",
-          "url": "https://wallstreetcn.com/livenews/3027677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 06时02分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，即将会见美国总统特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3027672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 06时02分]"
-        },
-        {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 06时02分]"
-        },
-        {
           "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
           "url": "https://flash.jin10.com/detail/20251228223135364800",
           "source": "金十数据",
@@ -122,17 +125,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 06时02分]"
-        },
-        {
-          "title": "美银CEO：预计特朗普关税局势将开始降温",
-          "url": "https://wallstreetcn.com/livenews/3027693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时02分]"
         },
         {
           "title": "乌克兰总统泽连斯基抵达美国佛罗里达州，将与特朗普举行会谈。",
@@ -148,50 +140,18 @@
           "time_info": "[00时11分 ~ 06时02分]"
         },
         {
-          "title": "特朗普称俄乌均有意结束冲突，美乌将达成安全协议",
-          "url": "https://wallstreetcn.com/livenews/3027691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时02分]"
-        },
-        {
-          "title": "与特朗普会晤，泽连斯基：“和平计划”有90%已完成",
-          "url": "https://news.ifeng.com/c/8pT5b974Tcc",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
-          "title": "市场消息：特朗普和泽连斯基在双边会晤后与欧洲领导人通电话。",
-          "url": "https://flash.jin10.com/detail/20251229051729527800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时02分"
-        },
-        {
           "title": "美国总统特朗普被问及是否认为俄罗斯总统普京对和平（协议）是严肃认真的，称：我的确那样认为。 普京对和平（协议的谈判）是非常严肃的。 我认为，普京和乌克兰总统泽连斯基都希望达成一份协议。 今天会议之后，我将与普京通电话。 我们将与欧洲首脑们对话。 对于结束俄乌战事，我并没有截止日期。 俄乌双方最近的攻势都很猛烈。 （被问及美西方冻结的俄罗斯资产的未来，称他自己）还没有做决定。",
           "url": "https://wallstreetcn.com/livenews/3027680",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
             6,
-            9
+            9,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 07时02分]"
         },
         {
           "title": "美国总统特朗普在与乌克兰总统泽连斯基会面之前表示：已经与俄罗斯总统普京进行富有成效的对话。",
@@ -200,11 +160,101 @@
           "ranks": [
             4,
             9,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时02分 ~ 06时02分]"
+          "appearance_count": 5,
+          "time_info": "[03时02分 ~ 07时02分]"
+        },
+        {
+          "title": "与特朗普会晤，泽连斯基：“和平计划”有90%已完成",
+          "url": "https://news.ifeng.com/c/8pT5b974Tcc",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普：不排除举行美俄乌三方领导人会晤",
+          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "市场消息：特朗普和泽连斯基在双边会晤后与欧洲领导人通电话。",
+          "url": "https://flash.jin10.com/detail/20251229051729527800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时02分"
+        },
+        {
+          "title": "与特朗普会晤，泽连斯基：20点“和平计划”有90%已完成",
+          "url": "https://news.ifeng.com/c/8pT5b974Tcc",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普与泽连斯基未谈妥领土问题",
+          "url": "https://wallstreetcn.com/livenews/3027702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美银CEO：预计特朗普关税局势将开始降温",
+          "url": "https://wallstreetcn.com/livenews/3027693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普与普京通话：均认为临时停火只会延长俄乌冲突",
+          "url": "https://news.ifeng.com/c/8pSsNKYe4yO",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普称俄乌“接近达成协议” 不排除三方会晤",
+          "url": "https://flash.jin10.com/detail/20251229062816964800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美银CEO：预计明年特朗普政府将缓和关税局势",
@@ -213,9 +263,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
+        },
+        {
+          "title": "特朗普称俄乌均有意结束冲突，美乌将达成安全协议",
+          "url": "https://wallstreetcn.com/livenews/3027691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -235,11 +297,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时02分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[04时02分 ~ 07时02分]"
         },
         {
           "title": "特朗普称俄乌均有意结束冲突 美乌将达成安全协议",
@@ -252,6 +315,226 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普与泽连斯基未谈妥领土问题",
+          "url": "https://flash.jin10.com/detail/20251229061935365800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：与特朗普、泽连斯基及多位欧洲领导人进行了长达一小时的友好通话，讨论今日关于和平谈判的会议。",
+          "url": "https://flash.jin10.com/detail/20251229061934654800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：明白普京为何不想要停火之后再起冲突。停火问题是可以解决的。如果事情不能达成一致，他们就会继续战斗。我们会找到办法绕过普京对停火的反对。",
+          "url": "https://flash.jin10.com/detail/20251229061821815800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯将帮助乌克兰重建。普京曾慷慨地帮助了乌克兰，包括以低价供应能源。",
+          "url": "https://flash.jin10.com/detail/20251229061318480800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普与泽连斯基开始会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%BC%80%E5%A7%8B%E4%BC%9A%E6%99%A4%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们将百分之百帮助欧洲，今天作出了保证。",
+          "url": "https://flash.jin10.com/detail/20251229061226550800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们与俄乌双方的关系可能比以往任何时候都更加密切。",
+          "url": "https://flash.jin10.com/detail/20251229061136902800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：今天与泽连斯基和普京讨论了扎波罗热核电站问题，普京正与乌克兰合作，争取开放扎波罗热核电站，热核电站可以很快开放，目前状况良好。",
+          "url": "https://flash.jin10.com/detail/20251229061056086800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：俄乌问题工作组人员包括威特科夫、库什纳、凯恩和鲁比奥；赫格塞斯也应该加入工作组。",
+          "url": "https://flash.jin10.com/detail/20251229060930135800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：我认为与泽连斯基和普京之间的三方会晤将在合适的时机举行。",
+          "url": "https://flash.jin10.com/detail/20251229060736462800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：工作组正在与俄罗斯和乌克兰合作，如果进展顺利，几周内就能结束；如果进展不顺利，可能根本就无法结束。谈判非常艰难。",
+          "url": "https://flash.jin10.com/detail/20251229060657996800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们将在几周内得知俄乌谈判的结果。",
+          "url": "https://flash.jin10.com/detail/20251229060627301800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "唐宁街发言人：英国首相斯塔默今晚与美国总统特朗普、乌克兰总统泽连斯基以及欧洲领导人进行了通话。讨论重点是为乌克兰和平所做的努力，各国领导人称赞美国总统特朗普迄今取得的进展。",
+          "url": "https://flash.jin10.com/detail/20251229060208978800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：顿巴斯问题仍未解决，但我认为最终会得到解决。",
+          "url": "https://flash.jin10.com/detail/20251229060059959800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯想要结束这场战争。",
+          "url": "https://flash.jin10.com/detail/20251229060057876800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
+          "url": "https://flash.jin10.com/detail/20251229060056558800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普见泽连斯基前后均与普京通话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A7%81%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%89%8D%E5%90%8E%E5%9D%87%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%80%9A%E8%AF%9D%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：俄乌谈判中有一两个棘手问题。",
+          "url": "https://flash.jin10.com/detail/20251229055653096800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：与特朗普进行了精彩的会谈。",
+          "url": "https://flash.jin10.com/detail/20251229055545224800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：认为我们正越来越接近达成俄乌协议，与泽连斯基举行了精彩的会晤；已与欧洲领导人通话，进行了非常棒的交流。",
+          "url": "https://flash.jin10.com/detail/20251229055418733800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
@@ -267,8 +550,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 06时02分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 07时02分]"
         }
       ]
     },
@@ -303,11 +586,12 @@
             8,
             12,
             17,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时11分 ~ 06时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 07时02分]"
         }
       ]
     }
