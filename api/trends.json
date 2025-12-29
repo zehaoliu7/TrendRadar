@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T15:17:30.117355+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2025-12-29T16:16:58.442069+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普：不排除亲自前往乌克兰",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时51分 ~ 15时17分]"
+        },
+        {
+          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
+          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时00分 ~ 16时16分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -136,17 +148,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时51分 ~ 14时19分]"
-        },
-        {
-          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
-          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时00分 ~ 15时17分]"
         },
         {
           "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
@@ -337,6 +338,19 @@
           "time_info": "[05时02分 ~ 07时02分]"
         },
         {
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 16时16分]"
+        },
+        {
           "title": "特朗普见泽连斯基前先与普京通话",
           "url": "https://flash.jin10.com/detail/20251229041258772800",
           "source": "金十数据",
@@ -347,6 +361,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
+        },
+        {
+          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
+          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时16分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -360,19 +386,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时02分 ~ 07时02分]"
-        },
-        {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 15时17分]"
         },
         {
           "title": "特朗普称俄乌均有意结束冲突 美乌将达成安全协议",
@@ -409,6 +422,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 12时10分]"
+        },
+        {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时17分 ~ 16时16分]"
         },
         {
           "title": "特朗普与泽连斯基未谈妥领土问题",
@@ -477,17 +502,6 @@
           "time_info": "07时02分"
         },
         {
-          "title": "MAGA“叛徒”喊话特朗普：我们能不能就关注美国？",
-          "url": "https://news.ifeng.com/c/8pTlUTKXGWO",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
-        },
-        {
           "title": "美国总统特朗普：我们将百分之百帮助欧洲，今天作出了保证。",
           "url": "https://flash.jin10.com/detail/20251229061226550800",
           "source": "金十数据",
@@ -519,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "俄乌和平信号频现！特朗普：“进度条”已至95% 不排除三方会晤",
+          "url": "https://www.cls.cn/detail/2242304",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美国总统特朗普：今天与泽连斯基和普京讨论了扎波罗热核电站问题，普京正与乌克兰合作，争取开放扎波罗热核电站，热核电站可以很快开放，目前状况良好。",
@@ -563,17 +588,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时17分"
         },
         {
           "title": "美国总统特朗普：我认为与泽连斯基和普京之间的三方会晤将在合适的时机举行。",
@@ -787,7 +801,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
         },
