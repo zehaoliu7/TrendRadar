@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T07:02:49.539160+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2025-12-29T08:51:31.447334+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 55,
       "titles": [
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -185,9 +185,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普：不排除亲自前往乌克兰",
+          "url": "https://news.ifeng.com/c/8pTDPPdlvje",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "美国总统特朗普和内塔尼亚胡将于美国东部时间周一下午1点会面。",
+          "url": "https://wallstreetcn.com/livenews/3027760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "市场消息：特朗普和泽连斯基在双边会晤后与欧洲领导人通电话。",
@@ -207,7 +229,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -218,7 +240,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -241,7 +263,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -252,7 +274,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -323,7 +345,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -334,7 +356,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -345,9 +367,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普称俄乌“接近达成协议”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E2%80%9C%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "美国总统特朗普：俄罗斯将帮助乌克兰重建。普京曾慷慨地帮助了乌克兰，包括以低价供应能源。",
@@ -356,7 +400,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -367,7 +411,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -378,9 +422,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "法国总统马克龙：今晚，我与其他欧洲领导人一同参与了与泽连斯基总统、特朗普总统的交流。随后我又与泽连斯基进行了交谈。 我们在安全保障方面正取得进展，这些保障将是构建公正持久和平的核心要素。",
+          "url": "https://wallstreetcn.com/livenews/3027744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "美国总统特朗普：我们与俄乌双方的关系可能比以往任何时候都更加密切。",
@@ -389,7 +444,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -400,7 +455,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -411,9 +466,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普再次就泰柬停火邀功说了啥",
+          "url": "https://www.toutiao.com/trending/7589048685074320939/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "美国总统特朗普：我认为与泽连斯基和普京之间的三方会晤将在合适的时机举行。",
@@ -422,9 +488,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://wallstreetcn.com/livenews/3027738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "美国总统特朗普：工作组正在与俄罗斯和乌克兰合作，如果进展顺利，几周内就能结束；如果进展不顺利，可能根本就无法结束。谈判非常艰难。",
@@ -433,9 +510,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://flash.jin10.com/detail/20251229080336515800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "美国总统特朗普：我们将在几周内得知俄乌谈判的结果。",
@@ -444,7 +532,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -455,7 +543,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -466,7 +554,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -477,7 +565,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -488,9 +576,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国将在特朗普任期内重返月球",
+          "url": "https://www.douyin.com/hot/2350218",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         },
         {
           "title": "特朗普见泽连斯基前后均与普京通话",
@@ -499,7 +598,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -510,7 +609,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -521,7 +620,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -532,9 +631,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普称俄乌“接近达成协议”，不排除三方会晤",
+          "url": "https://wallstreetcn.com/livenews/3027716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "ChatGPT帮他杀死83岁母亲？",
+          "url": "https://news.ifeng.com/c/8pTGEplZnSO",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时51分"
         }
       ]
     },
@@ -547,11 +674,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 08时51分]"
         }
       ]
     },
