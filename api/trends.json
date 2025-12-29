@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T13:20:34.455090+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2025-12-29T14:19:02.582866+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时51分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时51分 ~ 14时19分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -126,6 +126,18 @@
           "time_info": "[00时11分 ~ 06时02分]"
         },
         {
+          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
+          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时51分 ~ 14时19分]"
+        },
+        {
           "title": "NASA新局长称美国将在特朗普第二任期内重返月球",
           "url": "https://flash.jin10.com/detail/20251228223135364800",
           "source": "金十数据",
@@ -150,6 +162,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 06时02分]"
+        },
+        {
+          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
+          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时00分 ~ 14时19分]"
         },
         {
           "title": "美国总统特朗普被问及是否认为俄罗斯总统普京对和平（协议）是严肃认真的，称：我的确那样认为。 普京对和平（协议的谈判）是非常严肃的。 我认为，普京和乌克兰总统泽连斯基都希望达成一份协议。 今天会议之后，我将与普京通电话。 我们将与欧洲首脑们对话。 对于结束俄乌战事，我并没有截止日期。 俄乌双方最近的攻势都很猛烈。 （被问及美西方冻结的俄罗斯资产的未来，称他自己）还没有做决定。",
@@ -211,18 +234,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
-        },
-        {
-          "title": "特朗普称美军对委内瑞拉一目标实施秘密打击",
-          "url": "https://news.ifeng.com/c/8pTKjz1vjXV",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时51分 ~ 13时20分]"
         },
         {
           "title": "市场消息：特朗普和泽连斯基在双边会晤后与欧洲领导人通电话。",
@@ -309,7 +320,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -324,17 +335,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时02分 ~ 07时02分]"
-        },
-        {
-          "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
-          "url": "https://news.ifeng.com/c/8pTR6hxtE0g",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时00分 ~ 13时20分]"
         },
         {
           "title": "特朗普见泽连斯基前先与普京通话",
@@ -360,6 +360,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时02分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普当众施压泽连斯基",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 14时19分]"
         },
         {
           "title": "特朗普称俄乌均有意结束冲突 美乌将达成安全协议",
@@ -580,7 +592,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
         },
@@ -649,17 +661,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "特朗普当众施压泽连斯基",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
         },
         {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
@@ -741,6 +742,47 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 12时10分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时19分]"
+        },
+        {
+          "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
+          "url": "https://flash.jin10.com/detail/20251229105826518800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -751,9 +793,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 14时19分]"
         },
         {
           "title": "据华尔街日报：包括谷歌和威瑞森通信等公司收到了关于其工作场所多元化项目的文件调取请求。",
@@ -769,31 +811,34 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
         {
-          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
-          "url": "https://wallstreetcn.com/articles/3762200",
-          "source": "华尔街见闻",
+          "title": "伊朗：从俄罗斯发射三颗卫星到太空",
+          "url": "https://wallstreetcn.com/livenews/3027666",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            9
+            12,
+            17,
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 12时10分]"
+          "appearance_count": 8,
+          "time_info": "[00时11分 ~ 07时02分]"
         },
         {
-          "title": "金十图示：2025年12月29日（周一）上海金早盘价为1010.41元/克，较国际金价(1016.45元/克)，低6.04元/克",
-          "url": "https://flash.jin10.com/detail/20251229105826518800",
-          "source": "金十数据",
+          "title": "三颗伊朗观测卫星搭乘俄火箭升空",
+          "url": "https://wallstreetcn.com/livenews/3027940",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时10分"
+          "time_info": "14时19分"
         }
       ]
     },
@@ -848,27 +893,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时11分 ~ 06时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗：从俄罗斯发射三颗卫星到太空",
-          "url": "https://wallstreetcn.com/livenews/3027666",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            17,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 07时02分]"
         }
       ]
     }
