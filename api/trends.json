@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T20:19:44.913485+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-12-30T21:29:50.662503+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 101,
       "titles": [
         {
           "title": "普京一个电话后，特朗普怒了",
@@ -31,6 +31,17 @@
           "time_info": "[02时15分 ~ 07时02分]"
         },
         {
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时15分 ~ 21时29分]"
+        },
+        {
           "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
           "url": "https://wallstreetcn.com/articles/3762268",
           "source": "华尔街见闻",
@@ -41,19 +52,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时45分 ~ 20时19分]"
+          "appearance_count": 16,
+          "time_info": "[08时45分 ~ 21时29分]"
         },
         {
-          "title": "外交部回应特朗普涉中国军演言论",
-          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
+          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
           "source": "凤凰网",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时15分 ~ 20时19分]"
+          "appearance_count": 7,
+          "time_info": "[16时15分 ~ 21时29分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -67,19 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时55分 ~ 20时19分]"
-        },
-        {
-          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
-          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时15分 ~ 20时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时55分 ~ 21时29分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -95,6 +95,20 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时02分 ~ 12时29分]"
+        },
+        {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时16分 ~ 21时29分]"
         },
         {
           "title": "普京称官邸遭袭 特朗普回应",
@@ -124,20 +138,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时45分 ~ 13时15分]"
-        },
-        {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时16分 ~ 20时19分]"
         },
         {
           "title": "特朗普称得知普京官邸遭袭很生气",
@@ -196,6 +196,32 @@
           "time_info": "14时16分"
         },
         {
+          "title": "特朗普称对中方此次军演不担忧，外交部回应",
+          "url": "https://www.cls.cn/detail/2244032",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 21时29分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 21时29分]"
+        },
+        {
           "title": "据悉特朗普及其高级顾问要求内塔尼亚胡调整约旦河西岸政策",
           "url": "https://flash.jin10.com/detail/20251230114449386800",
           "source": "金十数据",
@@ -231,6 +257,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 21时29分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗应当达成一份协议，他们想要那样做。 我听说，（遭受美国+以色列军事袭击之后）伊朗正在重建。 若果真那样，将（再次）袭击伊朗。",
           "url": "https://wallstreetcn.com/livenews/3028303",
           "source": "华尔街见闻-快讯",
@@ -262,31 +299,6 @@
           "ranks": [
             10,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 20时19分]"
-        },
-        {
-          "title": "特朗普称对中方此次军演不担忧，外交部回应",
-          "url": "https://www.cls.cn/detail/2244032",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 20时19分]"
-        },
-        {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -343,17 +355,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时09分 ~ 05时02分]"
-        },
-        {
-          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
-          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 20时19分]"
         },
         {
           "title": "美国总统特朗普：以色列总理内塔尼亚胡有时较难相处。希望内塔尼亚胡与叙利亚保持友好关系。",
@@ -494,6 +495,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时49分 ~ 11时56分]"
+        },
+        {
+          "title": "伊朗、哈马斯强硬回应特朗普威胁",
+          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时29分]"
         },
         {
           "title": "美国总统特朗普：我认为不赦免内塔尼亚胡是一件非常困难的事情。",
@@ -637,6 +649,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时15分 ~ 04时12分]"
+        },
+        {
+          "title": "特朗普称美对委进行首次陆地打击",
+          "url": "https://www.douyin.com/hot/2352186",
+          "source": "抖音",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时29分]"
         },
         {
           "title": "美国总统特朗普：如果他们存在，我们就必须击倒他们。伊朗应该达成协议，但有时情况并非如此。",
@@ -798,17 +822,6 @@
           "time_info": "[16时15分 ~ 17时15分]"
         },
         {
-          "title": "伊朗、哈马斯强硬回应特朗普威胁",
-          "url": "https://news.ifeng.com/c/8pVb0MnBjK8",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时19分]"
-        },
-        {
           "title": "得知普京官邸遭乌无人机袭击 特朗普“很生气”",
           "url": "https://wallstreetcn.com/livenews/3028316",
           "source": "华尔街见闻-快讯",
@@ -867,18 +880,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 02时15分]"
-        },
-        {
-          "title": "特朗普称美对委进行首次陆地打击",
-          "url": "https://www.douyin.com/hot/2352186",
-          "source": "抖音",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时19分]"
         },
         {
           "title": "普京向特朗普通报自己一处住所遭到袭击的情况",
@@ -1135,6 +1136,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "特朗普贸易战关税全是美国百姓血汗钱",
+          "url": "https://www.toutiao.com/trending/7589536471321677353/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
+        {
           "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京告诉美国总统特朗普，乌克兰对俄罗斯总统府发动了无人机袭击。",
           "url": "https://flash.jin10.com/detail/20251230001452299800",
           "source": "金十数据",
@@ -1236,8 +1248,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时45分 ~ 20时19分]"
+          "appearance_count": 16,
+          "time_info": "[08时45分 ~ 21时29分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -1285,8 +1297,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时14分 ~ 20时19分]"
+          "appearance_count": 8,
+          "time_info": "[15时14分 ~ 21时29分]"
         },
         {
           "title": "美股热门中概股盘前多数走高，百度(BIDU.O)涨超5%，小鹏汽车(XPEV.N)涨3%，唯品会(VIPS.N)、网易(NTES.O)涨超2%，台积电(TSM.N)、阿里巴巴(BABA.N)涨0.3%。",
@@ -1472,8 +1484,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "市场消息：俄罗斯总统普京与伊朗总统佩泽什基扬进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251230210602372800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时29分"
+        },
         {
           "title": "克里姆林宫：我们认为有必要与伊朗开展对话。",
           "url": "https://flash.jin10.com/detail/20251230172626201800",
@@ -1492,7 +1515,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
@@ -1516,7 +1539,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时19分"
         },
