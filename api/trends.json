@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T14:17:21.869533+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-01-01T15:14:40.105600+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时53分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时53分 ~ 15时14分]"
         },
         {
           "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
@@ -247,8 +247,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时53分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时53分 ~ 15时14分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -401,11 +401,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时53分 ~ 14时17分]"
+          "appearance_count": 7,
+          "time_info": "[08时53分 ~ 15时14分]"
         }
       ]
     },
