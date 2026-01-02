@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T15:15:27.460995+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-01-02T16:15:19.491826+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -48,6 +48,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时15分 ~ 06时02分]"
+        },
+        {
+          "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
+          "url": "https://flash.jin10.com/detail/20260102155924046800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
@@ -103,6 +114,17 @@
           "time_info": "[00时12分 ~ 02时15分]"
         },
         {
+          "title": "特朗普承认服用阿司匹林",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时15分 ~ 16时15分]"
+        },
+        {
           "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
           "url": "https://flash.jin10.com/detail/20260102083147084800",
           "source": "金十数据",
@@ -125,24 +147,13 @@
           "time_info": "08时46分"
         },
         {
-          "title": "特朗普承认服用阿司匹林",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时15分"
-        },
-        {
           "title": "特朗普承认手上瘀伤是服用药物造成",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
           "source": "百度热搜",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -156,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "特朗普的关税大棒挥不下去了吗",
+          "url": "https://www.toutiao.com/trending/7590646791305956874/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
@@ -163,6 +185,18 @@
       "keyword_group": "伊朗",
       "match_count": 7,
       "titles": [
+        {
+          "title": "伊朗多省示威致6死，总统发声",
+          "url": "https://news.ifeng.com/c/8pa0NxsOAWN",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 16时15分]"
+        },
         {
           "title": "伊朗总统发声：伊朗正处于一场全面战争中",
           "url": "https://news.ifeng.com/c/8pZJzBvxf8X",
@@ -174,18 +208,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时12分 ~ 08时46分]"
-        },
-        {
-          "title": "伊朗多省示威致6死，总统发声",
-          "url": "https://news.ifeng.com/c/8pa0NxsOAWN",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 15时15分]"
         },
         {
           "title": "伊朗一警察局遭暴徒袭击 已致3死17伤",
@@ -267,8 +289,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时12分 ~ 15时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时12分 ~ 16时15分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -280,8 +302,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 16时15分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -293,8 +315,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时52分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 16时15分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -308,8 +330,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时12分 ~ 15时15分]"
+          "appearance_count": 18,
+          "time_info": "[00时12分 ~ 16时15分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -392,7 +414,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -404,8 +426,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时12分 ~ 15时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时12分 ~ 16时15分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -431,6 +453,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时58分 ~ 13时17分]"
+        },
+        {
+          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
@@ -476,7 +509,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         }
