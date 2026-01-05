@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T06:10:46.166655+08:00",
-  "total_titles_processed": 631,
+  "generated_at": "2026-01-06T07:03:00.955586+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时03分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时03分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时03分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -53,8 +53,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时03分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -68,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时03分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -80,8 +80,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时03分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -91,19 +91,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普对印度买俄石油发出最后通牒",
-          "url": "https://www.toutiao.com/trending/7591650384435888171/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时14分 ~ 00时15分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时03分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -115,8 +104,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时03分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -126,19 +115,19 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时13分 ~ 06时10分]"
+          "appearance_count": 9,
+          "time_info": "[01时13分 ~ 07时03分]"
         },
         {
-          "title": "特朗普政府已经与多家石油公司讨论委内瑞拉形势。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3031110",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普对印度买俄石油发出最后通牒",
+          "url": "https://www.toutiao.com/trending/7591650384435888171/",
+          "source": "今日头条",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -186,6 +175,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时14分]"
+        },
+        {
+          "title": "特朗普政府已经与多家石油公司讨论委内瑞拉形势。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3031110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时03分]"
         },
         {
           "title": "马杜罗被俘虏后，特朗普拿着“让伊朗再次伟大”的帽子拍照",
@@ -238,6 +239,30 @@
           "time_info": "[04时12分 ~ 05时03分]"
         },
         {
+          "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
+          "url": "https://flash.jin10.com/detail/20260106055021121800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时03分]"
+        },
+        {
+          "title": "美国一家上诉法院裁定，特朗普政府削减国立卫生研究院对大学科研资金投入的计划属违法行为。",
+          "url": "https://flash.jin10.com/detail/20260106055013705800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时03分]"
+        },
+        {
           "title": "路透调查：特朗普支持率上升 仅三成美国人赞成美国对委行动",
           "url": "https://flash.jin10.com/detail/20260106030259018800",
           "source": "金十数据",
@@ -261,17 +286,6 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
-          "url": "https://flash.jin10.com/detail/20260106055021121800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
           "title": "墨西哥总统强硬回应特朗普：可以合作缉毒 但不准跨界",
           "url": "https://flash.jin10.com/detail/20260105234304273800",
           "source": "金十数据",
@@ -281,17 +295,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "美国一家上诉法院裁定，特朗普政府削减国立卫生研究院对大学科研资金投入的计划属违法行为。",
-          "url": "https://flash.jin10.com/detail/20260106055013705800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
         },
         {
           "title": "美国驻加拉加斯大使馆的一位高级外交官：我们正在做准备工作，以便在特朗普总统做出相关决定的情况下能够重新开放。",
@@ -333,7 +336,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -366,7 +369,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -418,7 +421,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -440,8 +443,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时10分]"
+          "appearance_count": 11,
+          "time_info": "[00时14分 ~ 07时03分]"
+        },
+        {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 07时03分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
@@ -456,6 +470,18 @@
           "time_info": "[02时16分 ~ 03时13分]"
         },
         {
+          "title": "微芯科技(MCHP.O)美股盘后上涨2.5%，此前公司更新三季度业绩指引。",
+          "url": "https://flash.jin10.com/detail/20260106055631330800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时03分]"
+        },
+        {
           "title": "金十图示：2026年01月05日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260106013939190800",
           "source": "金十数据",
@@ -468,15 +494,27 @@
           "time_info": "[02时16分 ~ 03时13分]"
         },
         {
-          "title": "微芯科技(MCHP.O)美股盘后上涨2.5%，此前公司更新三季度业绩指引。",
-          "url": "https://flash.jin10.com/detail/20260106055631330800",
+          "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
+          "url": "https://www.cls.cn/detail/2248624",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 07时03分]"
+        },
+        {
+          "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260106050521518800",
           "source": "金十数据",
           "ranks": [
-            8
+            22,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时03分]"
         },
         {
           "title": "美股费城银行指数涨超3%，创8月22日以来最佳盘中表现。",
@@ -496,20 +534,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
         {
-          "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260106050521518800",
-          "source": "金十数据",
+          "title": "（美股）费城金银指数收涨3.29%，报353.86点，美股盘初持续、平滑地上涨，后续逐步回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.71%，报2505.23点。 （美股）原材料指数涨1.75%，报234.90点。 （美股）金属与矿业指数涨2.08%，报228.54点。",
+          "url": "https://wallstreetcn.com/livenews/3031115",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时03分"
         },
         {
           "title": "金十图示：2026年01月05日（周一）热门中概股行情一览（美股收盘）",
@@ -518,7 +556,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -529,7 +567,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         }
@@ -587,6 +625,18 @@
           "time_info": "[04时12分 ~ 05时03分]"
         },
         {
+          "title": "外媒：美国似乎正考虑对伊朗实施干预，以色列亦蠢蠢欲动",
+          "url": "https://flash.jin10.com/detail/20260106050824120800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时03分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：以色列、美国不会让伊朗重建弹道导弹计划。",
           "url": "https://flash.jin10.com/detail/20260105234925159800",
           "source": "金十数据",
@@ -596,17 +646,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "外媒：美国似乎正考虑对伊朗实施干预，以色列亦蠢蠢欲动",
-          "url": "https://flash.jin10.com/detail/20260106050824120800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
         },
         {
           "title": "以色列总理内塔尼亚胡：如果我们遭到伊朗的攻击，其后果将会极其严重。",
@@ -630,11 +669,12 @@
           "url": "https://wallstreetcn.com/livenews/3031108",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时03分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -659,6 +699,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
+          "url": "https://wallstreetcn.com/livenews/3031120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "美债收益率普遍跌超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3031089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "制造业疲软拖累美债收益率 美元高位回吐涨幅",
+          "url": "https://flash.jin10.com/detail/20260105233306495800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         }
       ]
     },
@@ -704,65 +783,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
-          "url": "https://wallstreetcn.com/livenews/3031092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
-          "url": "https://flash.jin10.com/detail/20260106052744835800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美债收益率普遍跌超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3031089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "制造业疲软拖累美债收益率 美元高位回吐涨幅",
-          "url": "https://flash.jin10.com/detail/20260105233306495800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "英伟达(NVDA.O)：亚马逊云服务(AWS)、谷歌云、微软、OCI将于2026年部署基于Vera Rubin的实例。",
+          "url": "https://flash.jin10.com/detail/20260106062451748800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
         {
           "title": "三星今年将为8亿设备配备谷歌AI",
           "url": "https://wallstreetcn.com/livenews/3031083",
@@ -774,6 +808,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时03分 ~ 06时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
+          "url": "https://flash.jin10.com/detail/20260106052744835800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时10分 ~ 07时03分]"
+        },
+        {
+          "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
+          "url": "https://wallstreetcn.com/livenews/3031092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
         }
       ]
     },
