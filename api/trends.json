@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T10:51:22.668159+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-01-06T11:57:29.180934+08:00",
+  "total_titles_processed": 1069,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -81,8 +81,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 10时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时57分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -132,26 +132,26 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
-          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
           "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
           "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
           "source": "凤凰网",
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 11时57分]"
+        },
+        {
+          "title": "【丹麦首相警告：美国吞并格陵兰岛将意味着北约终结】在结束对委内瑞拉的突袭行动后，美国总统特朗普当地时间1月4日曾表示，美国需要格陵兰岛。丹麦首相弗雷泽里克森5日对特朗普的相关言论作出回应，称如果美国吞并格陵兰岛，将等同于北约这一军事联盟的终结。“如果美国选择对另一个北约国家发动军事攻击，那么一切都将停止。”弗雷泽里克森在接受丹麦TV2电视台采访时表示，“这包括北约本身，以及自第二次世界大战结束以来维持的安全（体系）”。（环球网）",
+          "url": "https://wallstreetcn.com/livenews/3031345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时51分"
+          "time_info": "11时57分"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -174,6 +174,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时14分 ~ 02时16分]"
+        },
+        {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 11时57分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -218,11 +230,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时46分 ~ 10时51分]"
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 11时57分]"
         },
         {
           "title": "马杜罗被俘虏后，特朗普拿着“让伊朗再次伟大”的帽子拍照",
@@ -235,6 +248,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 05时03分]"
+        },
+        {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 11时57分]"
         },
         {
           "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
@@ -263,6 +287,17 @@
           "time_info": "[03时13分 ~ 05时03分]"
         },
         {
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 11时57分]"
+        },
+        {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
           "url": "https://flash.jin10.com/detail/20260106032305906800",
           "source": "金十数据",
@@ -275,6 +310,29 @@
           "time_info": "[04时12分 ~ 05时03分]"
         },
         {
+          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
+          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 11时57分]"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 11时57分]"
+        },
+        {
           "title": "美国白宫：特朗普签署命令，启动“创世纪计划”，这是一项专门且协调一致的全国性举措，旨在开启一个由人工智能驱动的创新与发现的新时代，以解决本世纪面临的最严峻问题。",
           "url": "https://flash.jin10.com/detail/20260106055021121800",
           "source": "金十数据",
@@ -285,17 +343,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时03分]"
-        },
-        {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时46分 ~ 10时51分]"
         },
         {
           "title": "美国一家上诉法院裁定，特朗普政府削减国立卫生研究院对大学科研资金投入的计划属违法行为。",
@@ -345,17 +392,6 @@
           "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
-          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
           "title": "特朗普涉印度表态让印网民不满",
           "url": "https://www.toutiao.com/trending/7591321463978868742/",
           "source": "今日头条",
@@ -367,35 +403,13 @@
           "time_info": "08时46分"
         },
         {
-          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
-          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
           "title": "委内瑞拉反对派领导人马查多：自十月以来，我尚未与美国总统特朗普通话。",
           "url": "https://flash.jin10.com/detail/20260106103144934800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
-        },
-        {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -431,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "铜价续创历史新高 市场押注特朗普关税致全球供应趋紧",
+          "url": "https://flash.jin10.com/detail/20260106111243696800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "美国驻加拉加斯大使馆的一位高级外交官：我们正在做准备工作，以便在特朗普总统做出相关决定的情况下能够重新开放。",
@@ -472,7 +497,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         },
@@ -486,6 +511,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "特朗普在变成第二个拜登吗",
+          "url": "https://www.toutiao.com/trending/7592036422320655891/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "美国参议员马克·凯利：美国国防部长赫格塞思和唐纳德·特朗普无权决定美国民众如何评价他们的政府。",
@@ -510,6 +546,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
           "title": "埃尔多安：已与特朗普通话 强调不要让委内瑞拉陷入动荡",
           "url": "https://wallstreetcn.com/livenews/3031167",
           "source": "华尔街见闻-快讯",
@@ -519,6 +566,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "特朗普说美需要格陵兰岛 欧洲怎么想",
+          "url": "https://www.toutiao.com/trending/7592021922519453234/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         },
         {
           "title": "土耳其总统府：总统埃尔多安与美国总统特朗普进行了通话，他们在电话中讨论了双边关系、国防工业合作、贸易、加沙和委内瑞拉等问题。",
@@ -605,18 +663,6 @@
           "time_info": "[00时14分 ~ 06时10分]"
         },
         {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 10时51分]"
-        },
-        {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
@@ -625,8 +671,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 10时51分]"
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 11时57分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时57分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -638,8 +696,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 10时51分]"
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 11时57分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
@@ -900,11 +958,12 @@
           "url": "https://wallstreetcn.com/articles/3762605",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 11时57分]"
         },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
@@ -932,7 +991,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
@@ -964,9 +1023,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
         }
       ]
     },
@@ -1061,9 +1131,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时51分 ~ 11时57分]"
         },
         {
           "title": "大白话解读DeepSeek论文",
@@ -1072,7 +1142,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
         }
