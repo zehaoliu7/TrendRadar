@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T21:32:42.819627+08:00",
-  "total_titles_processed": 2050,
+  "generated_at": "2026-01-07T22:13:54.990284+08:00",
+  "total_titles_processed": 2134,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 102,
+      "match_count": 104,
       "titles": [
         {
           "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
@@ -65,11 +65,12 @@
           "ranks": [
             7,
             5,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时46分 ~ 21时32分]"
+          "appearance_count": 16,
+          "time_info": "[08时46分 ~ 22时13分]"
         },
         {
           "title": "特朗普称美国将从委内瑞拉获得5000万桶石油，外交部：中国在委合法权益必须得到保护",
@@ -92,8 +93,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时52分 ~ 21时32分]"
+          "appearance_count": 15,
+          "time_info": "[10时52分 ~ 22时13分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -201,6 +202,17 @@
           "time_info": "[10时52分 ~ 14时17分]"
         },
         {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时20分 ~ 22时13分]"
+        },
+        {
           "title": "特朗普向印度发出新警告",
           "url": "https://news.ifeng.com/c/8piCojZXRGw",
           "source": "凤凰网",
@@ -213,17 +225,6 @@
           "time_info": "[08时46分 ~ 14时17分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时32分]"
-        },
-        {
           "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
           "url": "https://wallstreetcn.com/articles/3762696",
           "source": "华尔街见闻",
@@ -233,8 +234,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时17分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[17时17分 ~ 22时13分]"
         },
         {
           "title": "特朗普政府正讨论获取格陵兰岛方案",
@@ -363,8 +364,20 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 22时13分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时02分 ~ 21时32分]"
+          "time_info": "[20时20分 ~ 22时13分]"
         },
         {
           "title": "特朗普说若输了中期选举可能被弹劾",
@@ -424,18 +437,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时15分]"
-        },
-        {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时20分 ~ 21时32分]"
         },
         {
           "title": "美国特使威特科夫：特朗普坚决支持安全协议，这些协议将用于抵御任何针对乌克兰的攻击，并保护乌克兰。",
@@ -858,6 +859,17 @@
           "time_info": "08时46分"
         },
         {
+          "title": "白宫官员称，特朗普将与美国石油公司高管于周五会面。",
+          "url": "https://flash.jin10.com/detail/20260107213851943800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
           "url": "https://wallstreetcn.com/livenews/3031957",
           "source": "华尔街见闻-快讯",
@@ -1056,6 +1068,17 @@
           "time_info": "08时46分"
         },
         {
+          "title": "据CNBC：美国将从委内瑞拉获得超过5000万桶石油。（此前特朗普表示，委内瑞拉将向美国移交3000至5000万桶石油）",
+          "url": "https://flash.jin10.com/detail/20260107213246753800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "美国总统特朗普：武器和飞机的生产速度将大幅提升。",
           "url": "https://flash.jin10.com/detail/20260106232908036800",
           "source": "金十数据",
@@ -1180,7 +1203,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -1339,6 +1362,17 @@
           "time_info": "10时52分"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3032511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "Strategy美股盘后涨超6%。",
           "url": "https://wallstreetcn.com/livenews/3031899",
           "source": "华尔街见闻-快讯",
@@ -1359,6 +1393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107214121257800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "半导体ETF在CES开幕日收涨超2.6%，领跑美股行业ETF，标普能源板块跌2.8%",
@@ -1459,8 +1504,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时13分 ~ 21时32分]"
+          "appearance_count": 28,
+          "time_info": "[00时13分 ~ 22时13分]"
         },
         {
           "title": "伊朗央行主管外汇的副行长辞职。（伊朗媒体Fars News）",
@@ -1738,7 +1783,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
@@ -1778,7 +1823,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时32分"
         },
