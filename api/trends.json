@@ -1,34 +1,24 @@
 {
-  "generated_at": "2026-01-07T07:02:44.345370+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-01-07T08:46:42.063946+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 72,
       "titles": [
-        {
-          "title": "特朗普不到1年对7国动武",
-          "url": "https://www.toutiao.com/trending/7591141159599276095/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 07时02分]"
-        },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 07时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 08时46分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -41,6 +31,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时11分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普不到1年对7国动武",
+          "url": "https://www.toutiao.com/trending/7591141159599276095/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 08时46分]"
         },
         {
           "title": "曝特朗普对委动手前曾暗示油企高管",
@@ -74,6 +76,28 @@
           "time_info": "[00时13分 ~ 07时02分]"
         },
         {
+          "title": "特朗普：委内瑞拉将向美国移交数千万桶石油",
+          "url": "https://news.ifeng.com/c/8piFwnPic7a",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "【早报】中方出手！禁止所有两用物项对日本军事用途出口；特朗普考虑动用美军等“一系列选项”获取格陵兰岛",
+          "url": "https://www.cls.cn/detail/2249909",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "特朗普：将与国防承包商对话。",
           "url": "https://flash.jin10.com/detail/20260107000150386800",
           "source": "金十数据",
@@ -83,6 +107,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普称若输中期选举或被弹劾",
+          "url": "https://www.toutiao.com/trending/7591446002708774921/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "美国总统特朗普重申对国防承包商的批评。",
@@ -229,6 +264,28 @@
           "time_info": "01时15分"
         },
         {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%8D%B0%E5%BA%A6%E5%8F%91%E5%87%BA%E6%96%B0%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "白宫：特朗普谋划获取格陵兰岛的方案 美军开路是可行选项",
           "url": "https://flash.jin10.com/detail/20260107045536947800",
           "source": "金十数据",
@@ -240,13 +297,46 @@
           "time_info": "06时02分"
         },
         {
+          "title": "特朗普向印度发出新警告",
+          "url": "https://news.ifeng.com/c/8piCojZXRGw",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "特朗普：若输中期选举 我可能被弹劾",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%8B%A5%E8%BE%93%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE+%E6%88%91%E5%8F%AF%E8%83%BD%E8%A2%AB%E5%BC%B9%E5%8A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "特朗普称格陵兰岛“到处是俄中船只” 丹麦外相：不实",
+          "url": "https://wallstreetcn.com/livenews/3031966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "美媒：鲁比奥透露特朗普意欲购买格陵兰岛 淡化军事行动考量",
           "url": "https://flash.jin10.com/detail/20260107060405066800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -279,7 +369,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -301,9 +391,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普称必须赢得中期选举",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BF%85%E9%A1%BB%E8%B5%A2%E5%BE%97%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "美国高级官员表示，美国总统特朗普及其顾问正在讨论各种选项，包括从丹麦手中购买该领土，或与该岛建立自由联合协定。",
@@ -405,6 +506,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "WTI原油期货短线走低，日内跌幅扩大至0.9%，此前特朗普称，委内瑞拉将向美国交付3000-5000万桶石油。",
+          "url": "https://wallstreetcn.com/livenews/3031959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
           "url": "https://wallstreetcn.com/livenews/3031771",
           "source": "华尔街见闻-快讯",
@@ -414,6 +526,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普政府警告委内瑞拉内政部长，要么配合，否则或将被列为打击目标。",
+          "url": "https://wallstreetcn.com/livenews/3031958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "特朗普政府正讨论获取格陵兰岛方案",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%AE%A8%E8%AE%BA%E8%8E%B7%E5%8F%96%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "特朗普扑向委石油遭美巨头打脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%91%E5%90%91%E5%A7%94%E7%9F%B3%E6%B2%B9%E9%81%AD%E7%BE%8E%E5%B7%A8%E5%A4%B4%E6%89%93%E8%84%B8%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://wallstreetcn.com/livenews/3031957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.00%，现报56.41美元/桶。消息面上，特朗普称委内瑞拉将向美国移交3000万至5000万桶石油。",
+          "url": "https://flash.jin10.com/detail/20260107075915378800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "特朗普称将与石油公司和保险公司举行会谈",
@@ -438,6 +605,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "特朗普政府向委内政部长发出威胁：要么合作，要么成为目标",
+          "url": "https://flash.jin10.com/detail/20260107075848366800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "美国总统特朗普：希望最高法院做出有利于我国的裁决。",
           "url": "https://flash.jin10.com/detail/20260106233045494800",
           "source": "金十数据",
@@ -447,6 +625,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "特朗普：委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://flash.jin10.com/detail/20260107075214198800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "特朗普称加州现已成为欺诈调查的目标",
@@ -477,7 +666,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -502,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "美国总统特朗普：石油将由储存船运输，并直接运至美国的卸货码头。",
+          "url": "https://flash.jin10.com/detail/20260107074827020800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "美国总统特朗普：武器和飞机的生产速度将大幅提升。",
@@ -535,6 +735,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "美国总统特朗普：已要求美国能源部长赖特执行此计划。",
+          "url": "https://flash.jin10.com/detail/20260107074759060800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
         },
         {
           "title": "美国总统特朗普：将要求国防承包商加快建设速度。",
@@ -581,6 +792,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "特朗普敲打印度",
+          "url": "https://www.douyin.com/hot/2358596",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        },
+        {
           "title": "美国总统特朗普：将更快地开始生产武器。",
           "url": "https://flash.jin10.com/detail/20260106232823127800",
           "source": "金十数据",
@@ -606,7 +828,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -642,8 +864,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 07时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 08时46分]"
+        },
+        {
+          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
+          "url": "https://www.cls.cn/detail/2249896",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时46分]"
         },
         {
           "title": "城堡证券：看好“一月效应”引发美股反弹",
@@ -694,15 +928,15 @@
           "time_info": "[06时02分 ~ 07时02分]"
         },
         {
-          "title": "美股收盘：道指、标普均创历史新高 芯片股借AI东风飙升",
-          "url": "https://www.cls.cn/detail/2249896",
-          "source": "财联社热门",
+          "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
+          "url": "https://wallstreetcn.com/articles/3762638",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "08时46分"
         },
         {
           "title": "美股收盘：道指、标普500创新高 特斯拉跌4%",
@@ -755,7 +989,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -777,7 +1011,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -806,8 +1040,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时13分 ~ 07时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时13分 ~ 08时46分]"
         },
         {
           "title": "伊朗警告：可能对敌人进行先发制人的打击",
