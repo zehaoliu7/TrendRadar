@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T04:02:43.809952+08:00",
-  "total_titles_processed": 548,
+  "generated_at": "2026-01-10T05:02:44.891923+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时02分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时02分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时02分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时02分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -60,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时02分]"
         },
         {
           "title": "白宫证实，特朗普的社交媒体账户无意中泄露了汇总的就业数据，“其中部分数据来源于事先公布的信息”。白宫正在据此审查有关经济数据发布的规程。",
@@ -70,9 +70,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普：不考虑以往在委内瑞拉流失了多少石油公司。",
+          "url": "https://wallstreetcn.com/livenews/3034398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时14分 ~ 05时02分]"
         },
         {
           "title": "美国总统特朗普将于十分钟后与美国石油高管举行会议，讨论委内瑞拉石油开采问题。",
@@ -81,31 +103,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
         {
-          "title": "特朗普重返白宫，六大银行预计将获利1570亿美元",
-          "url": "https://wallstreetcn.com/livenews/3034372",
+          "title": "美国总统特朗普告诉埃克森美孚：我们希望（在委内瑞拉的投资具有）速度和质量。",
+          "url": "https://wallstreetcn.com/livenews/3034396",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "05时02分"
         },
         {
-          "title": "白宫证实，特朗普的社交媒体账户无意中泄露了汇总的就业数据，“其中部分数据来源于事先公布的信息”。 白宫正在据此审查有关经济数据发布的规程。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3034371",
+          "title": "埃克森美孚CEO：委内瑞拉境内的业务需要（特朗普政府提供武装）保护。 本公司在委内瑞拉的业务需要双倍保护。 公司准备在委内瑞拉部署一个地面（武装）团队。 公司能在数周内于委内瑞拉启动。",
+          "url": "https://wallstreetcn.com/livenews/3034395",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时02分"
+          "time_info": "05时02分"
         },
         {
           "title": "乌克兰将一大型锂矿开发权授予特朗普密友",
@@ -119,15 +141,39 @@
           "time_info": "02时15分"
         },
         {
-          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
-          "url": "https://wallstreetcn.com/articles/3762893",
-          "source": "华尔街见闻",
+          "title": "特朗普：美扣押一艘离开委内瑞拉油轮 石油将出售",
+          "url": "https://wallstreetcn.com/livenews/3034394",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普重返白宫，六大银行预计将获利1570亿美元",
+          "url": "https://wallstreetcn.com/livenews/3034372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 04时02分]"
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
+        },
+        {
+          "title": "白宫证实，特朗普的社交媒体账户无意中泄露了汇总的就业数据，“其中部分数据来源于事先公布的信息”。 白宫正在据此审查有关经济数据发布的规程。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3034371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
         },
         {
           "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
@@ -280,7 +326,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -294,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美国总统特朗普：六个月之前要求雪佛龙留在委内瑞拉。 （委内瑞拉）几乎将立即“全面‘开放’”。",
+          "url": "https://wallstreetcn.com/livenews/3034389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：大量（价格）成本压力发生在特朗普关税之外。 我担心，民众会对“美联储实现2%通胀目标”丧失信心。 需要专注于让通胀受控。",
@@ -313,9 +370,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普施压大型石油公司在委内瑞拉投资1000亿美元",
+          "url": "https://flash.jin10.com/detail/20260110042928179800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：下周还将再次举办关于委内瑞拉和石油的会议。",
+          "url": "https://wallstreetcn.com/livenews/3034384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "白宫经济顾问哈塞特：很荣幸入选特朗普的美联储主席候选人名单。",
@@ -329,6 +408,28 @@
           "time_info": "00时13分"
         },
         {
+          "title": "美国总统特朗普：委内瑞拉已经同意，美国提炼高达5000万桶的（委内瑞拉）石油。",
+          "url": "https://wallstreetcn.com/livenews/3034382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普今天发表讲话时，衣领上别着一枚他自己形象的徽章。",
+          "url": "https://flash.jin10.com/detail/20260110042306371800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
           "title": "提前12个小时！特朗普抢先披露非农就业数据，“65.4万”与劳工部发布信息完全吻合",
           "url": "https://wallstreetcn.com/livenews/3034277",
           "source": "华尔街见闻-快讯",
@@ -338,6 +439,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "美国总统特朗普：那些石油巨头们将自掏腰包开销1000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3034381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们正在抢回被从美国带走的东西。",
+          "url": "https://wallstreetcn.com/livenews/3034380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：将紧密地融合美国与委内瑞拉的经济。",
+          "url": "https://wallstreetcn.com/livenews/3034379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国石油公司将“用他们自己的钱，而不是政府的钱”向委内瑞拉投资1000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260110041845321800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "特朗普：价值40亿美元的委内瑞拉石油正被运往美国",
+          "url": "https://wallstreetcn.com/livenews/3034378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         },
         {
           "title": "特朗普提前12小时发布就业数据 与正式结果精准吻合",
@@ -351,6 +507,28 @@
           "time_info": "00时13分"
         },
         {
+          "title": "美国总统特朗普：下周将与石油公司再次举行会议。",
+          "url": "https://flash.jin10.com/detail/20260110041809965800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普在会见石油行业高管们时声称：被美国扣押的油轮正在重返委内瑞拉。 被扣押的石油将通过“能源协议”出售。 与委内瑞拉民众的关系非常不错。 与委内瑞拉政府官员关系也很好。",
+          "url": "https://wallstreetcn.com/livenews/3034377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
           "title": "美国最高法院暂缓对特朗普政府关税案作出裁决",
           "url": "https://wallstreetcn.com/livenews/3034272",
           "source": "华尔街见闻-快讯",
@@ -362,6 +540,61 @@
           "time_info": "00时13分"
         },
         {
+          "title": "美国总统特朗普：大型石油公司将投入1,000亿美元资金。石油公司需要政府保护和安全保障。",
+          "url": "https://flash.jin10.com/detail/20260110041636871800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：美国将立即开始提炼并出售多达5000万桶委内瑞拉石油。",
+          "url": "https://flash.jin10.com/detail/20260110041606508800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：（谈委内瑞拉石油工业）我们正在“夺回被夺走的东西”。",
+          "url": "https://flash.jin10.com/detail/20260110041518694800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：价值40亿美元的委内瑞拉石油正在运往美国。",
+          "url": "https://flash.jin10.com/detail/20260110041459567800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：我们将紧密“整合”委内瑞拉和美国的经济。",
+          "url": "https://flash.jin10.com/detail/20260110041326666800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
           "title": "美国总统特朗普针对加利福尼亚州酝酿住房重建命令。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3034266",
           "source": "华尔街见闻-快讯",
@@ -371,6 +604,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时13分"
+        },
+        {
+          "title": "美国总统特朗普：美国人将从大规模石油开采中显著受益。",
+          "url": "https://flash.jin10.com/detail/20260110041308714800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美国总统特朗普：（谈委内瑞拉石油储备）储量极其巨大，位列世界最大储量之列。有人甚至说它们是世界上最大的储量。",
+          "url": "https://flash.jin10.com/detail/20260110041240608800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
         }
       ]
     },
@@ -386,8 +641,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时02分]"
         },
         {
           "title": "伊朗指责美以策划动乱",
@@ -399,8 +654,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时02分]"
         },
         {
           "title": "法国总统府：法国、英国和德国敦促伊朗当局保持克制。",
@@ -427,6 +682,18 @@
           "time_info": "[03时12分 ~ 04时02分]"
         },
         {
+          "title": "哈梅内伊就伊朗多地骚乱表态",
+          "url": "https://www.toutiao.com/trending/7593189459336924691/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时15分 ~ 05时02分]"
+        },
+        {
           "title": "WTI原油日内涨幅达3.0%，报59.38美元/桶。 委内瑞拉危机数日后，石油交易员又迎来伊朗风险。",
           "url": "https://wallstreetcn.com/livenews/3034306",
           "source": "华尔街见闻-快讯",
@@ -437,18 +704,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时15分]"
-        },
-        {
-          "title": "哈梅内伊就伊朗多地骚乱表态",
-          "url": "https://www.toutiao.com/trending/7593189459336924691/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时15分 ~ 03时12分]"
         },
         {
           "title": "黎真主党领导人会见伊朗外长，双方讨论加强合作",
@@ -508,7 +763,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -519,7 +774,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -529,11 +784,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时02分]"
         },
         {
           "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
@@ -576,8 +832,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时02分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -589,8 +845,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时12分 ~ 04时02分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 05时02分]"
         },
         {
           "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
@@ -629,8 +885,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "英伟达挖角谷歌云业务高管",
+          "url": "https://wallstreetcn.com/livenews/3034397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
         {
           "title": "谷歌(GOOG.O)市值盘中突破4万亿美元。",
           "url": "https://flash.jin10.com/detail/20260110003148423800",
@@ -667,6 +934,34 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数非农日涨0.2%，本周累涨超0.7%",
+          "url": "https://wallstreetcn.com/livenews/3034392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3034317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -675,11 +970,12 @@
           "url": "https://www.zhihu.com/question/1923049081044960601",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时02分]"
         }
       ]
     },
@@ -697,23 +993,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时12分 ~ 00时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3034317",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
         }
       ]
     }
