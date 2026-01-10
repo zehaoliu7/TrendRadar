@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-10T15:10:53.293225+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-01-10T16:13:06.156439+08:00",
+  "total_titles_processed": 1242,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 120,
+      "match_count": 125,
       "titles": [
+        {
+          "title": "特朗普威胁石油巨头在委投资：你们不干有的是人干",
+          "url": "https://news.ifeng.com/c/8pnLOwhxyq3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 16时13分]"
+        },
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
           "url": "https://news.ifeng.com/c/8pmFjAsY9wc",
@@ -19,15 +30,15 @@
           "time_info": "[00时12分 ~ 06时02分]"
         },
         {
-          "title": "特朗普威胁石油巨头在委投资：你们不干有的是人干",
-          "url": "https://news.ifeng.com/c/8pnLOwhxyq3",
+          "title": "特朗普极力拉投资声称“委美加起来有全球55%石油”",
+          "url": "https://news.ifeng.com/c/8pnVKuGn9sJ",
           "source": "凤凰网",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时45分 ~ 15时10分]"
+          "time_info": "[11时51分 ~ 16时13分]"
         },
         {
           "title": "美国最高法院暂未公布对特朗普关税的判决，市场紧盯下周三",
@@ -40,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时02分 ~ 15时10分]"
+          "appearance_count": 12,
+          "time_info": "[07时02分 ~ 16时13分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -58,15 +69,33 @@
           "time_info": "[00时12分 ~ 13时12分]"
         },
         {
-          "title": "特朗普极力拉投资声称“委美加起来有全球55%石油”",
-          "url": "https://news.ifeng.com/c/8pnVKuGn9sJ",
-          "source": "凤凰网",
+          "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
+          "url": "https://www.zhihu.com/question/1991889804833599714",
+          "source": "知乎",
           "ranks": [
-            4
+            13,
+            10,
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时51分 ~ 15时10分]"
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 16时13分]"
+        },
+        {
+          "title": "特朗普称美国必须「拥有」整个格陵兰，美国武力夺取格陵兰的可能性有多大？格陵兰岛的现状会发生改变吗？",
+          "url": "https://www.zhihu.com/question/1992934891055239467",
+          "source": "知乎",
+          "ranks": [
+            9,
+            7,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 16时13分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -103,32 +132,15 @@
           "time_info": "[00时12分 ~ 06时02分]"
         },
         {
-          "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
-          "url": "https://www.zhihu.com/question/1991889804833599714",
-          "source": "知乎",
+          "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
+          "url": "https://wallstreetcn.com/articles/3762973",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            10,
-            9,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 15时10分]"
-        },
-        {
-          "title": "特朗普称美国必须「拥有」整个格陵兰，美国武力夺取格陵兰的可能性有多大？格陵兰岛的现状会发生改变吗？",
-          "url": "https://www.zhihu.com/question/1992934891055239467",
-          "source": "知乎",
-          "ranks": [
-            9,
-            7,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 15时10分]"
+          "appearance_count": 9,
+          "time_info": "[10时45分 ~ 16时13分]"
         },
         {
           "title": "5名共和党议员倒戈，美参议院限制对委继续动武，特朗普怒了",
@@ -143,15 +155,42 @@
           "time_info": "[08时45分 ~ 10时46分]"
         },
         {
-          "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
-          "url": "https://wallstreetcn.com/articles/3762973",
-          "source": "华尔街见闻",
+          "title": "特朗普放话：我可不要中俄当邻居",
+          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
+          "source": "凤凰网",
           "ranks": [
-            10
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
+        },
+        {
+          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
+          "url": "https://www.cls.cn/detail/2253739",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时45分 ~ 15时10分]"
+          "time_info": "[12时24分 ~ 16时13分]"
+        },
+        {
+          "title": "俄方感谢特朗普释放俄船员",
+          "url": "https://www.toutiao.com/trending/7593393480542961707/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            24,
+            27,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 16时13分]"
         },
         {
           "title": "美国消费者银行家协会：美国银行业回应信用卡利率设限提案，表示认同美国总统特朗普帮助美国人获得更实惠信贷的目标。",
@@ -161,11 +200,12 @@
             3,
             4,
             10,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 15时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 16时13分]"
         },
         {
           "title": "特朗普到底退出了什么组织",
@@ -249,6 +289,17 @@
           "time_info": "04时02分"
         },
         {
+          "title": "泽连斯基想让你抓普京？特朗普：没这必要，我跟普京关系很好",
+          "url": "https://wallstreetcn.com/livenews/3034512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
           "url": "https://flash.jin10.com/detail/20260110092636627800",
           "source": "金十数据",
@@ -321,6 +372,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "会去抓普京吗？特朗普：没必要 我们关系很好",
+          "url": "https://flash.jin10.com/detail/20260110152727783800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
           "title": "特朗普：美扣押一艘离开委内瑞拉油轮 石油将出售",
           "url": "https://wallstreetcn.com/livenews/3034394",
           "source": "华尔街见闻-快讯",
@@ -330,17 +392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
-          "url": "https://wallstreetcn.com/livenews/3034503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
         },
         {
           "title": "美国财长贝森特：美国目前发现，关税以物价上涨的形式转嫁给消费者的比例“非常、非常小”。 如果最高法院做出不利于特朗普政府的裁决，财政部有充足的资金支付任何关税退款。 任何关税退款都将在数周、数月、甚至可能是一年的时间内陆续流出。",
@@ -426,19 +477,6 @@
           "time_info": "[10时46分 ~ 14时15分]"
         },
         {
-          "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
-          "url": "https://www.cls.cn/detail/2253739",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 15时10分]"
-        },
-        {
           "title": "特朗普威胁美国石油巨头在委内瑞拉投资：你们不干有的是人干",
           "url": "https://wallstreetcn.com/livenews/3034473",
           "source": "华尔街见闻-快讯",
@@ -452,19 +490,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时46分 ~ 14时15分]"
-        },
-        {
-          "title": "俄方感谢特朗普释放俄船员",
-          "url": "https://www.toutiao.com/trending/7593393480542961707/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 15时10分]"
         },
         {
           "title": "特朗普称委内瑞拉反对派要员马查多下周访美",
@@ -564,6 +589,18 @@
           "time_info": "[01时15分 ~ 02时15分]"
         },
         {
+          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
+          "url": "https://wallstreetcn.com/livenews/3034503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时13分]"
+        },
+        {
           "title": "特朗普：“无论难易”都要得到格陵兰岛",
           "url": "https://flash.jin10.com/detail/20260110084951705800",
           "source": "金十数据",
@@ -606,6 +643,17 @@
           "time_info": "[11时51分 ~ 14时15分]"
         },
         {
+          "title": "会下令“抓捕”普京吗？特朗普回应",
+          "url": "https://v.ifeng.com/c/8pngFh4oVip",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 16时13分]"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉似乎是盟友。",
           "url": "https://flash.jin10.com/detail/20260110045154253800",
           "source": "金十数据",
@@ -640,6 +688,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时02分 ~ 08时45分]"
+        },
+        {
+          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
+          "url": "https://wallstreetcn.com/articles/3762989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 16时13分]"
         },
         {
           "title": "特朗普施压大型石油公司在委内瑞拉投资1000亿美元",
@@ -772,6 +831,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时45分 ~ 10时46分]"
+        },
+        {
+          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
+          "url": "https://flash.jin10.com/detail/20260110135717759800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时10分 ~ 16时13分]"
         },
         {
           "title": "特朗普：1月30日可能再次发生美国政府关门。",
@@ -951,15 +1022,26 @@
           "time_info": "[03时12分 ~ 04时02分]"
         },
         {
-          "title": "会下令“抓捕”普京吗？特朗普回应",
-          "url": "https://v.ifeng.com/c/8pngFh4oVip",
-          "source": "凤凰网",
+          "title": "特朗普内涵中俄要拿下格陵兰岛",
+          "url": "https://www.toutiao.com/trending/7592823390801870854/",
+          "source": "今日头条",
           "ranks": [
-            6
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
+        },
+        {
+          "title": "专家：特朗普践踏美国宪法体制",
+          "url": "https://www.toutiao.com/trending/7592817698066563118/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
         },
         {
           "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。",
@@ -982,28 +1064,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
-          "url": "https://wallstreetcn.com/articles/3762989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
-          "url": "https://flash.jin10.com/detail/20260110135717759800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
         },
         {
           "title": "美国总统特朗普：将在2月份第一周会见哥伦比亚总统Petro。",
@@ -1265,7 +1325,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
         },
@@ -1473,11 +1533,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 15时10分]"
+          "appearance_count": 3,
+          "time_info": "[14时15分 ~ 16时13分]"
         },
         {
           "title": "法国总统府：法国、英国和德国敦促伊朗当局保持克制。",
@@ -1603,11 +1664,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时45分 ~ 15时10分]"
+          "appearance_count": 10,
+          "time_info": "[10时45分 ~ 16时13分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -1619,41 +1681,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时45分 ~ 15时10分]"
-        },
-        {
-          "title": "DeepSeek能否第二次震惊全世界",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 16时13分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
           "url": "https://www.toutiao.com/trending/7593519269174840858/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 16时13分]"
+        },
+        {
+          "title": "DeepSeek能否第二次震惊全世界",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%83%BD%E5%90%A6%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%9C%87%E6%83%8A%E5%85%A8%E4%B8%96%E7%95%8C",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时14分 ~ 15时10分]"
+          "time_info": "[15时10分 ~ 16时13分]"
+        },
+        {
+          "title": "UP主解读DeepSeek进化史",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时10分 ~ 16时13分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -1732,8 +1797,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时45分 ~ 15时10分]"
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 16时13分]"
         },
         {
           "title": "金十图示：2026年01月09日（周五）美股热门股票行情一览（美股盘中）",
@@ -1935,11 +2000,12 @@
             4,
             5,
             11,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 15时10分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 16时13分]"
         },
         {
           "title": "金价",
@@ -1951,8 +2017,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时24分 ~ 15时10分]"
+          "appearance_count": 6,
+          "time_info": "[12时24分 ~ 16时12分]"
         },
         {
           "title": "金价波动",
@@ -1995,8 +2061,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时45分 ~ 15时10分]"
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 16时13分]"
         },
         {
           "title": "美元指数非农日涨0.2%，本周累涨超0.7%",
