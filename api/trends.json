@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T13:17:45.931325+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-01-11T14:16:05.740038+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时02分 ~ 13时17分]"
+          "appearance_count": 13,
+          "time_info": "[01时02分 ~ 14时16分]"
         },
         {
           "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
@@ -46,6 +46,17 @@
           "time_info": "[00时11分 ~ 08时53分]"
         },
         {
+          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
+          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时53分 ~ 14时16分]"
+        },
+        {
           "title": "信号比规模重要--高盛解读“特朗普版QE”",
           "url": "https://wallstreetcn.com/articles/3763012",
           "source": "华尔街见闻",
@@ -58,6 +69,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时10分 ~ 11时02分]"
+        },
+        {
+          "title": "特朗普：很快打击墨西哥境内",
+          "url": "https://wallstreetcn.com/articles/3763023",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时02分 ~ 14时16分]"
         },
         {
           "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
@@ -102,17 +126,6 @@
           "time_info": "[01时02分 ~ 08时53分]"
         },
         {
-          "title": "为保护所持委石油收入，特朗普宣布进入国家紧急状态",
-          "url": "https://news.ifeng.com/c/8pobzhsarXJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时53分 ~ 13时17分]"
-        },
-        {
           "title": "特朗普执政不到一年打 7 国，第二任期以来已下令实施超 620 次空袭，下一个是谁？谁能给他踩下刹车？",
           "url": "https://www.zhihu.com/question/1991889804833599714",
           "source": "知乎",
@@ -127,17 +140,15 @@
           "time_info": "[00时10分 ~ 07时02分]"
         },
         {
-          "title": "特朗普：很快打击墨西哥境内",
-          "url": "https://wallstreetcn.com/articles/3763023",
-          "source": "华尔街见闻",
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
+          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时02分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时16分]"
         },
         {
           "title": "意大利总理说很多问题上不同意特朗普做法",
@@ -185,15 +196,16 @@
           "time_info": "[00时11分 ~ 06时02分]"
         },
         {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报",
-          "url": "https://news.ifeng.com/c/8pp0Cwro8Vo",
-          "source": "凤凰网",
+          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
+          "url": "https://www.zhihu.com/question/1993621515099399503",
+          "source": "知乎",
           "ranks": [
-            5
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时16分]"
         },
         {
           "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
@@ -220,16 +232,15 @@
           "time_info": "08时53分"
         },
         {
-          "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
-          "url": "https://www.zhihu.com/question/1993621515099399503",
-          "source": "知乎",
+          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
+          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
+          "source": "凤凰网",
           "ranks": [
-            4,
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时16分]"
         },
         {
           "title": "不让债权人染指，特朗普打造防火墙将委内瑞拉石油收入圈在美国",
@@ -242,6 +253,74 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时53分]"
+        },
+        {
+          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
+          "url": "https://wallstreetcn.com/articles/3763030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时16分]"
+        },
+        {
+          "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
+          "url": "https://flash.jin10.com/detail/20260111084513676800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 14时16分]"
+        },
+        {
+          "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
+          "url": "https://flash.jin10.com/detail/20260111084158477800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 14时16分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
+          "url": "https://flash.jin10.com/detail/20260111083436451800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            16,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 14时16分]"
+        },
+        {
+          "title": "特朗普被曝已听取打击伊朗方案汇报",
+          "url": "https://www.toutiao.com/trending/7593910770325261860/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时16分]"
         },
         {
           "title": "石油巨头齐聚白宫探讨委内瑞拉原油，特朗普“你们投千亿、政府不出钱”，美孚“没改革就没投资”",
@@ -283,17 +362,17 @@
           "time_info": "[08时53分 ~ 12时39分]"
         },
         {
-          "title": "美媒：特朗普听取对伊朗打击方案简报 但尚未作出最终决定",
-          "url": "https://flash.jin10.com/detail/20260111084513676800",
-          "source": "金十数据",
+          "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
+          "url": "https://wallstreetcn.com/livenews/3034618",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            14,
-            16
+            13,
+            19
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时02分 ~ 13时17分]"
+          "time_info": "[12时39分 ~ 14时16分]"
         },
         {
           "title": "据CBS：当地时间今日上午，特朗普按计划前往佛罗里达州当地的牙医诊所就诊。白宫方面表示，此次治疗未使用麻醉剂。",
@@ -309,32 +388,6 @@
           "time_info": "[08时53分 ~ 12时39分]"
         },
         {
-          "title": "据纽约时报：特朗普尚未就打击伊朗做出最终决定，但官员表示他正认真考虑授权发动打击。",
-          "url": "https://flash.jin10.com/detail/20260111084158477800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 13时17分]"
-        },
-        {
-          "title": "特朗普：委内瑞拉已大规模启动释放政治犯的程序",
-          "url": "https://flash.jin10.com/detail/20260111083436451800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 13时17分]"
-        },
-        {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
           "url": "https://wallstreetcn.com/livenews/3034603",
           "source": "华尔街见闻-快讯",
@@ -348,58 +401,11 @@
           "time_info": "[11时02分 ~ 13时17分]"
         },
         {
-          "title": "委反对派领导人想将诺奖赠予特朗普，诺奖学会发声",
-          "url": "https://news.ifeng.com/c/8pp6FpPkjc3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时17分]"
-        },
-        {
-          "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
-          "url": "https://wallstreetcn.com/articles/3763030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时17分]"
-        },
-        {
-          "title": "英媒爆料：特朗普已下令美军司令部制定“入侵”格陵兰岛计划，遭军方抵制",
-          "url": "https://wallstreetcn.com/livenews/3034618",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时17分]"
-        },
-        {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报",
           "url": "https://m.thepaper.cn/newsDetail_forward_32362509",
           "source": "澎湃新闻",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时17分]"
-        },
-        {
-          "title": "特朗普被曝已听取打击伊朗方案汇报",
-          "url": "https://www.toutiao.com/trending/7593910770325261860/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -453,7 +459,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗军方发声明称将捍卫国家利益，保护战略基础设施和公共财产，目前伊朗国内局势如何？",
@@ -468,8 +474,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时02分 ~ 13时17分]"
+          "appearance_count": 11,
+          "time_info": "[03时02分 ~ 14时16分]"
         },
         {
           "title": "伊朗军方：将捍卫国家利益",
@@ -481,6 +487,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时10分 ~ 07时02分]"
+        },
+        {
+          "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
+          "url": "https://news.ifeng.com/c/8pouUo7LZC6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时02分 ~ 14时16分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗安全部队拦截了试图从伊拉克入境的库尔德武装分子。",
@@ -518,28 +535,29 @@
           "time_info": "[00时11分 ~ 07时02分]"
         },
         {
-          "title": "外卖打车软件可使用，主要区域未发生骚乱…伊朗局势最新进展",
-          "url": "https://news.ifeng.com/c/8pouUo7LZC6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 13时17分]"
-        },
-        {
           "title": "鲁比奥被曝同内塔尼亚胡通话谈伊朗局势等",
           "url": "https://flash.jin10.com/detail/20260111102147236800",
           "source": "金十数据",
           "ranks": [
             2,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 14时16分]"
+        },
+        {
+          "title": "以色列消息人士：以色列总理内塔尼亚胡与美国国务卿鲁比奥在周六的电话中讨论了美国干预伊朗的可能性。三位出席以色列安全会议的消息人士表示，以色列正对美国可能干预伊朗的可能性保持高度警戒。",
+          "url": "https://flash.jin10.com/detail/20260111140007452800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         },
         {
           "title": "记者报道伊朗现状",
@@ -570,11 +588,12 @@
           "ranks": [
             5,
             18,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 14时16分]"
         },
         {
           "title": "消息人士称以军目前没有对伊朗的进攻意图",
@@ -626,6 +645,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时10分 ~ 01时02分]"
+        },
+        {
+          "title": "伊朗12万吨巨舰亮相传递什么信号",
+          "url": "https://www.toutiao.com/trending/7593647730098966026/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
         },
         {
           "title": "佩泽希齐扬：伊朗人民将坚定支持国家",
@@ -693,8 +723,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时10分 ~ 13时17分]"
+          "appearance_count": 15,
+          "time_info": "[00时10分 ~ 14时16分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -731,11 +761,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时39分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[12时39分 ~ 14时16分]"
         }
       ]
     },
@@ -767,7 +798,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
         }
