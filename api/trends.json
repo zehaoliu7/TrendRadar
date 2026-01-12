@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T03:14:12.206511+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-01-13T04:02:38.406105+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
         },
         {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
         },
         {
           "title": "特朗普转发“鲁比奥将成为古巴总统”帖子：听起来不错",
@@ -37,8 +37,41 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
+        },
+        {
+          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
+          "url": "https://wallstreetcn.com/articles/3763089",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
+        },
+        {
+          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
+          "url": "https://wallstreetcn.com/articles/3763082",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
+        },
+        {
+          "title": "美媒：白宫权衡伊朗核提议 建议特朗普“先礼后兵”",
+          "url": "https://flash.jin10.com/detail/20260113032445731800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -52,39 +85,6 @@
           "time_info": "02时16分"
         },
         {
-          "title": "据美媒MS NOW：特朗普政府司法部解雇了拒绝起诉詹姆斯·科米案的检察官。",
-          "url": "https://flash.jin10.com/detail/20260113025756995800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "鲍威尔被诉，共和党关键议员翻脸：我就投反对票，特朗普别想提名新联储主席！",
-          "url": "https://wallstreetcn.com/articles/3763089",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
-        },
-        {
-          "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
-          "url": "https://wallstreetcn.com/articles/3763082",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
-        },
-        {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
           "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
           "source": "澎湃新闻",
@@ -93,8 +93,41 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
+        },
+        {
+          "title": "据华尔街日报：以美国副总统万斯为首的某些高级政府助手敦促美国总统特朗普在对伊朗采取报复行动之前先尝试外交手段。",
+          "url": "https://flash.jin10.com/detail/20260113032057566800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "辉瑞：白宫愿意在外国药品价格问题上提供帮助。 乐观预计白宫确定性“已经被甩在身后”。 医药行业CEO们应该与美国总统特朗普接触。",
+          "url": "https://wallstreetcn.com/livenews/3035549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
+          "title": "据华尔街日报：白宫权衡伊朗的核谈提议，而美国总统特朗普倾向于采取打击行动。",
+          "url": "https://flash.jin10.com/detail/20260113032013915800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "民调称美民众不爱听特朗普对华叫嚷",
@@ -104,8 +137,44 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 04时02分]"
+        },
+        {
+          "title": "据美媒MS NOW：特朗普政府司法部解雇了拒绝起诉詹姆斯·科米案的检察官。",
+          "url": "https://flash.jin10.com/detail/20260113025756995800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时02分]"
+        },
+        {
+          "title": "美国财长贝森特曾告诉总统特朗普：（司法部）对美联储主席鲍威尔的调查会造成“混乱”。 调查美联储将利空市场。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3035527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时02分]"
+        },
+        {
+          "title": "据AXIOS：美国财长贝森特并未质疑对美联储主席鲍威尔展开调查的必要性，也未在与美国总统特朗普的谈话中为美联储主席辩护。",
+          "url": "https://flash.jin10.com/detail/20260113024556417800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时02分]"
         },
         {
           "title": "美国政府官员：总统特朗普将于周四在白宫会见委内瑞拉反对派Machado。",
@@ -120,26 +189,99 @@
           "time_info": "[02时16分 ~ 03时14分]"
         },
         {
-          "title": "美国财长贝森特曾告诉总统特朗普：（司法部）对美联储主席鲍威尔的调查会造成“混乱”。 调查美联储将利空市场。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3035527",
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普在吞并格陵兰岛方面并没有时间表。",
+          "url": "https://wallstreetcn.com/livenews/3035521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时02分]"
+        },
+        {
+          "title": "白宫：特朗普并没有授意司法部调查鲍威尔",
+          "url": "https://wallstreetcn.com/livenews/3035520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时02分]"
+        },
+        {
+          "title": "白宫新闻秘书利维特：：特朗普并未设定收购格陵兰岛的时间表。",
+          "url": "https://flash.jin10.com/detail/20260113022632820800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时02分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：伊朗对美国公开披露的信息与私底下沟通的不一样。 总统特朗普有兴趣探索伊朗方面的信息。 特朗普已经与星链Starlink老板马斯克讨论伊朗的网络问题。 空袭伊朗是众多选项之一。 在通过外交手段处理伊朗问题方面，美国特使Witkoff是一个重要的“玩家”。",
+          "url": "https://wallstreetcn.com/livenews/3035517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时02分]"
+        },
+        {
+          "title": "白宫新闻秘书利维特：特朗普总统已与马斯克就互联网问题进行了沟通。",
+          "url": "https://flash.jin10.com/detail/20260113022328859800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时02分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。 （自从美方强行掳走委内瑞拉总统马杜罗以来）委内瑞拉政府已经“全面配合”（美方的意图）。 现在谈论委内瑞拉大选还言之过早。",
+          "url": "https://wallstreetcn.com/livenews/3035514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时02分]"
+        },
+        {
+          "title": "白宫新闻秘书利维特：特朗普不惧对伊朗动用军事力量，但更倾向于外交手段。",
+          "url": "https://flash.jin10.com/detail/20260113022137220800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时02分]"
+        },
+        {
+          "title": "美国国会山一个跨党派团体前往丹麦首都哥本哈根。 在总统特朗普企图吞并格陵兰岛之际，他们会见丹麦官员们。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3035545",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "据AXIOS：美国财长贝森特并未质疑对美联储主席鲍威尔展开调查的必要性，也未在与美国总统特朗普的谈话中为美联储主席辩护。",
-          "url": "https://flash.jin10.com/detail/20260113024556417800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "04时02分"
         },
         {
           "title": "前美联储主席格林斯潘、伯南克、耶伦，以及其他曾经担任美联储官员的人士再次发声：美国总统特朗普“动用司法手段来攻击（现任主席鲍威尔）”将破坏美联储（的独立性）。",
@@ -164,6 +306,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "美国参议院民主党成员Warren：接到总统特朗普的电话。 我已经告诉特朗普，我会支持参议院通过信用卡利率上限。",
+          "url": "https://wallstreetcn.com/livenews/3035537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
+        },
+        {
           "title": "共和党要员抨击美国司法部调查，特朗普“驯服”美联储计划遇阻力",
           "url": "https://wallstreetcn.com/livenews/3035468",
           "source": "华尔街见闻-快讯",
@@ -175,15 +328,15 @@
           "time_info": "01时15分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普在吞并格陵兰岛方面并没有时间表。",
-          "url": "https://wallstreetcn.com/livenews/3035521",
+          "title": "美国正在研究伊朗提出的外交手段解决问题的建议。 副总统万斯要求总统特朗普设法与伊朗通过外交途径解决问题。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3035535",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "04时02分"
         },
         {
           "title": "墨西哥总统辛鲍姆告诉美国总统特朗普：墨方反对军事干预。 墨西哥不需要美国的军事援助。",
@@ -197,28 +350,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "白宫：特朗普并没有授意司法部调查鲍威尔",
-          "url": "https://wallstreetcn.com/livenews/3035520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "白宫新闻秘书利维特：：特朗普并未设定收购格陵兰岛的时间表。",
-          "url": "https://flash.jin10.com/detail/20260113022632820800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
           "title": "白宫官员：美国总统特朗普将于周四会见委内瑞拉反对派领导人。",
           "url": "https://flash.jin10.com/detail/20260113014955133800",
           "source": "金十数据",
@@ -228,28 +359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时16分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：伊朗对美国公开披露的信息与私底下沟通的不一样。 总统特朗普有兴趣探索伊朗方面的信息。 特朗普已经与星链Starlink老板马斯克讨论伊朗的网络问题。 空袭伊朗是众多选项之一。 在通过外交手段处理伊朗问题方面，美国特使Witkoff是一个重要的“玩家”。",
-          "url": "https://wallstreetcn.com/livenews/3035517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "白宫新闻秘书利维特：特朗普总统已与马斯克就互联网问题进行了沟通。",
-          "url": "https://flash.jin10.com/detail/20260113022328859800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
         },
         {
           "title": "前美联储主席耶伦：对于现任主席鲍威尔的接班人而言，（特朗普政府）的调查让人“极度不寒而栗”，市场应当感到忧心忡忡。",
@@ -263,17 +372,6 @@
           "time_info": "00时15分"
         },
         {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。 （自从美方强行掳走委内瑞拉总统马杜罗以来）委内瑞拉政府已经“全面配合”（美方的意图）。 现在谈论委内瑞拉大选还言之过早。",
-          "url": "https://wallstreetcn.com/livenews/3035514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
           "title": "美国国务院：特朗普总统正在考虑一系列针对伊朗的强硬选项。",
           "url": "https://flash.jin10.com/detail/20260112233206127800",
           "source": "金十数据",
@@ -283,17 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "白宫新闻秘书利维特：特朗普不惧对伊朗动用军事力量，但更倾向于外交手段。",
-          "url": "https://flash.jin10.com/detail/20260113022137220800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时14分"
         },
         {
           "title": "诺和诺德CEO：公司对直接与特朗普政府对话感到欣慰。 预计Wegovy口服药有助于拓展减肥药市场。",
@@ -324,7 +411,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -368,7 +455,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -423,7 +510,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -456,7 +543,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         }
@@ -476,8 +563,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
         },
         {
           "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
@@ -487,8 +574,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
         },
         {
           "title": "伊朗外长说已控制全国局势",
@@ -497,11 +584,12 @@
           "ranks": [
             19,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 04时02分]"
         },
         {
           "title": "伊朗外长称已控制国内局势",
@@ -621,7 +709,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         },
@@ -643,7 +731,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
         }
@@ -651,7 +739,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -661,8 +749,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
+        },
+        {
+          "title": "马斯克：（谈及苹果与谷歌的合作）鉴于谷歌还拥有安卓和Chrome，这似乎是对谷歌权力的不合理集中。",
+          "url": "https://flash.jin10.com/detail/20260113030706645800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时02分"
         },
         {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
@@ -766,8 +865,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
         },
         {
           "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -777,8 +876,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
         },
         {
           "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
@@ -789,8 +888,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 03时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 04时02分]"
         },
         {
           "title": "美股集体低开 中概股逆势走强",
