@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T16:15:54.677292+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-01-13T17:18:07.070194+08:00",
+  "total_titles_processed": 1572,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 86,
+      "match_count": 90,
       "titles": [
         {
           "title": "特朗普威胁古巴，委内瑞拉发声",
@@ -32,6 +32,18 @@
           "time_info": "[07时08分 ~ 15时16分]"
         },
         {
+          "title": "伊朗局势突然反转，特朗普又心生一计",
+          "url": "https://news.ifeng.com/c/8psBaLzCORr",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 17时18分]"
+        },
+        {
           "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
           "url": "https://news.ifeng.com/c/8pr7YJccLIS",
           "source": "凤凰网",
@@ -53,17 +65,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 07时09分]"
-        },
-        {
-          "title": "伊朗局势突然反转，特朗普又心生一计",
-          "url": "https://news.ifeng.com/c/8psBaLzCORr",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 16时15分]"
         },
         {
           "title": "特朗普：最高法若作出对美不利裁决，我们就完蛋了",
@@ -91,6 +92,35 @@
           "time_info": "[00时15分 ~ 16时15分]"
         },
         {
+          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3763132",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 17时18分]"
+        },
+        {
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
+          "url": "https://wallstreetcn.com/articles/3763124",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 17时18分]"
+        },
+        {
           "title": "从“架空美联储”到“起诉鲍威尔”--“输不起中选”的特朗普决定“接管美联储”",
           "url": "https://wallstreetcn.com/articles/3763082",
           "source": "华尔街见闻",
@@ -105,6 +135,19 @@
           "time_info": "[00时15分 ~ 13时17分]"
         },
         {
+          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
+          "url": "https://wallstreetcn.com/articles/3763119",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 17时18分]"
+        },
+        {
           "title": "特朗普再放狠话：美国势必拿下格陵兰岛，他们靠狗拉雪橇防卫",
           "url": "https://m.thepaper.cn/newsDetail_forward_32366593",
           "source": "澎湃新闻",
@@ -115,20 +158,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 08时42分]"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
-          "url": "https://wallstreetcn.com/articles/3763124",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 16时15分]"
         },
         {
           "title": "特朗普称接管格陵兰岛是为防中俄觊觎，外交部：谋私利别拿他国当借口",
@@ -145,31 +174,29 @@
           "time_info": "[08时42分 ~ 16时15分]"
         },
         {
-          "title": "“美联储通讯社”：鲍威尔上周五接到传票，思考整个周末后，美联储主席决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3763132",
-          "source": "华尔街见闻",
+          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
+          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            7,
-            6
+            6,
+            7
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时49分 ~ 16时15分]"
+          "time_info": "[12时09分 ~ 17时18分]"
         },
         {
-          "title": "调查鲍威尔引内讧？FHFA局长被指幕后推手，贝森特警告“制造混乱”，白宫称特朗普未指示行动",
-          "url": "https://wallstreetcn.com/articles/3763119",
-          "source": "华尔街见闻",
+          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
+          "source": "澎湃新闻",
           "ranks": [
-            8,
-            9,
-            10
+            16,
+            15,
+            13
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时49分 ~ 16时15分]"
+          "time_info": "[12时09分 ~ 17时18分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税",
@@ -197,15 +224,26 @@
           "time_info": "[01时15分 ~ 06时10分]"
         },
         {
-          "title": "北约秘书长帮腔特朗普：中俄恐将越来越活跃",
-          "url": "https://news.ifeng.com/c/8psHSxQTXOP",
+          "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://news.ifeng.com/c/8pspQ2slRcl",
           "source": "凤凰网",
           "ranks": [
-            6
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 16时15分]"
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
+          "title": "美国两州把特朗普政府告了",
+          "url": "https://news.ifeng.com/c/8pslTiqBz0e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普对委内瑞拉反对派Machado的评估“是现实的”。",
@@ -228,18 +266,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "特朗普：对伊朗贸易伙伴征收25%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32372812",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 16时15分]"
         },
         {
           "title": "特朗普称数据中心用电成本不应转嫁给消费者",
@@ -347,6 +373,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时42分 ~ 10时50分]"
+        },
+        {
+          "title": "圆脸解读特朗普格陵兰岛言论",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%A7%A3%E8%AF%BB%E7%89%B9%E6%9C%97%E6%99%AE%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%A8%80%E8%AE%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "美国财长贝森特曾告诉总统特朗普：（司法部）对美联储主席鲍威尔的调查会造成“混乱”。 调查美联储将利空市场。（Axios）",
@@ -651,13 +688,24 @@
           "time_info": "02时16分"
         },
         {
+          "title": "美媒曝特朗普政府对伊朗行动选项“远超传统空袭”",
+          "url": "https://wallstreetcn.com/livenews/3035973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
           "title": "#美国开年狂飙特朗普到底想干嘛#",
           "url": "https://www.baidu.com/s?wd=%23%E7%BE%8E%E5%9B%BD%E5%BC%80%E5%B9%B4%E7%8B%82%E9%A3%99%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%B0%E5%BA%95%E6%83%B3%E5%B9%B2%E5%98%9B%23",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1006,7 +1054,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗发动支持政府集会，民众：我们绝不会抛弃哈梅内伊",
@@ -1050,6 +1098,21 @@
           "time_info": "[00时15分 ~ 16时15分]"
         },
         {
+          "title": "美国国务院要求美国公民立即离开伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时49分 ~ 17时18分]"
+        },
+        {
           "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
           "url": "https://www.zhihu.com/question/1993995898699658333",
           "source": "知乎",
@@ -1077,20 +1140,6 @@
           "time_info": "[01时15分 ~ 07时09分]"
         },
         {
-          "title": "美国国务院要求美国公民立即离开伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32373300",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时49分 ~ 16时15分]"
-        },
-        {
           "title": "美国、法国开始从伊朗撤离人员，伊朗当前的局势到底有多严峻？是否是军事行动的前兆？",
           "url": "https://www.zhihu.com/question/1994338886751625788",
           "source": "知乎",
@@ -1098,19 +1147,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 16时15分]"
-        },
-        {
-          "title": "外交部回应伊朗局势",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 17时18分]"
         },
         {
           "title": "美将对伊朗商业伙伴加征25%关税，中方回应",
@@ -1119,9 +1157,56 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时18分]"
+        },
+        {
+          "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32368032",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时49分 ~ 17时18分]"
+        },
+        {
+          "title": "中方回应美对伊朗贸易伙伴加税25%",
+          "url": "https://www.toutiao.com/trending/7594742775778643502/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时18分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时18分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://www.douyin.com/hot/2366507",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "是否对伊朗采取军事打击？白宫回应",
@@ -1137,29 +1222,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时09分 ~ 15时16分]"
-        },
-        {
-          "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32368032",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时49分 ~ 14时16分]"
-        },
-        {
-          "title": "中方回应美对伊朗贸易伙伴加税25%",
-          "url": "https://www.toutiao.com/trending/7594742775778643502/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
         },
         {
           "title": "市场消息：瑞典呼吁其公民离开伊朗。",
@@ -1193,6 +1255,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "美将对与伊朗开展商业往来的国家征收25%关税，外交部回应",
+          "url": "https://www.cls.cn/detail/2256043",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时18分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社指责美国查封其网络域名",
@@ -1244,6 +1318,30 @@
           "time_info": "[02时16分 ~ 03时14分]"
         },
         {
+          "title": "油价迅速冲高！伊朗局势或导致全球三分之一原油运输瘫痪",
+          "url": "https://www.cls.cn/detail/2255729",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时18分]"
+        },
+        {
+          "title": "中方回应美对伊朗商业伙伴加征关税",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%95%86%E4%B8%9A%E4%BC%99%E4%BC%B4%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时18分]"
+        },
+        {
           "title": "俄安全会议秘书：俄方愿继续发展与伊朗的合作",
           "url": "https://wallstreetcn.com/livenews/3035561",
           "source": "华尔街见闻-快讯",
@@ -1284,7 +1382,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1366,17 +1464,6 @@
           "time_info": "08时42分"
         },
         {
-          "title": "油价迅速冲高！伊朗局势或导致全球三分之一原油运输瘫痪",
-          "url": "https://www.cls.cn/detail/2255729",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
           "title": "骚乱过后 伊朗首都德黑兰整体局势趋于平稳",
           "url": "https://flash.jin10.com/detail/20260112234015192800",
           "source": "金十数据",
@@ -1386,17 +1473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "美将对与伊朗开展商业往来的国家征收25%关税，外交部回应",
-          "url": "https://www.cls.cn/detail/2256043",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
         },
         {
           "title": "白宫：外交是美国应对伊朗局势的“首选”方案",
@@ -1504,7 +1580,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         },
@@ -1584,46 +1660,266 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
-        },
-        {
-          "title": "中方回应美对伊朗商业伙伴加征关税",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%95%86%E4%B8%9A%E4%BC%99%E4%BC%B4%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时15分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "keyword_group": "美股",
+      "match_count": 21,
       "titles": [
         {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
           "url": "https://wallstreetcn.com/articles/3763053",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 16时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时15分 ~ 06时10分]"
         },
         {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
+          "url": "https://www.cls.cn/detail/2255541",
+          "source": "财联社热门",
           "ranks": [
             8,
-            9
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时08分 ~ 14时16分]"
+        },
+        {
+          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
+          "url": "https://wallstreetcn.com/articles/3762924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 07时09分]"
+        },
+        {
+          "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2255324",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 08时42分]"
+        },
+        {
+          "title": "美股Q4财报季开启！高盛：标普500盈利预期“太保守”，本周银行股表现成关键风向标",
+          "url": "https://wallstreetcn.com/articles/3763105",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
+          "title": "美股Q4财报季前瞻：市场预期偏低或有惊喜，AI交易和科技巨头迎考验！",
+          "url": "https://www.cls.cn/detail/2255885",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
+        },
+        {
+          "title": "美股收盘：百度涨超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "美股盘前，英特尔涨超2%，AMD涨超1%；部分热门中概股走低，百度跌超3%、小鹏汽车跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3035989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
+        },
+        {
+          "title": "美股集体低开 中概股逆势走强",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "日常消费品ETF收涨约1.2%，领跑美股行业ETF，银行业ETF跌超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3035579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050522045800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
+          "url": "https://wallstreetcn.com/livenews/3035592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260113050512989800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "（美股）费城金银指数收涨3.73%，报388.50点，继续创历史新高，盘初迅速拉升，剩余时间持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.52%，报2711.76点，北京时间22:30美股开盘之前维持微幅上涨状态——持稳于2630点附近、随后“跳空”至2700点上方。 （美股）原材料指数涨1.57%，报249.00点。 （美股）金属与矿业指数涨1.79%，报235.72点。",
+          "url": "https://wallstreetcn.com/livenews/3035591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "美股三大指数收涨 金龙指数涨超4%",
+          "url": "https://www.toutiao.com/trending/7594618043121012287/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260113013121001800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260113013057440800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时16分"
+        },
+        {
+          "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
+          "url": "https://flash.jin10.com/detail/20260113050054548800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美股小盘股创七年来对大盘股最长连胜记录",
+          "url": "https://flash.jin10.com/detail/20260113060720442800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "行业ETF美股盘初普跌",
+          "url": "https://wallstreetcn.com/livenews/3035421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美股财报季拉开序幕之前，特朗普政府起诉美联储主席鲍威尔、并剑指信用卡利率。 花旗跌3.4%，摩根大通、富国银行、美国银行至多跌1.57%，高盛、摩根士丹利至多跌0.73%。 支付公司Visa跌3.6%，万事达卡MasterCard跌3.4%。 Klarna涨3.7%，Affirm Holdings涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3035416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 17时18分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1636,8 +1932,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 16时15分]"
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 17时18分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 08时42分]"
         },
         {
           "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
@@ -1672,6 +1980,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时49分 ~ 14时16分]"
+        },
+        {
+          "title": "谷歌今年将在越南研发并生产高端手机。",
+          "url": "https://flash.jin10.com/detail/20260113170321463800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         },
         {
           "title": "苹果联姻谷歌意味着什么",
@@ -1823,211 +2142,47 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 18,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
       "titles": [
         {
-          "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，黄金突破4620美元，现货白银涨超6%，铜逼近新高，油价回调",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
+          "title": "梁文锋新论文剧透下一代模型",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            3,
+            1,
+            5,
+            9
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时15分 ~ 06时10分]"
+          "time_info": "[12时09分 ~ 17时18分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收涨 金龙指数飙升逾4% 阿里巴巴大涨10%",
-          "url": "https://www.cls.cn/detail/2255541",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时08分 ~ 14时16分]"
-        },
-        {
-          "title": "本周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
-          "url": "https://wallstreetcn.com/articles/3762924",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 07时09分]"
-        },
-        {
-          "title": "鲍威尔遭调查冲击市场 美股期指集体走低 黄金大涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2255324",
-          "source": "财联社热门",
+          "title": "DeepSeek发布梁文锋署名新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
           "ranks": [
             10,
-            9,
-            11
+            17,
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 08时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时49分 ~ 15时16分]"
         },
         {
-          "title": "美股收盘：百度涨超6%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%856%25",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
-          "title": "美股集体低开 中概股逆势走强",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E4%B8%AD%E6%A6%82%E8%82%A1%E9%80%86%E5%8A%BF%E8%B5%B0%E5%BC%BA",
-          "source": "百度热搜",
+          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
+          "url": "https://wallstreetcn.com/articles/3763151",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "日常消费品ETF收涨约1.2%，领跑美股行业ETF，银行业ETF跌超1.2%",
-          "url": "https://wallstreetcn.com/livenews/3035579",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260113050522045800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
-          "url": "https://wallstreetcn.com/livenews/3035592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260113050512989800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "（美股）费城金银指数收涨3.73%，报388.50点，继续创历史新高，盘初迅速拉升，剩余时间持续高位窄幅震荡。 （全球时段）纽约证交所ARCA金矿开采商指数涨3.52%，报2711.76点，北京时间22:30美股开盘之前维持微幅上涨状态——持稳于2630点附近、随后“跳空”至2700点上方。 （美股）原材料指数涨1.57%，报249.00点。 （美股）金属与矿业指数涨1.79%，报235.72点。",
-          "url": "https://wallstreetcn.com/livenews/3035591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "美股三大指数收涨 金龙指数涨超4%",
-          "url": "https://www.toutiao.com/trending/7594618043121012287/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260113013121001800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "金十图示：2026年01月12日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260113013057440800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时16分"
-        },
-        {
-          "title": "美股收盘：金龙指数涨逾4% 阿里巴巴大涨10%",
-          "url": "https://flash.jin10.com/detail/20260113050054548800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时10分"
-        },
-        {
-          "title": "美股小盘股创七年来对大盘股最长连胜记录",
-          "url": "https://flash.jin10.com/detail/20260113060720442800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
-        },
-        {
-          "title": "行业ETF美股盘初普跌",
-          "url": "https://wallstreetcn.com/livenews/3035421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美股财报季拉开序幕之前，特朗普政府起诉美联储主席鲍威尔、并剑指信用卡利率。 花旗跌3.4%，摩根大通、富国银行、美国银行至多跌1.57%，高盛、摩根士丹利至多跌0.73%。 支付公司Visa跌3.6%，万事达卡MasterCard跌3.4%。 Klarna涨3.7%，Affirm Holdings涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3035416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         }
       ]
     },
@@ -2041,11 +2196,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 16时15分]"
+          "appearance_count": 4,
+          "time_info": "[15时16分 ~ 17时18分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -2069,39 +2225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "梁文锋新论文剧透下一代模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时09分 ~ 16时15分]"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%91%E5%B8%83%E6%A2%81%E6%96%87%E9%94%8B%E7%BD%B2%E5%90%8D%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            17,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时49分 ~ 15时16分]"
         }
       ]
     },
