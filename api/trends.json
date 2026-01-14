@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T08:49:17.029877+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-01-14T10:58:37.000955+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 93,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -39,8 +39,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时58分]"
         },
         {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
@@ -71,11 +71,12 @@
           "url": "https://www.cls.cn/detail/2256844",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 08时49分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时58分]"
         },
         {
           "title": "特朗普驳斥戴蒙对司法部调查鲍威尔的批评",
@@ -618,9 +619,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
+        },
+        {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "美国总统特朗普：（当被问及是否会向伊朗提供援助时）你们会知道的。",
@@ -673,7 +685,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
         },
@@ -761,7 +773,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
         },
@@ -992,7 +1004,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
         },
@@ -1058,7 +1070,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
         }
@@ -1066,7 +1078,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1076,8 +1088,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时58分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -1115,11 +1127,12 @@
             19,
             13,
             10,
-            24
+            24,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时58分]"
         },
         {
           "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
@@ -1129,8 +1142,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 08时49分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时58分]"
         },
         {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
@@ -1243,13 +1256,24 @@
           "time_info": "[08时48分 ~ 08时49分]"
         },
         {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "中信证券：伊朗骚乱事件下，中东局势将走向何方？",
           "url": "https://flash.jin10.com/detail/20260114082105284800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
         },
@@ -1260,9 +1284,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
+        },
+        {
+          "title": "中方回应“是否建议公民去伊朗”",
+          "url": "https://www.douyin.com/hot/2366959",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "美政府再发安全警告，敦促美国公民立即离开伊朗",
@@ -1331,6 +1366,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
           "title": "美国国务院：美国公民应立即离开伊朗，如安全可行，可考虑经陆路前往土耳其或亚美尼亚。",
           "url": "https://flash.jin10.com/detail/20260114055223204800",
           "source": "金十数据",
@@ -1389,11 +1435,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时10分 ~ 08时49分]"
+          "appearance_count": 5,
+          "time_info": "[07时10分 ~ 10时58分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1403,8 +1450,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 08时49分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时58分]"
         },
         {
           "title": "美国总统特朗普称赞美股走高。",
@@ -1546,8 +1593,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时58分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1627,7 +1674,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
         }
@@ -1686,11 +1733,12 @@
             9,
             10,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时58分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -1699,11 +1747,12 @@
           "ranks": [
             9,
             10,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 08时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 10时58分]"
         }
       ]
     },
