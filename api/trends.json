@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T15:16:26.339994+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-01-16T16:15:28.670891+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 74,
       "titles": [
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时47分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[08时47分 ~ 16时15分]"
         },
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -38,8 +38,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时47分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[08时47分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普暂缓对伊朗动武决定",
+          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时57分 ~ 16时15分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -53,18 +65,6 @@
           "time_info": "[00时20分 ~ 07时02分]"
         },
         {
-          "title": "特朗普暂缓对伊朗动武决定",
-          "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时57分 ~ 15时16分]"
-        },
-        {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
           "url": "https://wallstreetcn.com/articles/3763392",
           "source": "华尔街见闻",
@@ -74,8 +74,21 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时47分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[08时47分 ~ 16时15分]"
+        },
+        {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时57分 ~ 16时15分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -89,16 +102,15 @@
           "time_info": "[00时20分 ~ 05时11分]"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
+          "title": "梦想成真!特朗普喜提二手诺奖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
+          "source": "贴吧",
           "ranks": [
-            9,
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时57分 ~ 13时17分]"
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 16时15分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -110,17 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时20分"
-        },
-        {
-          "title": "梦想成真!特朗普喜提二手诺奖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
         },
         {
           "title": "市场消息：特朗普将指示美国一家关键电网运营机构举行紧急拍卖。",
@@ -621,6 +622,17 @@
           "time_info": "10时53分"
         },
         {
+          "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
+          "url": "https://www.zhihu.com/question/1995430633518944539",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
           "url": "https://wallstreetcn.com/livenews/3038384",
           "source": "华尔街见闻-快讯",
@@ -879,8 +891,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时23分 ~ 15时16分]"
+          "appearance_count": 19,
+          "time_info": "[01时23分 ~ 16时15分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -910,8 +922,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 15时16分]"
+          "appearance_count": 20,
+          "time_info": "[00时20分 ~ 16时15分]"
         },
         {
           "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
@@ -1138,6 +1150,18 @@
           "time_info": "[00时20分 ~ 01时24分]"
         },
         {
+          "title": "伊朗外长：美国无法通过召开安理会会议来掩盖其罪行",
+          "url": "https://wallstreetcn.com/livenews/3038535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 16时15分]"
+        },
+        {
           "title": "中方呼吁美方对伊朗放下武力执念",
           "url": "https://www.toutiao.com/trending/7595744663144562698/",
           "source": "今日头条",
@@ -1254,7 +1278,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1265,18 +1289,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "伊朗外长：美国无法通过召开安理会会议来掩盖其罪行",
-          "url": "https://wallstreetcn.com/livenews/3038535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1324,11 +1337,12 @@
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时47分 ~ 15时16分]"
+          "appearance_count": 11,
+          "time_info": "[08时47分 ~ 16时15分]"
         },
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1400,8 +1414,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 16时15分]"
         },
         {
           "title": "周四（1月15日），降息赢家指数涨1.36%，报107.94点，美股早盘高开高走，北京时间23:20以来高位窄幅震荡——持稳于107.80点附近。 “特朗普关税输家”指数涨1.12%，报119.50点。 “特朗普金融指数”涨1.92%，报175.91点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.92%，报16.10点。",
@@ -1559,8 +1573,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 16时15分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -1612,7 +1626,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -1669,9 +1683,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "金价飙升后银行保管箱出现「一箱难求」，部分银行租箱排队已排到一年后，投资者该如何安全存放黄金资产？",
+          "url": "https://www.zhihu.com/question/1995155168442996449",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
