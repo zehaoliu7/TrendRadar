@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T11:01:49.754090+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-01-18T12:06:22.654639+08:00",
+  "total_titles_processed": 707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "欧洲极右翼忙“割席”：特朗普过分了",
@@ -122,6 +122,19 @@
           "time_info": "[00时10分 ~ 07时10分]"
         },
         {
+          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 12时06分]"
+        },
+        {
           "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
           "url": "https://flash.jin10.com/detail/20260117201033719800",
           "source": "金十数据",
@@ -166,17 +179,18 @@
           "time_info": "[00时10分 ~ 07时10分]"
         },
         {
-          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
-          "source": "澎湃新闻",
+          "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://wallstreetcn.com/livenews/3039150",
+          "source": "华尔街见闻-快讯",
           "ranks": [
+            3,
+            16,
             18,
-            19,
-            20
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 11时01分]"
+          "appearance_count": 6,
+          "time_info": "[05时02分 ~ 12时06分]"
         },
         {
           "title": "完全错误！不可接受！欧洲多国强烈回应特朗普加税",
@@ -190,17 +204,15 @@
           "time_info": "[07时10分 ~ 08时52分]"
         },
         {
-          "title": "特朗普称将对欧洲8国加征关税，直至“完全收购格陵兰岛”",
-          "url": "https://wallstreetcn.com/livenews/3039150",
-          "source": "华尔街见闻-快讯",
+          "title": "大西洋理事会：欧洲将统一抵制特朗普的关税",
+          "url": "https://flash.jin10.com/detail/20260118113241771800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            16,
-            18
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时02分 ~ 11时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "特朗普谈中加签协议",
@@ -231,22 +243,24 @@
           "url": "https://flash.jin10.com/detail/20260118101323623800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时06分]"
         },
         {
           "title": "特朗普未明确说明依据何种法律依据对欧洲八国关税",
           "url": "https://flash.jin10.com/detail/20260118101022725800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时06分]"
         },
         {
           "title": "美国总统特朗普表示，他从未向摩根大通CEO戴蒙提供美联储主席职位。",
@@ -254,11 +268,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 11时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 12时06分]"
         },
         {
           "title": "美国总统特朗普表示，接下来两周内他将起诉摩根大通银行，原因是该银行在1月6日抗议活动后“剥夺”了他的银行业务。",
@@ -266,11 +281,25 @@
           "source": "金十数据",
           "ranks": [
             4,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 11时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 12时06分]"
+        },
+        {
+          "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
+          "url": "https://flash.jin10.com/detail/20260118081050241800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 12时06分]"
         },
         {
           "title": "哈梅内伊：特朗普是罪犯",
@@ -282,18 +311,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时10分 ~ 01时02分]"
-        },
-        {
-          "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
-          "url": "https://flash.jin10.com/detail/20260118081050241800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 11时01分]"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
@@ -320,6 +337,18 @@
           "time_info": "[08时52分 ~ 11时01分]"
         },
         {
+          "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
+          "url": "https://flash.jin10.com/detail/20260118093517443800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时06分]"
+        },
+        {
           "title": "德国汽车游说组织VDA主席表示，美国总统特朗普威胁加征的关税成本将是巨大的。",
           "url": "https://flash.jin10.com/detail/20260118080908901800",
           "source": "金十数据",
@@ -330,6 +359,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时52分 ~ 11时01分]"
+        },
+        {
+          "title": "摩根大通证实，美国总统特朗普的说法属实，即特朗普未提供CEO戴蒙美联储主席职位。",
+          "url": "https://flash.jin10.com/detail/20260118093035859800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时06分]"
+        },
+        {
+          "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
+          "url": "https://flash.jin10.com/detail/20260118085528695800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时06分]"
         },
         {
           "title": "为了格陵兰特朗普再挥关税大棒：“不支持我的话就加征关税”",
@@ -343,6 +396,17 @@
           "time_info": "[00时10分 ~ 01时02分]"
         },
         {
+          "title": "特朗普因格陵兰岛向欧洲8国加税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%90%91%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%8A%A0%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
+        },
+        {
           "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
           "url": "https://wallstreetcn.com/articles/3763498",
           "source": "华尔街见闻",
@@ -354,37 +418,26 @@
           "time_info": "07时10分"
         },
         {
-          "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
-          "url": "https://flash.jin10.com/detail/20260118093517443800",
-          "source": "金十数据",
+          "title": "特朗普威胁起诉摩根大通，指控其对其进行“去银行化”",
+          "url": "https://wallstreetcn.com/livenews/3039177",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "12时06分"
         },
         {
-          "title": "摩根大通证实，美国总统特朗普的说法属实，即特朗普未提供CEO戴蒙美联储主席职位。",
-          "url": "https://flash.jin10.com/detail/20260118093035859800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "荷兰国际银行：欧洲国家不应对特朗普的关税威胁做出仓促反应",
-          "url": "https://flash.jin10.com/detail/20260118085528695800",
-          "source": "金十数据",
+          "title": "特朗普开价10亿卖委员会永久席位",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%BC%80%E4%BB%B710%E4%BA%BF%E5%8D%96%E5%A7%94%E5%91%98%E4%BC%9A%E6%B0%B8%E4%B9%85%E5%B8%AD%E4%BD%8D%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时01分"
+          "time_info": "12时06分"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
@@ -415,20 +468,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
-          "url": "https://wallstreetcn.com/livenews/3039145",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 11时01分]"
-        },
-        {
           "title": "据伊朗方面消息，短信（SMS）发送功能当地时间16日晚已恢复；互联网将采取阶梯式、分阶段的方式逐步恢复连接。",
           "url": "https://flash.jin10.com/detail/20260117222342714800",
           "source": "金十数据",
@@ -439,6 +478,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时10分 ~ 08时52分]"
+        },
+        {
+          "title": "伊朗短信发送功能已恢复，将逐步恢复互联网连接",
+          "url": "https://wallstreetcn.com/livenews/3039145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            21,
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 12时06分]"
         },
         {
           "title": "伊朗网络服务恢复约1小时后再次中断",
@@ -476,27 +530,42 @@
           "time_info": "[00时10分 ~ 07时10分]"
         },
         {
+          "title": "伊朗示威平息，互联网服务将分三阶段恢复",
+          "url": "https://news.ifeng.com/c/8q0bPCNplIJ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时06分]"
+        },
+        {
           "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
           "url": "https://wallstreetcn.com/livenews/3039167",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时52分 ~ 11时01分]"
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 12时06分]"
         },
         {
-          "title": "伊朗示威平息，互联网服务将分三阶段恢复",
-          "url": "https://news.ifeng.com/c/8q0bPCNplIJ",
-          "source": "凤凰网",
+          "title": "伊朗一间谍组织被瓦解，其主要成员曾多次前往以色列",
+          "url": "https://wallstreetcn.com/livenews/3039164",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            15,
+            17,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时52分 ~ 12时06分]"
         },
         {
           "title": "哈梅内伊：美国煽动策划了伊朗国内骚乱",
@@ -510,16 +579,16 @@
           "time_info": "[08时52分 ~ 11时01分]"
         },
         {
-          "title": "伊朗一间谍组织被瓦解，其主要成员曾多次前往以色列",
-          "url": "https://wallstreetcn.com/livenews/3039164",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗瓦解一间谍组织 指其参与骚乱并纵火袭警",
+          "url": "https://flash.jin10.com/detail/20260118085431338800",
+          "source": "金十数据",
           "ranks": [
-            15,
-            17
+            16,
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时52分 ~ 11时01分]"
+          "time_info": "[11时01分 ~ 12时06分]"
         },
         {
           "title": "哈梅内伊：美煽动策划伊朗骚乱",
@@ -528,7 +597,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -542,17 +611,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时52分"
-        },
-        {
-          "title": "伊朗瓦解一间谍组织 指其参与骚乱并纵火袭警",
-          "url": "https://flash.jin10.com/detail/20260118085431338800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
         },
         {
           "title": "哈梅内伊：美国煽动策划伊朗骚乱",
@@ -569,7 +627,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -595,6 +653,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时52分 ~ 11时01分]"
+        },
+        {
+          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
+          "url": "https://wallstreetcn.com/articles/3763519",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时06分"
         },
         {
           "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
