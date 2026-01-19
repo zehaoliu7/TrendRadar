@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T14:22:31.945331+08:00",
-  "total_titles_processed": 1061,
+  "generated_at": "2026-01-19T15:21:41.969041+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -61,11 +61,12 @@
           "url": "https://news.ifeng.com/c/8q27ChONuGJ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时51分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 15时21分]"
         },
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -77,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时51分 ~ 14时22分]"
+          "appearance_count": 7,
+          "time_info": "[08时51分 ~ 15时21分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -241,6 +242,19 @@
           "time_info": "03时02分"
         },
         {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时01分 ~ 15时21分]"
+        },
+        {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
           "url": "https://flash.jin10.com/detail/20260118222345424800",
           "source": "金十数据",
@@ -313,6 +327,18 @@
           "time_info": "[04时02分 ~ 07时10分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时21分]"
+        },
+        {
           "title": "特朗普关税大棒再度砸向欧洲，金银多头占比均超过70%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260119103840922800",
           "source": "金十数据",
@@ -347,18 +373,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时13分 ~ 06时02分]"
-        },
-        {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时01分 ~ 14时22分]"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
@@ -477,17 +491,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时10分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 14时22分]"
         },
         {
           "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
@@ -630,6 +633,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "美媒采访特朗普后被白宫当面警告",
+          "url": "https://www.toutiao.com/trending/7595817923600678975/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "美国总统特朗普：在达拉斯建立“纽约证券交易所”对纽约来说是难以置信的坏事。",
           "url": "https://flash.jin10.com/detail/20260119121744013800",
           "source": "金十数据",
@@ -733,11 +747,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时11分 ~ 14时22分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时21分]"
         },
         {
           "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
@@ -800,7 +815,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
         },
@@ -809,11 +824,12 @@
           "url": "https://wallstreetcn.com/livenews/3039552",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时22分 ~ 15时21分]"
         }
       ]
     },
@@ -887,11 +903,12 @@
             6,
             5,
             7,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时11分 ~ 14时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时11分 ~ 15时21分]"
         }
       ]
     }
