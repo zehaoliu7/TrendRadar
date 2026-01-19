@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T13:24:00.783145+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-01-19T14:22:31.945331+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
@@ -57,21 +57,6 @@
           "time_info": "[00时11分 ~ 07时10分]"
         },
         {
-          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            9,
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 13时24分]"
-        },
-        {
           "title": "欧洲8国集体回应特朗普关税威胁",
           "url": "https://news.ifeng.com/c/8q27ChONuGJ",
           "source": "凤凰网",
@@ -79,8 +64,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 14时22分]"
         },
         {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
@@ -92,8 +77,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 14时22分]"
+        },
+        {
+          "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410190",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8,
+            9,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 14时22分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -349,6 +349,18 @@
           "time_info": "[02时13分 ~ 06时02分]"
         },
         {
+          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
+          "url": "https://www.zhihu.com/question/1996211344383435054",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时01分 ~ 14时22分]"
+        },
+        {
           "title": "北约秘书长吕特：与美国总统特朗普讨论格陵兰的安全形势。 我们将继续致力于解决格陵兰和北冰洋问题。 期待近期在达沃斯会见特朗普。",
           "url": "https://wallstreetcn.com/livenews/3039287",
           "source": "华尔街见闻-快讯",
@@ -467,18 +479,6 @@
           "time_info": "[06时02分 ~ 07时10分]"
         },
         {
-          "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
-          "url": "https://www.zhihu.com/question/1996211344383435054",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时01分 ~ 13时24分]"
-        },
-        {
           "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
           "url": "https://wallstreetcn.com/articles/3763548",
           "source": "华尔街见闻",
@@ -486,8 +486,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时22分]"
+        },
+        {
+          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
+          "url": "https://wallstreetcn.com/articles/3763551",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时22分]"
         },
         {
           "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
@@ -500,17 +511,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时02分 ~ 08时51分]"
-        },
-        {
-          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
-          "url": "https://wallstreetcn.com/articles/3763551",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时24分]"
         },
         {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
@@ -539,6 +539,18 @@
           "time_info": "[00时11分 ~ 02时13分]"
         },
         {
+          "title": "内塔尼亚胡罕见公开“叫板”特朗普",
+          "url": "https://www.toutiao.com/trending/7596220832478363654/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 14时22分]"
+        },
+        {
           "title": "特朗普发黑白照：我是关税之王(图)",
           "url": "https://news.ifeng.com/c/8q0nQjJB7h7",
           "source": "凤凰网",
@@ -560,17 +572,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时02分]"
-        },
-        {
-          "title": "内塔尼亚胡罕见公开“叫板”特朗普",
-          "url": "https://www.toutiao.com/trending/7596220832478363654/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "特朗普发布个人黑白照",
@@ -613,7 +614,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -624,7 +625,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -635,7 +636,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -657,7 +658,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         }
@@ -698,6 +699,21 @@
           "time_info": "[03时02分 ~ 07时10分]"
         },
         {
+          "title": "伊朗总统：袭击最高领袖等同全面战争",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            21,
+            9,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 14时22分]"
+        },
+        {
           "title": "伊朗总统：袭击最高领袖等同“发动全面战争”",
           "url": "https://wallstreetcn.com/livenews/3039296",
           "source": "华尔街见闻-快讯",
@@ -712,29 +728,16 @@
           "time_info": "[03时02分 ~ 07时10分]"
         },
         {
-          "title": "伊朗总统：袭击最高领袖等同全面战争",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            21,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时51分 ~ 13时24分]"
-        },
-        {
           "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时11分 ~ 14时22分]"
         },
         {
           "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
@@ -771,6 +774,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 05时02分]"
+        },
+        {
+          "title": "美股今日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260119135736792800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
+          "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3039552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     },
@@ -847,26 +890,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 13时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股明日休市 金银油交易提前结束",
-          "url": "https://flash.jin10.com/detail/20260118225633271800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时11分 ~ 05时02分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 14时22分]"
         }
       ]
     }
