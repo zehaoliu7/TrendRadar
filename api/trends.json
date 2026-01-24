@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T20:17:38.224572+08:00",
-  "total_titles_processed": 1409,
+  "generated_at": "2026-01-24T21:24:32.372124+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -95,8 +95,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时54分 ~ 20时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时54分 ~ 21时24分]"
+        },
+        {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时15分 ~ 21时24分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -115,19 +128,6 @@
           "time_info": "[00时15分 ~ 08时46分]"
         },
         {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时15分 ~ 20时17分]"
-        },
-        {
           "title": "达沃斯论坛受挫后，特朗普狂发80条帖子，一度每4分钟发一条",
           "url": "https://v.ifeng.com/c/8q9T6e8iY2X",
           "source": "凤凰网",
@@ -136,8 +136,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时48分 ~ 20时17分]"
+          "appearance_count": 14,
+          "time_info": "[10时48分 ~ 21时24分]"
         },
         {
           "title": "4人争夺美联储主席，谁能讨好特朗普又不毁美元信用？专家解读",
@@ -205,6 +205,23 @@
           "time_info": "[08时46分 ~ 19时02分]"
         },
         {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            14,
+            13,
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时11分 ~ 21时24分]"
+        },
+        {
           "title": "特朗普调重兵赴中东，伊朗：手指已放扳机上",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448619",
           "source": "澎湃新闻",
@@ -231,22 +248,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时26分 ~ 16时13分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            14,
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 20时17分]"
         },
         {
           "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
@@ -321,15 +322,19 @@
           "time_info": "[08时46分 ~ 13时13分]"
         },
         {
-          "title": "深度解析特朗普365天赢学",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
-          "source": "bilibili 热搜",
+          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
+          "url": "https://wallstreetcn.com/livenews/3043257",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4,
+            8,
+            16,
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
+          "appearance_count": 5,
+          "time_info": "[17时10分 ~ 21时24分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
@@ -345,31 +350,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时48分 ~ 14时15分]"
-        },
-        {
-          "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
-          "url": "https://flash.jin10.com/detail/20260124191803265800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
-        },
-        {
-          "title": "欧洲央行管委兼德国央行行长Nagel：不应无故贬低德国经济。 特朗普关税最大的输家是美国消费者。",
-          "url": "https://wallstreetcn.com/livenews/3043257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时10分 ~ 20时17分]"
         },
         {
           "title": "据Politico：特朗普政府考虑实施海上封锁以阻止古巴进口石油。",
@@ -451,6 +431,18 @@
           "time_info": "[07时11分 ~ 08时46分]"
         },
         {
+          "title": "深度解析特朗普365天赢学",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 21时24分]"
+        },
+        {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
           "url": "https://wallstreetcn.com/livenews/3043186",
           "source": "华尔街见闻-快讯",
@@ -499,6 +491,18 @@
           "time_info": "[06时02分 ~ 07时11分]"
         },
         {
+          "title": "特朗普炫耀美军“秘密声波武器”俄方要求美方做出澄清",
+          "url": "https://flash.jin10.com/detail/20260124191803265800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 21时24分]"
+        },
+        {
           "title": "白宫发布特朗普与企鹅走向格陵兰岛AI图片",
           "url": "https://www.cls.cn/detail/2268566",
           "source": "财联社热门",
@@ -533,6 +537,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时25分 ~ 14时15分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
+          "url": "https://flash.jin10.com/detail/20260124175804687800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时24分]"
         },
         {
           "title": "卢拉批评特朗普：试图组建所谓“和平委员会”取代联合国",
@@ -583,18 +600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时11分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-24）",
-          "url": "https://flash.jin10.com/detail/20260124175804687800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时17分]"
         },
         {
           "title": "瑞士财长：瑞士政府目前尚未能够就特朗普的“和平委员会”事宜展开讨论，不过可能会出现一些法律和政治方面的障碍。",
@@ -725,7 +730,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "外交部回应美调重兵前往伊朗",
@@ -987,6 +992,18 @@
           "time_info": "[15时12分 ~ 17时10分]"
         },
         {
+          "title": "消息人士：美国正在向玻利维亚施压，要求其驱逐疑似伊朗间谍，并将伊朗伊斯兰革命卫队（IRGC）列为恐怖组织。美国官员也在讨论在智利、秘鲁、巴拿马采取类似举措。",
+          "url": "https://flash.jin10.com/detail/20260124190033665800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 21时24分]"
+        },
+        {
           "title": "美国对伊朗又一轮新制裁 制裁伊朗相关油轮",
           "url": "https://wallstreetcn.com/livenews/3043042",
           "source": "华尔街见闻-快讯",
@@ -999,15 +1016,15 @@
           "time_info": "[00时15分 ~ 01时18分]"
         },
         {
-          "title": "消息人士：美国正在向玻利维亚施压，要求其驱逐疑似伊朗间谍，并将伊朗伊斯兰革命卫队（IRGC）列为恐怖组织。美国官员也在讨论在智利、秘鲁、巴拿马采取类似举措。",
-          "url": "https://flash.jin10.com/detail/20260124190033665800",
+          "title": "美国特使赴以会晤内塔尼亚胡 聚焦加沙重建与伊朗局势",
+          "url": "https://flash.jin10.com/detail/20260124203410675800",
           "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时17分"
+          "time_info": "21时24分"
         },
         {
           "title": "伊朗媒体：互联网服务可能在未来24小时内全面恢复",
@@ -1045,8 +1062,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时46分 ~ 20时17分]"
+          "appearance_count": 15,
+          "time_info": "[08时46分 ~ 21时24分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -1059,8 +1076,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时46分 ~ 20时17分]"
+          "appearance_count": 15,
+          "time_info": "[08时46分 ~ 21时24分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -1350,18 +1367,30 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "胖东来金饰每克便宜 200 元，其质量如何？为什么胖东来的金价如此有竞争力？",
           "url": "https://www.zhihu.com/question/1997605038588129408",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 20时17分]"
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 21时24分]"
+        },
+        {
+          "title": "金价疯涨的底层逻辑",
+          "url": "https://www.toutiao.com/trending/7598709483937730099/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时24分"
         },
         {
           "title": "金价一度涨穿4990美元创历史新高，本周涨超8%",
