@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T11:39:27.886127+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-02-02T13:19:39.438271+08:00",
+  "total_titles_processed": 885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 11时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 13时19分]"
         },
         {
           "title": "爱泼斯坦案多名受害者指控特朗普",
@@ -95,6 +95,17 @@
           "time_info": "[00时15分 ~ 07时14分]"
         },
         {
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 13时19分]"
+        },
+        {
           "title": "特朗普再次表态：将与古巴达成协议",
           "url": "https://news.ifeng.com/c/8qMd74BpD5R",
           "source": "凤凰网",
@@ -106,26 +117,26 @@
           "time_info": "08时59分"
         },
         {
-          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
-          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
           "title": "自己欠一屁股债，还吹能帮联合国要账，特朗普玩的哪出？",
           "url": "https://news.ifeng.com/c/8qPag9MDs73",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
+        },
+        {
+          "title": "特朗普称能让其他国家付钱，绝口不提欠联合国会费",
+          "url": "https://news.ifeng.com/c/8qPfsxsfg0G",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -220,8 +231,31 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时19分]"
+        },
+        {
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时59分 ~ 11时39分]"
+          "time_info": "[11时39分 ~ 13时19分]"
+        },
+        {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 13时19分]"
         },
         {
           "title": "特朗普：正与伊朗进行对话",
@@ -236,6 +270,18 @@
           "time_info": "[07时14分 ~ 08时59分]"
         },
         {
+          "title": "特朗普回应被爱泼斯坦案文件提及",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 13时19分]"
+        },
+        {
           "title": "美媒曝特朗普要建巨型凯旋门，白宫回应",
           "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
           "source": "凤凰网",
@@ -245,28 +291,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -291,24 +315,13 @@
           "time_info": "07时14分"
         },
         {
-          "title": "特朗普回应被爱泼斯坦案文件提及",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E6%96%87%E4%BB%B6%E6%8F%90%E5%8F%8A%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
           "title": "特朗普提名美联储主席后贵金属遭遇血洗！黄金盘中一度暴跌12%，白银创下史上最大日跌幅；美国政府进入“部分停摆”……后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260202103805634800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         }
@@ -507,7 +520,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
         }
@@ -515,7 +528,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -526,8 +539,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 11时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 13时19分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -552,8 +565,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 11时39分]"
+          "appearance_count": 3,
+          "time_info": "[08时59分 ~ 13时19分]"
         },
         {
           "title": "金价暴跌后回收变现火爆",
@@ -565,6 +578,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
+          "url": "https://www.cls.cn/detail/2277020",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 13时19分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 13时19分]"
+        },
+        {
+          "title": "金价暴跌后黄金市场挤满顾客",
+          "url": "https://www.douyin.com/hot/2386891",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时19分"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -589,26 +637,15 @@
           "time_info": "08时59分"
         },
         {
-          "title": "金价“大跳水”？两大投资大佬：黄金才是泡沫而非AI，美元一涨就会破！",
-          "url": "https://www.cls.cn/detail/2277020",
-          "source": "财联社热门",
+          "title": "男子卖 400 克金得 14 万借朋友，金价大涨后要求按现值还款，这合理吗？法院会如何判决？",
+          "url": "https://www.zhihu.com/question/1999853811821463456",
+          "source": "知乎",
           "ranks": [
-            10
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "13时19分"
         },
         {
           "title": "金价有没有天花板",
@@ -644,11 +681,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 11时39分]"
+          "appearance_count": 11,
+          "time_info": "[00时15分 ~ 13时19分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -669,6 +707,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 13时19分]"
+        },
+        {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
           "url": "https://wallstreetcn.com/livenews/3047847",
           "source": "华尔街见闻-快讯",
@@ -678,17 +727,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
-        },
-        {
-          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
-          "url": "https://wallstreetcn.com/articles/3764699",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时39分"
         }
       ]
     },
@@ -705,8 +743,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时15分 ~ 11时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 13时19分]"
         }
       ]
     }
