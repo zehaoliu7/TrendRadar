@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T14:47:21.696681+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-02-02T15:42:17.943753+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -103,8 +103,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时42分]"
         },
         {
           "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
@@ -116,6 +116,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 13时19分]"
+        },
+        {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
+          "url": "https://www.cls.cn/detail/2277005",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 15时42分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -138,17 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -210,17 +223,15 @@
           "time_info": "[05时13分 ~ 07时14分]"
         },
         {
-          "title": "特朗普称希望与伊朗“达成协议” 同时警告若谈不拢将动武",
-          "url": "https://www.cls.cn/detail/2277005",
-          "source": "财联社热门",
+          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
+          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            7,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 15时42分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -258,17 +269,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时59分 ~ 13时19分]"
-        },
-        {
-          "title": "如果特朗普下令美军入侵加拿大，会怎样？",
-          "url": "https://news.ifeng.com/c/8qPcsjs62Jx",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 14时47分]"
         },
         {
           "title": "特朗普：正与伊朗进行对话",
@@ -342,7 +342,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
@@ -408,6 +408,17 @@
           "time_info": "[00时15分 ~ 06时11分]"
         },
         {
+          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
+          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时47分 ~ 15时42分]"
+        },
+        {
           "title": "以美军方高层被曝本周末密集会谈 讨论对伊朗打击行动",
           "url": "https://flash.jin10.com/detail/20260201204212000800",
           "source": "金十数据",
@@ -441,17 +452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "武契奇预判48小时内伊朗将遭到美国袭击",
-          "url": "https://news.ifeng.com/c/8qPlpK894Ls",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时47分"
         },
         {
           "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
@@ -516,6 +516,17 @@
           "time_info": "07时14分"
         },
         {
+          "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "UP主记录动荡中的伊朗",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%AE%B0%E5%BD%95%E5%8A%A8%E8%8D%A1%E4%B8%AD%E7%9A%84%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
@@ -552,7 +563,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -563,8 +574,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 14时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 15时42分]"
         },
         {
           "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
@@ -599,11 +610,23 @@
           "ranks": [
             10,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时39分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[11时39分 ~ 15时42分]"
+        },
+        {
+          "title": "这次金价暴跌真的只是因为沃什吗",
+          "url": "https://www.toutiao.com/trending/7602102244296625670/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "金价暴跌后回收变现火爆",
@@ -622,11 +645,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时42分]"
         },
         {
           "title": "金价",
@@ -638,8 +662,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 14时47分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 15时42分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -647,11 +671,23 @@
           "source": "抖音",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时47分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时42分]"
+        },
+        {
+          "title": "尽管金价暴跌，德意志银行维持对黄金价格为6000美元的预测。",
+          "url": "https://flash.jin10.com/detail/20260202151209166800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "金价震荡 多家银行发布风险提示",
@@ -674,6 +710,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "金价暴跌，刚买的金饰能退吗？",
+          "url": "https://news.ifeng.com/c/8qPhA47Tw2J",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "黄金暴跌为何瑞银却上调金价目标",
+          "url": "https://www.toutiao.com/trending/7602143255571992083/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "金价有没有天花板",
@@ -713,8 +771,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 14时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 15时42分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -772,8 +830,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 14时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 15时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "沃什提名震荡余波未平 市场静待再融资公告开启美债新变局",
+          "url": "https://flash.jin10.com/detail/20260202145814081800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     }
