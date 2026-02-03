@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T17:28:21.858855+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-02-03T18:28:03.662632+08:00",
+  "total_titles_processed": 1533,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -33,6 +33,17 @@
           "time_info": "[09时00分 ~ 16时24分]"
         },
         {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "特朗普：美印达成贸易协议 印度同意停购俄油+5000亿商品采购",
           "url": "https://www.cls.cn/detail/2278350",
           "source": "财联社热门",
@@ -45,15 +56,16 @@
           "time_info": "[09时00分 ~ 15时35分]"
         },
         {
-          "title": "特朗普希望中国也加入核军控谈判，中方回应",
-          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
-          "source": "凤凰网",
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 18时28分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -65,6 +77,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "中方回应特朗普让中国参与军控谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 18时28分]"
         },
         {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
@@ -87,29 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
-        },
-        {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 17时28分]"
-        },
-        {
-          "title": "中方回应特朗普让中国参与军控谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时24分 ~ 17时28分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
@@ -201,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-03）",
+          "url": "https://flash.jin10.com/detail/20260203180904102800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美国总统特朗普：除了价值逾5000亿美元的美国能源、科技、农产品、煤炭及其他产品外，印度总理还承诺“购买美国货”。",
@@ -385,7 +398,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -566,6 +579,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "克里姆林宫：（回应特朗普有关印度将停止购买俄罗斯石油的言论）我们与印度的战略伙伴关系至关重要。",
+          "url": "https://flash.jin10.com/detail/20260203174035758800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "美国总统特朗普谈及司法部对美联储的调查，宣称：坚持到底，看看结果如何。",
           "url": "https://wallstreetcn.com/livenews/3048553",
           "source": "华尔街见闻-快讯",
@@ -624,7 +648,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "美伊或开启核谈判，伊朗释放双重信号",
@@ -685,6 +709,30 @@
           "time_info": "[00时22分 ~ 02时26分]"
         },
         {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时35分 ~ 18时28分]"
+        },
+        {
+          "title": "伊朗重大让步！川普“航母外交”奏效了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260203182007876800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
           "url": "https://flash.jin10.com/detail/20260203001742180800",
           "source": "金十数据",
@@ -707,15 +755,15 @@
           "time_info": "01时29分"
         },
         {
-          "title": "伊朗最高领袖顾问：无意将浓缩铀转移至国外",
-          "url": "https://wallstreetcn.com/livenews/3048998",
-          "source": "华尔街见闻-快讯",
+          "title": "卡塔尔外交部发言人：（就伊朗问题表示）为确保局势降级，地区合作与持续努力正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260203181952367800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时28分"
         },
         {
           "title": "乌克兰将伊朗伊斯兰革命卫队列为“恐怖组织”",
@@ -743,19 +791,6 @@
           "time_info": "[00时22分 ~ 07时16分]"
         },
         {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时35分 ~ 17时28分]"
-        },
-        {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
           "url": "https://wallstreetcn.com/livenews/3048461",
           "source": "华尔街见闻-快讯",
@@ -766,6 +801,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时29分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：无意将浓缩铀转移至国外",
+          "url": "https://wallstreetcn.com/livenews/3048998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
         },
         {
           "title": "伊朗总统已下令启动核谈判",
@@ -872,6 +919,17 @@
           "time_info": "14时35分"
         },
         {
+          "title": "桥水基金创始人达利欧：伊朗政权更迭将使中东地区更具投资价值。",
+          "url": "https://flash.jin10.com/detail/20260203180103471800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "伊朗革命卫队高级指挥官：我们现在的导弹能力比战争第一天时强大得多。",
           "url": "https://flash.jin10.com/detail/20260203005219943800",
           "source": "金十数据",
@@ -900,7 +958,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -952,7 +1010,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -963,8 +1021,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时00分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[09时00分 ~ 18时28分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -1031,6 +1089,30 @@
           "time_info": "07时16分"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
+          "title": "美股盘前，美国锑业涨超4%，特朗普拟投资120亿美元储备关键矿产。美股存储板块盘前走高。美光科技涨1.8%，闪迪涨3.2%，西部数据涨2.3%。Palantir盘前涨近12%，2026年全年指引大超预期。",
+          "url": "https://wallstreetcn.com/livenews/3048993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "美股三大指数集体收涨",
           "url": "https://www.toutiao.com/trending/7602410616837377590/",
           "source": "今日头条",
@@ -1042,26 +1124,15 @@
           "time_info": "[09时00分 ~ 09时01分]"
         },
         {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
+          "title": "美股太空公司股价盘前上涨，此前SpaceX确认与xAI合并。维珍银河上涨1.7%，行星实验室上涨3.1%，直觉机器上涨2.4%，旅行者科技上涨2.7%。",
+          "url": "https://flash.jin10.com/detail/20260203175702498800",
+          "source": "金十数据",
           "ranks": [
-            6
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美股盘前，美国锑业涨超4%，特朗普拟投资120亿美元储备关键矿产。美股存储板块盘前走高。美光科技涨1.8%，闪迪涨3.2%，西部数据涨2.3%。Palantir盘前涨近12%，2026年全年指引大超预期。",
-          "url": "https://wallstreetcn.com/livenews/3048993",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "time_info": "18时28分"
         },
         {
           "title": "（美股）费城金银指数收跌0.40%，报380.81点。 （全球时段）纽约证交所ARCA金矿开采商指数跌1.62%，报2699.52点，美股盘初曾尖锐地冲高回落。 （美股）原材料指数收涨0.58%，（美股）金属与矿业指数收涨1.44%。",
@@ -1172,7 +1243,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
@@ -1200,6 +1271,17 @@
           "time_info": "[01时29分 ~ 07时16分]"
         },
         {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
           "title": "李大霄解读金价一夜V型反转",
           "url": "https://www.toutiao.com/trending/7602460387761491507/",
           "source": "今日头条",
@@ -1217,7 +1299,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -1305,11 +1387,12 @@
           "url": "https://www.cls.cn/detail/2278690",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时28分]"
         }
       ]
     },
@@ -1328,6 +1411,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 09时01分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "汇丰：美债短端高收益债更具吸引力",
+          "url": "https://flash.jin10.com/detail/20260203181911181800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
