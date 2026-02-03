@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T11:33:28.702534+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-02-03T13:10:19.497509+08:00",
+  "total_titles_processed": 1007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 11时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 13时10分]"
         },
         {
           "title": "美国法官解冻被总统特朗普叫停的沃旭能源Orsted纽约海上风电项目。",
@@ -57,11 +57,12 @@
           "url": "https://www.cls.cn/detail/2278350",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 13时10分]"
         },
         {
           "title": "特朗普称美印达成贸易协议 Waymo估值超千亿美元 | 环球市场",
@@ -72,8 +73,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 13时10分]"
         },
         {
           "title": "特朗普“宣布”对印度降低关税，在美上市印度ETF扩大涨幅",
@@ -221,6 +222,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2001948735127643511",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "美国总统特朗普：我们谈了很多事情，包括贸易，以及结束俄罗斯和乌克兰的冲突。",
           "url": "https://flash.jin10.com/detail/20260203005909864800",
           "source": "金十数据",
@@ -274,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "特朗普威胁要向哈佛大学索赔10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3048804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "美国总统特朗普：我认为我们离解决政府停摆问题已经很近了。",
@@ -331,6 +354,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "特朗普：向哈佛索赔10亿美元 今后再无瓜葛",
+          "url": "https://flash.jin10.com/detail/20260203122421133800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "美国总统特朗普：检察官皮罗不会放弃对美联储主席鲍威尔的调查。（鲍威尔）要么是严重失职，要么是某种盗窃或回扣。我不知道具体是什么，但皮罗非常出色，她会查清楚的。",
           "url": "https://flash.jin10.com/detail/20260203055855998800",
           "source": "金十数据",
@@ -342,6 +376,17 @@
           "time_info": "07时16分"
         },
         {
+          "title": "美国总统特朗普：索赔10亿美元，并且今后与哈佛大学再无瓜葛。",
+          "url": "https://flash.jin10.com/detail/20260203122216964800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "美国总统特朗普：（被问及美国是否计划削减在欧洲的驻军时）没有。",
           "url": "https://flash.jin10.com/detail/20260203055831240800",
           "source": "金十数据",
@@ -351,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美国总统特朗普：哈佛大学长期以来一直存在严重的“反犹主义”倾向，并向日渐衰落的《纽约时报》散布了大量“无稽之谈”。",
+          "url": "https://flash.jin10.com/detail/20260203122155434800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
         },
         {
           "title": "美国总统特朗普：（针对国土安全部涉嫌暴力执法问题）参议院多数党领袖约翰·图恩（John Thune）和约翰逊接近达成协议。",
@@ -414,7 +470,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -524,6 +580,18 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "美伊或开启核谈判，伊朗释放双重信号",
+          "url": "https://news.ifeng.com/c/8qR1zmFfMjv",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 13时10分]"
+        },
+        {
           "title": "懂了｜美国亲手埋下“核种子”：6分钟看伊朗核问题的前世今生",
           "url": "https://m.thepaper.cn/newsDetail_forward_32498721",
           "source": "澎湃新闻",
@@ -545,18 +613,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 02时26分]"
-        },
-        {
-          "title": "美伊或开启核谈判，伊朗释放双重信号",
-          "url": "https://news.ifeng.com/c/8qR1zmFfMjv",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时33分]"
         },
         {
           "title": "伊朗否认收到美“最后通牒”，总统下令启动核谈判",
@@ -658,11 +714,12 @@
           "url": "https://www.zhihu.com/question/2001732629960081618",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时33分 ~ 13时10分]"
         },
         {
           "title": "美国与伊朗将于周五在土耳其伊斯坦布尔会谈。（Axios）",
@@ -839,8 +896,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时33分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 13时10分]"
+        },
+        {
+          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
+          "url": "https://www.cls.cn/detail/2278378",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 13时10分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -867,19 +937,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时22分 ~ 11时33分]"
-        },
-        {
-          "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
-          "url": "https://www.cls.cn/detail/2278378",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 11时33分]"
         },
         {
           "title": "黄金白银剧烈波动 美股三大期指集体下跌 | 今夜看点",
@@ -932,7 +989,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -948,13 +1005,24 @@
           "time_info": "[01时29分 ~ 07时16分]"
         },
         {
+          "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
+          "url": "https://www.cls.cn/detail/2278518",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时10分"
+        },
+        {
           "title": "李大霄解读金价一夜V型反转",
           "url": "https://www.toutiao.com/trending/7602460387761491507/",
           "source": "今日头条",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -976,7 +1044,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         },
@@ -987,7 +1055,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时33分"
         }
