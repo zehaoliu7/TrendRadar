@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T15:44:58.198354+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-02-11T16:33:50.027991+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 16时33分]"
         },
         {
           "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说说的。",
@@ -53,17 +53,6 @@
           "time_info": "05时32分"
         },
         {
-          "title": "外交部回应特朗普涉中加合作言论：中加构建新型战略伙伴关系不针对任何第三方",
-          "url": "https://wallstreetcn.com/livenews/3053536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
           "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
           "url": "https://wallstreetcn.com/livenews/3053209",
           "source": "华尔街见闻-快讯",
@@ -75,6 +64,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时48分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 16时33分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 16时33分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -125,27 +137,16 @@
           "time_info": "[02时48分 ~ 04时32分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
+          "title": "外交部回应特朗普涉中加合作言论：中加构建新型战略伙伴关系不针对任何第三方",
+          "url": "https://wallstreetcn.com/livenews/3053536",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            7
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 15时44分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 15时44分]"
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时33分]"
         },
         {
           "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
@@ -231,6 +232,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 14时02分]"
+        },
+        {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时33分]"
         },
         {
           "title": "美国总统特朗普：我认为2026年将会很棒。",
@@ -461,17 +473,6 @@
           "time_info": "[06时27分 ~ 07时28分]"
         },
         {
-          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
-          "url": "https://news.ifeng.com/c/8qeou7377qN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
           "title": "当地时间10日，美国总统特朗普表示，“伊朗不会拥有核武器或者导弹”。",
           "url": "https://flash.jin10.com/detail/20260211022808666800",
           "source": "金十数据",
@@ -525,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "卡塔尔埃米尔与特朗普通话，讨论地区局势发展。",
+          "url": "https://flash.jin10.com/detail/20260211154826994800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "特朗普称若美伊谈判失败，可能再派一个航母打击群前往中东",
@@ -678,6 +690,19 @@
           "time_info": "[00时50分 ~ 09时07分]"
         },
         {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 16时33分]"
+        },
+        {
           "title": "美股收盘：三大指数涨跌不一 道指续创历史新高",
           "url": "https://www.cls.cn/detail/2286520",
           "source": "财联社热门",
@@ -689,19 +714,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时28分 ~ 14时02分]"
-        },
-        {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 15时44分]"
         },
         {
           "title": "莫德纳宣布，美国食品药品管理局（FDA）拒绝审查其流感疫苗MRNA Flu申请。 FDA称，该公司临床试验（受试样本）不够大，也没有得到很好的控制。 莫德纳美股盘后跌9%。",
@@ -746,8 +758,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时33分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 西部数据跌8%",
@@ -845,7 +857,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
@@ -854,18 +866,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
-          "url": "https://wallstreetcn.com/livenews/3053534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -908,6 +909,18 @@
           "time_info": "[03时53分 ~ 05时32分]"
         },
         {
+          "title": "伊朗外长向巴基斯坦外长介绍伊美谈判进展",
+          "url": "https://wallstreetcn.com/livenews/3053534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时33分]"
+        },
+        {
           "title": "伊朗的地缘政治包袱与以色列的阴影：美伊谈判前景难言乐观",
           "url": "https://m.thepaper.cn/newsDetail_forward_32567450",
           "source": "澎湃新闻",
@@ -917,6 +930,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
+        },
+        {
+          "title": "伊朗总统：我们无意制造核武器，并愿意接受任何形式的核查。",
+          "url": "https://flash.jin10.com/detail/20260211155719645800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "中东紧张局势持续发酵 美政府建议美商船远离伊朗领海",
@@ -947,7 +971,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
@@ -975,11 +999,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时02分 ~ 15时44分]"
+          "appearance_count": 3,
+          "time_info": "[14时02分 ~ 16时33分]"
         },
         {
           "title": "从避险到标配 摩根大通勾勒金价8000美元蓝图",
@@ -999,7 +1024,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -1083,7 +1108,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         }
