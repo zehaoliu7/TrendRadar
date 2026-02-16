@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T15:44:54.438382+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-02-16T16:32:44.604100+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -66,6 +66,17 @@
           "time_info": "[00时15分 ~ 06时12分]"
         },
         {
+          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 16时32分]"
+        },
+        {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
           "url": "https://flash.jin10.com/detail/20260215194121768800",
           "source": "金十数据",
@@ -76,17 +87,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 05时14分]"
-        },
-        {
-          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 15时44分]"
         },
         {
           "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
@@ -123,6 +123,19 @@
           "time_info": "[00时15分 ~ 04时13分]"
         },
         {
+          "title": "伊朗大秀肌肉回应美国施压",
+          "url": "https://www.toutiao.com/trending/7607336004873096742/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 16时32分]"
+        },
+        {
           "title": "伊朗外长及代表团已出发前往日内瓦 准备与美国开展新一轮会谈",
           "url": "https://flash.jin10.com/detail/20260216050609770800",
           "source": "金十数据",
@@ -144,18 +157,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时15分 ~ 09时01分]"
-        },
-        {
-          "title": "伊朗大秀肌肉回应美国施压",
-          "url": "https://www.toutiao.com/trending/7607336004873096742/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 15时44分]"
         },
         {
           "title": "美伊新一轮谈判在即 以总理：伊朗必须拆除核设施",
@@ -189,7 +190,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
         },
@@ -225,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "伊朗外长：欧洲大国在核谈判中“无关紧要”",
+          "url": "https://flash.jin10.com/detail/20260216155000444800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -289,6 +301,18 @@
           "time_info": "[00时15分 ~ 11时41分]"
         },
         {
+          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 16时32分]"
+        },
+        {
           "title": "特朗普或支持以色列打击伊朗",
           "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
           "source": "凤凰网",
@@ -300,17 +324,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时00分 ~ 14时50分]"
-        },
-        {
-          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 15时44分]"
         },
         {
           "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
@@ -437,7 +450,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -464,8 +477,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时41分 ~ 15时44分]"
+          "appearance_count": 7,
+          "time_info": "[11时41分 ~ 16时32分]"
         },
         {
           "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
@@ -516,6 +529,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时14分 ~ 07时15分]"
+        },
+        {
+          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
+          "url": "https://flash.jin10.com/detail/20260216153508680800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：Codex的周活跃用户数量自年初以来增长了两倍多。",
+          "url": "https://flash.jin10.com/detail/20260216153347079800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -533,8 +568,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时15分 ~ 15时44分]"
+          "appearance_count": 20,
+          "time_info": "[00时15分 ~ 16时32分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -574,11 +609,12 @@
           "url": "https://wallstreetcn.com/articles/3765775",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时32分]"
         }
       ]
     },
@@ -605,11 +641,12 @@
           "url": "https://wallstreetcn.com/articles/3765769",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时44分 ~ 16时32分]"
         }
       ]
     },
