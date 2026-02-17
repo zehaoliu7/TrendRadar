@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:42:48.547483+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-02-17T15:42:03.274558+08:00",
+  "total_titles_processed": 1103,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时59分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时42分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -272,7 +272,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -380,8 +380,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时59分 ~ 15时42分]"
+        },
+        {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时59分 ~ 14时42分]"
+          "time_info": "[13时17分 ~ 15时42分]"
         },
         {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
@@ -397,18 +409,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时30分 ~ 06时16分]"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 14时42分]"
         },
         {
           "title": "伊朗外长与美谈判前夕强调不屈服",
@@ -627,8 +627,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时33分 ~ 14时42分]"
+          "appearance_count": 6,
+          "time_info": "[11时33分 ~ 15时42分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -692,8 +692,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 15时42分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -707,8 +707,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 14时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 15时42分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
