@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T16:31:40.878561+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-02-18T17:34:42.107545+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -90,6 +90,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时38分 ~ 16时31分]"
+        },
+        {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "特朗普女儿伊万卡中文拜年：新年快乐",
@@ -288,6 +299,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "泽连斯基抱怨：特朗普总是要求乌克兰让步，这不公平",
+          "url": "https://news.ifeng.com/c/8qqOE4vhF5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
           "url": "https://flash.jin10.com/detail/20260218063655343800",
           "source": "金十数据",
@@ -343,6 +365,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "市场消息：梵蒂冈方面拒绝加入特朗普的“和平委员会”。",
+          "url": "https://flash.jin10.com/detail/20260218165845600800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "据路透社/IPSOS民调，特朗普的整体支持率维持在38%的总统低点。",
           "url": "https://flash.jin10.com/detail/20260218060047004800",
           "source": "金十数据",
@@ -352,6 +385,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "特朗普女儿伊万卡中文拜年",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "美国总统特朗普称，日本推进5500亿美元对美国投资承诺中的第一批投资。 目前，美元兑日元维持超过0.1%的跌幅，暂报153.27日元。",
@@ -423,7 +467,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -474,6 +518,22 @@
           "time_info": "[09时01分 ~ 16时31分]"
         },
         {
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            11,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时01分 ~ 17时34分]"
+        },
+        {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
           "url": "https://news.ifeng.com/c/8qp2Kff4127",
           "source": "凤凰网",
@@ -485,19 +545,30 @@
           "time_info": "[00时42分 ~ 00时43分]"
         },
         {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
-          "source": "澎湃新闻",
+          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
+          "url": "https://www.zhihu.com/question/2007003476190786977",
+          "source": "知乎",
           "ranks": [
-            14,
-            15,
             11,
-            10,
-            9
+            6,
+            14
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时01分 ~ 16时31分]"
+          "time_info": "[11时38分 ~ 17时34分]"
+        },
+        {
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 17时34分]"
         },
         {
           "title": "市场消息：伊朗外交部召见德国大使。",
@@ -509,29 +580,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时23分"
-        },
-        {
-          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
-          "url": "https://www.zhihu.com/question/2007003476190786977",
-          "source": "知乎",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 16时31分]"
-        },
-        {
-          "title": "伊朗说永不寻求核武并随时接受核查",
-          "url": "https://wallstreetcn.com/livenews/3056251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时31分"
         },
         {
           "title": "伊朗外长要求美国停止动武威胁",
@@ -546,19 +594,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时38分 ~ 15时42分]"
-        },
-        {
-          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
-          "url": "https://wallstreetcn.com/articles/3765814",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 16时31分]"
         },
         {
           "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
@@ -584,6 +619,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 01时51分]"
+        },
+        {
+          "title": "伊朗说永不寻求核武并随时接受核查",
+          "url": "https://wallstreetcn.com/livenews/3056251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 17时34分]"
         },
         {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
@@ -643,6 +690,39 @@
           "time_info": "01时51分"
         },
         {
+          "title": "伊朗将与俄罗斯举行海上联合军演",
+          "url": "https://wallstreetcn.com/livenews/3056261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "伊朗演习发言人：伊朗-俄罗斯海军联合演习将在阿曼海域举行。",
+          "url": "https://flash.jin10.com/detail/20260218165346187800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "伊朗演习发言人：伊朗-俄罗斯海军联合演习将重点关注海上安全和反恐行动。",
+          "url": "https://flash.jin10.com/detail/20260218165331031800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
           "url": "https://wallstreetcn.com/livenews/3056038",
           "source": "华尔街见闻-快讯",
@@ -696,12 +776,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "俄罗斯海军直升机航母停靠伊朗水域，参加德黑兰和莫斯科联合军演。",
+          "url": "https://flash.jin10.com/detail/20260218164129941800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "伊朗和俄罗斯签署了一份合作文件和四份谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260218164100496800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -712,8 +814,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时49分 ~ 16时31分]"
+          "appearance_count": 9,
+          "time_info": "[07时49分 ~ 17时34分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -737,8 +839,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 16时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 17时34分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -749,8 +851,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 16时31分]"
+          "appearance_count": 6,
+          "time_info": "[11时38分 ~ 17时34分]"
+        },
+        {
+          "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "美股盘前，科技股普涨，英伟达涨1.6%，美光科技涨约1%，英特尔涨约1%。 黄金股普涨，哈莫尼黄金涨约1%，科尔黛伦矿业涨约2%。",
+          "url": "https://wallstreetcn.com/livenews/3056266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "（美股）费城金银指数收跌3.14%，报406.62点。 （全球时段）纽约证交所ARCA金矿开采商指数跌2.83%，报2884.06点，亚太盘初至北京时间22:30窄幅震荡于于2960点附近——维持微幅下跌的状态，美股开盘时“跳空”下挫，23:14刷新日低至2811.85点，随后逐步收复失地。 （美股）原材料指数收跌1.66%，金属与矿业指数收跌1.37%。",
@@ -812,6 +936,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时50分]"
+        },
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "美股盘前，部分明星科技股走强，英伟达(NVDA.O)、美光科技(MU.O)、Meta Platforms(META.O)涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260218170058406800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "美股三大指数均小幅收涨",
@@ -905,7 +1051,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "据The Information：Anthropic预计到2029年将向亚马逊、谷歌和微软支付至少800亿美元，以在云服务器上运行Claude AI。",
@@ -977,6 +1123,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时38分 ~ 13时18分]"
+        },
+        {
+          "title": "Alphabet CEO皮查伊：很高兴今天早上与印度总理莫迪会面。我们讨论了谷歌如何帮助他在印度各级推广人工智能，以改善健康、扩大各语言的信息获取、支持初创企业、农业等等。",
+          "url": "https://flash.jin10.com/detail/20260218164551574800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "比尔·阿克曼管理的对冲基金潘兴广场四季度减持谷歌A、优步等。",
@@ -1114,6 +1271,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 00时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI与印度多所大学合作，培养具备AI技能的人才。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3056259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         }
       ]
     }
