@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-23T17:40:33.655465+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-02-23T18:38:34.893513+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 54,
       "titles": [
         {
           "title": "曝伊朗革命卫队已接管黎巴嫩真主党",
@@ -127,6 +127,20 @@
           "time_info": "[08时59分 ~ 16时34分]"
         },
         {
+          "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            10,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时39分 ~ 18时38分]"
+        },
+        {
           "title": "美媒：若伊朗很快提交核方案，美伊会谈预计将于周五举行",
           "url": "https://flash.jin10.com/detail/20260222221813362800",
           "source": "金十数据",
@@ -162,20 +176,6 @@
           "time_info": "09时00分"
         },
         {
-          "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32644744",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            10,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时39分 ~ 17时40分]"
-        },
-        {
           "title": "据AXIOS网站：如果伊朗尽快提交核方案，美伊谈判预计将于下周五举行。",
           "url": "https://flash.jin10.com/detail/20260222220602460800",
           "source": "金十数据",
@@ -189,6 +189,17 @@
           "time_info": "[00时15分 ~ 05时14分]"
         },
         {
+          "title": "美军重兵合围伊朗",
+          "url": "https://www.douyin.com/hot/2409181",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 18时38分]"
+        },
+        {
           "title": "伊朗多所高校再出现学生反政府集会",
           "url": "https://news.ifeng.com/c/8qyIqT5ziOE",
           "source": "凤凰网",
@@ -198,17 +209,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时39分 ~ 16时34分]"
-        },
-        {
-          "title": "美军重兵合围伊朗",
-          "url": "https://www.douyin.com/hot/2409181",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 17时40分]"
         },
         {
           "title": "美媒：美国和伊朗谈判代表预计将于周四在日内瓦会晤",
@@ -312,6 +312,40 @@
           "time_info": "[15时46分 ~ 16时34分]"
         },
         {
+          "title": "与美国达成“临时协议”？伊朗：毫无根据",
+          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时38分]"
+        },
+        {
+          "title": "欧盟呼吁就伊朗问题寻求“外交解决方案”",
+          "url": "https://wallstreetcn.com/livenews/3057424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时38分]"
+        },
+        {
+          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
+          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时38分]"
+        },
+        {
           "title": "伊朗外长称若遭美国攻击将正当防卫",
           "url": "https://wallstreetcn.com/livenews/3057368",
           "source": "华尔街见闻-快讯",
@@ -358,6 +392,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时14分]"
+        },
+        {
+          "title": "伊朗：将誓死捍卫国家独立和主权完整",
+          "url": "https://www.toutiao.com/trending/7609028906888445958/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时38分]"
         },
         {
           "title": "全力备战 伊朗还有多少反制手段可用",
@@ -417,28 +463,6 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
-          "title": "欧盟呼吁就伊朗问题寻求“外交解决方案”",
-          "url": "https://wallstreetcn.com/livenews/3057424",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
-          "title": "与美国达成“临时协议”？伊朗：毫无根据",
-          "url": "https://news.ifeng.com/c/8qyqpPm0Q9R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        },
-        {
           "title": "伊朗外交部发言人：关于与美国达成“临时协议”的讨论毫无根据",
           "url": "https://flash.jin10.com/detail/20260223154344256800",
           "source": "金十数据",
@@ -448,17 +472,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
-        },
-        {
-          "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
-          "url": "https://news.ifeng.com/c/8qyqxrcRN3h",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         },
         {
           "title": "伊朗外交部发言人：伊朗与国际原子能机构的所有合作将继续完全在伊朗保障监督义务和议会颁布的相关法律框架内进行。",
@@ -555,7 +568,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -571,6 +584,17 @@
           "time_info": "09时00分"
         },
         {
+          "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
+          "url": "https://www.zhihu.com/question/2005108327592519351",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "高盛：伊朗/俄罗斯制裁的潜在放松将加速原油库存增加，并在长期内释放更多供应，预计2026年第四季度原油价格将有5%至8%的下行空间。",
           "url": "https://flash.jin10.com/detail/20260223100430112800",
           "source": "金十数据",
@@ -580,17 +604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
-        },
-        {
-          "title": "伊朗：将誓死捍卫国家独立和主权完整",
-          "url": "https://www.toutiao.com/trending/7609028906888445958/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         },
         {
           "title": "伊朗陆军称密切监控边境敌方动向",
@@ -640,7 +653,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普：原本10%的全球进口关税税率将升至15%",
@@ -650,8 +663,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 18时38分]"
         },
         {
           "title": "特朗普新加征关税税率加码至15% 美政府“越权”关税引企业诉讼潮",
@@ -710,8 +723,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 18时38分]"
         },
         {
           "title": "美贸易代表：特朗普访华不受最高法关税裁决影响",
@@ -829,6 +842,18 @@
           "time_info": "[01时16分 ~ 07时14分]"
         },
         {
+          "title": "加州州长：特朗普正摧毁美国经济",
+          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时38分]"
+        },
+        {
           "title": "男子持枪闯入特朗普住所被击毙",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%8C%81%E6%9E%AA%E9%97%AF%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E4%BD%8F%E6%89%80%E8%A2%AB%E5%87%BB%E6%AF%99",
           "source": "百度热搜",
@@ -854,15 +879,15 @@
           "time_info": "09时00分"
         },
         {
-          "title": "加州州长：特朗普正摧毁美国经济",
-          "url": "https://news.ifeng.com/c/8qyoio7uTTF",
-          "source": "凤凰网",
+          "title": "市场消息：欧盟因美国总统特朗普的关税风险拟冻结对美贸易协议的批准。",
+          "url": "https://flash.jin10.com/detail/20260223182731191800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "18时38分"
         },
         {
           "title": "格陵兰岛自治政府总理拒绝特朗普拟派医院船提议",
@@ -874,6 +899,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时50分 ~ 18时38分]"
         },
         {
           "title": "美国贸易代表格里尔：鉴于局势的“紧迫性”，美国总统特朗普已将10%的关税提高到15%。",
@@ -912,18 +949,6 @@
           "time_info": "[06时12分 ~ 07时14分]"
         },
         {
-          "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32645069",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时50分 ~ 17时40分]"
-        },
-        {
           "title": "连锁反应来了 印度打脸特朗普",
           "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%E6%9D%A5%E4%BA%86+%E5%8D%B0%E5%BA%A6%E6%89%93%E8%84%B8%E7%89%B9%E6%9C%97%E6%99%AE",
           "source": "百度热搜",
@@ -935,6 +960,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时59分 ~ 13时20分]"
+        },
+        {
+          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
+          "url": "https://wallstreetcn.com/articles/3765969",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时38分]"
         },
         {
           "title": "特朗普：将在常规关税基础上对全球征收10%的进口关税",
@@ -959,18 +997,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 15时46分]"
-        },
-        {
-          "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
-          "url": "https://wallstreetcn.com/articles/3765969",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时40分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -1032,6 +1058,17 @@
           "time_info": "14时50分"
         },
         {
+          "title": "市场消息：在美国最高法院推翻特朗普征收关税的决定后，印度正研究此举对与美国双边贸易协定的影响。",
+          "url": "https://flash.jin10.com/detail/20260223181405516800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
           "title": "美国总统特朗普：我们赢得太多了，这不公平。",
           "url": "https://flash.jin10.com/detail/20260223104454862800",
           "source": "金十数据",
@@ -1090,7 +1127,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -1120,11 +1157,45 @@
           "url": "https://wallstreetcn.com/livenews/3057423",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时40分 ~ 18时38分]"
+        },
+        {
+          "title": "诺和诺德美股盘前跌11%，礼来盘前涨超4%，诺和诺德的CagriSema在试验中效果不及礼来Zepbound。",
+          "url": "https://wallstreetcn.com/livenews/3057431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时40分"
+          "time_info": "18时38分"
+        },
+        {
+          "title": "关税政策不确定性笼罩市场，美元与美股期货走低，现货黄金站上5170美元，油价走低",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
+        },
+        {
+          "title": "礼来(LLY.N)美股盘前上涨2.1%。",
+          "url": "https://flash.jin10.com/detail/20260223174523816800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时38分"
         }
       ]
     },
@@ -1141,8 +1212,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时15分 ~ 17时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时15分 ~ 18时38分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -1213,8 +1284,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时18分 ~ 17时40分]"
+          "appearance_count": 16,
+          "time_info": "[02时18分 ~ 18时38分]"
         }
       ]
     }
