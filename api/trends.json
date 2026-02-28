@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T11:04:49.011517+08:00",
-  "total_titles_processed": 907,
+  "generated_at": "2026-02-28T12:46:05.477626+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 90,
+      "match_count": 91,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -53,8 +53,44 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 12时46分]"
+        },
+        {
+          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297916",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时46分]"
+        },
+        {
+          "title": "特朗普扬言：美国或“友好接管”古巴",
+          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时46分]"
+        },
+        {
+          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
+          "url": "https://wallstreetcn.com/articles/3766396",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 12时46分]"
         },
         {
           "title": "特朗普对伊核谈判不满",
@@ -90,17 +126,6 @@
           "time_info": "01时24分"
         },
         {
-          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
-          "url": "https://www.cls.cn/detail/2297916",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
           "url": "https://flash.jin10.com/detail/20260228001656802800",
           "source": "金十数据",
@@ -123,17 +148,6 @@
           "time_info": "08时51分"
         },
         {
-          "title": "特朗普扬言：美国或“友好接管”古巴",
-          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
           "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
           "url": "https://flash.jin10.com/detail/20260228020911978800",
           "source": "金十数据",
@@ -154,17 +168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
-        },
-        {
-          "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3060581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
         },
         {
           "title": "美国总统特朗普：汽油价格正在大幅下降。",
@@ -190,18 +193,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时24分 ~ 05时18分]"
-        },
-        {
-          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
-          "url": "https://wallstreetcn.com/articles/3766396",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 11时04分]"
         },
         {
           "title": "美国总统特朗普谈伊朗：得达成有意义的协议才行。",
@@ -313,6 +304,18 @@
           "time_info": "[07时14分 ~ 08时51分]"
         },
         {
+          "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3060581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时46分]"
+        },
+        {
           "title": "美国总统特朗普：委内瑞拉运气不错，现在做得很好。",
           "url": "https://flash.jin10.com/detail/20260228053001600800",
           "source": "金十数据",
@@ -347,6 +350,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 08时51分]"
+        },
+        {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 12时46分]"
+        },
+        {
+          "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
+          "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时46分]"
         },
         {
           "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
@@ -437,6 +464,18 @@
           "time_info": "[07时14分 ~ 08时51分]"
         },
         {
+          "title": "特朗普政府正在考虑对Anthropic公司采取更强有力的措施。",
+          "url": "https://flash.jin10.com/detail/20260228105235978800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时46分]"
+        },
+        {
           "title": "美国总统特朗普：感谢委内瑞拉，我们双方目前关系良好。",
           "url": "https://flash.jin10.com/detail/20260228055815726800",
           "source": "金十数据",
@@ -447,6 +486,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 08时51分]"
+        },
+        {
+          "title": "特朗普政府寻求推迟关税退税诉讼",
+          "url": "https://flash.jin10.com/detail/20260228104012834800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时46分]"
         },
         {
           "title": "美国总统特朗普：36万桶委内瑞拉石油停在油轮里。",
@@ -515,17 +566,6 @@
           "ranks": [
             14,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 11时04分]"
-        },
-        {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -638,15 +678,15 @@
           "time_info": "04时17分"
         },
         {
-          "title": "克林顿闭门作证爱泼斯坦案，特朗普表态",
-          "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：明尼苏达州自闭症补助金从2017年的1,099,946美元飙升至2024年的343,176,474美元，短短几年内增长了34,000%。这简直就是个天大的骗局。立即调查并逮捕骗子。更多索马里势力介入。加州的情况更糟。要平衡预算。",
+          "url": "https://flash.jin10.com/detail/20260228115311357800",
+          "source": "金十数据",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时04分"
+          "time_info": "12时46分"
         },
         {
           "title": "美国总统特朗普：我们在石油方面运气好极了。",
@@ -669,17 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
-        },
-        {
-          "title": "特朗普政府正在考虑对Anthropic公司采取更强有力的措施。",
-          "url": "https://flash.jin10.com/detail/20260228105235978800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
         },
         {
           "title": "特朗普透露美伊将继续谈判",
@@ -713,17 +742,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "特朗普政府寻求推迟关税退税诉讼",
-          "url": "https://flash.jin10.com/detail/20260228104012834800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
         },
         {
           "title": "美国总统特朗普：（被问及对伊朗的打击是否可能导致更大规模的冲突）总是存在这种风险。",
@@ -1048,7 +1066,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -1078,11 +1096,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时46分]"
         },
         {
           "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
@@ -1097,20 +1116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时04分]"
-        },
-        {
-          "title": "外交部提醒中国公民暂勿前往伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时46分]"
         },
         {
           "title": "提醒在伊朗的中国公民尽快撤离",
@@ -1124,6 +1131,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时26分 ~ 07时14分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时46分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -1148,11 +1168,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 11时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时46分]"
         },
         {
           "title": "美国 伊朗",
@@ -1180,6 +1201,17 @@
           "time_info": "[00时26分 ~ 11时04分]"
         },
         {
+          "title": "信号已很明显，伊朗进入空前高危时刻",
+          "url": "https://news.ifeng.com/c/8r6YprFoVti",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时04分 ~ 12时46分]"
+        },
+        {
           "title": "IAEA：无法确认伊朗核活动",
           "url": "https://www.douyin.com/hot/2413928",
           "source": "抖音",
@@ -1191,15 +1223,16 @@
           "time_info": "[00时26分 ~ 05时18分]"
         },
         {
-          "title": "信号已很明显，伊朗进入空前高危时刻",
-          "url": "https://news.ifeng.com/c/8r6YprFoVti",
-          "source": "凤凰网",
+          "title": "中国驻伊朗大使馆郑重提醒",
+          "url": "https://www.douyin.com/hot/2413950",
+          "source": "抖音",
           "ranks": [
-            1
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 12时46分]"
         },
         {
           "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
@@ -1227,6 +1260,19 @@
           "time_info": "[00时26分 ~ 11时04分]"
         },
         {
+          "title": "伊朗同意不拥有可制造核弹的核材料",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E7%9A%84%E6%A0%B8%E6%9D%90%E6%96%99%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 12时46分]"
+        },
+        {
           "title": "伊朗外交部：伊朗外交部对巴基斯坦与阿富汗两国人民以及两国穆斯林之间局势趋紧深表遗憾，对由此对地区安全与人道局势造成的影响表示关切，并呼吁立即采取措施加以应对，以制止紧张局势升级并推动局势恢复正常",
           "url": "https://flash.jin10.com/detail/20260228010943959800",
           "source": "金十数据",
@@ -1238,28 +1284,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "中国驻伊朗大使馆郑重提醒",
-          "url": "https://www.douyin.com/hot/2413950",
-          "source": "抖音",
+          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3060594",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 11时04分]"
-        },
-        {
-          "title": "伊朗同意不拥有可制造核弹的核材料",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E7%9A%84%E6%A0%B8%E6%9D%90%E6%96%99%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 11时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "据实时航班追踪网站Flightradar24显示，一架伊朗无人机正在阿拉伯海活动，可能用于收集有关美国航空母舰及其打击群的情报。该无人机似乎由一艘海军舰艇发射，以实现更远的飞行航程。",
@@ -1286,6 +1319,19 @@
           "time_info": "[04时17分 ~ 05时18分]"
         },
         {
+          "title": "伊朗同意不拥有可制造核弹核材料",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E6%A0%B8%E6%9D%90%E6%96%99",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 12时46分]"
+        },
+        {
           "title": "我驻伊朗大使馆：郑重提醒在伊中国公民密切关注安全形势变化",
           "url": "https://wallstreetcn.com/livenews/3060474",
           "source": "华尔街见闻-快讯",
@@ -1297,6 +1343,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 05时18分]"
+        },
+        {
+          "title": "多国呼吁避免前往伊朗等中东地区",
+          "url": "https://wallstreetcn.com/livenews/3060563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 12时46分]"
         },
         {
           "title": "莫迪趁着伊朗危局要好处能得逞吗",
@@ -1311,16 +1370,15 @@
           "time_info": "[02时24分 ~ 03时26分]"
         },
         {
-          "title": "多国呼吁避免前往伊朗等中东地区",
-          "url": "https://wallstreetcn.com/livenews/3060563",
-          "source": "华尔街见闻-快讯",
+          "title": "美国对伊朗提了4项要求",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BA%864%E9%A1%B9%E8%A6%81%E6%B1%82%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            19
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时51分 ~ 11时04分]"
+          "time_info": "[12时45分 ~ 12时46分]"
         },
         {
           "title": "阿曼外长：与美国副总统万斯会面，讨论了美国与伊朗之间的持续谈判及迄今取得的进展。感谢美国官员的参与，并对外交进程表示乐观。",
@@ -1365,18 +1423,6 @@
           "ranks": [
             11,
             21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 11时04分]"
-        },
-        {
-          "title": "伊朗同意不拥有可制造核弹核材料",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E6%A0%B8%E6%9D%90%E6%96%99",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1455,6 +1501,28 @@
           "time_info": "[08时51分 ~ 11时04分]"
         },
         {
+          "title": "伊朗同意不拥有制造核弹的核材料",
+          "url": "https://www.douyin.com/hot/2414004",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        },
+        {
+          "title": "多国呼吁避免前往伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%BD%E5%91%BC%E5%90%81%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        },
+        {
           "title": "伊朗核问题到底咋回事",
           "url": "https://www.douyin.com/hot/2413953",
           "source": "抖音",
@@ -1484,7 +1552,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -1517,7 +1585,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -1531,6 +1599,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260228113407268800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "国际原子能机构：无法确认伊朗铀浓缩活动现状",
@@ -1701,7 +1780,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1714,8 +1793,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时24分 ~ 11时04分]"
+          "appearance_count": 13,
+          "time_info": "[01时24分 ~ 12时46分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -1738,55 +1817,12 @@
             9,
             8,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时17分 ~ 11时04分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
-          "url": "https://flash.jin10.com/detail/20260228110043453800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
-          "url": "https://flash.jin10.com/detail/20260228105851301800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
-          "url": "https://flash.jin10.com/detail/20260228105836118800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
-          "url": "https://flash.jin10.com/detail/20260228105824885800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
+          "appearance_count": 8,
+          "time_info": "[05时17分 ~ 12时46分]"
         },
         {
           "title": "OpenAI获1100亿美元新投资",
@@ -1795,20 +1831,32 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
-          "url": "https://flash.jin10.com/detail/20260228105722729800",
+          "title": "和Anthropic闹翻“仅数小时” 美国国防部便和OpenAI签署合作协议",
+          "url": "https://flash.jin10.com/detail/20260228120317791800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时04分"
+          "time_info": "12时46分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
+          "url": "https://flash.jin10.com/detail/20260228110043453800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时46分]"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -1824,6 +1872,65 @@
           "time_info": "[03时26分 ~ 05时18分]"
         },
         {
+          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
+          "url": "https://flash.jin10.com/detail/20260228105851301800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时46分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
+          "url": "https://flash.jin10.com/detail/20260228105836118800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时46分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
+          "url": "https://flash.jin10.com/detail/20260228105824885800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时46分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://flash.jin10.com/detail/20260228105722729800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时46分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://wallstreetcn.com/livenews/3060587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
           "url": "https://flash.jin10.com/detail/20260228080935525800",
           "source": "金十数据",
@@ -1833,6 +1940,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
+          "url": "https://flash.jin10.com/detail/20260228110554688800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "OpenAI首席执行官：如果收入保持增长 融资交易就不是“循环交易”",
@@ -1872,8 +1990,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 11时04分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 12时46分]"
         },
         {
           "title": "2月份，美股降息赢家指数累跌3.23%，报98.28点，2月12日以来持续回撤。 “特朗普关税输家”指数累涨1.39%，报114.47点。 “特朗普金融指数”累跌9.18%，报154.50点。 散户抱团概念股指数/迷因股（meme stock）指数累跌6.11%，报13.26点。",
@@ -1959,8 +2077,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时51分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[08时51分 ~ 12时46分]"
         },
         {
           "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
@@ -2010,11 +2128,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 11时04分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 12时46分]"
         }
       ]
     },
