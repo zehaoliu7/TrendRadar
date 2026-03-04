@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T22:32:01.192424+08:00",
-  "total_titles_processed": 2106,
+  "generated_at": "2026-03-04T23:28:10.457916+08:00",
+  "total_titles_processed": 2194,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 328,
+      "match_count": 338,
       "titles": [
         {
           "title": "美以伊战争最新动态｜伊朗德黑兰遭密集空袭",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时56分 ~ 22时32分]"
+          "appearance_count": 18,
+          "time_info": "[08时56分 ~ 23时28分]"
         },
         {
           "title": "伊朗“早有预案”：一场长期且扩大至整个中东的战争？",
@@ -52,8 +52,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 22时32分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 23时28分]"
         },
         {
           "title": "美国什么时候决定袭击伊朗的？美特使透露",
@@ -79,6 +79,21 @@
           "time_info": "[00时32分 ~ 07时15分]"
         },
         {
+          "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
+          "url": "https://www.cls.cn/detail/2302661",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 23时28分]"
+        },
+        {
           "title": "谈中美关系、伊朗局势、扩大内需、机器人等，人大新闻发布会回应这些热点",
           "url": "https://www.cls.cn/detail/2302261",
           "source": "财联社热门",
@@ -102,17 +117,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[15时31分 ~ 21时47分]"
-        },
-        {
-          "title": "立陶宛蹚浑水：想帮美国打伊朗",
-          "url": "https://news.ifeng.com/c/8rDn8R81TMC",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时28分 ~ 22时32分]"
         },
         {
           "title": "美以伊战争最新动态｜伊朗飞行员驾战机撞向美军舰？",
@@ -148,8 +152,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时31分 ~ 22时32分]"
+          "appearance_count": 13,
+          "time_info": "[15时31分 ~ 23时28分]"
         },
         {
           "title": "伊朗风险爆发，“台积电、三星和海力士”在内，今年大赚的新兴市场交易面临变局？",
@@ -176,19 +180,16 @@
           "time_info": "[13时03分 ~ 21时47分]"
         },
         {
-          "title": "两会日报 | 全国人大首场新闻发布会举行，回应中美关系、伊朗局势、机器人等热点问题",
-          "url": "https://www.cls.cn/detail/2302661",
-          "source": "财联社热门",
+          "title": "立陶宛蹚浑水：想帮美国打伊朗",
+          "url": "https://news.ifeng.com/c/8rDn8R81TMC",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            4,
-            3,
-            2,
-            1
+            5,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时32分]"
+          "appearance_count": 11,
+          "time_info": "[17时28分 ~ 23时28分]"
         },
         {
           "title": "沙特媒体：刚刚上任不久的伊朗代理国防部长伊本·礼萨遇害",
@@ -204,21 +205,15 @@
           "time_info": "[07时15分 ~ 21时47分]"
         },
         {
-          "title": "伊朗货币崩盘,钱变成废纸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351313&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%B4%A7%E5%B8%81%E5%B4%A9%E7%9B%98%2C%E9%92%B1%E5%8F%98%E6%88%90%E5%BA%9F%E7%BA%B8",
-          "source": "贴吧",
+          "title": "伊朗确定最高领袖候选人",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%80%99%E9%80%89%E4%BA%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            14,
-            18,
-            20,
-            23,
-            24,
-            26
+            6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时32分 ~ 22时32分]"
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 23时28分]"
         },
         {
           "title": "以军称空袭伊朗总统府",
@@ -241,8 +236,26 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[15时31分 ~ 22时32分]"
+          "appearance_count": 13,
+          "time_info": "[15时31分 ~ 23时28分]"
+        },
+        {
+          "title": "伊朗货币崩盘,钱变成废纸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351313&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%B4%A7%E5%B8%81%E5%B4%A9%E7%9B%98%2C%E9%92%B1%E5%8F%98%E6%88%90%E5%BA%9F%E7%BA%B8",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            14,
+            18,
+            20,
+            23,
+            24,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 30,
+          "time_info": "[00时32分 ~ 23时28分]"
         },
         {
           "title": "英德法=纸老虎,伊朗一硬就怂",
@@ -255,11 +268,12 @@
             15,
             18,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时03分 ~ 22时32分]"
+          "appearance_count": 15,
+          "time_info": "[13时03分 ~ 23时28分]"
         },
         {
           "title": "“中国要求避免攻击天然气设施”，伊朗答凤凰：部分误击",
@@ -270,8 +284,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 22时32分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 23时28分]"
         },
         {
           "title": "以军：向伊朗总统府等投下250余枚炸弹",
@@ -286,6 +300,19 @@
           "time_info": "[01时34分 ~ 08时57分]"
         },
         {
+          "title": "哈梅内伊高级助理：伊朗无意与美国谈判",
+          "url": "https://www.toutiao.com/trending/7612478619336228883/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 23时28分]"
+        },
+        {
           "title": "美以袭击伊朗进入第 5 天，当前局势如何？有哪些值得关注的信息？",
           "url": "https://www.zhihu.com/question/2012284742704260005",
           "source": "知乎",
@@ -294,8 +321,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时56分 ~ 22时32分]"
+          "appearance_count": 18,
+          "time_info": "[08时56分 ~ 23时28分]"
         },
         {
           "title": "高盛CEO所罗门：市场对伊朗反应温和令人意外，可能还需要几周时间才能真正消化",
@@ -307,8 +334,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时24分 ~ 22时32分]"
+          "appearance_count": 12,
+          "time_info": "[16时24分 ~ 23时28分]"
         },
         {
           "title": "中方要求伊朗不要封锁霍尔木兹海峡？外交部回应",
@@ -348,6 +375,19 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时32分 ~ 08时57分]"
+        },
+        {
+          "title": "伊朗确定最高领袖候选人",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%80%99%E9%80%89%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 23时28分]"
         },
         {
           "title": "美以袭击伊朗已超 80 小时，当前局势如何？有哪些值得关注的信息？",
@@ -415,11 +455,12 @@
             17,
             20,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时03分 ~ 22时32分]"
+          "appearance_count": 15,
+          "time_info": "[13时03分 ~ 23时28分]"
         },
         {
           "title": "大部分在伊朗中国公民已撤离",
@@ -477,11 +518,39 @@
             12,
             13,
             11,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 22时32分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 23时28分]"
+        },
+        {
+          "title": "伊朗局势最新情况",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            24,
+            28,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 23时28分]"
+        },
+        {
+          "title": "伊朗确定最高领袖候选人",
+          "url": "https://www.douyin.com/hot/2419021",
+          "source": "抖音",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 23时28分]"
         },
         {
           "title": "曝刚上任的伊朗代理防长遇害",
@@ -556,6 +625,24 @@
           "time_info": "[00时32分 ~ 08时57分]"
         },
         {
+          "title": "以防长威胁清除伊朗任何新最高领袖",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E9%98%B2%E9%95%BF%E5%A8%81%E8%83%81%E6%B8%85%E9%99%A4%E4%BC%8A%E6%9C%97%E4%BB%BB%E4%BD%95%E6%96%B0%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            12,
+            17,
+            16,
+            25,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[16时24分 ~ 23时28分]"
+        },
+        {
           "title": "伊朗导弹击中以色列高楼，中国工人在高空作业拍下惊魂一幕",
           "url": "https://news.ifeng.com/c/8rBxKxZAkag",
           "source": "凤凰网",
@@ -567,21 +654,33 @@
           "time_info": "[00时32分 ~ 07时15分]"
         },
         {
-          "title": "以防长威胁清除伊朗任何新最高领袖",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E9%98%B2%E9%95%BF%E5%A8%81%E8%83%81%E6%B8%85%E9%99%A4%E4%BC%8A%E6%9C%97%E4%BB%BB%E4%BD%95%E6%96%B0%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96",
-          "source": "百度热搜",
+          "title": "伊朗确定最高领袖候选人",
+          "url": "https://www.toutiao.com/trending/7613107713371373578/",
+          "source": "今日头条",
           "ranks": [
-            14,
+            19,
             13,
             12,
-            17,
-            16,
-            25,
-            24
+            15,
+            18
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[16时24分 ~ 22时32分]"
+          "time_info": "[18时23分 ~ 23时28分]"
+        },
+        {
+          "title": "伊朗：全力以赴打赢“存亡之战”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E6%89%93%E8%B5%A2%E2%80%9C%E5%AD%98%E4%BA%A1%E4%B9%8B%E6%88%98%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            14,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 23时28分]"
         },
         {
           "title": "伊朗媒体称哈梅内伊之子穆杰塔巴平安",
@@ -611,6 +710,21 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时32分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗称用导弹击中美驱逐舰",
+          "url": "https://www.toutiao.com/trending/7612269624974557247/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            15,
+            18,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 23时28分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -735,6 +849,59 @@
           "time_info": "[00时32分 ~ 08时57分]"
         },
         {
+          "title": "如何评价伊朗称击中在中东的第三套「萨德」反导系统，此前已摧毁位于阿联酋的两套？",
+          "url": "https://www.zhihu.com/question/2012441552958551235",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时21分 ~ 23时28分]"
+        },
+        {
+          "title": "伊朗军舰遭袭101人失踪78人伤",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%86%9B%E8%88%B0%E9%81%AD%E8%A2%AD101%E4%BA%BA%E5%A4%B1%E8%B8%AA78%E4%BA%BA%E4%BC%A4%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            12,
+            6,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时21分 ~ 23时28分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜美国防部首次回应伊朗小学遭袭",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时28分]"
+        },
+        {
+          "title": "伊朗确定最高领袖候选人",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%80%99%E9%80%89%E4%BA%BA%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            21,
+            22,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时21分 ~ 23时28分]"
+        },
+        {
           "title": "伊朗称已击落29架美以无人机",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E5%87%BB%E8%90%BD29%E6%9E%B6%E7%BE%8E%E4%BB%A5%E6%97%A0%E4%BA%BA%E6%9C%BA",
           "source": "百度热搜",
@@ -748,6 +915,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 04时21分]"
+        },
+        {
+          "title": "伊朗用「卡德尔 -380」等导弹击中美国驱逐舰，具体情况如何？这款导弹性能怎么样？",
+          "url": "https://www.zhihu.com/question/2012485052332802455",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时21分 ~ 23时28分]"
         },
         {
           "title": "伊朗称袭击印度洋上美军舰艇",
@@ -806,41 +985,39 @@
           "time_info": "[02时31分 ~ 07时15分]"
         },
         {
-          "title": "伊朗确定最高领袖候选人",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%80%99%E9%80%89%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "美防长：美以要一周内“完全控制”伊朗天空",
+          "url": "https://news.ifeng.com/c/8rE8htDtcfv",
+          "source": "凤凰网",
           "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时28分]"
+        },
+        {
+          "title": "凤凰独家丨伊朗反击包括美国本土吗？驻华大使回应",
+          "url": "https://news.ifeng.com/c/8rE2fVZODSF",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时46分 ~ 23时28分]"
+        },
+        {
+          "title": "伊朗确定最高领袖候选人！以色列：任何新领袖都将成为“清除目标”",
+          "url": "https://wallstreetcn.com/articles/3766716",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
             6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时32分]"
-        },
-        {
-          "title": "哈梅内伊高级助理：伊朗无意与美国谈判",
-          "url": "https://www.toutiao.com/trending/7612478619336228883/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗确定最高领袖候选人",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%80%99%E9%80%89%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时32分]"
+          "time_info": "[20时27分 ~ 23时28分]"
         },
         {
           "title": "国际原子能机构确认，伊朗纳坦兹核设施近日遭破坏，具体情况如何？",
@@ -854,47 +1031,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时31分 ~ 06时16分]"
-        },
-        {
-          "title": "伊朗局势最新情况",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            24,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗确定最高领袖候选人",
-          "url": "https://www.douyin.com/hot/2419021",
-          "source": "抖音",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗确定最高领袖候选人",
-          "url": "https://www.toutiao.com/trending/7613107713371373578/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            13,
-            12,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时32分]"
         },
         {
           "title": "伊朗称击中美军第3套“萨德”系统",
@@ -924,33 +1060,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[16时24分 ~ 21时47分]"
-        },
-        {
-          "title": "伊朗：全力以赴打赢“存亡之战”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%85%A8%E5%8A%9B%E4%BB%A5%E8%B5%B4%E6%89%93%E8%B5%A2%E2%80%9C%E5%AD%98%E4%BA%A1%E4%B9%8B%E6%88%98%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗称用导弹击中美驱逐舰",
-          "url": "https://www.toutiao.com/trending/7612269624974557247/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            15,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时32分]"
         },
         {
           "title": "伊朗：反击最初两天650名美士兵伤亡",
@@ -991,32 +1100,6 @@
           "time_info": "[08时56分 ~ 16时24分]"
         },
         {
-          "title": "如何评价伊朗称击中在中东的第三套「萨德」反导系统，此前已摧毁位于阿联酋的两套？",
-          "url": "https://www.zhihu.com/question/2012441552958551235",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时21分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗军舰遭袭101人失踪78人伤",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%86%9B%E8%88%B0%E9%81%AD%E8%A2%AD101%E4%BA%BA%E5%A4%B1%E8%B8%AA78%E4%BA%BA%E4%BC%A4%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
-            12,
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时21分 ~ 22时32分]"
-        },
-        {
           "title": "美以伊战争最新动态｜人大会议发言人回应伊朗局势",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -1026,31 +1109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时32分 ~ 15时31分]"
-        },
-        {
-          "title": "美以伊战争最新动态｜美国防部首次回应伊朗小学遭袭",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗确定最高领袖候选人",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A1%AE%E5%AE%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%80%99%E9%80%89%E4%BA%BA%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            21,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时21分 ~ 22时32分]"
         },
         {
           "title": "王毅同以外长通话：反对打击伊朗",
@@ -1075,17 +1133,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 13时03分]"
-        },
-        {
-          "title": "伊朗用「卡德尔 -380」等导弹击中美国驱逐舰，具体情况如何？这款导弹性能怎么样？",
-          "url": "https://www.zhihu.com/question/2012485052332802455",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时21分 ~ 22时32分]"
         },
         {
           "title": "伊朗称完全控制霍尔木兹海峡",
@@ -1128,29 +1175,6 @@
           "time_info": "[01时34分 ~ 07时15分]"
         },
         {
-          "title": "美防长：美以要一周内“完全控制”伊朗天空",
-          "url": "https://news.ifeng.com/c/8rE8htDtcfv",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
-        },
-        {
-          "title": "凤凰独家丨伊朗反击包括美国本土吗？驻华大使回应",
-          "url": "https://news.ifeng.com/c/8rE2fVZODSF",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时46分 ~ 22时32分]"
-        },
-        {
           "title": "伊朗局势冲击波席卷亚洲市场，韩股创金融危机来最大跌幅，日经225跌4%，泰国股市停牌",
           "url": "https://wallstreetcn.com/articles/3766668",
           "source": "华尔街见闻",
@@ -1163,16 +1187,15 @@
           "time_info": "[14时32分 ~ 15时31分]"
         },
         {
-          "title": "伊朗确定最高领袖候选人！以色列：任何新领袖都将成为“清除目标”",
-          "url": "https://wallstreetcn.com/articles/3766716",
-          "source": "华尔街见闻",
+          "title": "伊朗一军舰在斯里兰卡沿海被美军击沉",
+          "url": "https://news.ifeng.com/c/8rE9tn8cT3T",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时27分 ~ 22时32分]"
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
         },
         {
           "title": "大会发言人谈美以袭击伊朗",
@@ -1225,7 +1248,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1255,6 +1278,18 @@
           "time_info": "[14时32分 ~ 19时21分]"
         },
         {
+          "title": "伊朗：美以袭击致伊朗1045人死亡",
+          "url": "https://www.toutiao.com/trending/7612850862256390185/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时46分 ~ 23时28分]"
+        },
+        {
           "title": "伊朗护卫舰疑遭潜艇袭击 或致百死",
           "url": "https://www.toutiao.com/trending/7613285972467269651/",
           "source": "今日头条",
@@ -1267,6 +1302,45 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[18时23分 ~ 21时47分]"
+        },
+        {
+          "title": "哈梅内伊高级助理：伊朗无意与美谈判",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%AB%98%E7%BA%A7%E5%8A%A9%E7%90%86%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%97%A0%E6%84%8F%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            22,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时46分 ~ 23时28分]"
+        },
+        {
+          "title": "伊朗展开高强度连环反击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B1%95%E5%BC%80%E9%AB%98%E5%BC%BA%E5%BA%A6%E8%BF%9E%E7%8E%AF%E5%8F%8D%E5%87%BB%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时46分 ~ 23时28分]"
+        },
+        {
+          "title": "伊朗称又一所学校遭美以袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%8F%88%E4%B8%80%E6%89%80%E5%AD%A6%E6%A0%A1%E9%81%AD%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时46分 ~ 23时28分]"
         },
         {
           "title": "伊朗展开大规模反击",
@@ -1321,7 +1395,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1368,6 +1442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "土耳其外交消息人士：土方已召见伊朗驻安卡拉大使至外交部，就弹道导弹事件表达抗议和关切。",
+          "url": "https://flash.jin10.com/detail/20260304230502318800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "市场消息：伊朗方面报告称基里亚特什莫纳附近发生无人机袭击。",
@@ -1476,7 +1561,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -1558,6 +1643,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时31分 ~ 07时15分]"
+        },
+        {
+          "title": "伊朗军舰遭美潜艇袭击 至少80人死亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E8%88%B0%E9%81%AD%E7%BE%8E%E6%BD%9C%E8%89%87%E8%A2%AD%E5%87%BB+%E8%87%B3%E5%B0%9180%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时28分]"
+        },
+        {
+          "title": "伊朗玫瑰宫遭袭前后对比",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%8E%AB%E7%91%B0%E5%AE%AB%E9%81%AD%E8%A2%AD%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时28分]"
+        },
+        {
+          "title": "下任最高领袖遭“清除”威胁，伊朗还能打多久？",
+          "url": "https://news.ifeng.com/c/8rE1afW3u7s",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时28分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗已袭击超过10艘无视警告（不要通过霍尔木兹海峡）的油轮。",
@@ -1780,6 +1898,17 @@
           "time_info": "[11时19分 ~ 15时31分]"
         },
         {
+          "title": "西班牙首相：不支持美国袭击伊朗，不会因为害怕报复而成为帮凶",
+          "url": "https://news.ifeng.com/c/8rE0ccZVr2q",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时28分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：在伊朗的行动有“明确目标”，不会无休止地进行下去。",
           "url": "https://flash.jin10.com/detail/20260304054057045800",
           "source": "金十数据",
@@ -1843,15 +1972,16 @@
           "time_info": "[15时31分 ~ 18时23分]"
         },
         {
-          "title": "伊朗：美以袭击致伊朗1045人死亡",
-          "url": "https://www.toutiao.com/trending/7612850862256390185/",
-          "source": "今日头条",
+          "title": "土耳其外长就伊朗导弹进入土领空抗议",
+          "url": "https://www.baidu.com/s?wd=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A4%96%E9%95%BF%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E8%BF%9B%E5%85%A5%E5%9C%9F%E9%A2%86%E7%A9%BA%E6%8A%97%E8%AE%AE",
+          "source": "百度热搜",
           "ranks": [
+            13,
             12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时46分 ~ 22时32分]"
+          "time_info": "[22时31分 ~ 23时28分]"
         },
         {
           "title": "伊朗为遭袭小学165名遇难者办葬礼",
@@ -1880,18 +2010,6 @@
           "time_info": "[00时32分 ~ 07时15分]"
         },
         {
-          "title": "哈梅内伊高级助理：伊朗无意与美谈判",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%AB%98%E7%BA%A7%E5%8A%A9%E7%90%86%EF%BC%9A%E4%BC%8A%E6%9C%97%E6%97%A0%E6%84%8F%E4%B8%8E%E7%BE%8E%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时46分 ~ 22时32分]"
-        },
-        {
           "title": "伊朗持续发起多轮反击",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%8C%81%E7%BB%AD%E5%8F%91%E8%B5%B7%E5%A4%9A%E8%BD%AE%E5%8F%8D%E5%87%BB",
           "source": "bilibili 热搜",
@@ -1904,30 +2022,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时19分 ~ 15时31分]"
-        },
-        {
-          "title": "伊朗展开高强度连环反击",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B1%95%E5%BC%80%E9%AB%98%E5%BC%BA%E5%BA%A6%E8%BF%9E%E7%8E%AF%E5%8F%8D%E5%87%BB%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时46分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗称又一所学校遭美以袭击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%8F%88%E4%B8%80%E6%89%80%E5%AD%A6%E6%A0%A1%E9%81%AD%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时46分 ~ 22时32分]"
         },
         {
           "title": "专家表示伊朗导弹必须改打法",
@@ -1953,39 +2047,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时56分 ~ 11时19分]"
-        },
-        {
-          "title": "伊朗军舰遭美潜艇袭击 至少80人死亡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E8%88%B0%E9%81%AD%E7%BE%8E%E6%BD%9C%E8%89%87%E8%A2%AD%E5%87%BB+%E8%87%B3%E5%B0%9180%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
-        },
-        {
-          "title": "伊朗玫瑰宫遭袭前后对比",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%8E%AB%E7%91%B0%E5%AE%AB%E9%81%AD%E8%A2%AD%E5%89%8D%E5%90%8E%E5%AF%B9%E6%AF%94%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
-        },
-        {
-          "title": "下任最高领袖遭“清除”威胁，伊朗还能打多久？",
-          "url": "https://news.ifeng.com/c/8rE1afW3u7s",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗领导人可能要到下周才能选出。",
@@ -2072,17 +2133,6 @@
           "time_info": "[02时32分 ~ 03时32分]"
         },
         {
-          "title": "西班牙首相：不支持美国袭击伊朗，不会因为害怕报复而成为帮凶",
-          "url": "https://news.ifeng.com/c/8rE0ccZVr2q",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
-        },
-        {
           "title": "加拿大总理卡尼：伊朗局势体现国际体系的失败。",
           "url": "https://flash.jin10.com/detail/20260304053814533800",
           "source": "金十数据",
@@ -2152,17 +2202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时21分]"
-        },
-        {
-          "title": "土耳其外长就伊朗导弹进入土领空抗议",
-          "url": "https://www.baidu.com/s?wd=%E5%9C%9F%E8%80%B3%E5%85%B6%E5%A4%96%E9%95%BF%E5%B0%B1%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B9%E8%BF%9B%E5%85%A5%E5%9C%9F%E9%A2%86%E7%A9%BA%E6%8A%97%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "中方要求伊朗不要封锁霍尔木兹海峡？外交部：中方敦促各方维护航道安全",
@@ -2236,6 +2275,28 @@
           "time_info": "[11时19分 ~ 13时03分]"
         },
         {
+          "title": "伊朗称退役军人和老兵申请加入战斗",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E9%80%80%E5%BD%B9%E5%86%9B%E4%BA%BA%E5%92%8C%E8%80%81%E5%85%B5%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5%E6%88%98%E6%96%97",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
+        },
+        {
+          "title": "卡塔尔称伊朗一枚导弹击中美军基地",
+          "url": "https://www.toutiao.com/trending/7612197547884544006/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
+        },
+        {
           "title": "伊朗宣布击中美军驱逐舰补给舰",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%86%9B%E9%A9%B1%E9%80%90%E8%88%B0%E8%A1%A5%E7%BB%99%E8%88%B0%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -2305,6 +2366,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 13时03分]"
+        },
+        {
+          "title": "伊朗称又一所学校遭美以袭击",
+          "url": "https://www.toutiao.com/trending/7612626572457738267/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时27分 ~ 23时28分]"
         },
         {
           "title": "对伊朗打击后 美国加强对境内“潜在威胁”的监测",
@@ -2382,6 +2454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
+        },
+        {
+          "title": "中国驻伊朗大使馆：请计划向土库曼斯坦撤离的在伊朗中国公民通过萨拉赫斯口岸入境土库曼斯坦",
+          "url": "https://wallstreetcn.com/livenews/3063729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "据伊朗国家媒体报道，哈梅内伊的送别仪式将持续三天，葬礼游行将在最终确定后尽快公布。",
@@ -2665,7 +2748,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -2731,7 +2814,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -2918,7 +3001,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -2973,7 +3056,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -3028,7 +3111,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -3286,6 +3369,17 @@
           "time_info": "20时28分"
         },
         {
+          "title": "美国军方消息人士：伊朗对土耳其的导弹袭击发生在美东时间晚上11:40，目标是因吉尔利克空军基地。一艘美国海军舰艇在地中海用SM-3导弹将其击落。",
+          "url": "https://flash.jin10.com/detail/20260304225951022800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "当地时间4日12时57分，总台记者听到战机在德黑兰上空飞过，伊朗东部地区传出数次爆炸声。(央视新闻)",
           "url": "https://wallstreetcn.com/livenews/3063546",
           "source": "华尔街见闻-快讯",
@@ -3416,6 +3510,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
+        },
+        {
+          "title": "以色列国防军：自行动开始以来，已向伊朗发射超过5000枚弹药。",
+          "url": "https://flash.jin10.com/detail/20260304225415138800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美联储Kashkari：现在判断伊朗局势对美国通胀的影响还言之过早。",
@@ -3693,6 +3798,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "【美防长称美伊冲突可能持续8周甚至更长】当地时间3月4日，央视记者获悉，美国国防部长皮特·赫格塞斯表示，美国与伊朗的冲突可能持续数周，时间可能达到8周甚至更长。他称，冲突节奏将由美国方面决定，“可以是四周、六周，也可能是八周”，美方将掌控行动的速度与强度。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3063707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "伊朗遇难学生一个个墓穴让人心碎",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%81%87%E9%9A%BE%E5%AD%A6%E7%94%9F%E4%B8%80%E4%B8%AA%E4%B8%AA%E5%A2%93%E7%A9%B4%E8%AE%A9%E4%BA%BA%E5%BF%83%E7%A2%8E%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -3735,6 +3851,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
+        },
+        {
+          "title": "伊朗军方称大批退役军人和老兵申请加入战斗",
+          "url": "https://wallstreetcn.com/livenews/3063706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "以色列军方：袭击了伊朗境内一处由伊朗政权运营、用于发展核武器“必要能力”的设施。",
@@ -3894,7 +4021,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 98,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -3928,8 +4055,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时19分 ~ 22时32分]"
+          "appearance_count": 16,
+          "time_info": "[11时19分 ~ 23时28分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -3981,8 +4108,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时28分 ~ 22时32分]"
+          "appearance_count": 11,
+          "time_info": "[17时28分 ~ 23时28分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -3993,8 +4120,21 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时23分 ~ 22时32分]"
+          "appearance_count": 10,
+          "time_info": "[18时23分 ~ 23时28分]"
+        },
+        {
+          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
+          "url": "https://www.cls.cn/detail/2302897",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时46分 ~ 23时28分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -4030,18 +4170,6 @@
           "time_info": "[16时24分 ~ 17时28分]"
         },
         {
-          "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
-          "url": "https://www.cls.cn/detail/2302897",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时46分 ~ 22时32分]"
-        },
-        {
           "title": "美国总统特朗普：如果伊朗参加世界杯，我真不在乎。",
           "url": "https://flash.jin10.com/detail/20260304035531242800",
           "source": "金十数据",
@@ -4051,6 +4179,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "特朗普遣内政部长密访加拉加斯 联手临时政府重组能源版图",
+          "url": "https://flash.jin10.com/detail/20260304230521606800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -4206,6 +4345,29 @@
           "time_info": "[14时32分 ~ 15时31分]"
         },
         {
+          "title": "特朗普夫人，“翻车”了",
+          "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时28分]"
+        },
+        {
+          "title": "美称打死试图暗杀特朗普的伊朗高官",
+          "url": "https://www.toutiao.com/trending/7613391444652330559/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时28分]"
+        },
+        {
           "title": "领袖遇刺后的伊朗：有人喊报复，有人跳特朗普舞",
           "url": "https://news.ifeng.com/c/8rCTN6bsA7p",
           "source": "凤凰网",
@@ -4289,17 +4451,6 @@
           "time_info": "[04时21分 ~ 05时22分]"
         },
         {
-          "title": "特朗普夫人，“翻车”了",
-          "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
-        },
-        {
           "title": "沃什未上任已挑战重重，同僚质疑与油价飙升恐令其难圆特朗普的降息梦",
           "url": "https://wallstreetcn.com/livenews/3062944",
           "source": "华尔街见闻-快讯",
@@ -4333,17 +4484,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时32分 ~ 04时21分]"
-        },
-        {
-          "title": "美称打死试图暗杀特朗普的伊朗高官",
-          "url": "https://www.toutiao.com/trending/7613391444652330559/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "西班牙回应特朗普贸易威胁",
@@ -4462,7 +4602,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -4742,6 +4882,17 @@
           "time_info": "01时34分"
         },
         {
+          "title": "美国总统特朗普派遣内政部长前往委内瑞拉，推动石油和采矿业。",
+          "url": "https://wallstreetcn.com/livenews/3063720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "德国总理默茨：美国总统特朗普向我保证，美国将坚守驻德承诺。",
           "url": "https://flash.jin10.com/detail/20260304043615979800",
           "source": "金十数据",
@@ -4792,7 +4943,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -4971,12 +5122,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "特朗普提议废除美国联邦裁员中的“资历保护”",
+          "url": "https://wallstreetcn.com/livenews/3063704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：中东冲突加剧通胀担忧 三大股指集体收跌",
@@ -4992,6 +5154,17 @@
           "time_info": "[07时15分 ~ 16时24分]"
         },
         {
+          "title": "美国“小非农”超预期回暖，美股期指维持涨势，美油转跌，断供影响伦铝创四年新高",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时46分 ~ 23时28分]"
+        },
+        {
           "title": "战火升级点燃恐慌情绪 美股三大期指均跌超1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2301690",
           "source": "财联社热门",
@@ -5004,17 +5177,6 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时32分 ~ 11时19分]"
-        },
-        {
-          "title": "美国“小非农”超预期回暖，美股期指维持涨势，美油转跌，断供影响伦铝创四年新高",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时46分 ~ 22时32分]"
         },
         {
           "title": "市场评估特朗普“护航”计划，美股期指转涨，德股涨超1%，韩股历史性暴跌12%，油价再涨3%，白银涨5%",
@@ -5038,6 +5200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2302992",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时31分 ~ 23时28分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -5086,17 +5259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时16分]"
-        },
-        {
-          "title": "中东局势升级但市场情绪暂稳 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2302992",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
         },
         {
           "title": "周二（3月3日），在美股时段交易的费城金银指数收跌8.08%，报431.35点，美股盘初跳水、整体呈现出长尾L形走势。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌7.68%，报3053.61点，全天处于下跌状态，美股开盘之前保持微幅下跌状态——持稳于32.76点上方，随后跳空下挫，北京时间23:17刷新日低至2975点。 在美股时段交易的原材料指数收跌3.72%，金属与矿业指数收跌3.57%。",
@@ -5163,7 +5325,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -5199,12 +5361,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "全球航空业ETF涨1.71%，半导体ETF涨1.36%，全球科技股指数ETF涨1.09%，科技行业ETF涨0.93%，在美股盘初领跑行业ETF，医疗业ETF、公用事业ETF、能源业ETF至多跌0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3063711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260304224352176800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "据The Information：OpenAI正在开发微软GitHub的替代品。",
@@ -5216,6 +5400,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "OpenAI的下一款AI模型将具备“极其强大的”推理。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3063734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "CEO Altman告知OpenAI员工：军方的“行动决策”由特朗普政府说了算",
@@ -5286,6 +5481,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "据The Information：OpenAI下一个AI模型将具备极强的推理能力。",
+          "url": "https://flash.jin10.com/detail/20260304230257187800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "OpenAI：推出 GPT‑5.3 即时网站。",
           "url": "https://flash.jin10.com/detail/20260304020800832800",
           "source": "金十数据",
@@ -5320,7 +5526,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时32分"
         },
@@ -5361,8 +5567,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时56分 ~ 22时32分]"
+          "appearance_count": 18,
+          "time_info": "[08时56分 ~ 23时28分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
