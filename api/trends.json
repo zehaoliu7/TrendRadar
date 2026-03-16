@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T01:51:49.097612+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-03-17T02:43:56.540283+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "特朗普会投入地面部队吗？",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "特朗普，赚了近100亿",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "特朗普：打击哈尔克岛石油设施仍在备选方案中",
@@ -69,9 +69,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
+          "url": "https://wallstreetcn.com/articles/3767606",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "美国总统特朗普在肯尼迪中心讲话，宣称：将讨论中东问题。",
@@ -86,15 +97,17 @@
           "time_info": "[00时49分 ~ 01时51分]"
         },
         {
-          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
-          "url": "https://wallstreetcn.com/articles/3767606",
-          "source": "华尔街见闻",
+          "title": "中美就特朗普总统访华事保持着沟通",
+          "url": "https://www.toutiao.com/trending/7616995731195052086/",
+          "source": "今日头条",
           "ranks": [
+            27,
+            30,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -104,8 +117,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -115,20 +128,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
-        },
-        {
-          "title": "中美就特朗普总统访华事保持着沟通",
-          "url": "https://www.toutiao.com/trending/7616995731195052086/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "油价缩减跌幅，布伦特原油一度转涨，消息面上，特朗普再次呼吁其他国家协助重新开放霍尔木兹海峡。",
@@ -181,7 +182,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -203,7 +204,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -236,7 +237,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -258,7 +259,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -269,7 +270,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -291,7 +292,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -313,7 +314,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -324,7 +325,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -346,7 +347,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -357,7 +358,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -379,7 +380,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -401,7 +402,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -412,7 +413,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -434,7 +435,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -445,7 +446,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -456,7 +457,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -467,7 +468,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         }
@@ -475,7 +476,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 41,
       "titles": [
         {
           "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
@@ -485,8 +486,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "监控拍到伊朗导弹命中以街道瞬间",
@@ -496,8 +497,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "惠誉：伊朗战争对土耳其及土耳其银行业的冲击取决于政策应对。",
@@ -506,7 +507,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -518,8 +519,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "伊朗首次使用「泥石」弹道导弹，这款导弹的关键特性是什么？伊朗在此时将其投入实战，是基于怎样的战略考量？",
@@ -529,32 +530,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "伊朗称目前发射导弹多为10年前生产",
           "url": "https://m.thepaper.cn/newsDetail_forward_32774677",
           "source": "澎湃新闻",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
-        },
-        {
-          "title": "伊朗发起第56波打击",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E7%AC%AC56%E6%B3%A2%E6%89%93%E5%87%BB%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21,
             7,
-            14
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "霍尔木兹海峡通航船只数量首次降为零！伊朗：440公斤丰度为60%的浓缩铀被埋，暂不打算取出",
@@ -564,8 +553,22 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗发起第56波打击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E7%AC%AC56%E6%B3%A2%E6%89%93%E5%87%BB%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            7,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
@@ -575,8 +578,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "美以袭击伊朗进入第 17 天，当前局势怎样？哪些信息值得关注？",
@@ -586,8 +589,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "伊朗动用“泥石”导弹释放哪些信号",
@@ -598,8 +601,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "伊朗称逮捕500名间谍",
@@ -609,8 +612,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "经济学家：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退",
@@ -620,8 +623,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "伊朗最高领袖任命军事顾问",
@@ -632,8 +635,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗发动“真实承诺4”第55轮行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC55%E8%BD%AE%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "若伊朗局势持续紧张，中方是否担心燃料供应？外交部回应",
@@ -644,30 +659,32 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "美军称已摧毁100艘伊朗海军舰艇",
           "url": "https://www.toutiao.com/trending/7617768663625682495/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
-          "title": "伊朗发动“真实承诺4”第55轮行动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC55%E8%BD%AE%E8%A1%8C%E5%8A%A8",
-          "source": "百度热搜",
+          "title": "美总统称先解决伊朗然后是古巴",
+          "url": "https://www.toutiao.com/trending/7617790258364645382/",
+          "source": "今日头条",
           "ranks": [
+            22,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "观察｜没有硝烟的战场：美以联合突袭伊朗背后的认知战博弈",
@@ -677,19 +694,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
-        },
-        {
-          "title": "美总统称先解决伊朗然后是古巴",
-          "url": "https://www.toutiao.com/trending/7617790258364645382/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "伊朗动用“泥石”导弹 释放哪些信号",
@@ -697,11 +703,12 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         },
         {
           "title": "伊朗称打击阿布扎比美军基地",
@@ -716,13 +723,36 @@
           "time_info": "[00时48分 ~ 01时51分]"
         },
         {
+          "title": "伊朗打击美军阿联酋基地弹药库",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E9%98%BF%E8%81%94%E9%85%8B%E5%9F%BA%E5%9C%B0%E5%BC%B9%E8%8D%AF%E5%BA%93%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗战争要打多久？美白宫官员：预计不超过六周",
+          "url": "https://www.cls.cn/detail/2314354",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 02时43分]"
+        },
+        {
           "title": "伊朗新任最高领袖任命军事顾问",
           "url": "https://flash.jin10.com/detail/20260317013055768800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -733,7 +763,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -744,7 +774,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -766,7 +796,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -777,20 +807,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
         {
-          "title": "伊朗战争要打多久？美白宫官员：预计不超过六周",
-          "url": "https://www.cls.cn/detail/2314354",
-          "source": "财联社热门",
+          "title": "据以色列N12新闻：知情人士表示，伊朗外长阿拉格齐与美国特使威特科夫最近通过短信保持联系。",
+          "url": "https://flash.jin10.com/detail/20260317021829835800",
+          "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "02时43分"
         },
         {
           "title": "以色列中部遭伊朗导弹袭击，拦截碎片坠落在总理办公室附近",
@@ -804,6 +834,28 @@
           "time_info": "00时49分"
         },
         {
+          "title": "以军称空袭伊朗情报指挥中心",
+          "url": "https://wallstreetcn.com/livenews/3071089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "穆杰塔巴：伊朗前最高领袖直接任命的人员继续履职",
+          "url": "https://wallstreetcn.com/livenews/3071088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
           "title": "德国总理默茨：靠炸弹实现伊朗政权更迭不太可能成功。",
           "url": "https://flash.jin10.com/detail/20260317002322631800",
           "source": "金十数据",
@@ -815,15 +867,59 @@
           "time_info": "00时49分"
         },
         {
-          "title": "伊朗打击美军阿联酋基地弹药库",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BE%8E%E5%86%9B%E9%98%BF%E8%81%94%E9%85%8B%E5%9F%BA%E5%9C%B0%E5%BC%B9%E8%8D%AF%E5%BA%93%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
+          "title": "美以袭击已致伊朗200多名未成年人遇难",
+          "url": "https://flash.jin10.com/detail/20260317015750616800",
+          "source": "金十数据",
           "ranks": [
-            25
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "02时43分"
+        },
+        {
+          "title": "南非拒绝美方施压：不会因压力疏远伊朗",
+          "url": "https://wallstreetcn.com/livenews/3071085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗外交部：美国官员不断侮辱伊朗人，称他们为“恐怖与仇恨的民族”，无非是因为伊朗人不屈服于霸凌，并在面对对他们祖国的侵略性军事犯罪时进行自卫。",
+          "url": "https://flash.jin10.com/detail/20260317015549014800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "美以袭击已致伊朗200多名未成年人遇难",
+          "url": "https://wallstreetcn.com/livenews/3071084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗称逮捕500名间谍",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E9%80%AE%E6%8D%95500%E5%90%8D%E9%97%B4%E8%B0%8D%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         },
         {
           "title": "美银警告：市场可能低估了伊朗局势的风险",
@@ -835,6 +931,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
+        },
+        {
+          "title": "伊朗称目前发射导弹多为10年前生产",
+          "url": "https://www.toutiao.com/trending/7616976559953723430/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
+        },
+        {
+          "title": "OpenAI总裁兼联合创始人格雷格・布罗克曼：GPT-5.4年化新增净收入达到10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260317020724213800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     },
@@ -857,23 +992,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
-          "url": "https://wallstreetcn.com/articles/3767569",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 1,
       "titles": [
@@ -885,8 +1003,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 02时43分]"
         }
       ]
     }
