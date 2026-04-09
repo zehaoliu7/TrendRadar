@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T11:46:11.653164+08:00",
-  "total_titles_processed": 1060,
+  "generated_at": "2026-04-09T13:44:11.075402+08:00",
+  "total_titles_processed": 1206,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 142,
+      "match_count": 152,
       "titles": [
         {
           "title": "伊朗公布通过巴基斯坦提交给美方的十点计划核心内容",
@@ -68,6 +68,19 @@
           "time_info": "[01时56分 ~ 07时29分]"
         },
         {
+          "title": "伊朗称“十点计划”中的三项被违反 “谈判基础”已被破坏",
+          "url": "https://www.cls.cn/detail/2338520",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时32分 ~ 13时44分]"
+        },
+        {
           "title": "报道：停火期间，伊朗和阿曼将对通过霍尔木兹海峡船只收费",
           "url": "https://wallstreetcn.com/articles/3769448",
           "source": "华尔街见闻",
@@ -116,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 11时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 13时44分]"
         },
         {
           "title": "美国与伊朗停火是意在脱身中东乱局吗？两周谈判能谈出什么？",
@@ -135,19 +148,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时56分 ~ 11时46分]"
-        },
-        {
-          "title": "伊朗称“十点计划”中的三项被违反 “谈判基础”已被破坏",
-          "url": "https://www.cls.cn/detail/2338520",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时32分 ~ 11时46分]"
         },
         {
           "title": "伊朗或对以色列开展“威慑行动”",
@@ -192,11 +192,28 @@
           "ranks": [
             6,
             14,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 11时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 13时44分]"
+        },
+        {
+          "title": "一图看懂｜和伊朗打了39天，美国至少烧了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32926612",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18,
+            19,
+            14,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 13时44分]"
         },
         {
           "title": "伊朗代表：中俄坚定站在历史正确一边，对两国表示深切感谢",
@@ -222,21 +239,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时06分 ~ 08时59分]"
-        },
-        {
-          "title": "一图看懂｜和伊朗打了39天，美国至少烧了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32926612",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18,
-            19,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 11时46分]"
         },
         {
           "title": "若以持续袭击黎巴嫩伊朗或退出停火",
@@ -325,6 +327,18 @@
           "time_info": "[01时56分 ~ 07时29分]"
         },
         {
+          "title": "【早报】霍尔木兹海峡再次关闭；伊朗：3项停战条款已遭违反",
+          "url": "https://www.cls.cn/detail/2338564",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 13时44分]"
+        },
+        {
           "title": "伊朗战争丨伊朗公布霍尔木兹海峡安全航路图",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -336,18 +350,6 @@
           "time_info": "[07时28分 ~ 08时59分]"
         },
         {
-          "title": "【早报】霍尔木兹海峡再次关闭；伊朗：3项停战条款已遭违反",
-          "url": "https://www.cls.cn/detail/2338564",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 11时46分]"
-        },
-        {
           "title": "伊朗战争丨伊朗高官葬礼举行，民众挥旗反对停火",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -357,6 +359,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 11时46分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗被曝要求油轮用比特币支付海峡通行费",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "伊朗战争丨知情人士：黎巴嫩若再遭袭，伊朗将开火",
@@ -452,6 +465,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "以军战机轰炸黎巴嫩，伊朗方面称其违反停火协议，再次关闭霍尔木兹海峡，停火还能维持吗？各方还有哪些分歧？",
+          "url": "https://www.zhihu.com/question/2025471469275144593",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 13时44分]"
+        },
+        {
           "title": "白宫新闻秘书莱维特：我们尚未明确接受伊朗收取过路费的做法。",
           "url": "https://flash.jin10.com/detail/20260409015030545800",
           "source": "金十数据",
@@ -461,6 +485,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "伊朗称谈判基础已被破坏 霍尔木兹海峡已再次关闭 | 环球市场",
+          "url": "https://www.cls.cn/detail/2338574",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 13时44分]"
         },
         {
           "title": "据伊朗Press TV：霍尔木兹海峡已全面关闭，并迫使油轮返航。",
@@ -524,9 +560,48 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "伊朗称只有黎巴嫩停火才会与美会谈",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%8F%AA%E6%9C%89%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%81%9C%E7%81%AB%E6%89%8D%E4%BC%9A%E4%B8%8E%E7%BE%8E%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 13时44分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 41 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025322211435704438",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 13时44分]"
+        },
+        {
+          "title": "伊朗官方向全体人民祝贺胜利：保持团结对落实胜利成果至关重要",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32924688",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 13时44分]"
         },
         {
           "title": "伊朗最高领袖军事顾问穆赫辛·雷扎伊：我们将对以色列袭击真主党的行为进行惩罚。",
@@ -637,27 +712,15 @@
           "time_info": "[03时55分 ~ 04时31分]"
         },
         {
-          "title": "以军战机轰炸黎巴嫩，伊朗方面称其违反停火协议，再次关闭霍尔木兹海峡，停火还能维持吗？各方还有哪些分歧？",
-          "url": "https://www.zhihu.com/question/2025471469275144593",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时46分]"
-        },
-        {
-          "title": "伊朗称谈判基础已被破坏 霍尔木兹海峡已再次关闭 | 环球市场",
-          "url": "https://www.cls.cn/detail/2338574",
+          "title": "伊朗发布霍尔木兹海峡安全路线",
+          "url": "https://www.cls.cn/detail/2338587",
           "source": "财联社热门",
           "ranks": [
-            6,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时44分]"
         },
         {
           "title": "伊朗称十点计划中三项已被违反",
@@ -666,30 +729,6 @@
           "ranks": [
             11,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时46分]"
-        },
-        {
-          "title": "伊朗称只有黎巴嫩停火才会与美会谈",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%8F%AA%E6%9C%89%E9%BB%8E%E5%B7%B4%E5%AB%A9%E5%81%9C%E7%81%AB%E6%89%8D%E4%BC%9A%E4%B8%8E%E7%BE%8E%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时46分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 41 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025322211435704438",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -706,18 +745,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 06时28分]"
-        },
-        {
-          "title": "伊朗官方向全体人民祝贺胜利：保持团结对落实胜利成果至关重要",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32924688",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时46分]"
         },
         {
           "title": "伊朗公布霍尔木兹海峡安全航路图",
@@ -862,17 +889,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时55分 ~ 04时31分]"
-        },
-        {
-          "title": "伊朗发布霍尔木兹海峡安全路线",
-          "url": "https://www.cls.cn/detail/2338587",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
         },
         {
           "title": "美国副总统万斯：伊朗方面承诺将开放霍尔木兹海峡。",
@@ -1031,6 +1047,17 @@
           "time_info": "[03时55分 ~ 04时31分]"
         },
         {
+          "title": "伊朗公布霍尔木兹海峡安全航路图",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%AE%89%E5%85%A8%E8%88%AA%E8%B7%AF%E5%9B%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
+        },
+        {
           "title": "伊朗方面告知调解方，只有在黎巴嫩实现停火的情况下，伊朗才会在巴基斯坦与美国进行会谈。",
           "url": "https://flash.jin10.com/detail/20260408233956358800",
           "source": "金十数据",
@@ -1073,6 +1100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：伊朗代表团9日晚抵达伊斯兰堡",
+          "url": "https://wallstreetcn.com/livenews/3084792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "伊朗革命卫队称准备回击以色列",
@@ -1119,13 +1157,35 @@
           "time_info": "00时06分"
         },
         {
+          "title": "伊朗副议长说伊朗损失必须得到赔偿",
+          "url": "https://wallstreetcn.com/livenews/3084791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：伊朗代表团将于9日晚抵达伊斯兰堡",
+          "url": "https://flash.jin10.com/detail/20260409132412617800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "伊朗总统府高官：以色列对黎巴嫩的袭击严重威胁停火协议",
           "url": "https://wallstreetcn.com/livenews/3084747",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -1152,6 +1212,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "韩国总统李在明：伊朗战争影响可能会持续相当长时间。",
+          "url": "https://wallstreetcn.com/livenews/3084788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "以色列国防军否认袭击伊朗拉万炼油厂",
           "url": "https://flash.jin10.com/detail/20260409044324905800",
           "source": "金十数据",
@@ -1172,6 +1243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "伊朗驻巴基斯坦大使：伊朗代表团将于周四晚抵达伊斯兰堡，就伊朗提出的十点方案举行“严肃会谈”。",
+          "url": "https://flash.jin10.com/detail/20260409131510694800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "据AXIOS网站：一名美国官员表示，今天早些时候对伊朗炼油厂的攻击并非由美国或以色列实施。",
@@ -1238,6 +1320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "伊朗副议长说伊朗损失必须得到赔偿",
+          "url": "https://flash.jin10.com/detail/20260409131500875800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "以色列内阁将于周三开会，讨论伊朗停火问题。（华尔街日报）",
@@ -1436,6 +1529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时33分"
+        },
+        {
+          "title": "韩国总统李在明：伊朗战争的影响可能会持续相当长一段时间。",
+          "url": "https://flash.jin10.com/detail/20260409130837349800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "美国驻巴格达大使馆：伊朗支持的伊拉克武装团体周三在外交设施和巴格达机场附近发动了无人机袭击。",
@@ -1658,6 +1762,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "印度石油部秘书：伊朗战争凸显印度应对不利局势准备中的短板。",
+          "url": "https://flash.jin10.com/detail/20260409125710746800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
+        },
+        {
           "title": "伊朗革命卫队称准备好回击以色列",
           "url": "https://wallstreetcn.com/livenews/3084488",
           "source": "华尔街见闻-快讯",
@@ -1672,7 +1787,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 80,
       "titles": [
         {
           "title": "威胁“摧毁文明”不到12小时，特朗普接受停火两周提议，伊朗称伊美谈判10日开始",
@@ -1750,11 +1865,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时06分 ~ 11时46分]"
+          "appearance_count": 17,
+          "time_info": "[00时06分 ~ 13时44分]"
         },
         {
           "title": "美伊停火的关键斡旋者：与特朗普私交甚好的巴基斯坦陆军元帅",
@@ -1783,11 +1899,23 @@
           "url": "https://www.zhihu.com/question/2025299647992709378",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时06分 ~ 07时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时06分 ~ 13时44分]"
+        },
+        {
+          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
+          "url": "https://wallstreetcn.com/articles/3769517",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 13时44分]"
         },
         {
           "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
@@ -1801,37 +1929,28 @@
           "time_info": "[00时06分 ~ 05时33分]"
         },
         {
-          "title": "以色列袭击黎巴嫩后霍尔木兹海峡再关闭，伊朗据称将收“过路费”且限量放行，白宫称特朗普反对收费",
-          "url": "https://wallstreetcn.com/articles/3769517",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时46分]"
-        },
-        {
           "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
           "url": "https://news.ifeng.com/c/8sB098ZojvN",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时44分]"
         },
         {
           "title": "特朗普说美媒披露的10项停战条款是“假新闻”",
           "url": "https://news.ifeng.com/c/8sBBnRWw3el",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时44分]"
         },
         {
           "title": "深度特写：特朗普是如何把美国\"拖入\"伊朗战争的？",
@@ -1844,8 +1963,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时28分 ~ 11时46分]"
+          "appearance_count": 8,
+          "time_info": "[06时28分 ~ 13时44分]"
+        },
+        {
+          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
+          "url": "https://wallstreetcn.com/articles/3769534",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时44分]"
         },
         {
           "title": "美媒：石油行业抵制特朗普的伊朗和平计划",
@@ -1912,6 +2043,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
+          "url": "https://wallstreetcn.com/articles/3769486",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 13时44分]"
         },
         {
           "title": "【内塔尼亚胡：临时停火“并非战争的结束”】以色列总理内塔尼亚胡8日晚发表视频讲话称，美国总统特朗普与伊朗达成的临时停火是与以色列协调的结果。这“并非战争的结束”，而是以方所有既定目标实现过程中的一个阶段。（新华社）",
@@ -1987,6 +2130,17 @@
           "time_info": "[04时31分 ~ 05时33分]"
         },
         {
+          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
+          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时44分]"
+        },
+        {
           "title": "白宫：特朗普认为北约未通过“考验”，将与吕特讨论“退群”",
           "url": "https://wallstreetcn.com/livenews/3084549",
           "source": "华尔街见闻-快讯",
@@ -2011,6 +2165,40 @@
           "time_info": "[04时31分 ~ 05时33分]"
         },
         {
+          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
+          "url": "https://wallstreetcn.com/articles/3769503",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时44分]"
+        },
+        {
+          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2025238372327723742",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时44分]"
+        },
+        {
+          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 13时44分]"
+        },
+        {
           "title": "从惊魂到TACO--特朗普震惊世界的12小时",
           "url": "https://wallstreetcn.com/articles/3769455",
           "source": "华尔街见闻",
@@ -2023,16 +2211,15 @@
           "time_info": "[07时28分 ~ 08时59分]"
         },
         {
-          "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
-          "url": "https://wallstreetcn.com/articles/3769486",
-          "source": "华尔街见闻",
+          "title": "特朗普：所有美国舰船、飞机和军事人员将继续留在伊朗周围",
+          "url": "https://news.ifeng.com/c/8sBFKpB7gj3",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 11时46分]"
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "美国副总统万斯：伊朗人必须采取下一步行动，否则美国总统特朗普将有重返战争的选择。",
@@ -2047,37 +2234,15 @@
           "time_info": "[03时55分 ~ 04时31分]"
         },
         {
-          "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
-          "url": "https://wallstreetcn.com/articles/3769534",
-          "source": "华尔街见闻",
+          "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
+          "url": "https://www.cls.cn/detail/2338839",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
-          "title": "吹嘘伊朗乞求停火，美防长被打脸：是特朗普先退了",
-          "url": "https://news.ifeng.com/c/8sALx5qaI3W",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
-          "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
-          "url": "https://wallstreetcn.com/articles/3769503",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
+          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "白宫：特朗普将与吕特讨论退出北约事宜",
@@ -2092,17 +2257,6 @@
           "time_info": "[02时59分 ~ 03时55分]"
         },
         {
-          "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2025238372327723742",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
           "title": "【白宫：美伊首轮会谈将于11日上午在伊斯兰堡举行】美国白宫新闻秘书莱维特8日在记者会上说，美国和伊朗将于当地时间11日上午在巴基斯坦首都伊斯兰堡举行首轮会谈，美方团队将由副总统万斯、总统特朗普的特使威特科夫和女婿库什纳率领。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3084520",
           "source": "华尔街见闻-快讯",
@@ -2113,17 +2267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 03时55分]"
-        },
-        {
-          "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32927020",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
         },
         {
           "title": "白宫证实特朗普已考虑退出北约",
@@ -2209,7 +2352,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -2264,7 +2407,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -2330,7 +2473,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -2366,6 +2509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "特朗普：美军驻留伊朗，违约就“开火”，规模将前所未有",
+          "url": "https://flash.jin10.com/detail/20260409130825168800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         },
         {
           "title": "特朗普：停火“不包括”黎巴嫩和黎真主党",
@@ -2495,7 +2649,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         },
@@ -2531,12 +2685,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "WTI原油期货维持3%的涨幅，特朗普：美军将“继续驻扎在伊朗境内及其周边”，直到达成的协议得到全面遵守",
+          "url": "https://wallstreetcn.com/livenews/3084759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美伊谈判现逆转信号，美股抹平跌幅，盘后又见TACO，美股指期货大涨，油价大跳水，金银跳涨",
@@ -2562,6 +2727,30 @@
           "time_info": "[00时06分 ~ 05时33分]"
         },
         {
+          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
+          "url": "https://wallstreetcn.com/articles/3769443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 13时44分]"
+        },
+        {
+          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
+          "url": "https://www.cls.cn/detail/2338535",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 13时44分]"
+        },
+        {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
           "url": "https://www.cls.cn/detail/2338302",
           "source": "财联社热门",
@@ -2577,17 +2766,6 @@
           "time_info": "[00时06分 ~ 08时59分]"
         },
         {
-          "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创疫情来最大日跌幅",
-          "url": "https://wallstreetcn.com/articles/3769443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 11时46分]"
-        },
-        {
           "title": "美股三大指数大幅高开 纳指涨3.65%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80+%E7%BA%B3%E6%8C%87%E6%B6%A83.65%25",
           "source": "百度热搜",
@@ -2597,19 +2775,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时56分 ~ 07时29分]"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超2% 芯片股全线爆发、能源巨头重挫",
-          "url": "https://www.cls.cn/detail/2338535",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时28分 ~ 11时46分]"
         },
         {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
@@ -2693,6 +2858,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时29分]"
+        },
+        {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 13时44分]"
         },
         {
           "title": "金十图示：2026年04月08日（周三）热门中概股行情一览（美股收盘）",
@@ -2910,7 +3086,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
         }
