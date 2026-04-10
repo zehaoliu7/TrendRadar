@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T04:35:22.627313+08:00",
-  "total_titles_processed": 535,
+  "generated_at": "2026-04-11T05:24:51.776670+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "伊朗副外长：各方已达成共识，伊方十点计划将作为谈判基础",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
         },
         {
           "title": "美国代表团启程，万斯：相信谈判将取得积极成果！伊朗副外长：伊方十点计划将作为谈判基础",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
         },
         {
           "title": "美媒曝光多起疑似涉伊朗战事“内幕交易”",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
         },
         {
           "title": "美以袭击伊朗进入第 42 天，当前局势如何？哪些信息值得关注？",
@@ -48,8 +48,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
         },
         {
           "title": "系好安全带！伊朗冲突点燃油价，今晚美国CPI或创四年最大环比涨幅",
@@ -60,8 +60,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
         },
         {
           "title": "美伊谈判在即！伊斯兰堡封锁核心区严阵以待，万斯领衔美方代表团11日对阵伊朗",
@@ -72,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
         },
         {
           "title": "伊朗武装部队称随时准备开火",
@@ -83,11 +83,12 @@
             16,
             15,
             14,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
         },
         {
           "title": "伊朗议长将率团与美国谈判，美方由副总统万斯率团，谈判主要有哪些议题？最终决定权是否仍在最高领袖手中？",
@@ -97,8 +98,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗战争丨霍尔木兹海峡过去2天仍保持关闭状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 05时24分]"
         },
         {
           "title": "伊朗战争丨万斯：相信与伊朗的谈判将取得积极成果",
@@ -112,39 +124,6 @@
           "time_info": "[00时38分 ~ 00时39分]"
         },
         {
-          "title": "伊朗战争丨霍尔木兹海峡过去2天仍保持关闭状态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时35分]"
-        },
-        {
-          "title": "巴基斯坦确认伊朗议长卡利巴夫率团抵达下塌酒店",
-          "url": "https://wallstreetcn.com/livenews/3086090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "应对伊朗战争油价冲击，美能源部启动第二轮SPR借贷出借848万桶原油",
-          "url": "https://wallstreetcn.com/livenews/3086089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
           "title": "伊朗官员称霍尔木兹海峡过去两天内仍保持关闭状态",
           "url": "https://flash.jin10.com/detail/20260411020448652800",
           "source": "金十数据",
@@ -154,6 +133,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "伊朗媒体称以军停止袭击黎巴嫩首都",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E7%A7%B0%E4%BB%A5%E5%86%9B%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%A6%96%E9%83%BD",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            20,
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 05时24分]"
         },
         {
           "title": "伊朗官员：霍尔木兹海峡过去两天内仍保持关闭状态",
@@ -181,17 +174,41 @@
           "time_info": "[01时55分 ~ 03时35分]"
         },
         {
-          "title": "伊朗媒体称以军停止袭击黎巴嫩首都",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E7%A7%B0%E4%BB%A5%E5%86%9B%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB%E9%BB%8E%E5%B7%B4%E5%AB%A9%E9%A6%96%E9%83%BD",
-          "source": "百度热搜",
+          "title": "巴基斯坦确认伊朗议长卡利巴夫率团抵达下塌酒店",
+          "url": "https://wallstreetcn.com/livenews/3086090",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24,
-            20,
-            30
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
+        },
+        {
+          "title": "应对伊朗战争油价冲击，美能源部启动第二轮SPR借贷出借848万桶原油",
+          "url": "https://wallstreetcn.com/livenews/3086089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗称美以袭击伊朗近900所大中小学",
+          "url": "https://www.toutiao.com/trending/7626669880279924777/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            21,
+            25
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时54分 ~ 04时35分]"
+          "time_info": "[01时54分 ~ 05时24分]"
         },
         {
           "title": "伊朗最高领袖发慰问信哀悼其外交政策顾问",
@@ -207,16 +224,86 @@
           "time_info": "[01时55分 ~ 03时35分]"
         },
         {
-          "title": "伊朗称美以袭击伊朗近900所大中小学",
-          "url": "https://www.toutiao.com/trending/7626669880279924777/",
-          "source": "今日头条",
+          "title": "伊朗媒体称，伊朗代表团成员包括外交部长、国防委员会秘书长、央行行长及多名议员。",
+          "url": "https://flash.jin10.com/detail/20260411034714242800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时35分]"
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗谈判代表团抵达巴基斯坦",
+          "url": "https://flash.jin10.com/detail/20260411034637598800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗媒体报道称，若“先决条件得到接受”，伊美对话将启动。",
+          "url": "https://flash.jin10.com/detail/20260411034601468800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
+        },
+        {
+          "title": "据伊朗国家媒体报道，由伊朗议会议长卡利巴夫率领的伊朗代表团已在与美国举行和平会谈前夕抵达伊斯兰堡。",
+          "url": "https://flash.jin10.com/detail/20260411034532513800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
+        },
+        {
+          "title": "两名参与谈判的巴基斯坦消息人士透露，伊朗官员在巴基斯坦空军护送下抵达伊斯兰堡的努尔汗空军基地，为和平谈判做准备。",
+          "url": "https://flash.jin10.com/detail/20260411034432386800",
+          "source": "金十数据",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
+        },
+        {
+          "title": "伊朗武装部队称随时准备开火",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E7%A7%B0%E9%9A%8F%E6%97%B6%E5%87%86%E5%A4%87%E5%BC%80%E7%81%AB%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
+          "title": "巴基斯坦外交部：伊朗代表团今天抵达伊斯兰堡，将参与同美国的磋商。",
+          "url": "https://wallstreetcn.com/livenews/3086094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
         },
         {
           "title": "伊朗最高领袖对前外长遇难表示哀悼",
@@ -285,46 +372,13 @@
           "time_info": "00时39分"
         },
         {
-          "title": "伊朗媒体称，伊朗代表团成员包括外交部长、国防委员会秘书长、央行行长及多名议员。",
-          "url": "https://flash.jin10.com/detail/20260411034714242800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
           "title": "伊朗谈判代表团抵达巴基斯坦",
           "url": "https://wallstreetcn.com/livenews/3086069",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "伊朗谈判代表团抵达巴基斯坦",
-          "url": "https://flash.jin10.com/detail/20260411034637598800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "伊朗媒体报道称，若“先决条件得到接受”，伊美对话将启动。",
-          "url": "https://flash.jin10.com/detail/20260411034601468800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -340,35 +394,13 @@
           "time_info": "00时39分"
         },
         {
-          "title": "据伊朗国家媒体报道，由伊朗议会议长卡利巴夫率领的伊朗代表团已在与美国举行和平会谈前夕抵达伊斯兰堡。",
-          "url": "https://flash.jin10.com/detail/20260411034532513800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "两名参与谈判的巴基斯坦消息人士透露，伊朗官员在巴基斯坦空军护送下抵达伊斯兰堡的努尔汗空军基地，为和平谈判做准备。",
-          "url": "https://flash.jin10.com/detail/20260411034432386800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
           "title": "伊朗伊斯兰革命卫队重申停火以来未袭击任何国家",
           "url": "https://wallstreetcn.com/livenews/3086065",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -412,7 +444,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -431,8 +463,30 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
+          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
+        },
+        {
+          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
+          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
+        },
         {
           "title": "伊朗战争丨特朗普：若未达成协议，将加大对伊朗打击",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -445,28 +499,6 @@
           "time_info": "[01时54分 ~ 02时37分]"
         },
         {
-          "title": "外媒辛辣提问北约秘书长：你现在还想叫特朗普“爸爸”吗？",
-          "url": "https://news.ifeng.com/c/8sDM78iyrZJ",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
-        },
-        {
-          "title": "美媒：特朗普施压，以黎将于华盛顿开展首轮对话",
-          "url": "https://news.ifeng.com/c/8sDJxBFO6Wy",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
-        },
-        {
           "title": "泰前总理佩通坦：骗子模仿特朗普让我捐款，我差点信了",
           "url": "https://news.ifeng.com/c/8sDD7X7ONjw",
           "source": "凤凰网",
@@ -474,8 +506,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 04时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时38分 ~ 05时24分]"
         },
         {
           "title": "报道：特朗普推动芯片出口的计划或正受阻于官僚体制",
@@ -596,6 +628,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "美国总统特朗普：美国准备提振匈牙利经济。",
+          "url": "https://wallstreetcn.com/livenews/3086095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时24分"
+        },
+        {
           "title": "【特朗普：与伊朗的会谈结果将在24小时内明朗】美国总统特朗普10日接受《纽约邮报》采访时表示，与伊朗的会谈结果将在24小时内明朗。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3086016",
           "source": "华尔街见闻-快讯",
@@ -694,44 +737,48 @@
           "url": "https://flash.jin10.com/detail/20260411041025716800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260411041023502800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
         },
         {
           "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
           "url": "https://wallstreetcn.com/livenews/3086084",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
           "url": "https://flash.jin10.com/detail/20260411040442253800",
           "source": "金十数据",
           "ranks": [
-            18
+            18,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
         },
         {
           "title": "标普500指数收跌7.77点，跌幅0.11%，报6816.89点。 道琼斯工业平均指数收跌269.23点，跌幅0.56%，报47916.57点。 纳斯达克综合指数（纳指）收涨80.477点，涨幅0.35，报22902.894点。 纳斯达克100指数收涨34.251点，涨幅0.14%，报25116.338点。 费城半导体指数收涨2.31%，报8889.828点，连续三个交易日创收盘历史新高。 高盛、摩根大通、花旗集团等下周拉开美股财报季序幕之前，费城证交所KBW银行指数收跌0.69%，报165.34点。 道琼斯KBW地区银行指数收跌1.21%，报13.61点。",
@@ -740,7 +787,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         },
@@ -777,11 +824,12 @@
           "url": "https://wallstreetcn.com/livenews/3086079",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时35分 ~ 05时24分]"
         },
         {
           "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
@@ -818,7 +866,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
@@ -835,7 +883,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
         }
