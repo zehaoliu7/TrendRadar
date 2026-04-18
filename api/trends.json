@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T07:29:19.632033+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2026-04-18T09:08:15.938396+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 71,
       "titles": [
         {
           "title": "美伊磋商结束战争计划！美国考虑解冻200亿美元伊朗资产，换取伊方放弃浓缩铀！",
@@ -15,31 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
-        },
-        {
-          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
-          "url": "https://news.ifeng.com/c/8sOrmZQ0DT7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
-        },
-        {
-          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
         },
         {
           "title": "伊朗外长宣布谈判期间开放海峡 国际油价闪崩10%、纳指冲击13连涨",
@@ -48,6 +25,30 @@
           "ranks": [
             2,
             1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
+        },
+        {
+          "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
+          "url": "https://news.ifeng.com/c/8sOrmZQ0DT7",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
+        },
+        {
+          "title": "她工资腰斩，却想学开飞机去轰炸伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32985465",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -77,49 +78,40 @@
           "time_info": "[00时40分 ~ 07时29分]"
         },
         {
+          "title": "伊朗开放霍尔木兹海峡",
+          "url": "https://www.toutiao.com/trending/7628709009670881331/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
+        },
+        {
           "title": "伊朗宣布开放霍尔木兹海峡",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
         },
         {
           "title": "伊朗称停火剩余时间内，霍尔木兹海峡对所有商船完全开放，背后有何考量？双方有哪些谈判策略？",
           "url": "https://www.zhihu.com/question/2028584383469110522",
           "source": "知乎",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
-        },
-        {
-          "title": "伊朗开放霍尔木兹海峡",
-          "url": "https://www.toutiao.com/trending/7628709009670881331/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
-        },
-        {
-          "title": "伊朗：黎以停火期间开放霍尔木兹海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%BB%8E%E4%BB%A5%E5%81%9C%E7%81%AB%E6%9C%9F%E9%97%B4%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
             6,
-            13
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
         },
         {
           "title": "英媒称伊朗部署中国卫星监视美军基地，中使馆：坚决反对造谣",
@@ -135,15 +127,17 @@
           "time_info": "[00时40分 ~ 07时29分]"
         },
         {
-          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2028238414336585868",
-          "source": "知乎",
+          "title": "伊朗：黎以停火期间开放霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%BB%8E%E4%BB%A5%E5%81%9C%E7%81%AB%E6%9C%9F%E9%97%B4%E5%BC%80%E6%94%BE%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
           "ranks": [
+            6,
+            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
         },
         {
           "title": "伊朗在霍尔木兹海峡收费，为何新加坡急了？",
@@ -153,7 +147,19 @@
             18,
             17,
             16,
-            15
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 49 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028238414336585868",
+          "source": "知乎",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 10,
@@ -168,8 +174,52 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
+        },
+        {
+          "title": "【早报】伊朗开放霍尔木兹海峡；多只光通信概念股发布重要公告",
+          "url": "https://www.cls.cn/detail/2348142",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "美军：全面监视伊朗港口，海上封锁将按需维持",
+          "url": "https://news.ifeng.com/c/8sPeLr0IjwZ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "伊朗议长：绝不放弃控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8sOMvFG8cEK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "首次！美军公布对伊朗“海上封锁线”具体位置",
+          "url": "https://news.ifeng.com/c/8sPrb7yFfHA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
           "title": "伊朗外交部发言人对伊朗国家电视台表示，如果美国继续封锁霍尔木兹海峡，伊朗将采取对等措施。",
@@ -211,7 +261,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
@@ -325,6 +375,17 @@
           "time_info": "[02时39分 ~ 03时49分]"
         },
         {
+          "title": "伊朗称军舰被禁止通过霍尔木兹",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%86%9B%E8%88%B0%E8%A2%AB%E7%A6%81%E6%AD%A2%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "伊朗战争丨伊斯兰革命卫队公布霍尔木兹海峡通航规则",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -334,6 +395,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时29分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 50 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2028608066787045428",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
           "title": "美军：全面监视伊朗港口，海上封锁将按需维持",
@@ -396,6 +468,17 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
+          "title": "伊朗媒体：伊朗为霍尔木兹海峡通行设定三个条件",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32995699",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "美国中央司令部：美军仍“紧盯伊朗每一个港口”",
           "url": "https://wallstreetcn.com/livenews/3090291",
           "source": "华尔街见闻-快讯",
@@ -420,6 +503,17 @@
           "time_info": "[03时49分 ~ 04时33分]"
         },
         {
+          "title": "伊朗议长：美妄言摧毁伊朗文明已失败",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AE%AE%E9%95%BF%EF%BC%9A%E7%BE%8E%E5%A6%84%E8%A8%80%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E6%96%87%E6%98%8E%E5%B7%B2%E5%A4%B1%E8%B4%A5",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队海军指挥官：敌人在停火期间试图穿越霍尔木兹海峡，已迫使其撤退。",
           "url": "https://wallstreetcn.com/livenews/3090281",
           "source": "华尔街见闻-快讯",
@@ -430,6 +524,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时49分 ~ 04时33分]"
+        },
+        {
+          "title": "伊朗或因美继续封锁再关闭霍尔木兹",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%88%96%E5%9B%A0%E7%BE%8E%E7%BB%A7%E7%BB%AD%E5%B0%81%E9%94%81%E5%86%8D%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
           "title": "伊朗官员：有条件开放霍尔木兹海峡系伊朗主动之举",
@@ -721,7 +826,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普证实伊朗宣布开放霍尔木兹海峡",
@@ -732,8 +837,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
         },
         {
           "title": "特朗普：北约“纸老虎”离远点儿，一点用没有",
@@ -760,6 +865,19 @@
           "time_info": "[00时40分 ~ 07时29分]"
         },
         {
+          "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
+          "url": "https://wallstreetcn.com/articles/3770269",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时32分 ~ 09时08分]"
+        },
+        {
           "title": "心心念念的大房子不让造，特朗普暴怒开喷",
           "url": "https://news.ifeng.com/c/8sOn1dFNorh",
           "source": "凤凰网",
@@ -768,8 +886,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
         },
         {
           "title": "伊朗开放霍尔木兹特朗普发帖说谢谢",
@@ -795,23 +913,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
-        },
-        {
-          "title": "特朗普确认伊朗开放霍尔木兹，称海峡局势结束、美封锁将持续至达成协议，料协议“一两天内”达成",
-          "url": "https://wallstreetcn.com/articles/3770269",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时32分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗同意永不关闭霍尔木兹海峡",
@@ -823,6 +930,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时40分 ~ 05时31分]"
+        },
+        {
+          "title": "特朗普最兴奋的一天：三个细节，信息量很大",
+          "url": "https://news.ifeng.com/c/8sPvCLdNSdV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "据AXIOS：特朗普发帖称对黎巴嫩的袭击是“被禁止的”，这一表态震惊了以色列总理内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20260418040259599800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时33分 ~ 09时08分]"
         },
         {
           "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
@@ -837,18 +968,6 @@
           "time_info": "[00时40分 ~ 02时39分]"
         },
         {
-          "title": "据AXIOS：特朗普发帖称对黎巴嫩的袭击是“被禁止的”，这一表态震惊了以色列总理内塔尼亚胡。",
-          "url": "https://flash.jin10.com/detail/20260418040259599800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时33分 ~ 07时29分]"
-        },
-        {
           "title": "伊朗议长：绝不放弃控制霍尔木兹海峡 特朗普妄言摧毁伊朗文明已失败",
           "url": "https://flash.jin10.com/detail/20260418035418019800",
           "source": "金十数据",
@@ -861,70 +980,28 @@
           "time_info": "[04时33分 ~ 07时29分]"
         },
         {
-          "title": "特朗普称很快发布第一批UFO文件",
-          "url": "https://wallstreetcn.com/livenews/3090367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
           "title": "特朗普认为美伊之间显著分歧不多",
           "url": "https://news.ifeng.com/c/8sOMvFG8cEL",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
         },
         {
-          "title": "美国总统特朗普：某天，将把旗插在火星上。",
-          "url": "https://wallstreetcn.com/livenews/3090365",
+          "title": "美国总统特朗普重申：不会有金钱交易（不会解冻伊朗的资金）。",
+          "url": "https://wallstreetcn.com/livenews/3090356",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1,
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "伊朗议长卡利巴夫：特朗普1小时内发布7项声明，“均不属实”",
-          "url": "https://wallstreetcn.com/livenews/3090364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美国总统特朗普：已经指示战争部长海格塞斯公布不明飞行物（UFO）文件。 文件发布的程序将很快启动。",
-          "url": "https://wallstreetcn.com/livenews/3090363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美国总统特朗普赞赏油价下跌。",
-          "url": "https://wallstreetcn.com/livenews/3090361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时08分]"
         },
         {
           "title": "美国总统特朗普：已经进行了一些非常不错的讨论。 会谈将在本周末继续推进。 与伊朗、黎巴嫩的对话将继续进行。 并不认为与伊朗有太多的分歧。 一旦签署协议，就解除（针对霍尔木兹海峡的）军事封锁。",
@@ -940,28 +1017,17 @@
           "time_info": "[05时31分 ~ 07时29分]"
         },
         {
-          "title": "美国总统特朗普重申：不会有金钱交易（不会解冻伊朗的资金）。",
-          "url": "https://wallstreetcn.com/livenews/3090356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时29分]"
-        },
-        {
           "title": "美国总统特朗普重申：伊朗方面表示霍尔木兹海峡开放。 （针对霍尔木兹海峡的）海上封锁将继续全面实施，直至与伊朗的交易达成。 与伊朗相关的大部分要点已经达成一致意见。 伊朗问题进程将很快。",
           "url": "https://wallstreetcn.com/livenews/3090354",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时29分]"
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时08分]"
         },
         {
           "title": "美国总统特朗普声称：我们将赢得中期选举。",
@@ -969,11 +1035,48 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            12
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时26分 ~ 09时08分]"
+        },
+        {
+          "title": "特朗普称很快发布第一批UFO文件",
+          "url": "https://wallstreetcn.com/livenews/3090367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时29分]"
+          "time_info": "[07时29分 ~ 09时08分]"
+        },
+        {
+          "title": "美国总统特朗普：某天，将把旗插在火星上。",
+          "url": "https://wallstreetcn.com/livenews/3090365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时08分]"
+        },
+        {
+          "title": "伊朗议长卡利巴夫：特朗普1小时内发布7项声明，“均不属实”",
+          "url": "https://wallstreetcn.com/livenews/3090364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时08分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹，称海上封锁将持续至达成协议，料协议“一两天内”达成",
@@ -1000,6 +1103,18 @@
           "time_info": "[04时33分 ~ 05时31分]"
         },
         {
+          "title": "美国总统特朗普：已经指示战争部长海格塞斯公布不明飞行物（UFO）文件。 文件发布的程序将很快启动。",
+          "url": "https://wallstreetcn.com/livenews/3090363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时08分]"
+        },
+        {
           "title": "特朗普认为美伊之间显著分歧不多",
           "url": "https://wallstreetcn.com/livenews/3090351",
           "source": "华尔街见闻-快讯",
@@ -1012,6 +1127,30 @@
           "time_info": "[06时26分 ~ 07时29分]"
         },
         {
+          "title": "美国总统特朗普赞赏油价下跌。",
+          "url": "https://wallstreetcn.com/livenews/3090361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时08分]"
+        },
+        {
+          "title": "美媒：特朗普称以色列“禁止”轰炸黎巴嫩 以色列寻求澄清",
+          "url": "https://flash.jin10.com/detail/20260418040911468800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 09时08分]"
+        },
+        {
           "title": "市场消息：精神航空（Spirit Airlines）因油价飙升威胁复苏，寻求美国政府援助。精神航空已向特朗普政府申请数亿美元的紧急资金支持。",
           "url": "https://flash.jin10.com/detail/20260418034616824800",
           "source": "金十数据",
@@ -1022,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时33分 ~ 07时29分]"
+        },
+        {
+          "title": "伊朗：特朗普7项声明“均不属实”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE7%E9%A1%B9%E5%A3%B0%E6%98%8E%E2%80%9C%E5%9D%87%E4%B8%8D%E5%B1%9E%E5%AE%9E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 09时08分]"
         },
         {
           "title": "美国总统特朗普声称，他认为自己可以相信伊朗人。 特使Witkoff、库什纳将参与（下次的）谈判，副总统万斯可能也会前往。（ABC新闻）",
@@ -1037,15 +1187,26 @@
           "time_info": "[05时31分 ~ 07时29分]"
         },
         {
-          "title": "美媒：特朗普称以色列“禁止”轰炸黎巴嫩 以色列寻求澄清",
-          "url": "https://flash.jin10.com/detail/20260418040911468800",
-          "source": "金十数据",
+          "title": "伊朗战争丨特朗普连发7项声明，伊朗议长：一个不真",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            10
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时29分]"
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "特朗普：以色列，适可而止",
+          "url": "https://news.ifeng.com/c/8sPsxH8Oocr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
         },
         {
           "title": "特朗普确认伊朗开放霍尔木兹海峡，称海上封锁将持续至敲定协议，美媒称美伊或周日会谈",
@@ -1095,6 +1256,17 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
+          "title": "特朗普：美伊有望一两天内达成协议",
+          "url": "https://www.toutiao.com/trending/7629877421935742514/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "美国总统特朗普声称：美国与伊朗将在本周末会谈。 清除伊朗浓缩铀不会动用地面部队。 伊朗的浓缩铀将被带到美国。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3090284",
           "source": "华尔街见闻-快讯",
@@ -1118,17 +1290,6 @@
           "time_info": "[04时32分 ~ 04时33分]"
         },
         {
-          "title": "伊朗：特朗普7项声明“均不属实”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE7%E9%A1%B9%E5%A3%B0%E6%98%8E%E2%80%9C%E5%9D%87%E4%B8%8D%E5%B1%9E%E5%AE%9E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
           "title": "特朗普：伊朗将暂停核计划，且不会获得被冻结的资金",
           "url": "https://wallstreetcn.com/livenews/3090221",
           "source": "华尔街见闻-快讯",
@@ -1149,6 +1310,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时39分"
+        },
+        {
+          "title": "特朗普：将很快发布第一批UFO文件",
+          "url": "https://flash.jin10.com/detail/20260418080511974800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "特朗普：确认伊朗开放霍尔木兹海峡，海上封锁将持续至“交易”完成",
@@ -1182,6 +1354,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
+        },
+        {
+          "title": "伊朗议长：特朗普7项社媒声明“均不属实”",
+          "url": "https://flash.jin10.com/detail/20260418080151248800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         },
         {
           "title": "【特朗普：美伊谈判预计周末举行，有望“一两天内”达成协议】美国总统特朗普表示，美伊谈判预计将于本周末举行，并称双方“可能在一两天内达成协议”。 特朗普在电话采访中表示，伊朗“希望会面并达成协议”，对谈判进展持乐观态度。同时，他强调在协议正式达成前，不会解除对伊朗的海上封锁，但希望霍尔木兹海峡对所有国家开放。 据了解，尽管双方谈判已取得显著进展，但在关键问题上仍存在分歧，包括伊朗核浓缩暂停期限及浓缩铀库存处理方式。协议讨论内容还包括，美国可能解冻约200亿美元伊朗资产，以换取其放弃高浓铀储备。 此外，特朗普表示，该协议将“让以色列更安全”，并要求以色列停止对黎巴嫩的军事打击。 伊朗方面目前对此暂无回应。（央视）",
@@ -1253,7 +1436,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
@@ -1285,11 +1468,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时40分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 09时08分]"
         },
         {
           "title": "美股收盘：三大股指均涨超1% 纳指13连涨续创新高",
@@ -1297,33 +1481,48 @@
           "source": "金十数据",
           "ranks": [
             3,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时33分 ~ 07时29分]"
+          "appearance_count": 5,
+          "time_info": "[04时33分 ~ 09时08分]"
+        },
+        {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时29分 ~ 09时08分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260418040730604800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时29分]"
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 09时08分]"
         },
         {
           "title": "金十图示：2026年04月17日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260418040536470800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 07时29分]"
+          "appearance_count": 4,
+          "time_info": "[05时31分 ~ 09时08分]"
         },
         {
           "title": "周五（4月17日）纽约尾盘，ICE美元指数涨0.01%，报98.227点，北京时间16:00之前大致持平、之后呈现出V形反转，本周累计下跌0.43%，周二北京时间24:00之前持续下挫，随后持续交投于98.200点附近。 彭博美元指数跌0.06%，报1192.87点，20:00以来也呈现出V形走势，本周累跌0.49%。 美元兑日元跌0.34%，报158.63日元，本周累计下跌0.40%，整体交投区间为159.86-157.50日元，周五美股开盘前后显著下挫。",
@@ -1336,6 +1535,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时29分]"
+        },
+        {
+          "title": "周五（4月17日），美股存储芯片与硬件供应链指数收涨1.90%，报139.09点，本周累计上涨5.94%。 周五当天，成分股Rambus收涨5.75%，泰瑞达TER涨3.95%，希捷科技涨3%，西部数据、拉姆研究至少涨2.54%，应用材料涨1.81%，SanDisk涨0.17%，美光科技跌0.47%。 信息科技指数涨1.21%，报323.02点，本周累涨10.44%，整体平滑地持续走高。 人工智能（AI）赢家指数涨1.34%，报340.68点，本周累涨8.26%。 AI软件先驱指数涨0.70%，报97.60点，本周累涨15.83%。",
+          "url": "https://wallstreetcn.com/livenews/3090359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时08分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨3%，苹果涨约2.6%",
+          "url": "https://wallstreetcn.com/livenews/3090358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 09时08分]"
         },
         {
           "title": "Cal-Maine美股盘后跌4%。",
@@ -1362,6 +1585,28 @@
           "time_info": "[05时31分 ~ 06时26分]"
         },
         {
+          "title": "美股收盘纳指13连涨 国际油价现闪崩",
+          "url": "https://www.toutiao.com/trending/7629874724926918180/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "美股收盘：纳指13连涨续创新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%8713%E8%BF%9E%E6%B6%A8%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
           "title": "欧洲航运股马士基哥本哈根股价收跌2.83%，北京时间21:00前后加速下跌，本周累计下跌3.44%，周五美股开盘之前不久加速下跌。 赫伯罗特德国法兰克福股价收涨2.20%，本周累涨2.90%。 德迅国际瑞士股价收涨0.65%，美股开盘前后出现一波V形反转行情，本周累涨",
           "url": "https://wallstreetcn.com/livenews/3090273",
           "source": "华尔街见闻-快讯",
@@ -1373,28 +1618,6 @@
           "time_info": "02时39分"
         },
         {
-          "title": "周五（4月17日），美股存储芯片与硬件供应链指数收涨1.90%，报139.09点，本周累计上涨5.94%。 周五当天，成分股Rambus收涨5.75%，泰瑞达TER涨3.95%，希捷科技涨3%，西部数据、拉姆研究至少涨2.54%，应用材料涨1.81%，SanDisk涨0.17%，美光科技跌0.47%。 信息科技指数涨1.21%，报323.02点，本周累涨10.44%，整体平滑地持续走高。 人工智能（AI）赢家指数涨1.34%，报340.68点，本周累涨8.26%。 AI软件先驱指数涨0.70%，报97.60点，本周累涨15.83%。",
-          "url": "https://wallstreetcn.com/livenews/3090359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨3%，苹果涨约2.6%",
-          "url": "https://wallstreetcn.com/livenews/3090358",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
-        },
-        {
           "title": "周五（4月17日），韩元兑美元最终涨1.32%，报1460.28韩元，北京时间20:47出现一波加速上涨行情。 本周，韩元累涨1.54%，周一至周四维持微幅上涨状态——大致持稳于1480韩元上方，周五美股开盘前后加速走高。",
           "url": "https://wallstreetcn.com/livenews/3090271",
           "source": "华尔街见闻-快讯",
@@ -1404,17 +1627,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        },
-        {
-          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
-          "url": "https://www.cls.cn/detail/2348129",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时29分"
         },
         {
           "title": "金十图示：2026年04月17日（周五）美股热门股票行情一览（美股盘中）",
