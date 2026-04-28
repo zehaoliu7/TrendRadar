@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-28T16:02:22.802615+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-04-28T18:12:12.269348+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
@@ -35,6 +35,18 @@
           "time_info": "[00时16分 ~ 16时02分]"
         },
         {
+          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
+          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 18时12分]"
+        },
+        {
           "title": "美国以涉伊朗为由制裁中企 中方表态",
           "url": "https://www.toutiao.com/trending/7632821618738167818/",
           "source": "今日头条",
@@ -51,6 +63,19 @@
           "time_info": "[00时16分 ~ 07时41分]"
         },
         {
+          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
+          "url": "https://wallstreetcn.com/articles/3771035",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 18时12分]"
+        },
+        {
           "title": "伊朗外长：美方请求谈判 伊方正考虑",
           "url": "https://www.toutiao.com/trending/7633444247001189938/",
           "source": "今日头条",
@@ -63,16 +88,16 @@
           "time_info": "[00时16分 ~ 09时27分]"
         },
         {
-          "title": "伊朗代表：美国“如同海盗和恐怖分子”",
-          "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
-          "source": "凤凰网",
+          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032226305366647567",
+          "source": "知乎",
           "ranks": [
-            3,
-            2
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时02分]"
+          "appearance_count": 8,
+          "time_info": "[07时41分 ~ 18时12分]"
         },
         {
           "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
@@ -99,18 +124,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时16分 ~ 07时41分]"
-        },
-        {
-          "title": "伊朗外长称美方请求谈判、伊方正考虑，美国务卿称伊重开霍尔木兹提议不可接受",
-          "url": "https://wallstreetcn.com/articles/3771035",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 16时02分]"
         },
         {
           "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
@@ -163,16 +176,29 @@
           "time_info": "[13时18分 ~ 13时19分]"
         },
         {
-          "title": "美以袭击伊朗进入第 60 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032226305366647567",
-          "source": "知乎",
+          "title": "伊朗“蚊子舰队”如何控制海峡",
+          "url": "https://www.toutiao.com/trending/7632881081640976430/",
+          "source": "今日头条",
           "ranks": [
-            6,
-            11
+            13,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时41分 ~ 16时02分]"
+          "time_info": "[13时18分 ~ 18时12分]"
+        },
+        {
+          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
+          "url": "https://www.toutiao.com/trending/7632898398869474879/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 18时12分]"
         },
         {
           "title": "美驱逐舰拦截一艘驶往伊朗港口油轮",
@@ -291,29 +317,6 @@
           "time_info": "[07时41分 ~ 09时27分]"
         },
         {
-          "title": "伊朗“蚊子舰队”如何控制海峡",
-          "url": "https://www.toutiao.com/trending/7632881081640976430/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时02分]"
-        },
-        {
-          "title": "普京：全世界都钦佩伊朗人民抵抗美国",
-          "url": "https://www.toutiao.com/trending/7632898398869474879/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时02分]"
-        },
-        {
           "title": "普京会见伊朗外长阿拉格齐",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%BC%9A%E8%A7%81%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%98%BF%E6%8B%89%E6%A0%BC%E9%BD%90",
           "source": "百度热搜",
@@ -427,6 +430,17 @@
           "time_info": "[04时47分 ~ 05时43分]"
         },
         {
+          "title": "伊朗称在间谍活动基地发现“星链”",
+          "url": "https://www.toutiao.com/trending/7633725221346328627/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
+        },
+        {
           "title": "MSCI新兴市场股票指数收涨1.2%，突破美国与以色列发动伊朗战争之前出现的顶部，台积电、SK海力士等亚洲半导体概念股贡献突出。 MSCI新兴市场外汇指数涨0.3%，马来西亚林吉特、泰国泰铢、以色列谢克尔等货币涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3095250",
           "source": "华尔街见闻-快讯",
@@ -437,6 +451,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时41分]"
+        },
+        {
+          "title": "伊朗储油能力即将达到极限 减产或永久性损害油田产能",
+          "url": "https://www.cls.cn/detail/2357977",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
           "title": "美国国会预算办公室：伊朗战争对能源价格的影响正在抵消2025年减税政策对经济的提振作用",
@@ -475,6 +500,17 @@
           "time_info": "[04时47分 ~ 05时43分]"
         },
         {
+          "title": "伊朗三阶段和平建议讨论之时，贝森特称伊朗石油工业即将崩溃，储油罐爆满、汽油短缺将出现，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2032385595960451834",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
+        },
+        {
           "title": "美以袭击致伊朗医疗教育设施严重受损",
           "url": "https://www.toutiao.com/trending/7633415236166565931/",
           "source": "今日头条",
@@ -484,6 +520,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时18分 ~ 13时19分]"
+        },
+        {
+          "title": "伊朗蚊子舰队令美军头疼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%9A%8A%E5%AD%90%E8%88%B0%E9%98%9F%E4%BB%A4%E7%BE%8E%E5%86%9B%E5%A4%B4%E7%96%BC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
           "title": "伊朗边见普京边提方案 美闭门研判",
@@ -690,7 +737,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -778,7 +825,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -814,6 +861,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "伊朗国防部：美国必须停止其“非法要求”",
+          "url": "https://wallstreetcn.com/livenews/3095622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
@@ -858,6 +916,19 @@
           "time_info": "[00时16分 ~ 09时27分]"
         },
         {
+          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
+          "url": "https://www.cls.cn/detail/2357692",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 18时12分]"
+        },
+        {
           "title": "白宫遭枪击,特朗普紧急撤离",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353736&amp;topic_name=%E7%99%BD%E5%AE%AB%E9%81%AD%E6%9E%AA%E5%87%BB%2C%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB",
           "source": "贴吧",
@@ -881,16 +952,16 @@
           "time_info": "[09时27分 ~ 13时19分]"
         },
         {
-          "title": "美伊分歧难弥合！美官员：特朗普“不喜欢”伊朗新提案 核问题须优先解决",
-          "url": "https://www.cls.cn/detail/2357692",
-          "source": "财联社热门",
+          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            4
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时02分]"
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 18时12分]"
         },
         {
           "title": "特朗普与幕僚讨论伊朗提案：不直接拒绝，但心存疑虑",
@@ -915,16 +986,15 @@
           "time_info": "09时27分"
         },
         {
-          "title": "特朗普为什么出现在了这场他拒绝了15年的Party上？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33062114",
-          "source": "澎湃新闻",
+          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            18
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时27分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 18时12分]"
         },
         {
           "title": "英国国王查尔斯三世抵达白宫，即将会见总统特朗普。",
@@ -1000,6 +1070,17 @@
           "time_info": "[06时38分 ~ 07时41分]"
         },
         {
+          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
+          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 18时12分]"
+        },
+        {
           "title": "伊朗战争丨特朗普及其国安团队开会讨论伊朗新提案",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -1024,17 +1105,6 @@
           "time_info": "[04时47分 ~ 06时38分]"
         },
         {
-          "title": "伊朗战争丨与特朗普说法不同，鲁比奥称伊朗仍有半数导弹库存",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
-        },
-        {
           "title": "特朗普取消更多风能租赁项目以刺激油气投资",
           "url": "https://flash.jin10.com/detail/20260428052935112800",
           "source": "金十数据",
@@ -1045,17 +1115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时41分]"
-        },
-        {
-          "title": "特朗普与梅拉尼娅在白宫迎接英王夫妇",
-          "url": "https://news.ifeng.com/c/8sgnalbK6o8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
         },
         {
           "title": "为何万斯比特朗普更早撤离？华盛顿晚宴枪击事件安保问题受审视",
@@ -1489,7 +1548,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
@@ -1614,6 +1673,28 @@
           "time_info": "[04时47分 ~ 05时43分]"
         },
         {
+          "title": "Spotify第一季度营收45.3亿欧元，预估45.3亿欧元。 第一季度营业利润7.15亿欧元，同比增长40%。 第一季度每股收益3.45欧元，上年同期1.07欧元。 第一季度月活跃用户数7.61亿，预估7.5923亿。 Spotify预计第二季度营收48.0亿欧元，市场预估47.7亿欧元。 Spotify预计第二季度营业利润6.3亿欧元，市场预估6.743亿欧元。 Spotify预计第二季度毛利率33.1%，市场预估33.1%。 Spotify美股盘前跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3095661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "联合包裹第一季度营收212亿美元，预估209.9亿美元。 第一季度调整后每股收益1.07美元，预估1.03美元。 联合包裹仍预计全年营收约897亿美元，市场预估897.1亿美元。 联合包裹美股盘前跌近3%。",
+          "url": "https://wallstreetcn.com/livenews/3095658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
           "title": "分析师：警惕美股财报与乐观预期出现裂痕",
           "url": "https://flash.jin10.com/detail/20260428063804351800",
           "source": "金十数据",
@@ -1628,7 +1709,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -1699,6 +1780,18 @@
           "time_info": "09时27分"
         },
         {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 18时12分]"
+        },
+        {
           "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云的算力资源？",
           "url": "https://www.zhihu.com/question/2031729357580919027",
           "source": "知乎",
@@ -1710,15 +1803,15 @@
           "time_info": "[13时18分 ~ 13时19分]"
         },
         {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
+          "title": "DeepSeekV4百万上下文有多强",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87%E6%9C%89%E5%A4%9A%E5%BC%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "time_info": "[18时11分 ~ 18时12分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -1730,6 +1823,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2357129",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 09时27分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
+          "url": "https://flash.jin10.com/detail/20260428054512315800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时41分]"
+        },
+        {
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 18时12分]"
+        },
+        {
+          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3095321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时27分"
         }
       ]
     },
@@ -1784,50 +1932,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "费城半导体指数挑战19连涨 OpenAI“自研手机”消息震动市场 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2357129",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 09时27分]"
-        },
-        {
-          "title": "OpenAI：ChatGPT企业版和API平台已获得FedRAMP 20X中等级别授权。美国联邦机构现在可以在我们的FedRAMP环境中访问我们最强大的模型，包括GPT‑5.5。美国联邦机构很快可以通过 FedRAMP ChatGPT企业工作区访问他们的Codex云环境，并利用Codex应用。",
-          "url": "https://flash.jin10.com/detail/20260428054512315800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时41分]"
-        },
-        {
-          "title": "OpenAI未能实现2025年ChatGPT营收目标，也未能实现到2025年底，周活跃用户达到10亿的目标。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3095321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时27分"
         }
       ]
     },
