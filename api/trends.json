@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T16:17:02.026745+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-05-12T19:28:45.979265+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 72,
       "titles": [
         {
           "title": "外交部介绍特朗普访华安排和中方期待",
@@ -112,11 +112,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时30分 ~ 16时17分]"
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 19时28分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排和中方期待",
@@ -141,6 +142,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时23分 ~ 07时45分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时44分 ~ 19时28分]"
         },
         {
           "title": "特朗普：中国是一个令人惊叹的国家",
@@ -168,20 +183,6 @@
           "time_info": "[07时44分 ~ 16时17分]"
         },
         {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时44分 ~ 16时17分]"
-        },
-        {
           "title": "特朗普政府请求法院暂停执行针对10%全球关税的裁决",
           "url": "https://flash.jin10.com/detail/20260512071238628800",
           "source": "金十数据",
@@ -202,6 +203,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "美国总统特朗普：伊朗现在的领导层中有温和派，他们急切地想达成协议。然后还有一群疯子，这群疯子们想战斗到底。",
@@ -244,11 +256,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 19时28分]"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -256,11 +269,24 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 19时28分]"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时27分 ~ 16时17分]"
+          "time_info": "[16时16分 ~ 19时28分]"
         },
         {
           "title": "特朗普访华传递了哪些信号",
@@ -284,17 +310,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 03时23分]"
-        },
-        {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
         },
         {
           "title": "特朗普称访华行程将非常精彩",
@@ -372,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
+        },
+        {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "美国总统特朗普：伊朗强硬派领导人早晚会屈服，我将与他们继续“周旋”，直到他们愿意跟我达成协议。",
@@ -537,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "受邀陪特朗普访华的企业与华有何渊源",
+          "url": "https://www.toutiao.com/trending/7638696162195308570/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "多个团体就特朗普政府可能削减住房项目发出警告",
@@ -779,12 +816,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
+        },
+        {
+          "title": "美国总统特朗普：失败的《纽约时报》，这是世界上最糟糕的报纸之一，订阅量每小时都在流失。",
+          "url": "https://flash.jin10.com/detail/20260512184945160800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -821,6 +869,17 @@
           "time_info": "[01时15分 ~ 09时31分]"
         },
         {
+          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 19时28分]"
+        },
+        {
           "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
           "url": "https://news.ifeng.com/c/8t46R4Ygpuq",
           "source": "凤凰网",
@@ -832,15 +891,16 @@
           "time_info": "[16时16分 ~ 16时17分]"
         },
         {
-          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
-          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
-          "source": "凤凰网",
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
           "ranks": [
-            3
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时16分 ~ 19时28分]"
         },
         {
           "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
@@ -876,13 +936,24 @@
           "time_info": "03时23分"
         },
         {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "外交部：伊朗局势当务之急是全力避免战端重启",
           "url": "https://wallstreetcn.com/livenews/3102122",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -947,17 +1018,6 @@
           "time_info": "[03时23分 ~ 05时07分]"
         },
         {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2368816",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时16分 ~ 16时17分]"
-        },
-        {
           "title": "据伊拉克媒体：消息人士称，伊朗已指示有意加入伊拉克新内阁的各派武装，不得上缴自身武器。",
           "url": "https://flash.jin10.com/detail/20260512005141258800",
           "source": "金十数据",
@@ -975,7 +1035,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -1000,6 +1060,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "美国原油涨向99美元，报道称阿联酋军事袭击伊朗炼油厂等目标",
@@ -1030,9 +1101,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗谈判团队表示，现在很多西方媒体的报道纯属“心理战”。",
@@ -1206,9 +1288,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
+        },
+        {
+          "title": "伊朗石油储能“见顶”了吗",
+          "url": "https://www.toutiao.com/trending/7638900741667881003/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：一位接近伊朗谈判团队的消息人士表示，伊朗在其提案中为解冻被冻结资金设定了明确期限。美国在其提案中写道将解冻伊朗被冻结的资金，但伊朗强调这些资金必须在特定期限内解冻。",
@@ -1228,7 +1321,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
@@ -1236,7 +1329,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -1247,8 +1340,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时43分 ~ 16时17分]"
+          "appearance_count": 10,
+          "time_info": "[06时43分 ~ 19时28分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -1295,8 +1388,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时27分 ~ 16时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时27分 ~ 19时28分]"
         },
         {
           "title": "GitLab美股盘后跌7%，该公司计划裁员。",
@@ -1391,6 +1484,17 @@
           "time_info": "05时07分"
         },
         {
+          "title": "安徳玛第四财季净营收11.7亿美元，同比下降0.8%，预估11.7亿美元。 第四财季每股亏损0.10美元，上年同期每股亏损0.16美元。 第四财季经营亏损3,370万美元，上年同期亏损7,210万美元，预估亏损1,740万美元。 安徳玛预计2027财年调整后每股收益0.080美元至0.12美元；预计2027财年经营利润9,600万美元至1.16亿美元。 安德玛美股盘前跌超12%。",
+          "url": "https://wallstreetcn.com/livenews/3102260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "金十图示：2026年05月11日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260512040533688800",
           "source": "金十数据",
@@ -1460,7 +1564,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI CEO Sam Altman：说到那些对我而言已经跨过某个临界点的东西，新版ChatGPT模型、个性风格以及个性化的组合，现在感觉已经像是一种全新的东西了。",
@@ -1472,6 +1576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "OpenAI表示将把“受信访问计划”扩展至数十家欧洲企业。",
+          "url": "https://flash.jin10.com/detail/20260512190210795800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "OpenAI：推出面向网络防御人员的前沿人工智能Daybreak。Daybreak整合了OpenAI最强大的模型、Codex以及我们的安全合作伙伴，以加速网络防御并持续保障软件安全。",
