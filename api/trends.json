@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-20T13:55:47.341227+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2026-05-20T16:49:09.836451+08:00",
+  "total_titles_processed": 1149,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
+          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时32分 ~ 16时49分]"
+        },
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
           "url": "https://wallstreetcn.com/articles/3772569",
@@ -19,17 +32,17 @@
           "time_info": "[01时32分 ~ 07时52分]"
         },
         {
-          "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
-          "url": "https://v.ifeng.com/c/8tGCnsxL5HM",
-          "source": "凤凰网",
+          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
+          "url": "https://www.cls.cn/detail/2376144",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            5,
-            4
+            7,
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时32分 ~ 13时55分]"
+          "appearance_count": 4,
+          "time_info": "[09时55分 ~ 16时49分]"
         },
         {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
@@ -74,18 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
-          "url": "https://www.cls.cn/detail/2376144",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时55分 ~ 13时55分]"
         },
         {
           "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
@@ -160,6 +161,17 @@
           "time_info": "06时55分"
         },
         {
+          "title": "据以色列媒体：特朗普与内塔尼亚胡昨晚通电话，通话被形容为“漫长且紧张”。",
+          "url": "https://flash.jin10.com/detail/20260520164146710800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "科学家弃用最糟气候情景预测，引发特朗普发文嘲讽",
           "url": "https://wallstreetcn.com/livenews/3106241",
           "source": "华尔街见闻-快讯",
@@ -177,7 +189,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -391,6 +403,17 @@
           "time_info": "09时55分"
         },
         {
+          "title": "一场疯狂的“金融逼宫”？“债券义警”集体暴动，欲逼特朗普妥协",
+          "url": "https://flash.jin10.com/detail/20260520163103934800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "美国副总统万斯：刚刚与总统特朗普讨论了伊朗问题。 （美国）与伊朗的关系有两条路可以走。 B计划就是恢复军事袭击伊朗，特朗普不希望对伊朗采取备用计划。 特朗普要求我们与伊朗积极谈判，认为我们与伊朗取得了很大的进展。 希望（只有）少数国家拥有核武器。 伊朗不可以拥有核武器，必须同意不重建核武器。 无法说我们“对于将与伊朗达成一份协议”有信心。",
           "url": "https://wallstreetcn.com/livenews/3106198",
           "source": "华尔街见闻-快讯",
@@ -405,7 +428,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
@@ -417,8 +440,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时51分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[07时51分 ~ 16时49分]"
         },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
@@ -444,6 +467,17 @@
           "time_info": "[09时55分 ~ 13时55分]"
         },
         {
+          "title": "Gemini 3.5 Flash 正式发布，你怎么评价这款模型?",
+          "url": "https://www.zhihu.com/question/2040251136867815469",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
+        },
+        {
           "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
           "url": "https://wallstreetcn.com/livenews/3106251",
           "source": "华尔街见闻-快讯",
@@ -465,6 +499,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时55分]"
+        },
+        {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 16时49分]"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -509,7 +555,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -523,17 +569,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
-        },
-        {
-          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
-          "url": "https://www.cls.cn/detail/2376249",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
         },
         {
           "title": "市场消息：谷歌首款音频眼镜将于秋季上市。",
@@ -564,7 +599,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -641,7 +676,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -652,7 +687,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -781,7 +816,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -835,6 +870,29 @@
           "time_info": "[01时32分 ~ 07时52分]"
         },
         {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 16时49分]"
+        },
+        {
+          "title": "欧洲央行管委Wunsch：债券抛售未影响对伊朗问题的考量。 欧洲央行迟早会做出反应的。 我们正处于通货膨胀问题的开端阶段。 在部分经济领域，应对通货膨胀的措施可能会更为迅速。 如果到六月情况仍未得到改善，那将会是个糟糕的消息。 欧元区经济正在放缓，而非陷入衰退。 我原本就对4月份加息有所期待。",
+          "url": "https://wallstreetcn.com/livenews/3106601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "美联储保尔森：如果伊朗冲突持续，将进一步增加通胀和失业的风险。",
           "url": "https://flash.jin10.com/detail/20260520072823535800",
           "source": "金十数据",
@@ -868,15 +926,15 @@
           "time_info": "05时09分"
         },
         {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
+          "title": "阿联酋总统顾问安瓦尔：伊朗民兵对巴拉卡核电站的攻击是对国际法的严重违反，从霍尔木兹到巴拉卡的威胁反映出伊朗的一种“混乱心态”，这将危及全球经济和国际秩序。",
+          "url": "https://flash.jin10.com/detail/20260520164113448800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时55分"
+          "time_info": "16时49分"
         },
         {
           "title": "据华尔街日报：三名美国官员称，美方在印度洋扣押了一艘与伊朗有关的油轮。",
@@ -907,7 +965,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -989,6 +1047,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "伊朗革命卫队：美以若再动武 战火将蔓延至中东以外地区",
+          "url": "https://wallstreetcn.com/livenews/3106565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "美国副总统万斯称，“无法说我们对‘将与伊朗达成一份协议’有信心”。WTI原油期货跌幅收窄至0.7%，重返103.65美元一线。",
           "url": "https://wallstreetcn.com/livenews/3106199",
           "source": "华尔街见闻-快讯",
@@ -1036,7 +1105,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -1051,6 +1120,20 @@
           "time_info": "[01时32分 ~ 07时52分]"
         },
         {
+          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
+          "url": "https://wallstreetcn.com/articles/3772622",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时09分 ~ 16时49分]"
+        },
+        {
           "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
           "url": "https://www.cls.cn/detail/2376079",
           "source": "财联社热门",
@@ -1062,20 +1145,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时55分 ~ 13时55分]"
-        },
-        {
-          "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
-          "url": "https://wallstreetcn.com/articles/3772622",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时09分 ~ 13时55分]"
         },
         {
           "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
@@ -1147,13 +1216,24 @@
           "time_info": "05时09分"
         },
         {
+          "title": "英伟达美股盘前波动不大，现涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3106599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
           "url": "https://wallstreetcn.com/articles/3772667",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -1202,6 +1282,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "英特尔美股盘前涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260520163432910800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（5月19日），美国科技股七巨头（Magnificent 7）指数跌1.16%，报223.24点。 “超大”市值科技股指数跌1.50%，报440.54点。",
           "url": "https://wallstreetcn.com/livenews/3106269",
           "source": "华尔街见闻-快讯",
@@ -1216,7 +1307,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -1228,6 +1319,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时32分 ~ 05时09分]"
+        },
+        {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 16时49分]"
         },
         {
           "title": "通胀担忧高企，美债收益率飙升至多年高位，标普纳指三连跌，黄金一度跌超2%",
@@ -1252,15 +1354,26 @@
           "time_info": "06时55分"
         },
         {
-          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
-          "url": "https://wallstreetcn.com/articles/3772671",
-          "source": "华尔街见闻",
+          "title": "美债收益率破5%意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B45%25%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
+        },
+        {
+          "title": "美债风暴只是表象？一文读懂：真正能冲击AI牛的是流动性！",
+          "url": "https://www.cls.cn/detail/2376546",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -1294,6 +1407,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI：积极选择下一个国家教育合作伙伴，预计将在今年晚些时候公布。",
+          "url": "https://flash.jin10.com/detail/20260520164224925800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
+          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
+          "url": "https://wallstreetcn.com/livenews/3106231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时09分"
+        },
+        {
+          "title": "OpenAI创始人跳槽Anthropic",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B7%B3%E6%A7%BDAnthropic&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3106163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         }
       ]
     },
@@ -1393,47 +1556,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI 推出“保证算力容量”服务，打响锁定长期客户续约战",
-          "url": "https://wallstreetcn.com/livenews/3106231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时09分"
-        },
-        {
-          "title": "OpenAI创始人跳槽Anthropic",
-          "url": "https://s.weibo.com/weibo?q=OpenAI%E5%88%9B%E5%A7%8B%E4%BA%BA%E8%B7%B3%E6%A7%BDAnthropic&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时55分"
-        },
-        {
-          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
-          "url": "https://wallstreetcn.com/livenews/3106163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高盛：金价回调不改长期涨势",
@@ -1446,6 +1570,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时51分 ~ 09时55分]"
+        },
+        {
+          "title": "金价银价油价集体下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 16时49分]"
         }
       ]
     }
