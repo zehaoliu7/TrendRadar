@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T09:55:37.857354+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-05-20T13:55:47.341227+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -24,11 +24,12 @@
           "source": "凤凰网",
           "ranks": [
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 09时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时32分 ~ 13时55分]"
         },
         {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
@@ -75,6 +76,31 @@
           "time_info": "07时52分"
         },
         {
+          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
+          "url": "https://www.cls.cn/detail/2376144",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 13时55分]"
+        },
+        {
+          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
+          "url": "https://www.cls.cn/detail/2375999",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 13时55分]"
+        },
+        {
           "title": "赖清德暗怼特朗普后心虚了",
           "url": "https://s.weibo.com/weibo?q=%23%E8%B5%96%E6%B8%85%E5%BE%B7%E6%9A%97%E6%80%BC%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8E%E5%BF%83%E8%99%9A%E4%BA%86%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -88,18 +114,6 @@
           "time_info": "[03时31分 ~ 07时52分]"
         },
         {
-          "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
-          "url": "https://www.cls.cn/detail/2375999",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 09时55分]"
-        },
-        {
           "title": "为何特朗普抛涉台“四不”说法",
           "url": "https://www.toutiao.com/trending/7640681040356671526/",
           "source": "今日头条",
@@ -111,17 +125,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时31分 ~ 06时55分]"
-        },
-        {
-          "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
-          "url": "https://www.cls.cn/detail/2376144",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         },
         {
           "title": "据AXIOS：尽管与盟友关系紧张，美国总统特朗普将出席法国G7峰会。",
@@ -141,7 +144,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -166,6 +169,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "特朗普家族被豁免永久禁止国税局审计",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%B6%E6%97%8F%E8%A2%AB%E8%B1%81%E5%85%8D%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E5%9B%BD%E7%A8%8E%E5%B1%80%E5%AE%A1%E8%AE%A1%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "美国总统特朗普在得克萨斯州共和党参议院初选中支持肯·帕克斯顿。",
@@ -229,7 +243,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -372,7 +386,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -391,8 +405,21 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 13时55分]"
+        },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
           "url": "https://www.cls.cn/detail/2375879",
@@ -406,6 +433,17 @@
           "time_info": "[01时32分 ~ 09时55分]"
         },
         {
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时55分 ~ 13时55分]"
+        },
+        {
           "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
           "url": "https://wallstreetcn.com/livenews/3106251",
           "source": "华尔街见闻-快讯",
@@ -415,29 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 09时55分]"
-        },
-        {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时55分"
         },
         {
           "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
@@ -457,11 +472,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时31分 ~ 13时55分]"
+        },
+        {
+          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
+          "url": "https://www.cls.cn/detail/2376118",
+          "source": "财联社热门",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时31分 ~ 09时55分]"
+          "time_info": "[09时55分 ~ 13时55分]"
         },
         {
           "title": "Gemini Omni实测效果速览",
@@ -470,20 +498,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
         {
-          "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
-          "url": "https://www.cls.cn/detail/2376118",
-          "source": "财联社热门",
+          "title": "UP主专访前谷歌AI核心科学家",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%B8%93%E8%AE%BF%E5%89%8D%E8%B0%B7%E6%AD%8CAI%E6%A0%B8%E5%BF%83%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时55分"
+          "time_info": "13时55分"
         },
         {
           "title": "谷歌人工智能负责人宣布推出面向科学的研究导向型Gemini。",
@@ -495,6 +523,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "市场消息：谷歌首款音频眼镜将于秋季上市。",
@@ -519,6 +558,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
+          "url": "https://www.cls.cn/detail/2376047",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "谷歌面向AI时代彻底重构搜索，并重磅发布系列编程工具",
           "url": "https://wallstreetcn.com/livenews/3106214",
           "source": "华尔街见闻-快讯",
@@ -536,7 +586,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -583,6 +633,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时09分"
+        },
+        {
+          "title": "新加坡与谷歌公司、OpenAI签署AI协议。 OpenAI承诺对狮城生态系统投资2.34亿美元（折合3亿坡元），成立海外（美国之外）第一个AI实验室。 谷歌将AI协作扩展至教育、医疗保健、科学研究。 新加坡希望在全球部署AI方面发挥更大作用。",
+          "url": "https://wallstreetcn.com/livenews/3106486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
+          "title": "如何看待 Google I/O 发布的 Gemini 3.5 Flash？在大模型竞争中处于什么位置？",
+          "url": "https://www.zhihu.com/question/2040264585383507841",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "周二（5月19日），美股人工智能（AI）赢家指数跌0.51%，报375.45点，北京时间01:00也曾转涨。 成分股Fluence Energy收跌8.34%，维谛技术控股跌5.03%，核电股Oklo跌4.58%，CoreWeave跌3.82%跌幅第四大，甲骨文跌2.76%，高意公司Coherent跌2.54%跌幅第十大，谷歌A跌2.34%。 Lumentum则收涨0.58%表现第九，美光科技涨2.52%，Arm控股涨3.73%，闪迪涨3.77%，迈威尔科技涨4.35%，Astera Labs涨13.40%。",
@@ -635,7 +707,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
@@ -709,7 +781,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -729,11 +801,12 @@
           "ranks": [
             11,
             12,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时32分 ~ 09时55分]"
+          "appearance_count": 8,
+          "time_info": "[01时32分 ~ 13时55分]"
         },
         {
           "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
@@ -795,6 +868,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "据华尔街日报：三名美国官员称，美方在印度洋扣押了一艘与伊朗有关的油轮。",
           "url": "https://flash.jin10.com/detail/20260520024107577800",
           "source": "金十数据",
@@ -812,9 +896,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 82 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040200472615543846",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "调解方认为美伊谈判几乎进展甚微 伊朗坚持核心诉求不变",
@@ -941,7 +1036,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
@@ -956,29 +1051,31 @@
           "time_info": "[01时32分 ~ 07时52分]"
         },
         {
+          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
+          "url": "https://www.cls.cn/detail/2376079",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时55分 ~ 13时55分]"
+        },
+        {
           "title": "美银基金经理调查：美股超配程度接近“卖出信号”，30年期收益率恐升破6%",
           "url": "https://wallstreetcn.com/articles/3772622",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时09分 ~ 09时55分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体走低 光通信概念股逆市走强",
-          "url": "https://www.cls.cn/detail/2376079",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时55分 ~ 09时55分]"
+          "appearance_count": 6,
+          "time_info": "[05时09分 ~ 13时55分]"
         },
         {
           "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
@@ -1050,6 +1147,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "美股费城半导体指数七日跌幅一度逼近10%，抄底资金开始入场",
+          "url": "https://wallstreetcn.com/articles/3772667",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
+        },
+        {
           "title": "周二（5月19日），彭博电动汽车价格回报指数跌1.94%，报3843.70点。 北京时间09:45开始一波加速下跌的行情，美股开盘再次加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3106240",
           "source": "华尔街见闻-快讯",
@@ -1108,7 +1216,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
@@ -1142,6 +1250,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时55分"
+        },
+        {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "美国财政部：海外投资者3月所持长期美债估值浮亏高达1421亿美元",
@@ -1267,7 +1386,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         }
@@ -1295,7 +1414,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
         },
