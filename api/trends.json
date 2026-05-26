@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-26T13:56:08.414025+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-05-26T17:02:23.743392+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 67,
+      "match_count": 75,
       "titles": [
+        {
+          "title": "美军发动“自卫性”空袭伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时02分]"
+        },
         {
           "title": "伊朗最高领袖就医情况曝光",
           "url": "https://news.ifeng.com/c/8tQQymaYbMG",
@@ -42,15 +53,17 @@
           "time_info": "[09时50分 ~ 13时56分]"
         },
         {
-          "title": "美军发动“自卫性”空袭伊朗，细节披露",
-          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
-          "source": "凤凰网",
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            8,
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时02分]"
         },
         {
           "title": "伊朗称中国推动美伊停火谈判进程",
@@ -69,6 +82,17 @@
           "time_info": "[00时56分 ~ 07时54分]"
         },
         {
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 17时02分]"
+        },
+        {
           "title": "击落敌方无人机，伊朗：使用了新型防空手段",
           "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
           "source": "凤凰网",
@@ -80,27 +104,15 @@
           "time_info": "[09时50分 ~ 09时51分]"
         },
         {
-          "title": "击落敌方无人机，伊朗：使用了新武器",
-          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "title": "伊朗愿将高浓缩铀移交至中国？中方回应",
+          "url": "https://news.ifeng.com/c/8tRUm9hPRif",
           "source": "凤凰网",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
-          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
-          "url": "https://wallstreetcn.com/articles/3773097",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "美军称在霍尔木兹海峡击沉两艘伊朗布雷船",
@@ -299,6 +311,18 @@
           "time_info": "[05时58分 ~ 06时54分]"
         },
         {
+          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
+          "url": "https://www.zhihu.com/question/2042527297291431958",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 17时02分]"
+        },
+        {
           "title": "伊朗最高领袖就医情况披露",
           "url": "https://www.toutiao.com/trending/7643846680622022719/",
           "source": "今日头条",
@@ -453,17 +477,6 @@
           "time_info": "[05时59分 ~ 06时54分]"
         },
         {
-          "title": "美国对伊朗实施打击，打击目标包括导弹发射阵地以及正试图布设水雷的伊朗船只，美国为何在停火期发动打击？",
-          "url": "https://www.zhihu.com/question/2042527297291431958",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
-        },
-        {
           "title": "伊朗：准备向全世界保证不寻求拥核",
           "url": "https://www.toutiao.com/trending/7643313675294244883/",
           "source": "今日头条",
@@ -580,13 +593,46 @@
           "time_info": "07时54分"
         },
         {
+          "title": "伊朗称击落一架美军无人机",
+          "url": "https://www.toutiao.com/trending/7644108014995164681/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
+          "url": "https://www.cls.cn/detail/2381630",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
+          "url": "https://wallstreetcn.com/articles/3773115",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "欧洲央行执委Schnabel：6月需要加息，对通胀激增视而不见已不再是选项。 越来越多迹象显示，通胀冲击正在向消费的其他部分蔓延。 即便伊朗战争今天结束，鉴于能源基础设施受损，仍需采取政策行动。 此次冲击对经济增长的负面影响将更为显著。 最新数据意味着通胀存在上行风险，经济增长存在下行风险。",
           "url": "https://wallstreetcn.com/livenews/3109209",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时56分"
         },
@@ -734,6 +780,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "伊朗最高领袖称伊朗及抵抗阵线取胜",
+          "url": "https://wallstreetcn.com/livenews/3109299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "伊朗代表团结束在卡塔尔会谈议程 将返回德黑兰",
           "url": "https://wallstreetcn.com/livenews/3108950",
           "source": "华尔街见闻-快讯",
@@ -767,6 +824,28 @@
           "time_info": "00时56分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗处决一人，因其与以色列存在情报合作行为。",
+          "url": "https://flash.jin10.com/detail/20260526161235488800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "布油短线拉升，报道：伊朗伊斯兰革命卫队向进入领空的美国无人机和战机开火",
+          "url": "https://wallstreetcn.com/livenews/3109290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "伊朗称中国推动美伊停火谈判进程",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%8E%A8%E5%8A%A8%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E8%B0%88%E5%88%A4%E8%BF%9B%E7%A8%8B%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -776,6 +855,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "伊朗军方称美方在谈判进行中发动了一轮打击，中方回应",
+          "url": "https://wallstreetcn.com/livenews/3109289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "欧洲斯托克50指数上涨2%，抹去了自伊朗战争爆发以来的所有跌幅。",
@@ -792,7 +882,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
@@ -813,8 +903,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时02分]"
         },
         {
           "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
@@ -837,8 +927,21 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时54分 ~ 17时02分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时54分 ~ 13时56分]"
+          "time_info": "[09时50分 ~ 17时02分]"
         },
         {
           "title": "据Axios记者：特朗普有关伊朗浓缩铀的最新表态似乎表明美国在浓缩铀库存问题上的立场有所软化，更接近伊朗在这一问题上的立场。",
@@ -887,18 +990,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时20分 ~ 04时17分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
-          "url": "https://www.cls.cn/detail/2381211",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时56分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社援引以色列第12频道的消息报道，美国特使威特科夫和特朗普高级顾问库什纳正前往以色列，以商讨一项可能的美伊合作协议。此次会谈将围绕华盛顿与德黑兰之间可能达成的协议展开讨论，会谈还将继续就霍尔木兹海峡问题和核问题进行协商。",
@@ -983,6 +1074,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时54分]"
+        },
+        {
+          "title": "创纪录！特朗普最新民调曝光",
+          "url": "https://news.ifeng.com/c/8tRHolWd0Kl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "浓缩铀交给美国？特朗普扔最新方案，多家媒体爆料：霍尔木兹30天内打通，伊朗石油获豁免",
@@ -1155,11 +1257,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时50分 ~ 13时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时02分]"
         }
       ]
     },
