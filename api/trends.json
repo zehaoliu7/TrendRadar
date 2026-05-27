@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-27T08:00:27.654627+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2026-05-27T11:28:22.884269+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
+          "url": "https://wallstreetcn.com/articles/3773148",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 11时28分]"
+        },
         {
           "title": "伊朗外交部：美国公然违反停火协议",
           "url": "https://www.cls.cn/detail/2382022",
@@ -30,18 +42,6 @@
           "time_info": "[00时35分 ~ 08时00分]"
         },
         {
-          "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
-          "url": "https://wallstreetcn.com/articles/3773148",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 08时00分]"
-        },
-        {
           "title": "伊朗任命谈判团队发言人，专家：展现外交灵活性",
           "url": "https://v.ifeng.com/c/8tPxP7tkeJv",
           "source": "凤凰网",
@@ -53,6 +53,20 @@
           "time_info": "[00时35分 ~ 08时00分]"
         },
         {
+          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 11时28分]"
+        },
+        {
           "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
           "url": "https://news.ifeng.com/c/8tRe4GWXi93",
           "source": "凤凰网",
@@ -62,19 +76,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 06时59分]"
-        },
-        {
-          "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 08时00分]"
         },
         {
           "title": "边打边谈！美军对伊朗实施“自卫打击”，鲁比奥：与伊朗达成的协议“还需几天”",
@@ -284,6 +285,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "世界杯伊朗男足仅比赛日跨境赴美",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E7%94%B7%E8%B6%B3%E4%BB%85%E6%AF%94%E8%B5%9B%E6%97%A5%E8%B7%A8%E5%A2%83%E8%B5%B4%E7%BE%8E%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "伊朗最近一天允许25艘船只通过霍尔木兹海峡。（伊朗媒体Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3109610",
           "source": "华尔街见闻-快讯",
@@ -328,6 +340,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "伊朗媒体：伊朗全面恢复国际互联网连接",
           "url": "https://wallstreetcn.com/livenews/3109556",
           "source": "华尔街见闻-快讯",
@@ -356,7 +379,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -378,9 +401,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "伊朗强硬回应美国打击，称若战争重启将猛烈回击，并将阻止地区石油出口。消息称解冻伊朗海外资金成伊美谈判主要分歧，中东局势前景未明……当前现货金银卖出信号强烈，美油多空情绪分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260527103454238800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         },
         {
           "title": "伊朗总统：伊方渴望加强与所有阿拉伯国家的兄弟情谊",
@@ -417,11 +451,24 @@
           "ranks": [
             18,
             17,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 08时00分]"
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 11时28分]"
+        },
+        {
+          "title": "特朗普提了一个非分要求",
+          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时28分]"
         },
         {
           "title": "美国总统特朗普：考虑到明天可能出现的恶劣天气情况，我们将在白宫举行内阁会议，并推迟前往戴维营的内阁行程。",
@@ -456,17 +503,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时59分]"
-        },
-        {
-          "title": "特朗普提了一个非分要求",
-          "url": "https://news.ifeng.com/c/8tSb04uTeLk",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "巴西参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）：我要求美国总统特朗普将（那些）犯罪集团标榜为恐怖分子。 我告诉特朗普，如果我当选（为巴西总统），我们将达成一份贸易协议。",
@@ -532,7 +568,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -642,6 +678,30 @@
       "match_count": 11,
       "titles": [
         {
+          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
+          "url": "https://www.cls.cn/detail/2382303",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时28分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
+          "url": "https://www.cls.cn/detail/2382288",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时59分 ~ 11时28分]"
+        },
+        {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2382097",
           "source": "财联社热门",
@@ -653,28 +713,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 08时00分]"
-        },
-        {
-          "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
-          "url": "https://www.cls.cn/detail/2382303",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 美光科技暴涨19%",
-          "url": "https://www.cls.cn/detail/2382288",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时59分 ~ 08时00分]"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
