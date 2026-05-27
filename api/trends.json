@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T15:54:02.818477+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2026-05-27T19:25:54.847421+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 49,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -104,6 +104,17 @@
           "time_info": "[00时35分 ~ 05时24分]"
         },
         {
+          "title": "伊朗官员：美国将在所有战线停火60天",
+          "url": "https://news.ifeng.com/c/8tTBSVzined",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "伊朗总统：已准备好达成“有尊严的”框架协议",
           "url": "https://flash.jin10.com/detail/20260527002129253800",
           "source": "金十数据",
@@ -146,9 +157,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        },
+        {
+          "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
+          "url": "https://news.ifeng.com/c/8tTK6rP01M9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "“星链”被指服务于美国针对伊朗的军事行动",
@@ -157,7 +179,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         },
@@ -168,9 +190,22 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        },
+        {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 19时25分]"
         },
         {
           "title": "伊朗局势“迷雾重重”震荡市场，新兴市场货币集体下挫",
@@ -195,18 +230,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时59分 ~ 08时00分]"
-        },
-        {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 15时54分]"
         },
         {
           "title": "伊朗公布击落美MQ-9死神无人机画面",
@@ -262,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "伊朗总统：德黑兰寻求以“有尊严的框架”结束战争。",
@@ -385,6 +419,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "伊朗称美将在所有战线停火60天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "伊朗媒体：伊朗全面恢复国际互联网连接",
           "url": "https://wallstreetcn.com/livenews/3109556",
           "source": "华尔街见闻-快讯",
@@ -429,6 +474,17 @@
           "time_info": "03时11分"
         },
         {
+          "title": "伊朗说尚未就霍尔木兹海峡问题与美国达成一致",
+          "url": "https://wallstreetcn.com/livenews/3110025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "伊朗民众：美方言行不可信 必须保持高度警惕",
           "url": "https://flash.jin10.com/detail/20260527070124074800",
           "source": "金十数据",
@@ -438,6 +494,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会副秘书巴盖里今日在莫斯科国际会议期间与瑞士国家安全顾问会晤。",
+          "url": "https://flash.jin10.com/detail/20260527183315998800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "欧洲央行称投资者低估伊朗冲突等风险 金融市场恐出现突然大幅回调",
+          "url": "https://wallstreetcn.com/livenews/3110017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "伊朗强硬回应美国打击，称若战争重启将猛烈回击，并将阻止地区石油出口。消息称解冻伊朗海外资金成伊美谈判主要分歧，中东局势前景未明……当前现货金银卖出信号强烈，美油多空情绪分化，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
@@ -462,6 +540,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "伊朗情报部说敌方正通过软战争施压",
+          "url": "https://wallstreetcn.com/livenews/3110002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "伊媒：以无人机袭击阿联酋欲嫁祸伊朗",
           "url": "https://www.toutiao.com/trending/7643203125008105499/",
           "source": "今日头条",
@@ -476,7 +565,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "释新闻｜美伊谈判冲刺阶段，特朗普为何突然提起《亚伯拉罕协议》？",
@@ -487,11 +576,12 @@
             17,
             16,
             11,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 15时54分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 19时25分]"
         },
         {
           "title": "特朗普提了一个非分要求",
@@ -510,11 +600,12 @@
           "url": "https://news.ifeng.com/c/8tSnrdWGnY5",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时53分 ~ 15时54分]"
+          "appearance_count": 3,
+          "time_info": "[15时53分 ~ 19时25分]"
         },
         {
           "title": "美国总统特朗普：考虑到明天可能出现的恶劣天气情况，我们将在白宫举行内阁会议，并推迟前往戴维营的内阁行程。",
@@ -537,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "特朗普要求多国签《亚伯拉罕协议》，专家：警惕“美式陷阱”",
+          "url": "https://news.ifeng.com/c/8tTPXgoAD0P",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "美国总统特朗普宣称：准备在白宫举办内阁会议，推迟前往戴维营的行程。",
@@ -721,7 +823,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】暴涨超19%，美股存储芯片巨头市值首破万亿；兆易创新、沪电股份等热门股发布重要公告",
@@ -759,6 +861,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 08时00分]"
+        },
+        {
+          "title": "Bath & Body Works第一季度调整后每股收益0.32美元，上年同期0.49美元，预估0.29美元。 第一季度每股收益0.90美元，上年同期0.49美元。 第一季度销售净额13.8亿美元，同比下降3.2%，预估13.6亿美元。 第一季度调整后运营收益1.51亿美元，预估1.419亿美元。 Bath & Body Works仍然预测全年调整后每股收益2.40美元至2.65美元。 Bath & Body Works美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3110049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "新兴市场ETF收涨超3.8%，领跑美股大类资产类ETF，布油基金跌超3.4%",
@@ -819,6 +932,28 @@
           "time_info": "[15时53分 ~ 15时54分]"
         },
         {
+          "title": "美股盘前美光继续大涨，日韩股市再创新高，SK海力士市值破万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
+        },
+        {
           "title": "金十图示：2026年05月26日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260527040525791800",
           "source": "金十数据",
@@ -850,6 +985,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "拼多多(PDD.O)美股盘前跌超3.3%，消息面上，公司2026年Q1营收1062亿元，上年同期956.7亿元。",
+          "url": "https://flash.jin10.com/detail/20260527183308629800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "美股芯片股盘前集体上涨",
@@ -955,7 +1101,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
         }
