@@ -1,25 +1,12 @@
 {
-  "generated_at": "2026-06-17T10:12:04.536395+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-06-17T16:18:53.322541+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时24分 ~ 10时12分]"
-        },
         {
           "title": "翻脸不认球,美国驱赶伊朗队",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
@@ -27,11 +14,12 @@
           "ranks": [
             3,
             4,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时24分 ~ 10时12分]"
+          "appearance_count": 7,
+          "time_info": "[02时24分 ~ 16时18分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -40,7 +28,21 @@
           "ranks": [
             5,
             6,
-            4
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时24分 ~ 16时18分]"
+        },
+        {
+          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -75,11 +77,12 @@
           "url": "https://news.ifeng.com/c/8u1TiMA0imn",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时18分]"
         },
         {
           "title": "两度扳平!伊朗2-2新西兰",
@@ -88,11 +91,12 @@
           "ranks": [
             7,
             8,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时24分 ~ 10时12分]"
+          "appearance_count": 7,
+          "time_info": "[02时24分 ~ 16时18分]"
         },
         {
           "title": "伊朗央行行长：谅解备忘录规定美有义务解冻伊资产",
@@ -119,6 +123,30 @@
           "time_info": "[02时24分 ~ 10时12分]"
         },
         {
+          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时37分 ~ 16时18分]"
+        },
+        {
+          "title": "“伊朗永远不会得到美国纳税人的一分钱”",
+          "url": "https://news.ifeng.com/c/8u1ZY3ZubFf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "伊朗外长：在第一阶段之后，谈判将持续60天，以达成一项最终协议，该协议将包括核问题及解除制裁的内容。",
           "url": "https://flash.jin10.com/detail/20260617021234883800",
           "source": "金十数据",
@@ -141,6 +169,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "勒令伊朗国足连夜离境 美方回应",
+          "url": "https://www.baidu.com/s?wd=%E5%8B%92%E4%BB%A4%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%BF%9E%E5%A4%9C%E7%A6%BB%E5%A2%83+%E7%BE%8E%E6%96%B9%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "伊朗外长：美国与伊朗之间的谈判将在两国签署谅解备忘录的当天启动。",
           "url": "https://flash.jin10.com/detail/20260617021118910800",
           "source": "金十数据",
@@ -150,19 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
-        },
-        {
-          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时37分 ~ 10时12分]"
         },
         {
           "title": "伊朗队突然被勒令离开美国",
@@ -201,6 +227,17 @@
           "time_info": "[05时37分 ~ 05时38分]"
         },
         {
+          "title": "国际足联主席探望伊朗球员：我知道你们经历了什么",
+          "url": "https://news.ifeng.com/c/8u1bgpKuIuK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "阿曼与伊朗外长讨论霍尔木兹海峡航运安全等问题",
           "url": "https://wallstreetcn.com/livenews/3120451",
           "source": "华尔街见闻-快讯",
@@ -210,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "伊朗在美伊协议中寻求关于资金获取的“充分保证”",
@@ -223,6 +271,39 @@
           "time_info": "02时24分"
         },
         {
+          "title": "IEA月报：伊朗冲突期间经合组织政府库存降至20世纪90年代初以来最低水平。 自冲突爆发以来，全球库存平均下降380万桶/日。 5月全球观测石油库存减少1.43亿桶。",
+          "url": "https://wallstreetcn.com/livenews/3120846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "IEA月报：5月OPEC+原油产量环比下降110万桶/日。 5月全球石油产量较伊朗冲突前水平低1360万桶/日，5月全球石油产量环比下降60万桶/日。 高油价和供应中断导致交付量减少。 排雷和过境问题是对海湾石油运输的下行风险。",
+          "url": "https://wallstreetcn.com/livenews/3120841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "IEA月报：IEA下调石油需求预期，伊朗冲突带来更深影响。 预计2026年全球石油需求为1.033亿桶/日，2027年为1.053亿桶/日。 预计2027年全球石油供应将反弹800万桶/日。 预计2026年全球石油供应将减少390万桶/日。 预计2026年全球石油需求将下降110万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3120837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "伊朗央行行长：伊朗希望在与美国达成的协议中获得解冻资金的充分保障。",
           "url": "https://flash.jin10.com/detail/20260617014702773800",
           "source": "金十数据",
@@ -232,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "IEA月报：伊朗战争三个月期间库存消耗速度为每日380万桶，5月消耗速度可能为每日460万桶。",
+          "url": "https://flash.jin10.com/detail/20260617160053146800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "伊朗议会国家安全委员会负责人：任何违反行为将遭到果断、毁灭性的回应。",
@@ -256,13 +348,24 @@
           "time_info": "02时24分"
         },
         {
+          "title": "IEA月报：由于伊朗战争，2026年全球石油需求将下降110万桶/日（之前预测为下降42万桶/日）。",
+          "url": "https://flash.jin10.com/detail/20260617160027530800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "6800万桶原油等待投放，油轮异动预示伊朗原油出口解封",
           "url": "https://flash.jin10.com/detail/20260617092959298800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
         }
@@ -270,7 +373,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：感谢中俄帮忙",
@@ -304,8 +407,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时18分]"
         },
         {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
@@ -317,6 +420,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时24分 ~ 10时12分]"
+        },
+        {
+          "title": "80岁特朗普上台阶扶75岁莫迪借力",
+          "url": "https://www.toutiao.com/trending/7651197088764149766/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "特朗普和马克龙为何为一瓶红酒较劲",
@@ -348,11 +462,12 @@
           "url": "https://wallstreetcn.com/articles/3774815",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时18分]"
         },
         {
           "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
@@ -362,8 +477,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时18分]"
         },
         {
           "title": "特朗普称美伊协议已签署",
@@ -389,6 +504,17 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
+          "title": "特朗普：Pulte将继续担任代理国家情报总监。",
+          "url": "https://wallstreetcn.com/livenews/3120835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
           "url": "https://wallstreetcn.com/livenews/3120438",
           "source": "华尔街见闻-快讯",
@@ -409,6 +535,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美国总统特朗普：取消今日关于国家情报总监的参议院听证会,普尔特将继续担任国家情报总监。",
+          "url": "https://flash.jin10.com/detail/20260617155707883800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "美国总统特朗普：不会批准《外国情报监视法》，除非与《拯救美国法案》一起通过。",
+          "url": "https://flash.jin10.com/detail/20260617155624614800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "德国总理默茨告诉美国总统特朗普：德国准备对“霍尔木兹海峡任务”做出贡献。 相信美国与伊朗的协议能够持续下去。",
@@ -436,7 +584,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
@@ -447,8 +595,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 10时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 16时18分]"
         },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
@@ -533,6 +681,17 @@
           "time_info": "[05时38分 ~ 07时16分]"
         },
         {
+          "title": "SPACEX美股盘前上涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3120840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
           "url": "https://wallstreetcn.com/livenews/3120490",
           "source": "华尔街见闻-快讯",
@@ -580,7 +739,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -616,8 +775,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时18分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -631,6 +790,39 @@
           "time_info": "[10时11分 ~ 10时12分]"
         },
         {
+          "title": "豆包DeepSeek答题两极分化",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85DeepSeek%E7%AD%94%E9%A2%98%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
+          "url": "https://www.zhihu.com/question/2050271442697188542",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "微软考虑用DeepSeek替换美国AI模型",
+          "url": "https://www.toutiao.com/trending/7652220920047603254/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -640,6 +832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "美国商务部暂缓将DeepSeek等中企加入限制清单，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3120818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
@@ -742,11 +945,12 @@
           "url": "https://www.cls.cn/detail/2401773",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 10时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 16时18分]"
         },
         {
           "title": "据The Information：OpenAI表示，已向特朗普政府表明，外国人才对美国人工智能发展至关重要。",
