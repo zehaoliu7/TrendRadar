@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T07:58:11.866698+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-06-23T10:15:48.099579+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -19,6 +19,34 @@
           "time_info": "[01时22分 ~ 07时58分]"
         },
         {
+          "title": "伊朗谈判团队称伊美谈判达成5项要点",
+          "url": "https://wallstreetcn.com/articles/3775177",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 10时15分]"
+        },
+        {
+          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
+          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 10时15分]"
+        },
+        {
           "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
           "url": "https://m.thepaper.cn/newsDetail_forward_33426063",
           "source": "澎湃新闻",
@@ -30,30 +58,15 @@
           "time_info": "[01时22分 ~ 07时58分]"
         },
         {
-          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
-          "url": "https://www.zhihu.com/question/2052442119843701055",
-          "source": "知乎",
+          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
+          "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            3,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 07时58分]"
-        },
-        {
-          "title": "伊朗谈判团队称伊美谈判达成5项要点",
-          "url": "https://wallstreetcn.com/articles/3775177",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 07时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 10时15分]"
         },
         {
           "title": "伊朗公布哈梅内伊葬礼安排",
@@ -67,15 +80,32 @@
           "time_info": "[01时22分 ~ 04时28分]"
         },
         {
-          "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
-          "url": "https://news.ifeng.com/c/8u8tDRAoBuA",
-          "source": "凤凰网",
+          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
+          "url": "https://www.zhihu.com/question/2050890957483202069",
+          "source": "知乎",
           "ranks": [
-            5
+            19,
+            15,
+            12,
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 10时15分]"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 10时15分]"
         },
         {
           "title": "伊朗首席谈判代表：美国和伊朗都将保证黎巴嫩的领土完整。",
@@ -89,31 +119,15 @@
           "time_info": "04时28分"
         },
         {
-          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
-          "url": "https://www.zhihu.com/question/2050890957483202069",
-          "source": "知乎",
+          "title": "美总统称若伊朗不遵守协议将采取必要行动",
+          "url": "https://wallstreetcn.com/livenews/3123124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19,
-            15,
-            12,
-            13
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 07时58分]"
-        },
-        {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 07时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "美国能源部长赖特：尽管遭到伊朗的阻挠，我们仍以危机前的水平经由霍尔木兹海峡输送石油。",
@@ -175,6 +189,19 @@
           "time_info": "[01时22分 ~ 06时29分]"
         },
         {
+          "title": "日企掏钱,伊朗白捡三千亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 10时15分]"
+        },
+        {
           "title": "伊朗向中方通报伊美谈判最新情况",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%8A%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5",
           "source": "百度热搜",
@@ -185,18 +212,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 06时29分]"
-        },
-        {
-          "title": "日企掏钱,伊朗白捡三千亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355283&amp;topic_name=%E6%97%A5%E4%BC%81%E6%8E%8F%E9%92%B1%2C%E4%BC%8A%E6%9C%97%E7%99%BD%E6%8D%A1%E4%B8%89%E5%8D%83%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 07时58分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社援引知情人士：动用冻结资金购买粮食的说法并不属实。",
@@ -221,6 +236,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "伊朗总统致敬伊朗国家队",
+          "url": "https://www.toutiao.com/trending/7654016350054613011/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
           "title": "伊朗首席谈判代表表示，（美伊）双方已同意建立关于霍尔木兹海峡船只通行的沟通渠道，以避免冲突。",
           "url": "https://flash.jin10.com/detail/20260623040007555800",
           "source": "金十数据",
@@ -243,13 +269,35 @@
           "time_info": "06时29分"
         },
         {
+          "title": "伊朗世界杯特种兵式参赛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%B9%E7%A7%8D%E5%85%B5%E5%BC%8F%E5%8F%82%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "美总统称若伊朗不遵守协议将采取必要行动",
+          "url": "https://flash.jin10.com/detail/20260623095835566800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
           "title": "伊朗副外长披露伊美谈判后续技术层面磋商机制",
           "url": "https://wallstreetcn.com/livenews/3123064",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -271,7 +319,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -282,7 +330,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -326,7 +374,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -364,6 +412,17 @@
           "time_info": "06时29分"
         },
         {
+          "title": "当足球穿过战争阴霾：伊朗队的世界杯坎坷之路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33421321",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
           "title": "伊朗谈判团队启程前往Muscat（阿曼首都马斯喀特）。 伊朗将在Muscat讨论霍尔木兹海峡的行政管理方案。（伊朗媒体IRNA）",
           "url": "https://wallstreetcn.com/livenews/3122950",
           "source": "华尔街见闻-快讯",
@@ -386,6 +445,17 @@
           "time_info": "01时22分"
         },
         {
+          "title": "日本财务大臣片山皋月：周一已与美国财长贝森特通话。 重申美日有关外汇的协议。 通话还提及霍尔木兹海峡和伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3123091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
           "url": "https://flash.jin10.com/detail/20260623043914260800",
           "source": "金十数据",
@@ -403,7 +473,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -455,7 +525,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -537,6 +607,19 @@
           "time_info": "[04时28分 ~ 06时29分]"
         },
         {
+          "title": "特朗普威胁伊朗,美伊谈判暂停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 10时15分]"
+        },
+        {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
           "url": "https://m.thepaper.cn/newsDetail_forward_33425956",
           "source": "澎湃新闻",
@@ -546,18 +629,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时22分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 07时58分]"
         },
         {
           "title": "美国总统特朗普：被解冻的伊朗资产将用于购买美国农民生产的农产品。",
@@ -602,6 +673,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
+          "url": "https://www.cls.cn/detail/2406197",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "美国总统特朗普：霍尔木兹海峡局势良好，昨天经由此处的石油量创历史新高。海峡保持畅通。",
@@ -698,7 +780,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -728,7 +810,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
@@ -747,11 +829,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 10时15分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
@@ -762,8 +845,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时29分 ~ 07时58分]"
+          "appearance_count": 4,
+          "time_info": "[06时29分 ~ 10时15分]"
+        },
+        {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 SpaceX大跌16%",
@@ -808,6 +902,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "美股：纳指跌1.32% SpaceX跌超16%",
+          "url": "https://www.toutiao.com/trending/7654363973835296302/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "布油基金收跌超1.7%，领跌美股大类资产类ETF",
@@ -868,7 +973,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
@@ -903,6 +1008,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         },
         {
           "title": "谷歌股价下跌，因又一位AI明星人才跳槽至竞争对手公司",
@@ -979,8 +1095,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 10时15分]"
         },
         {
           "title": "科技巨头下挫拖累美股大盘，芯片股指、小盘股指逆市新高，原油高开走跌，美债收益率“补涨”",
@@ -1003,6 +1119,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 10时15分]"
+        },
+        {
+          "title": "金价暴跌黄金该买还是该卖",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E9%BB%84%E9%87%91%E8%AF%A5%E4%B9%B0%E8%BF%98%E6%98%AF%E8%AF%A5%E5%8D%96",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     },
@@ -1038,23 +1183,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
-          "url": "https://www.cls.cn/detail/2406212",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 07时58分]"
         }
       ]
     }
