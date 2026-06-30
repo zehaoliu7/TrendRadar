@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T20:04:14.214308+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-06-30T23:22:54.189828+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -37,11 +37,12 @@
           "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时03分 ~ 20时04分]"
+          "appearance_count": 3,
+          "time_info": "[20时03分 ~ 23时22分]"
         },
         {
           "title": "特朗普宣布美伊将会谈，伊朗却公开否认！双方连会不会见面都没谈拢",
@@ -66,6 +67,19 @@
           "time_info": "07时49分"
         },
         {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 23时22分]"
+        },
+        {
           "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
           "url": "https://www.cls.cn/detail/2412327",
           "source": "财联社热门",
@@ -78,19 +92,6 @@
           "time_info": "[14时02分 ~ 17时32分]"
         },
         {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时57分 ~ 20时04分]"
-        },
-        {
           "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
           "url": "https://news.ifeng.com/c/8uNYuN5imVw",
           "source": "凤凰网",
@@ -98,8 +99,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 20时04分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 23时22分]"
         },
         {
           "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
@@ -184,6 +185,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "美国法院公布一批裁决 特朗普“两胜两负”",
+          "url": "https://flash.jin10.com/detail/20260630225819996800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美国总统特朗普：提名Keith E. Sonderling为劳工部长。",
           "url": "https://wallstreetcn.com/livenews/3126345",
           "source": "华尔街见闻-快讯",
@@ -234,9 +246,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
+        },
+        {
+          "title": "美国总统特朗普：最高法院刚刚取消了对政治支出的限制！这是共和党的重大胜利，更重要的是，也是美国宪法第一修正案的重大胜利！",
+          "url": "https://flash.jin10.com/detail/20260630225727621800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
@@ -261,6 +284,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "美最高法院驳回特朗普的限制“出生公民权”行政令",
+          "url": "https://wallstreetcn.com/livenews/3126889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美媒：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜",
           "url": "https://flash.jin10.com/detail/20260630070512009800",
           "source": "金十数据",
@@ -270,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "美国总统特朗普称赞最高法院关于政治支出的裁决。",
+          "url": "https://wallstreetcn.com/livenews/3126888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "特朗普：将确保美联储理事库克不会做出关键决定",
@@ -347,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时46分"
+        },
+        {
+          "title": "美国最高法院推翻总统特朗普限制出生公民权的措施。",
+          "url": "https://wallstreetcn.com/livenews/3126877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美国总统特朗普：不太可能将《保障美国选民资格法案》纳入其中。",
@@ -429,7 +485,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -452,6 +508,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时02分 ~ 17时32分]"
+        },
+        {
+          "title": "伊朗：未来几天暂无与美方会晤计划",
+          "url": "https://news.ifeng.com/c/8uNt8EVi3KV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：以色列和黎巴嫩一致认为，真主党和伊朗必须离开。",
+          "url": "https://wallstreetcn.com/livenews/3126900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "德国外交部：现在重要的是达成可行的解决方案，以确保霍尔木兹海峡安全畅通，并解决伊朗核计划问题。",
@@ -524,6 +602,18 @@
           "time_info": "[04时46分 ~ 06时02分]"
         },
         {
+          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
+          "url": "https://news.ifeng.com/c/8uNZON3SysC",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 23时22分]"
+        },
+        {
           "title": "伊朗称未来几天内没有与美方开展任何谈判的计划",
           "url": "https://wallstreetcn.com/livenews/3126285",
           "source": "华尔街见闻-快讯",
@@ -534,18 +624,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 04时46分]"
-        },
-        {
-          "title": "凤凰女记者：伊朗对霍尔木兹海峡态度十分强硬，只能美国做出妥协",
-          "url": "https://news.ifeng.com/c/8uNZON3SysC",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 20时04分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡排雷工作将由伊方单独执行",
@@ -602,7 +680,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -646,7 +724,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -657,7 +735,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -690,7 +768,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -723,7 +801,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -753,7 +831,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
@@ -903,6 +981,17 @@
           "time_info": "[04时46分 ~ 06时02分]"
         },
         {
+          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "美股出现罕见信号，“入熊”概率高达67%！",
           "url": "https://www.cls.cn/detail/2412465",
           "source": "财联社热门",
@@ -912,6 +1001,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2413394",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美股费城半导体指数涨幅扩大至3.2%。",
@@ -985,8 +1085,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 20时04分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 23时22分]"
         },
         {
           "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
@@ -1038,7 +1138,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -1049,8 +1149,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时49分 ~ 20时04分]"
+          "appearance_count": 7,
+          "time_info": "[07时49分 ~ 23时22分]"
+        },
+        {
+          "title": "谷歌公司：在Google Slides中使用Gemini生成多页演示文稿。",
+          "url": "https://wallstreetcn.com/livenews/3126892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "谷歌母公司支持旨在助推太空产业的金融科技公司",
@@ -1070,7 +1181,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -1081,7 +1192,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时04分"
         },
@@ -1100,7 +1211,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数29日下跌",
@@ -1135,6 +1246,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美元指数DXY抹去日内涨幅，转为下跌，现报101.1。",
+          "url": "https://flash.jin10.com/detail/20260630225417696800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI研发出新方案，可将推理成本减半",
+          "url": "https://wallstreetcn.com/livenews/3126866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
