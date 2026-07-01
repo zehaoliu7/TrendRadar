@@ -1,8 +1,291 @@
 {
-  "generated_at": "2026-07-01T07:02:18.775056+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-07-01T08:07:04.231939+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
+          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 07时02分]"
+        },
+        {
+          "title": "美国驻印大使爆料：特朗普想早上6点给莫迪打电话",
+          "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "美国总统特朗普的年度财务信息被披露。",
+          "url": "https://wallstreetcn.com/livenews/3126986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普2025年度的财务报告称，其至少持有500万美元的苹果(AAPL.O)公司股票。",
+          "url": "https://flash.jin10.com/detail/20260701045910278800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普2025年度的财务报告称，其从与多家媒体公司的和解协议中获得超过8000万美元收入。",
+          "url": "https://flash.jin10.com/detail/20260701045751619800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普2025年度的财务报告称，其至少买入10万零1美元以上的Palantir(PLTR.N)股票。",
+          "url": "https://flash.jin10.com/detail/20260701050003787800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时02分]"
+        },
+        {
+          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
+          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 07时02分]"
+        },
+        {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "特朗普再遭打击！美最高法院驳回限制“出生公民权”行政令",
+          "url": "https://news.ifeng.com/c/8uOA3e74QUL",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
+          "url": "https://wallstreetcn.com/articles/3775765",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 03时27分]"
+        },
+        {
+          "title": "美国总统特朗普：Pierre Yared辞去经济顾问委员会的代理主席。 其将重返哥伦比亚大学研究生院。",
+          "url": "https://wallstreetcn.com/livenews/3127002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 08时07分]"
+        },
+        {
+          "title": "美国总统特朗普2025年度的财务报告称，其从“迷因币”相关的授权或收益分成获得6.35亿美元收入。",
+          "url": "https://flash.jin10.com/detail/20260701045159164800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美国总统特朗普：皮埃尔·亚雷德（Pierre Yared）将离开经济顾问委员会。",
+          "url": "https://flash.jin10.com/detail/20260701061209980800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普已听取关于对伊朗战争方案的简报，但选择继续进行谈判。 特朗普目前将坚持对伊朗进行外交谈判。 特朗普告诉助手，如果谈判超过8月18日的截止日期，他也觉得可以接受。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3127028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
+          "url": "https://flash.jin10.com/detail/20260701044849105800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "美媒：特朗普听取恢复对伊动武选项 但其坚持外交手段",
+          "url": "https://flash.jin10.com/detail/20260701075510323800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时07分"
+        },
+        {
+          "title": "美国总统特朗普回应“最高法院推翻特朗普限制‘出生公民权’行政令”，称：最高法院的裁决对美国来说太糟糕了。 国会山应该着手废除出生公民权。",
+          "url": "https://wallstreetcn.com/livenews/3126924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国政府伦理办公室发布经认证的特朗普年度财务披露报告。",
+          "url": "https://flash.jin10.com/detail/20260701043754582800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
+          "url": "https://flash.jin10.com/detail/20260701054713686800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
+          "url": "https://flash.jin10.com/detail/20260701054226191800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：共和党将在美国德克萨斯州达拉斯举行中期大会。",
+          "url": "https://flash.jin10.com/detail/20260701054029812800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国内政部长：美国总统特朗普实际上阻止了第三次世界大战的发生。",
+          "url": "https://flash.jin10.com/detail/20260701052059560800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：共和党在美国最高法院得到了非常公平的对待。",
+          "url": "https://flash.jin10.com/detail/20260701005045498800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普：最高法院裁定扩大总统对联邦行政机构的控制权，将更多行政权力重新赋予总统；尽管“出生公民权”案败诉，但将推动国会立法予以纠正。",
+          "url": "https://flash.jin10.com/detail/20260701005020256800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时45分"
+        },
+        {
+          "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
+          "url": "https://wallstreetcn.com/livenews/3126986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 22,
@@ -253,236 +536,20 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
-          "url": "https://news.ifeng.com/c/8uNrdCXnoF5",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 07时02分]"
-        },
-        {
-          "title": "美国总统特朗普的年度财务信息被披露。",
-          "url": "https://wallstreetcn.com/livenews/3126986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其至少持有500万美元的苹果(AAPL.O)公司股票。",
-          "url": "https://flash.jin10.com/detail/20260701045910278800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其从与多家媒体公司的和解协议中获得超过8000万美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045751619800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其至少买入10万零1美元以上的Palantir(PLTR.N)股票。",
-          "url": "https://flash.jin10.com/detail/20260701050003787800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 07时02分]"
-        },
-        {
-          "title": "遭特朗普讽刺后，英首相最热人选拒绝美国邀请",
-          "url": "https://news.ifeng.com/c/8uNYuN5imVw",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 07时02分]"
-        },
-        {
-          "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
-          "url": "https://wallstreetcn.com/articles/3775765",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 03时27分]"
-        },
-        {
-          "title": "美国总统特朗普2025年度的财务报告称，其从“迷因币”相关的授权或收益分成获得6.35亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701045159164800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：皮埃尔·亚雷德（Pierre Yared）将离开经济顾问委员会。",
-          "url": "https://flash.jin10.com/detail/20260701061209980800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普提交2025年度财务披露报告，披露其通过加密货币获得数亿美元收入。",
-          "url": "https://flash.jin10.com/detail/20260701044849105800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "美国总统特朗普：Pierre Yared辞去经济顾问委员会的代理主席。 其将重返哥伦比亚大学研究生院。",
-          "url": "https://wallstreetcn.com/livenews/3127002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国总统特朗普回应“最高法院推翻特朗普限制‘出生公民权’行政令”，称：最高法院的裁决对美国来说太糟糕了。 国会山应该着手废除出生公民权。",
-          "url": "https://wallstreetcn.com/livenews/3126924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "美国政府伦理办公室发布经认证的特朗普年度财务披露报告。",
-          "url": "https://flash.jin10.com/detail/20260701043754582800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
-          "url": "https://flash.jin10.com/detail/20260701054713686800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
-          "url": "https://flash.jin10.com/detail/20260701054226191800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国总统特朗普：共和党将在美国德克萨斯州达拉斯举行中期大会。",
-          "url": "https://flash.jin10.com/detail/20260701054029812800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国内政部长：美国总统特朗普实际上阻止了第三次世界大战的发生。",
-          "url": "https://flash.jin10.com/detail/20260701052059560800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美国总统特朗普：共和党在美国最高法院得到了非常公平的对待。",
-          "url": "https://flash.jin10.com/detail/20260701005045498800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "美国总统特朗普：最高法院裁定扩大总统对联邦行政机构的控制权，将更多行政权力重新赋予总统；尽管“出生公民权”案败诉，但将推动国会立法予以纠正。",
-          "url": "https://flash.jin10.com/detail/20260701005020256800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时45分"
-        },
-        {
-          "title": "信披：特朗普对苹果、英伟达持股分别至少500万美元",
-          "url": "https://wallstreetcn.com/livenews/3126986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
           "url": "https://www.cls.cn/detail/2413394",
@@ -492,8 +559,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 08时07分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时02分 ~ 08时07分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -542,17 +621,6 @@
           "time_info": "05时21分"
         },
         {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
           "title": "周二（6月30日），美股行业ETF多数收涨，半导体ETF涨3.78%，全球科技股指数ETF、科技行业ETF至少涨2.76%，医疗业ETF、日常消费品ETF、公用事业ETF、日常消费品ETF跌1.29%-1.54%。 上半年，半导体ETF累计上涨82.13%，全球科技股指数ETF、科技行业ETF至少涨32.66%，能源业ETF、工业ETF至少涨20.04%，金融业ETF、可选消费ETF、网络股指数ETF则至多累跌1.66%。",
           "url": "https://wallstreetcn.com/livenews/3126976",
           "source": "华尔街见闻-快讯",
@@ -570,7 +638,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -592,7 +660,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -603,7 +671,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -664,9 +732,37 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时06分 ~ 08时07分]"
+        },
+        {
+          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
+          "url": "https://wallstreetcn.com/livenews/3126968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
@@ -681,11 +777,12 @@
           "ranks": [
             1,
             2,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 08时07分]"
         }
       ]
     },
@@ -703,23 +800,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
-          "url": "https://wallstreetcn.com/livenews/3126968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
         }
       ]
     },
