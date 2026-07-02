@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T08:05:10.200042+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-07-02T12:50:58.447601+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国总统特朗普：正如我所承诺的，油价正在迅速下跌，汽油价格也在下降，但速度还不够快。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -121,6 +121,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "特朗普又来：绝不让中国接管巴拿马运河",
+          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
           "title": "美国总统特朗普：我们造出了有史以来最先进的潜艇。在潜艇以及其他一些领域，我们领先对手15年。",
           "url": "https://flash.jin10.com/detail/20260702042523360800",
           "source": "金十数据",
@@ -141,6 +152,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "日本软银集团因为5000万美元“特朗普游说捐赠”而遭到美国参议院民主党成员Warren的质询。",
@@ -245,7 +267,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "卡塔尔外交大臣：卡塔尔与巴基斯坦调解人今日在多哈分别与美国和伊朗谈判代表举行会晤。",
@@ -306,6 +328,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时05分]"
+        },
+        {
+          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
+          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录 重点推动资产解冻",
@@ -454,7 +487,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
@@ -482,6 +515,19 @@
           "time_info": "[01时45分 ~ 08时05分]"
         },
         {
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时59分 ~ 12时50分]"
+        },
+        {
           "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260702012114628800",
           "source": "金十数据",
@@ -491,18 +537,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
-        },
-        {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时59分 ~ 08时05分]"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -556,7 +590,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
         },
@@ -581,6 +615,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股收盘）",
@@ -630,7 +675,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
@@ -640,8 +685,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 08时05分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 12时50分]"
         },
         {
           "title": "Palantir首席执行官Alex Karp猛烈抨击Anthropic和 OpenAI使用的Token计费结构。 Palantir与英伟达的开源模型是那些希望拥有自己数据所有权的企业和政府寻求的解决方案。 AI Token 成本的飙升让各大企业的首席执行官（CEO）们感到沮丧，这促使他们纷纷转向封闭模型之外的其他选择。",
@@ -650,9 +695,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "报道：OpenAI提议让美国政府持有公司5%股份",
+          "url": "https://wallstreetcn.com/livenews/3127802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
@@ -675,6 +731,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "据报OpenAI提出向特朗普政府提供5%的股权",
+          "url": "https://flash.jin10.com/detail/20260702121147449800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         }
       ]
     },
@@ -725,6 +792,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
+        },
+        {
+          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3127564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     },
@@ -806,23 +901,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时45分 ~ 07时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3127564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
         }
       ]
     }
