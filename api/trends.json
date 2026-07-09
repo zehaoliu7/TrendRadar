@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T19:54:59.331395+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-07-09T22:21:48.546211+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 92,
+      "match_count": 97,
       "titles": [
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -101,6 +101,21 @@
           "time_info": "[05时55分 ~ 06时53分]"
         },
         {
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            14,
+            12,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 22时21分]"
+        },
+        {
           "title": "伊朗：将对美军袭击作出“令其后悔”的回应",
           "url": "https://news.ifeng.com/c/8ubgRgsi7fb",
           "source": "凤凰网",
@@ -147,13 +162,24 @@
           "time_info": "04时20分"
         },
         {
+          "title": "土耳其外交部：土耳其外交部长在电话中与伊朗外长讨论了最新进展和停火事宜。",
+          "url": "https://flash.jin10.com/detail/20260709220901165800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "伊朗向美军事基地发射导弹",
           "url": "https://wallstreetcn.com/livenews/3131352",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -224,6 +250,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "伊朗海军上将西亚里：伊朗巨大的民众资本，加之人民对武装力量的支持，是国家权威的最重要因素，也是挫败敌人实现其目标的关键。",
+          "url": "https://flash.jin10.com/detail/20260709220629471800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "伊朗外交部：美军袭击伊朗目标构成严重战争罪",
           "url": "https://wallstreetcn.com/livenews/3131228",
           "source": "华尔街见闻-快讯",
@@ -241,7 +278,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -263,7 +300,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -285,23 +322,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
-        },
-        {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            14,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 19时54分]"
         },
         {
           "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
@@ -506,6 +529,17 @@
           "time_info": "[09时48分 ~ 09时49分]"
         },
         {
+          "title": "伊朗称发射导弹摧毁美军一指挥中心",
+          "url": "https://www.toutiao.com/trending/7660492985578032683/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "据伊朗媒体：伊朗南部拉旺岛传出巨大爆炸声。<br/>",
           "url": "https://flash.jin10.com/detail/20260709035932101800",
           "source": "金十数据",
@@ -671,6 +705,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "伊朗发射巡航导弹袭击美国舰艇",
+          "url": "https://www.toutiao.com/trending/7659924718308327474/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "据伊朗媒体：美军袭击恰巴哈尔期间，弹片波及当地伊玛目阿里医院；当地电力公司表示，袭击导致三条电力线路中断，目前已有两条恢复供电。",
           "url": "https://flash.jin10.com/detail/20260709050822429800",
           "source": "金十数据",
@@ -743,7 +788,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -897,7 +942,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -908,9 +953,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
+        },
+        {
+          "title": "伊朗称摧毁美军西亚地区指挥中心和空军基地",
+          "url": "https://wallstreetcn.com/livenews/3131404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "据以色列i24News：美国官员称，今晚对伊朗的攻击范围比前一天的打击行动更广泛。",
@@ -963,7 +1019,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1007,7 +1063,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1018,7 +1074,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         },
@@ -1074,8 +1130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时55分 ~ 19时54分]"
+          "appearance_count": 10,
+          "time_info": "[05时55分 ~ 22时21分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -1144,6 +1200,23 @@
           "time_info": "[00时02分 ~ 16时59分]"
         },
         {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            14,
+            9,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[03时01分 ~ 22时21分]"
+        },
+        {
           "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
           "url": "https://www.zhihu.com/question/2058225620715418670",
           "source": "知乎",
@@ -1155,22 +1228,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时02分 ~ 09时49分]"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15,
-            14,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[03时01分 ~ 19时54分]"
         },
         {
           "title": "特朗普要求切断美国与西班牙贸易往来",
@@ -1209,8 +1266,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时48分 ~ 19时54分]"
+          "appearance_count": 6,
+          "time_info": "[09时48分 ~ 22时21分]"
         },
         {
           "title": "特朗普就美军再次袭击伊朗发声",
@@ -1430,6 +1487,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时02分 ~ 00时03分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时54分 ~ 22时21分]"
         },
         {
           "title": "特朗普称“伊朗协议已终结”，拉美资产应声下滑",
@@ -1664,17 +1733,6 @@
           "time_info": "07时57分"
         },
         {
-          "title": "新闻蒸馏器｜美伊开火海峡重回风暴，特朗普又说很快平息，意味着什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33547226",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
           "title": "美国总统特朗普：尚未决定是否从格陵兰岛撤回部队。",
           "url": "https://flash.jin10.com/detail/20260709131326731800",
           "source": "金十数据",
@@ -1832,7 +1890,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -1857,8 +1915,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时56分 ~ 19时54分]"
+          "appearance_count": 8,
+          "time_info": "[07时56分 ~ 22时21分]"
         },
         {
           "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
@@ -1919,6 +1977,17 @@
           "time_info": "04时20分"
         },
         {
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
           "url": "https://www.cls.cn/detail/2421094",
           "source": "财联社热门",
@@ -1928,6 +1997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时59分"
+        },
+        {
+          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2422043",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "岱美股份：2026年上半年净利润预增65.75%-78.18%",
@@ -1985,6 +2065,17 @@
           "time_info": "05时55分"
         },
         {
+          "title": "美股三大股指高开，道指涨0.08%，标普500指数涨0.2%，纳指涨0.2%。明星科技股多数反弹，闪迪、美光科技涨超6%，康宁涨超8%，迈威尔科技涨超6%。META下跌4.3%，创7月2日以来最大跌幅；IBM下跌5.8%，微软下跌2.6%，此前报道称星巴克借助AI减少对微软、IBM软件的依赖；百事下跌4.6%，创2025年4月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3131408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "周三（7月8日），美股行业ETF多数收跌，区域银行ETF跌2.30%，银行业ETF跌2.27%，全球航空业ETF跌2.21%。 科技行业ETF、全球科技股指数ETF至少涨1.24%，能源业ETF涨1.76%，半导体ETF涨1.99%。",
           "url": "https://wallstreetcn.com/livenews/3130880",
           "source": "华尔街见闻-快讯",
@@ -2032,7 +2123,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "OpenAI 官宣 GPT-5.6 本周四全面开放，哪些亮点值得期待？",
@@ -2049,6 +2140,17 @@
           "time_info": "[00时02分 ~ 05时55分]"
         },
         {
+          "title": "OpenAI的CEO Altman：OpenAI最新AI模型在智能体编程中Token效率提升54%。 与（美国）政府在AI问题上“更加平稳地”推进。 与（特朗普）政府对话之后，本公司做出了“许许多多的改变”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "OpenAI：在发布初期，GPT-Live将在后台使用GPT-5.5。GPT-Live在ChatGPT中将不支持带视频或屏幕共享功能的语音交互。",
           "url": "https://flash.jin10.com/detail/20260709010430451800",
           "source": "金十数据",
@@ -2060,6 +2162,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "OpenAI的CEO Altman：中国开源模型正变得“非常好”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3131427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "OpenAI：今天开始向全球ChatGPT用户推出两个版本的GPT-Live。GPT-Live-1和GPT-Live-1 Mini。",
           "url": "https://flash.jin10.com/detail/20260709010344704800",
           "source": "金十数据",
@@ -2069,6 +2182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "市场消息：《纽约时报》申请对OpenAI实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260709220607288800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "OpenAI：推出GPT-LIVE。",
@@ -2178,7 +2302,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时54分"
         }
