@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T03:57:02.023443+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-07-12T04:37:24.148197+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "伊朗议长：致阿里·哈梅内伊遇难的责任方必将受到惩罚",
@@ -26,30 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "阿曼提议霍尔木兹“双航道”管理 伊朗航道需事先获批",
           "url": "https://flash.jin10.com/detail/20260712030241916800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
-        },
-        {
-          "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
-          "url": "https://flash.jin10.com/detail/20260712024237763800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时37分]"
         },
         {
           "title": "据伊朗Press TV：一位伊朗高级情报消息人士称，美国正在对伊朗展开一场协调一致的施压、威胁和媒体虚假信息宣传行动。",
@@ -59,11 +49,12 @@
             3,
             7,
             10,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "伊朗与阿曼外长在马斯喀特会晤 就霍尔木兹海峡问题进行了交流",
@@ -73,11 +64,12 @@
             4,
             8,
             11,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
@@ -87,11 +79,12 @@
             10,
             14,
             17,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
@@ -101,8 +94,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
@@ -112,8 +105,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "报道：伊朗两名安全人员在哈梅内伊葬礼期间遇袭身亡",
@@ -123,8 +116,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时37分]"
+        },
+        {
+          "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
+          "url": "https://flash.jin10.com/detail/20260712024237763800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时37分]"
         },
         {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
@@ -170,17 +175,18 @@
           "url": "https://flash.jin10.com/detail/20260712021317281800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时57分 ~ 04时37分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
@@ -190,8 +196,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "美股处于“极度脆弱”的时候，财报季开启了",
@@ -201,8 +207,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
@@ -213,8 +219,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -225,8 +231,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
+        },
+        {
+          "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
+          "url": "https://flash.jin10.com/detail/20260712034752790800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         }
       ]
     },
@@ -243,8 +260,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "特朗普给了泽连斯基一个重要承诺，舆论泼冷水",
@@ -254,8 +271,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -265,11 +282,12 @@
             1,
             5,
             8,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 04时37分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -281,8 +299,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时57分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时37分]"
         }
       ]
     },
@@ -296,11 +314,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时40分 ~ 03时57分]"
+          "appearance_count": 4,
+          "time_info": "[02时40分 ~ 04时37分]"
         }
       ]
     }
