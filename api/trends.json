@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T15:05:27.004334+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-07-15T17:46:22.551818+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 87,
+      "match_count": 90,
       "titles": [
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时54分 ~ 15时05分]"
+          "appearance_count": 12,
+          "time_info": "[01时54分 ~ 17时46分]"
         },
         {
           "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
@@ -70,6 +70,17 @@
           "time_info": "[00时06分 ~ 09时06分]"
         },
         {
+          "title": "伊朗打击约旦美军F18战机部署地",
+          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 17时46分]"
+        },
+        {
           "title": "伊朗称美进入正式战争状态",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
@@ -81,15 +92,16 @@
           "time_info": "[00时06分 ~ 06时43分]"
         },
         {
-          "title": "伊朗打击约旦美军F18战机部署地",
-          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
+          "title": "以色列总理对伊朗领导人发出警告",
+          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
           "source": "凤凰网",
           "ranks": [
-            3
+            5,
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时06分 ~ 15时05分]"
+          "time_info": "[12时36分 ~ 17时46分]"
         },
         {
           "title": "时隔4个月，伊朗议会复会，现场宣读穆杰塔巴声明",
@@ -101,18 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时39分 ~ 09时06分]"
-        },
-        {
-          "title": "以色列总理对伊朗领导人发出警告",
-          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 15时05分]"
         },
         {
           "title": "据伊朗IRIB新闻网：美国在周三凌晨袭击了伊朗霍韦泽（Hoveyzeh）的一处小麦储存筒仓。",
@@ -154,7 +154,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -264,7 +264,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -467,6 +467,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "伊朗公布美第五舰队指挥中心被摧毁图",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%85%AC%E5%B8%83%E7%BE%8E%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E6%8C%87%E6%8C%A5%E4%B8%AD%E5%BF%83%E8%A2%AB%E6%91%A7%E6%AF%81%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "伊朗副外长：目前伊朗在与美国的《伊斯兰堡谅解备忘录》框架下不存在任何承诺。",
           "url": "https://flash.jin10.com/detail/20260715023727946800",
           "source": "金十数据",
@@ -495,7 +506,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -542,6 +553,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社15日报道，超过30名平民在近期美国对伊朗南部的袭击中死亡。",
+          "url": "https://flash.jin10.com/detail/20260715172718656800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。",
@@ -781,7 +803,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -825,7 +847,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -836,7 +858,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -940,6 +962,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "伊朗逾180名议员发表声明，要求“惩罚”袭击肇事者",
           "url": "https://wallstreetcn.com/livenews/3133796",
           "source": "华尔街见闻-快讯",
@@ -957,7 +990,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -987,7 +1020,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -998,11 +1031,12 @@
             5,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时56分 ~ 15时05分]"
+          "appearance_count": 10,
+          "time_info": "[02时56分 ~ 17时46分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -1057,6 +1091,20 @@
           "time_info": "[00时06分 ~ 04时03分]"
         },
         {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时43分 ~ 17时46分]"
+        },
+        {
           "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
           "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
           "source": "澎湃新闻",
@@ -1069,20 +1117,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时56分 ~ 15时05分]"
-        },
-        {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时43分 ~ 15时05分]"
         },
         {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
@@ -1123,6 +1157,22 @@
           "time_info": "07时39分"
         },
         {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            15,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 17时46分]"
+        },
+        {
           "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
           "url": "https://flash.jin10.com/detail/20260715070627062800",
           "source": "金十数据",
@@ -1145,6 +1195,17 @@
           "time_info": "06时43分"
         },
         {
+          "title": "特朗普为何频频感谢中俄？",
+          "url": "https://news.ifeng.com/c/8umXJBl3ies",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "特朗普战情室密谋升级打击！美军考虑扩大对伊朗本土攻击",
           "url": "https://flash.jin10.com/detail/20260715121904164800",
           "source": "金十数据",
@@ -1165,21 +1226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
-        },
-        {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时43分 ~ 15时05分]"
         },
         {
           "title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。",
@@ -1254,6 +1300,19 @@
           "time_info": "[00时06分 ~ 01时55分]"
         },
         {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 17时46分]"
+        },
+        {
           "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
           "url": "https://www.cls.cn/detail/2426616",
           "source": "财联社热门",
@@ -1311,18 +1370,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时56分]"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 15时05分]"
         },
         {
           "title": "美国总统特朗普称代理司法部长托德·布兰奇“表现卓越”，敦促参议院尽快批准其正式任职。",
@@ -1391,6 +1438,17 @@
           "time_info": "12时36分"
         },
         {
+          "title": "特朗普性侵案败诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A7%E4%BE%B5%E6%A1%88%E8%B4%A5%E8%AF%89%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然出一重拳",
           "url": "https://v.ifeng.com/c/8uitzwbrrp3",
           "source": "凤凰网",
@@ -1408,7 +1466,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -1433,6 +1491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美伊战火愈演愈烈？特朗普被曝白宫战情室开会 讨论对伊“毁灭性打击”",
+          "url": "https://www.cls.cn/detail/2427184",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们将以实际行动回应特朗普的叫嚣，并将捍卫祖国的每一寸土地。特朗普的无礼言论，只配留给美国人自己。",
@@ -1477,6 +1546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "伊拉克总理到访白宫，特朗普：他年轻又帅，这我就不高兴了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33588226",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         },
         {
           "title": "据AXIOS：美国总统特朗普要求以色列总理内塔尼亚胡将军队撤出叙利亚和黎巴嫩。",
@@ -1603,7 +1683,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -1630,6 +1710,18 @@
           "time_info": "[00时06分 ~ 04时03分]"
         },
         {
+          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 17时46分]"
+        },
+        {
           "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
@@ -1639,17 +1731,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时43分 ~ 06时43分]"
-        },
-        {
-          "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
-          "url": "https://wallstreetcn.com/articles/3776859",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 15时05分]"
         },
         {
           "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
@@ -1733,6 +1814,28 @@
           "time_info": "[01时54分 ~ 01时55分]"
         },
         {
+          "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
+          "url": "https://wallstreetcn.com/articles/3776944",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超5%，苹果涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3134244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "周二（7月14日），美股降息赢家指数涨1.04%，报95.79点，整体维持上涨状态，在美国CPI通胀数据发布之后高开，美联储主席沃什听证会期间回吐涨幅。",
           "url": "https://wallstreetcn.com/livenews/3133875",
           "source": "华尔街见闻-快讯",
@@ -1783,7 +1886,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
@@ -1797,6 +1900,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "阿斯麦美股盘前涨近6%，公司Q2业绩全面超预期，并上调全年业绩指引。 SK海力士美股盘前跌近5%，公司前一交易日收涨超27%。",
+          "url": "https://wallstreetcn.com/livenews/3134222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         }
       ]
     },
@@ -1922,7 +2036,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
@@ -1937,6 +2051,17 @@
           "time_info": "[00时06分 ~ 07时39分]"
         },
         {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
+        },
+        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
@@ -1945,8 +2070,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时36分 ~ 15时05分]"
+          "appearance_count": 3,
+          "time_info": "[12时36分 ~ 17时46分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
@@ -1970,6 +2095,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "DeepSeek启动新融资，首轮落空的投资人再度开抢",
+          "url": "https://flash.jin10.com/detail/20260715172344196800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时46分"
         }
       ]
     },
@@ -2040,7 +2176,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时05分"
         },
