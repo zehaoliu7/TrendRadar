@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T19:24:34.815291+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-07-16T21:10:12.171853+08:00",
+  "total_titles_processed": 1691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 82,
+      "match_count": 87,
       "titles": [
         {
           "title": "美军称对伊朗进行了90分钟打击",
@@ -307,6 +307,18 @@
           "time_info": "[01时01分 ~ 03时59分]"
         },
         {
+          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
+          "url": "https://www.cls.cn/detail/2428434",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时10分]"
+        },
+        {
           "title": "美军称对伊朗进行了90分钟打击",
           "url": "https://www.toutiao.com/trending/7662700409185635891/",
           "source": "今日头条",
@@ -372,9 +384,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：关于谅解备忘录，德黑兰的立场从一开始就是明确的，我们恪守“承诺换承诺”的原则。",
+          "url": "https://flash.jin10.com/detail/20260716203808805800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：将谈判与战争割裂开来，并认为二者只能二选一，是一种战略错误。",
@@ -386,6 +409,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：任何针对伊朗的侵略行为都将遭到果断、直接且坚决的回应。",
+          "url": "https://flash.jin10.com/detail/20260716203802262800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "据伊朗迈赫尔通讯社16日凌晨报道，伊朗首都德黑兰启动防空系统，以应对敌对威胁。（新华社）",
@@ -408,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗武装部队已做好应对各种情况的充分准备，这一点已在实践中得到证明。",
+          "url": "https://flash.jin10.com/detail/20260716203751546800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "伊朗议会议长、顶级谈判员卡利巴夫：我们必须应用外交+谈判手段。 伊朗必须随时准备好（与敌人）战斗。 如果与美国达成的停火谅解备忘录（MoU）不能（给伊朗）带来好处，那就没理由遵守。 国家安全完全取决于伊朗在霍尔木兹海峡问题上的安排。 谈判不等于妥协。 我们正面临一场复杂的战争。（伊朗电视台）",
@@ -460,7 +505,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -496,17 +541,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
-        },
-        {
-          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
-          "url": "https://www.cls.cn/detail/2428434",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗阿巴斯港传出爆炸声。",
@@ -636,7 +670,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -691,7 +725,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -716,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗被曝或要求也门胡塞武装封锁曼德海峡",
+          "url": "https://wallstreetcn.com/livenews/3135075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "据伊朗媒体Fars News：科威特布比延岛和弗吉尼亚军事营地传出巨大的爆炸声。上述地点均有美军人员驻扎。<br/>",
@@ -746,7 +791,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -768,7 +813,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -867,7 +912,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -922,7 +967,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -936,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
+        },
+        {
+          "title": "报道：若电力网络遭到打击 伊朗将要求胡塞武装封锁红海",
+          "url": "https://wallstreetcn.com/livenews/3135058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
@@ -1000,11 +1056,12 @@
             9,
             7,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时45分 ~ 19时24分]"
+          "appearance_count": 12,
+          "time_info": "[06时45分 ~ 21时10分]"
         },
         {
           "title": "性侵案败诉，特朗普赔付女作家逾560万美元",
@@ -1569,7 +1626,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1789,7 +1846,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1808,8 +1865,20 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 21时10分]"
+        },
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
           "url": "https://wallstreetcn.com/articles/3776859",
@@ -1850,18 +1919,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时45分 ~ 15时13分]"
-        },
-        {
-          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
-          "url": "https://wallstreetcn.com/articles/3776964",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 19时24分]"
         },
         {
           "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
@@ -1946,6 +2003,17 @@
           "time_info": "[01时02分 ~ 02时07分]"
         },
         {
+          "title": "半导体抛售潮重创全球股市，美股盘前存储芯片股普跌，台积电跌近5%，韩股收跌6%，布油转跌",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
+        },
+        {
           "title": "农产品基金收涨约1.3%，领涨美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3134598",
           "source": "华尔街见闻-快讯",
@@ -1968,6 +2036,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时55分 ~ 05时45分]"
+        },
+        {
+          "title": "美股期指走低 纳指期货跌1% 芯片股普遍承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2428765",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时10分]"
         },
         {
           "title": "美联航二季度运营收入177亿美元，分析师预期175.5亿美元。 二季度调整后每股收益（EPS）为1.99美元，分析师预期1.85美元。 二季度资本开支13.4亿美元，同比增长4.4%。 预计2026年燃油开支将增加大约60亿美元。 预计全年调整后EPS为9-11美元，分析师预期10.51美元，公司原本预计7-11美元。 美联航美股盘后跌3%。",
@@ -2042,13 +2121,24 @@
           "time_info": "[04时55分 ~ 05时45分]"
         },
         {
+          "title": "美元指数短线波动不大，现报100.56。美股期货短线走低，纳斯达克100指数期货跌1%。美国10年期国债收益率短线波动不大，现报4.580%。现货黄金短线小幅拉升，现报4028.21美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3135086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "联合健康美股盘前涨超8%，公司二季度业绩超预期，并上调全年业绩指引。",
           "url": "https://wallstreetcn.com/livenews/3135023",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -2108,6 +2198,17 @@
           "time_info": "17时51分"
         },
         {
+          "title": "雅培第二季度净销售额为125.9亿美元，市场预期为125.4亿美元。 第二季度调整后每股收益为1.31美元，市场预期为1.28美元。 雅培预计2026年全年调整后每股收益为5.45至5.60美元，此前预期为5.38至5.58美元。 雅培预计第三季度调整后每股收益为1.38至1.46美元，市场预期为1.42美元。 雅培美股盘前涨4%。",
+          "url": "https://wallstreetcn.com/livenews/3135057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
+        },
+        {
           "title": "美股中概股大涨 阿里巴巴涨超7%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%B6%A8%E8%B6%857%25",
           "source": "百度热搜",
@@ -2122,7 +2223,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "巴菲特罕见发声：当每个人都喜欢赌博时，很难找到价值，谷歌能击败95%华尔街推的票",
@@ -2135,8 +2236,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 19时24分]"
+          "appearance_count": 8,
+          "time_info": "[12时46分 ~ 21时10分]"
         },
         {
           "title": "美国启动特定DRAM设备337调查 三星电子、谷歌、英伟达等被列为被告",
@@ -2217,12 +2318,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "Google与英国零售贸易商Screwfix达成合作。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
@@ -2270,11 +2382,23 @@
           "url": "https://www.toutiao.com/trending/7663049647610400299/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 21时10分]"
+        },
+        {
+          "title": "【DeepSeek估值超3500亿元】上市公司开润股份一纸投资进展公告，意外披露了国内头部人工智能企业“深度求索”（DeepSeek）的最新市场估值。按公告数据推算，DeepSeek本轮融资后估值已攀升至约3510亿元。记者从接近DeepSeek处人士确认，随着本轮融资完成，该公司目前已经开始启动第二轮融资了，但是年底是否冲刺科创板，目前并未确定。不过，该人士并未透露更多细节。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3135077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时24分"
+          "time_info": "21时10分"
         }
       ]
     },
@@ -2352,7 +2476,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
