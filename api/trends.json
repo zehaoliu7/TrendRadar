@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T20:56:07.572053+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-07-17T22:23:53.541322+08:00",
+  "total_titles_processed": 1655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
@@ -29,6 +29,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时07分 ~ 19时12分]"
+        },
+        {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.toutiao.com/trending/7663410168377380371/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 22时23分]"
         },
         {
           "title": "美军轰炸伊朗桥梁切断补给线，伊朗划下“红线”准备反击",
@@ -81,9 +95,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
+        },
+        {
+          "title": "战火烧向民用基建！美军炸桥炸机场，伊朗反手袭击海湾供电供水设施",
+          "url": "https://flash.jin10.com/detail/20260717215016412800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "美国袭击伊朗港口城市致7死9伤",
@@ -136,22 +161,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
-        },
-        {
-          "title": "伊朗称摧毁多架美军战斗机",
-          "url": "https://www.toutiao.com/trending/7663410168377380371/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 20时56分]"
         },
         {
           "title": "据伊朗媒体Fars News：美国打击了伊朗港口城市哈米尔的一座桥梁。",
@@ -238,6 +250,18 @@
           "time_info": "[03时54分 ~ 04时42分]"
         },
         {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 22时23分]"
+        },
+        {
           "title": "美国政府新规收紧国际学生等入境居留期限 美军连续第五晚打击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2428979",
           "source": "财联社热门",
@@ -259,17 +283,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时52分]"
-        },
-        {
-          "title": "伊朗称摧毁多架美军战斗机",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%91%A7%E6%AF%81%E5%A4%9A%E6%9E%B6%E7%BE%8E%E5%86%9B%E6%88%98%E6%96%97%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 20时56分]"
         },
         {
           "title": "伊朗多地遭袭击",
@@ -333,7 +346,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -624,6 +637,17 @@
           "time_info": "09时20分"
         },
         {
+          "title": "伊拉克北部一伊朗反政府武装遭袭9死3伤",
+          "url": "https://wallstreetcn.com/livenews/3135761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
           "url": "https://flash.jin10.com/detail/20260717035252961800",
           "source": "金十数据",
@@ -696,7 +720,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -795,7 +819,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -820,6 +844,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
+        },
+        {
+          "title": "美军夜袭伊朗 多座桥梁被炸",
+          "url": "https://flash.jin10.com/detail/20260717213222651800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "伊朗革命卫队：打击叙利亚美军指挥中心 造成大量美军人员死亡",
@@ -858,8 +893,21 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 22时23分]"
+        },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
           "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
@@ -873,19 +921,6 @@
           "time_info": "[00时59分 ~ 09时20分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 20时56分]"
-        },
-        {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
           "url": "https://news.ifeng.com/c/8upog6XKRmu",
           "source": "凤凰网",
@@ -893,8 +928,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 20时56分]"
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 22时23分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -1229,12 +1264,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时54分"
+        },
+        {
+          "title": "欧盟推出银行业改革以回应特朗普的放松监管政策。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3135739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -1245,8 +1291,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时19分 ~ 20时56分]"
+          "appearance_count": 10,
+          "time_info": "[09时19分 ~ 22时23分]"
         },
         {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
@@ -1304,6 +1350,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时00分"
+        },
+        {
+          "title": "道指转涨，刷新日高、逼近52560点，美股盘初一度跌至51986.74点刷新日低。 存储板块集体拉升，纷纷收复此前4%-7%的盘初跌幅。SK海力士ADR目前涨4.63%，美光科技股价下跌0.17%，闪迪股价上涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3135778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌2.5%，全球科技股指数ETF跌近2%，能源业ETF、日常消费品ETF涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "7月17日投资避雷针：美股半导体板块再度大跌 SK海力士、闪迪跌超12%",
@@ -1444,6 +1523,28 @@
           "time_info": "05时52分"
         },
         {
+          "title": "SK海力士美股股价收复逾4%跌幅，现涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3135764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
+          "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260717214131294800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "美股存储芯片指数跌幅扩大至7%，闪迪跌幅扩大至10%，西部数据跌近9%。SK海力士ADR跌8.6%。费城半导体指数目前跌3.5%，纳斯达克100指数维持超过0.9%的跌幅。",
           "url": "https://wallstreetcn.com/livenews/3135181",
           "source": "华尔街见闻-快讯",
@@ -1486,6 +1587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "美股盘初：纳指跌1.8%，费城半导体指数跌超3%，奈飞跌约12%，SpaceX跌约3%",
+          "url": "https://wallstreetcn.com/livenews/3135751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         }
       ]
     },
@@ -1701,8 +1813,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时50分 ~ 20时56分]"
+          "appearance_count": 8,
+          "time_info": "[12时50分 ~ 22时23分]"
         },
         {
           "title": "何为AI泡沫？分析师：OpenAI就是“业界雷曼兄弟”，一倒全市场将崩盘！",
@@ -1761,7 +1873,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         },
@@ -1783,7 +1895,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时56分"
         }
