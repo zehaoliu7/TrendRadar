@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T21:41:14.854758+08:00",
-  "total_titles_processed": 1527,
+  "generated_at": "2026-07-20T23:42:34.624098+08:00",
+  "total_titles_processed": 1648,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 90,
+      "match_count": 94,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -74,11 +74,12 @@
           "url": "https://news.ifeng.com/c/8uuXB95ZA03",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时32分 ~ 21时41分]"
+          "appearance_count": 5,
+          "time_info": "[16时32分 ~ 23时42分]"
         },
         {
           "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
@@ -168,7 +169,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -203,7 +204,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -640,7 +641,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -676,6 +677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时41分"
+        },
+        {
+          "title": "伊朗：美国空袭针对设拉子（Shiraz），没有造成人员伤亡。（FARS）",
+          "url": "https://wallstreetcn.com/livenews/3136987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美军导弹打击伊朗石油重镇",
@@ -717,7 +729,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -788,6 +800,17 @@
           "time_info": "19时32分"
         },
         {
+          "title": "法国外交部长巴罗：两名大使馆官员在周日遭到伊朗安全部门的严重威胁。",
+          "url": "https://flash.jin10.com/detail/20260720232657642800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "美军称继续执行针对伊朗的海上封锁任务",
           "url": "https://wallstreetcn.com/livenews/3136411",
           "source": "华尔街见闻-快讯",
@@ -816,7 +839,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -865,13 +888,24 @@
           "time_info": "13时25分"
         },
         {
+          "title": "伊朗设拉子传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3136972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "据法尔斯通讯社：伊朗伊斯兰革命卫队称已打击巴林萨尔基尔空军基地、萨勒曼港及科威特阿里夫詹基地。",
           "url": "https://flash.jin10.com/detail/20260720211724437800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1003,7 +1037,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1014,9 +1048,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "伊朗设拉子（Shiraz）传出爆炸声。（FARS）",
+          "url": "https://wallstreetcn.com/livenews/3136965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "伊朗多地传出爆炸声",
@@ -1047,7 +1092,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -1055,7 +1100,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普最新发声！美军连续八天夜袭伊朗 美国发布全球安全警示",
@@ -1094,17 +1139,6 @@
           "time_info": "[04时42分 ~ 06时38分]"
         },
         {
-          "title": "如何看特朗普不愿离开颁奖台",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
           "title": "FIFA将大力神杯送入特朗普包厢",
           "url": "https://www.baidu.com/s?wd=FIFA%E5%B0%86%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF%E9%80%81%E5%85%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%8C%85%E5%8E%A2",
           "source": "百度热搜",
@@ -1130,6 +1164,33 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时00分 ~ 06时38分]"
+        },
+        {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            14,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 23时42分]"
+        },
+        {
+          "title": "如何看特朗普不愿离开颁奖台",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 23时42分]"
         },
         {
           "title": "据福克斯新闻：白宫确认特朗普将向今天阿根廷与西班牙的世界杯决赛获胜者颁发冠军奖杯。",
@@ -1169,20 +1230,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时19分 ~ 16时32分]"
-        },
-        {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 21时41分]"
         },
         {
           "title": "特朗普摸大力神杯",
@@ -1308,6 +1355,17 @@
           "time_info": "19时32分"
         },
         {
+          "title": "美国参议员敦促美国总统特朗普政府维持航空业零关税，并寻求与盟国防务公司的更紧密合作。",
+          "url": "https://flash.jin10.com/detail/20260720232958903800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普隔着防弹玻璃看世界杯决赛，抚摸大力神杯笑容满面",
           "url": "https://v.ifeng.com/c/8utJ07KL1aZ",
           "source": "凤凰网",
@@ -1317,6 +1375,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普政府的人工智能安全机构负责人辞职",
+          "url": "https://flash.jin10.com/detail/20260720232911398800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普称痛击伊朗为身亡美军报仇",
@@ -1350,6 +1419,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "据Axios网站：美国总统特朗普政府的人工智能安全机构负责人辞职。",
+          "url": "https://flash.jin10.com/detail/20260720232317606800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
+          "url": "https://www.zhihu.com/question/2062557149230903440",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "特朗普称痛击伊朗为身亡美军报仇",
@@ -1432,7 +1523,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
@@ -1447,15 +1538,38 @@
           "time_info": "[19时32分 ~ 21时41分]"
         },
         {
+          "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "AMD美股盘前涨近6%，报道：微软将部署AMD Helios机架级解决方案",
           "url": "https://wallstreetcn.com/livenews/3136929",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2431734",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时40分 ~ 23时42分]"
         },
         {
           "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
@@ -1470,24 +1584,13 @@
           "time_info": "[13时25分 ~ 16时32分]"
         },
         {
-          "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2431734",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时40分 ~ 21时41分]"
-        },
-        {
           "title": "周一美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3136924",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1520,7 +1623,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1531,9 +1634,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
+        },
+        {
+          "title": "美股存储芯片反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美股存储芯片股盘前走高，闪迪涨约4%，SK海力士涨约5%，美光科技涨约4%，西部数据、希捷科技涨约2%。",
@@ -1604,7 +1718,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1615,7 +1729,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1626,7 +1740,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         },
@@ -1637,7 +1751,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时41分"
         }
@@ -1645,7 +1759,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -1676,11 +1790,23 @@
           "url": "https://www.zhihu.com/question/2059057378591613636",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时32分 ~ 21时41分]"
+          "appearance_count": 4,
+          "time_info": "[19时32分 ~ 23时42分]"
+        },
+        {
+          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
+          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         }
       ]
     },
