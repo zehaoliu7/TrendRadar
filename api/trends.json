@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T12:50:28.983123+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-07-28T15:29:19.834809+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时26分 ~ 06时55分]"
+        },
+        {
+          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
+          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 15时29分]"
         },
         {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
@@ -31,15 +42,16 @@
           "time_info": "[01时26分 ~ 07时52分]"
         },
         {
-          "title": "内塔尼亚胡访美，会与特朗普聊啥？",
-          "url": "https://news.ifeng.com/c/8v6sJsiidDd",
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
           "source": "凤凰网",
           "ranks": [
-            3
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时51分 ~ 12时50分]"
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 15时29分]"
         },
         {
           "title": "美国总统特朗普：有理由善待通用汽车。",
@@ -64,6 +76,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 15时29分]"
+        },
+        {
           "title": "特朗普再给伊朗最后外交窗口：谈判失败将恢复“强力军事行动”",
           "url": "https://flash.jin10.com/detail/20260728072856415800",
           "source": "金十数据",
@@ -75,17 +98,6 @@
           "time_info": "07时52分"
         },
         {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
-        },
-        {
           "title": "一名官员称：美国总统特朗普将与即将到访的以色列总理讨论伊朗问题和“亚伯拉罕”协议。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3140466",
           "source": "华尔街见闻-快讯",
@@ -95,17 +107,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时51分 ~ 12时50分]"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
@@ -245,6 +246,18 @@
         },
         {
           "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时50分 ~ 15时29分]"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
           "url": "https://wallstreetcn.com/livenews/3140503",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -353,17 +366,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
         },
         {
           "title": "美国总统特朗普：沃什将作出正确决定，我理解沃什的想法和诉求。",
@@ -564,6 +566,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "特朗普政府要求美最高法院限制邮寄选票",
+          "url": "https://wallstreetcn.com/livenews/3140789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "美国总统特朗普：还没有考虑更换美国参议院多数党领袖图恩。",
           "url": "https://flash.jin10.com/detail/20260728003026690800",
           "source": "金十数据",
@@ -655,7 +668,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股",
@@ -710,8 +723,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时54分 ~ 12时50分]"
+          "appearance_count": 7,
+          "time_info": "[06时54分 ~ 15时29分]"
+        },
+        {
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 15时29分]"
         },
         {
           "title": "美股高开低走，存储大跌、阿斯麦跌8%自动停牌，布油一度大跌7%、债市走强",
@@ -748,16 +774,15 @@
           "time_info": "[05时58分 ~ 05时59分]"
         },
         {
-          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
-          "url": "https://wallstreetcn.com/articles/3778058",
-          "source": "华尔街见闻",
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
+          "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时15分 ~ 12时50分]"
+          "time_info": "[12时50分 ~ 15时29分]"
         },
         {
           "title": "美股芯片股“血流成河”",
@@ -769,17 +794,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
-          "url": "https://www.cls.cn/detail/2438605",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时50分"
         },
         {
           "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
@@ -832,6 +846,18 @@
           "time_info": "[07时51分 ~ 09时15分]"
         },
         {
+          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
+          "url": "https://www.cls.cn/detail/2438430",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时15分 ~ 15时29分]"
+        },
+        {
           "title": "铿腾电子（Cadence Design）二季度营收15.8亿美元，分析师预期15.7亿美元。 二季度调整后每股收益（EPS）为2.11美元，分析师预期2.06美元。 预计全年营收62.6亿-63.4亿美元，公司原本预计61.3亿-62.3亿美元。 预计全年调整后EPS为8.05-8.15美元，公司原本预计7.58-7.95美元。 预计三季度营收16.0亿-16.3亿美元，分析师预期15.5亿美元。 预计三季度调整后EPS为2.01-2.07美元，分析师预期1.95美元。 铿腾电子（CDNS）美股盘后涨7%。",
           "url": "https://wallstreetcn.com/livenews/3140506",
           "source": "华尔街见闻-快讯",
@@ -854,18 +880,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 07时52分]"
-        },
-        {
-          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
-          "url": "https://www.cls.cn/detail/2438430",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时15分 ~ 12时50分]"
         },
         {
           "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股收盘）",
@@ -904,6 +918,17 @@
           "time_info": "[04时58分 ~ 05时59分]"
         },
         {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "美光科技(MU.O)、西部数据(WDC.O)和SK海力士(SKHY.O)美股盘后均跌超2%。",
           "url": "https://flash.jin10.com/detail/20260728082354418800",
           "source": "金十数据",
@@ -924,6 +949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
@@ -951,7 +987,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
@@ -1100,6 +1136,17 @@
           "time_info": "[04时58分 ~ 05时59分]"
         },
         {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "加拿大外长：与卡塔尔首相兼外交大臣通话。加拿大支持卡塔尔的主权和安全，我们呼吁伊朗停止袭击，重新开放霍尔木兹海峡至关重要。",
           "url": "https://flash.jin10.com/detail/20260728005241733800",
           "source": "金十数据",
@@ -1111,13 +1158,24 @@
           "time_info": "01时26分"
         },
         {
+          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
+          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
           "title": "泽连斯基：与伊朗已处于战争中",
           "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
           "source": "凤凰网",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         },
@@ -1142,6 +1200,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "博主：泽连斯基早就对伊朗怀恨在心",
+          "url": "https://www.toutiao.com/trending/7667443070362717742/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         },
         {
           "title": "美军称对伊朗海上封锁期间已迫使17艘商船改道",
@@ -1221,11 +1301,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 12时50分]"
+          "appearance_count": 12,
+          "time_info": "[01时26分 ~ 15时29分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
@@ -1254,11 +1335,12 @@
             14,
             15,
             16,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 12时50分]"
+          "appearance_count": 12,
+          "time_info": "[01时26分 ~ 15时29分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -1271,6 +1353,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 06时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月28日（周二）上海金午盘价为882.55元/克，较国际金价(880.92元/克)，高1.63元/克",
+          "url": "https://flash.jin10.com/detail/20260728150739432800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "突破4000美元“拉锯区”，金价筑底信号显现",
+          "url": "https://wallstreetcn.com/livenews/3140540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时55分 ~ 07时52分]"
         }
       ]
     },
@@ -1316,24 +1427,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "突破4000美元“拉锯区”，金价筑底信号显现",
-          "url": "https://wallstreetcn.com/livenews/3140540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时52分]"
         }
       ]
     },
