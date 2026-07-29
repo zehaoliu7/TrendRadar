@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T15:36:39.987663+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-07-29T18:24:27.081310+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -71,6 +71,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "据以色列媒体：一名曾在机密部队服役的以色列人被指控为伊朗从事间谍活动，并试图提供信息。",
+          "url": "https://flash.jin10.com/detail/20260729181643077800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美参议院通过制裁俄罗斯和伊朗法案程序性投票",
           "url": "https://wallstreetcn.com/livenews/3141283",
           "source": "华尔街见闻-快讯",
@@ -110,7 +121,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -172,6 +183,17 @@
           "time_info": "[07时47分 ~ 09时17分]"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时17分 ~ 18时24分]"
+        },
+        {
           "title": "布伦特原油日内跌幅达6.0%，报80.69美元/桶。 据以色列媒体报道，参与斡旋的调解方相信，美国与伊朗距离达成突破性进展已经不远，双方可能重启今年6月签署的谅解备忘录、即初步停火协议。",
           "url": "https://wallstreetcn.com/livenews/3141131",
           "source": "华尔街见闻-快讯",
@@ -184,15 +206,16 @@
           "time_info": "[01时16分 ~ 03时01分]"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时17分 ~ 15时36分]"
+          "time_info": "[12时55分 ~ 18时24分]"
         },
         {
           "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
@@ -200,18 +223,6 @@
           "source": "财联社热门",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时36分]"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -238,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "伊朗要求霍尔木兹海峡通行船只须经伊朗水域",
+          "url": "https://wallstreetcn.com/livenews/3141630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "乌克兰外交部长：强调了避免局势升级以及停止伊朗对俄罗斯支持的必要性。",
@@ -515,6 +537,17 @@
           "time_info": "01时16分"
         },
         {
+          "title": "据沙特媒体哈达斯（Alhadath）援引以色列军事消息人士称，美国中央司令部对以色列防长卡茨感到不满，因为卡茨此前透露美国战斗机从以色列机场起飞，以执行轰炸伊朗的作战行动。以色列参谋长因卡茨的言论向中央司令部指挥官道歉。",
+          "url": "https://flash.jin10.com/detail/20260729180537899800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "伊朗副外长：伊朗将考虑采取“任何行动”以维持对霍尔木兹海峡的控制",
           "url": "https://flash.jin10.com/detail/20260729005746292800",
           "source": "金十数据",
@@ -581,6 +614,17 @@
           "time_info": "09时17分"
         },
         {
+          "title": "市场消息：消息人士称，部分美国驻中东部队人员可能会被没收手机，美军指挥官警告部队不得分享伊朗打击行动相关视频。",
+          "url": "https://flash.jin10.com/detail/20260729180117688800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "MIZAN：伊朗伊斯兰革命卫队呼吁沙特阿拉伯结束对也门的封锁。",
           "url": "https://wallstreetcn.com/livenews/3141107",
           "source": "华尔街见闻-快讯",
@@ -598,7 +642,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -617,7 +661,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "以色列发言人：在美国总统特朗普与以色列总理内塔尼亚胡的会晤中未讨论土耳其和F-35问题。",
@@ -651,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "特朗普：美墨加协定续不续签“无所谓”",
+          "url": "https://wallstreetcn.com/livenews/3141634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "对伊朗军事行动以来 特朗普与内塔尼亚胡首次会晤",
@@ -724,6 +779,18 @@
           "time_info": "[09时17分 ~ 12时55分]"
         },
         {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 18时24分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们的目标与特朗普一致，就是不让伊朗获得核武器。",
           "url": "https://flash.jin10.com/detail/20260729022109008800",
           "source": "金十数据",
@@ -733,6 +800,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "卢拉讽刺特朗普：每个巴西公民都能享有总统同等医疗待遇",
+          "url": "https://v.ifeng.com/c/8v9pAhXFNg6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "伊朗突袭美军基地！特朗普的停火赌局遭遇新考验，油价反弹4%！",
@@ -746,15 +824,26 @@
           "time_info": "07时47分"
         },
         {
-          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
-          "source": "澎湃新闻",
+          "title": "特朗普被发现在格雷厄姆葬礼打瞌睡，白宫：他在缅怀",
+          "url": "https://v.ifeng.com/c/8v8ALtYnwhG",
+          "source": "凤凰网",
           "ranks": [
-            15
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时36分"
+          "time_info": "18时24分"
+        },
+        {
+          "title": "美国总统特朗普周三日程",
+          "url": "https://flash.jin10.com/detail/20260729180656731800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "美国总统特朗普：以色列总理比比·内塔尼亚胡和我以及一些代表进行了非常好的会议！显然，我们讨论了许多重要议题。",
@@ -779,6 +868,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-29）",
+          "url": "https://flash.jin10.com/detail/20260729180645765800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "美国总统特朗普：很荣幸与乌克兰总统泽连斯基会面。我们讨论了很多事情。会议进行得非常顺利！",
           "url": "https://flash.jin10.com/detail/20260729085553697800",
           "source": "金十数据",
@@ -796,7 +896,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -873,7 +973,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -903,7 +1003,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
@@ -916,8 +1016,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 15时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 18时24分]"
         },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
@@ -934,17 +1034,6 @@
           "time_info": "[01时15分 ~ 09时17分]"
         },
         {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时47分 ~ 15时36分]"
-        },
-        {
           "title": "美股半导体崩盘,闪迪跌破新低",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
           "source": "贴吧",
@@ -952,11 +1041,12 @@
             11,
             12,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 15时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 18时24分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -981,6 +1071,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时15分 ~ 03时01分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 18时24分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -1064,6 +1166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "FOMC和巨头财报在即，市场严阵以待！美股存储股盘前续跌，韩股连续两日暴跌熔断，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "美股三大股指期货短线小幅下挫，道指期货跌0.13%，标普500指数期货跌0.08%，纳指期货跌0.02%。",
