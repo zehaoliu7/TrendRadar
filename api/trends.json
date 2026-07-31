@@ -1,78 +1,12 @@
 {
-  "generated_at": "2026-08-01T00:32:29.811169+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-01T01:16:44.968220+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 40,
       "titles": [
-        {
-          "title": "美国总统特朗普赞扬英伟达(NVDA.O)。",
-          "url": "https://flash.jin10.com/detail/20260801002339147800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯总统普京与乌克兰总统泽连斯基需要让步。",
-          "url": "https://wallstreetcn.com/livenews/3143395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）可以达成协议。",
-          "url": "https://flash.jin10.com/detail/20260801002327661800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "特朗普对伊朗失去信心，称对方撒谎",
-          "url": "https://wallstreetcn.com/livenews/3143394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）总统特使威特科夫、库什纳、美国副总统万斯、美国国务卿鲁比奥参与谈判。",
-          "url": "https://flash.jin10.com/detail/20260801002313960800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普称赞英伟达。",
-          "url": "https://wallstreetcn.com/livenews/3143393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
@@ -81,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -92,85 +26,197 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
+          "url": "https://flash.jin10.com/detail/20260801005015734800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时16分"
+        },
+        {
+          "title": "特朗普否认允许乌生产爱国者拦截弹",
+          "url": "https://wallstreetcn.com/livenews/3143400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "特朗普否认允许乌生产爱国者拦截弹",
+          "url": "https://flash.jin10.com/detail/20260801004608230800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯总统普京与乌克兰总统泽连斯基需要让步。",
+          "url": "https://wallstreetcn.com/livenews/3143395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "美国总统特朗普赞扬英伟达(NVDA.O)。",
+          "url": "https://flash.jin10.com/detail/20260801002339147800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "特朗普对伊朗失去信心，称对方撒谎",
+          "url": "https://wallstreetcn.com/livenews/3143394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）可以达成协议。",
+          "url": "https://flash.jin10.com/detail/20260801002327661800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）总统特使威特科夫、库什纳、美国副总统万斯、美国国务卿鲁比奥参与谈判。",
+          "url": "https://flash.jin10.com/detail/20260801002313960800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "美国总统特朗普称赞英伟达。",
+          "url": "https://wallstreetcn.com/livenews/3143393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "美国总统特朗普：（关于乌克兰与导弹问题）我认为这绝对不会发生。",
           "url": "https://flash.jin10.com/detail/20260801002047870800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "美国总统特朗普：（关于乌克兰与导弹问题）并未同意此事。",
           "url": "https://flash.jin10.com/detail/20260801002042058800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "美国总统特朗普：（关于乌克兰与导弹问题）对于允许他人制造导弹，我们必须非常谨慎。",
           "url": "https://flash.jin10.com/detail/20260801002039908800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "美国总统特朗普声称：在解除哈马斯武装方面，美方与以色列有谅解。",
           "url": "https://wallstreetcn.com/livenews/3143389",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "美国总统特朗普：（关于针对伊朗的袭击）我们已经采取了大规模行动。",
           "url": "https://flash.jin10.com/detail/20260801001910934800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "美国总统特朗普：（反武器化）基金已经告吹了，但我希望它没有。",
           "url": "https://flash.jin10.com/detail/20260801001723128800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "美国总统特朗普声称：我们只想赢（得伊朗战争）。 我们将非常沉重地打击他们。 未来数周将打击他们。",
           "url": "https://wallstreetcn.com/livenews/3143387",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
@@ -180,8 +226,66 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "美国总统特朗普声称：与委内瑞拉关系很好。",
+          "url": "https://wallstreetcn.com/livenews/3143375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "美国总统特朗普声称：伊朗做得非常糟糕。 在与美国打交道时候，伊朗不老实。 伊朗处境艰难。",
+          "url": "https://wallstreetcn.com/livenews/3143374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "美国总统特朗普宣称：西班牙移民局势是“灾难”。",
+          "url": "https://wallstreetcn.com/livenews/3143373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "美国总统特朗普政府在委内瑞拉事务上的非正式顾问毛里西奥·克拉弗-卡罗内辞去了职务。",
+          "url": "https://flash.jin10.com/detail/20260801003644824800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时16分"
+        },
+        {
+          "title": "特朗普：与伊朗可以达成协议 但对他们越来越不信任",
+          "url": "https://flash.jin10.com/detail/20260801003558968800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "美国总统特朗普：美国代理司法部长布兰奇应该获得批准。",
@@ -195,6 +299,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：伊朗的谈判方式让我恼火。本来10分钟就能搞定的事，他们却要花上7个小时。",
+          "url": "https://flash.jin10.com/detail/20260801003021450800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
           "title": "美国总统特朗普：（关于反武器化基金）他们已同意不设立基金。",
           "url": "https://flash.jin10.com/detail/20260801001524371800",
           "source": "金十数据",
@@ -204,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：明尼苏达州正在发生涉及腐败的重大事件，影响深远。",
+          "url": "https://flash.jin10.com/detail/20260801002911710800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "美国总统特朗普：（关于国际足联）我们从未谈及交易。",
@@ -217,6 +343,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：我告诉泽连斯基，你必须结束这场战争。",
+          "url": "https://flash.jin10.com/detail/20260801002802818800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
           "title": "美国总统特朗普：（关于以色列与哈马斯协议）这是中东地区的重要一步。",
           "url": "https://flash.jin10.com/detail/20260801001306615800",
           "source": "金十数据",
@@ -226,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗向约旦发射了五枚导弹。",
+          "url": "https://flash.jin10.com/detail/20260801002707332800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们将对他们采取行动。",
@@ -239,6 +387,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：（关于乌克兰战争）双方都需要作出让步。",
+          "url": "https://flash.jin10.com/detail/20260801002600202800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
           "title": "美国总统特朗普：伊朗正在遭受重创。",
           "url": "https://flash.jin10.com/detail/20260801001141850800",
           "source": "金十数据",
@@ -250,44 +409,22 @@
           "time_info": "00时32分"
         },
         {
+          "title": "美国总统特朗普：（关于达成伊朗协议的可能性）但我对伊朗越来越失去信心，因为他们撒谎。",
+          "url": "https://flash.jin10.com/detail/20260801002437601800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我们只想赢。",
           "url": "https://flash.jin10.com/detail/20260801001126275800",
           "source": "金十数据",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普声称：与委内瑞拉关系很好。",
-          "url": "https://wallstreetcn.com/livenews/3143375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普声称：伊朗做得非常糟糕。 在与美国打交道时候，伊朗不老实。 伊朗处境艰难。",
-          "url": "https://wallstreetcn.com/livenews/3143374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美国总统特朗普宣称：西班牙移民局势是“灾难”。",
-          "url": "https://wallstreetcn.com/livenews/3143373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -330,7 +467,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -340,8 +477,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "伊朗革命卫队一天发表三份声明",
@@ -351,19 +488,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "伊朗称已关闭霍尔木兹海峡 美中央司令部否认",
-          "url": "https://flash.jin10.com/detail/20260801002222450800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "【伊朗称已关闭霍尔木兹海峡，美中央司令部否认】7月31日，美军中央司令部表示，“伊朗政府再次声称已关闭霍尔木兹海峡，这是不实的消息”。美军中央司令部称，“霍尔木兹海峡对于商船通行依然保持开放。伊朗并不控制该海峡”；过去四个月里，“已有数千艘船只通过这一国际水道”。 7月31日稍早，伊朗“波斯湾海峡管理局”发布声明称，由于美军在相关海域持续采取侵略性行动，目前霍尔木兹海峡已无法正常通行。（央视）",
@@ -377,26 +503,63 @@
           "time_info": "00时32分"
         },
         {
+          "title": "伊朗称已关闭霍尔木兹海峡 美中央司令部否认",
+          "url": "https://flash.jin10.com/detail/20260801002222450800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
           "title": "美国中央司令部：伊朗政府再次表示已关闭霍尔木兹海峡。 这是错误的。 事实上，霍尔木兹海峡仍然对商船开放。 伊朗并未控制该海峡。 过去四个月里，已有数千艘船只通过这条国际航道。",
           "url": "https://wallstreetcn.com/livenews/3143385",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "美国财长贝森特：伊朗没能力支付军饷，美国正在搜寻其资产。",
           "url": "https://wallstreetcn.com/livenews/3143382",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
+          "url": "https://www.toutiao.com/trending/7668445091514155050/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
+          "url": "https://wallstreetcn.com/livenews/3143392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时16分"
         },
         {
           "title": "美国财政部长：（关于伊朗）资金将用于伊朗人民。",
@@ -432,15 +595,88 @@
           "time_info": "00时32分"
         },
         {
-          "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
-          "url": "https://www.toutiao.com/trending/7668445091514155050/",
+          "title": "伊朗宣布霍尔木兹海峡暂停通行",
+          "url": "https://www.toutiao.com/trending/7668680642107805238/",
           "source": "今日头条",
           "ranks": [
-            25
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
+          "url": "https://www.cls.cn/detail/2442818",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260801003858873800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时16分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260801003848048800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         }
       ]
     },
@@ -456,41 +692,44 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
           "url": "https://www.zhihu.com/question/2066526486505461299",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "DeepSeek-V4-Flash 正式版API上线",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek-V4-Flash",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "DeepSeek V4 Flash正式版强在哪",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Flash%E6%AD%A3%E5%BC%8F%E7%89%88%E5%BC%BA%E5%9C%A8%E5%93%AA",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         },
         {
           "title": "DeepSeek拟在内蒙古建超算中心",
@@ -498,56 +737,6 @@
           "source": "bilibili 热搜",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
-          "url": "https://www.cls.cn/detail/2442818",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -567,8 +756,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时16分]"
         }
       ]
     }
