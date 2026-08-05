@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T07:52:08.344885+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-08-05T09:15:07.360254+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -20,6 +20,19 @@
           "time_info": "[01时30分 ~ 07时52分]"
         },
         {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 09时15分]"
+        },
+        {
           "title": "美伊缓和叠加财报季提振，美股高开，光通信股走高，油价跌超5%，日元涨势终止",
           "url": "https://wallstreetcn.com/articles/3778638",
           "source": "华尔街见闻",
@@ -31,28 +44,16 @@
           "time_info": "[01时30分 ~ 06时09分]"
         },
         {
-          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2445568",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时30分 ~ 07时52分]"
-        },
-        {
           "title": "【早报】美股半导体、存储、光通信，集体爆发；油价大跌、黄金走强；SpaceX、AMD财报出炉；大基金三期出手！入股正芯半导体",
           "url": "https://www.cls.cn/detail/2445802",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 09时15分]"
         },
         {
           "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
@@ -63,8 +64,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时09分 ~ 07时52分]"
+          "appearance_count": 5,
+          "time_info": "[06时09分 ~ 09时15分]"
+        },
+        {
+          "title": "“大空头”再发警告：美股市场正接近“大顶”，1987式崩盘或重演",
+          "url": "https://flash.jin10.com/detail/20260805083108933800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         },
         {
           "title": "SpaceX股价上涨10％，该公司即将在美股收盘之后发布美国IPO以来首份业绩报告。",
@@ -262,7 +274,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         }
@@ -280,8 +292,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时30分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 09时15分]"
         },
         {
           "title": "伊朗总统回应辞职传闻",
@@ -291,8 +303,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时30分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 09时15分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -304,8 +316,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时30分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 09时15分]"
         },
         {
           "title": "英媒：伊朗考虑向欧洲国家收取霍尔木兹海峡维护费用",
@@ -491,7 +503,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
@@ -507,13 +519,24 @@
           "time_info": "[01时30分 ~ 07时52分]"
         },
         {
+          "title": "白宫再出手压油价：拟延长《琼斯法案》豁免！特朗普怒斥“虚假民调”",
+          "url": "https://flash.jin10.com/detail/20260805084506889800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
           "title": "持武男子在特朗普即将出席活动的加州球场被捕",
           "url": "https://flash.jin10.com/detail/20260805072343057800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -590,7 +613,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -707,8 +730,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时30分 ~ 07时52分]"
+          "appearance_count": 9,
+          "time_info": "[01时30分 ~ 09时15分]"
         },
         {
           "title": "英国机构报告AI安全事件 涉Anthropic和OpenAI模型",
@@ -742,6 +765,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时30分 ~ 07时52分]"
+        },
+        {
+          "title": "如何看待 2026 年 8 月美债正式突破 40 万亿美元大关？压垮美债的最后一根稻草会是什么？",
+          "url": "https://www.zhihu.com/question/2067002987545884316",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
         }
       ]
     },
@@ -787,24 +839,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时30分 ~ 07时52分]"
         }
       ]
     }
