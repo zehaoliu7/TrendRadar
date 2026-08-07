@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-08-07T06:33:12.328919+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-07T09:40:06.788626+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
+          "url": "https://www.cls.cn/detail/2447939",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "特朗普签署行政令，宣布加征关税",
+          "url": "https://news.ifeng.com/c/8vNvJb617ek",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
+          "url": "https://news.ifeng.com/c/8vO9rqQQ3tN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
           "url": "https://wallstreetcn.com/livenews/3146283",
@@ -14,9 +47,53 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
+          "url": "https://www.cls.cn/detail/2447915",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
+          "url": "https://v.ifeng.com/c/8vNVrjQyzZJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "特朗普对多晶硅加征关税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A4%9A%E6%99%B6%E7%A1%85%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "特朗普政府将禁止钨废料电池废料出口",
+          "url": "https://www.toutiao.com/trending/7670389265871814719/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
         },
         {
           "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
@@ -25,7 +102,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -36,7 +113,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -47,7 +124,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -58,7 +135,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -69,7 +146,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -80,9 +157,105 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 09时40分]"
+        },
+        {
+          "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
+          "url": "https://www.zhihu.com/question/2068637080209421054",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
+          "url": "https://wallstreetcn.com/articles/3778857",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 09时40分]"
+        },
+        {
+          "title": "DeepSeek、腾讯等获宇树科技战略配售",
+          "url": "https://www.cls.cn/detail/2447658",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 09时40分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 09时40分]"
+        },
+        {
+          "title": "DeepSeek官宣涨价，且“幅度较大”！",
+          "url": "https://wallstreetcn.com/articles/3778814",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "DeepSeek腾讯获宇树战略配售",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%85%BE%E8%AE%AF%E8%8E%B7%E5%AE%87%E6%A0%91%E6%88%98%E7%95%A5%E9%85%8D%E5%94%AE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 06时33分]"
         }
       ]
     },
@@ -108,9 +281,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
+          "url": "https://www.zhihu.com/question/2068728009981440588",
+          "source": "知乎",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 09时40分]"
+        },
+        {
+          "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
+          "url": "https://www.cls.cn/detail/2447874",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 09时40分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -118,17 +315,6 @@
           "source": "凤凰网",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 06时33分]"
-        },
-        {
-          "title": "伊朗总统称目前与最高领袖联络困难，其决策过程遭人利用，如何看待这一言论？伊朗未来局势将如何发展？",
-          "url": "https://www.zhihu.com/question/2068728009981440588",
-          "source": "知乎",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -146,124 +332,13 @@
           "time_info": "[06时32分 ~ 06时33分]"
         },
         {
-          "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
-          "url": "https://www.cls.cn/detail/2447874",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 06时33分]"
-        },
-        {
           "title": "沙特官员：伊朗方面正策划袭击沙特",
           "url": "https://wallstreetcn.com/livenews/3146264",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "DeepSeek、腾讯等获宇树科技战略配售",
-          "url": "https://www.cls.cn/detail/2447658",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 06时33分]"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 06时33分]"
-        },
-        {
-          "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
-          "url": "https://wallstreetcn.com/articles/3778857",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 06时33分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 06时33分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 06时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
-          "url": "https://www.zhihu.com/question/2068631767326660517",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 06时33分]"
-        },
-        {
-          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 06时33分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet发行250亿美元投资级债券，共十种久期（2-40年）。 期限最长的公司债定价较可比美债溢价1.3个百分点，最初讨论的溢价幅度为1.55个百分点。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3146265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时33分"
         }
@@ -271,8 +346,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
         {
           "title": "非农与美伊协议落地前市场谨慎，美股三大指数集体下跌，西部数据跌超13%，原油走强",
           "url": "https://wallstreetcn.com/articles/3778821",
@@ -285,13 +371,35 @@
           "time_info": "[06时32分 ~ 06时33分]"
         },
         {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
           "title": "周四（8月6日），美股存储芯片与硬件供应链指数跌3.73%，报189.71点，美股早盘走出尖锐的V形行情、北京时间21:32刷新日低至179.46点，22:00以来持稳于192点附近。 成分股西部数据收跌13.03%，闪迪跌6.81%，美光科技、应用材料、泰瑞达至多跌1.31%，拉姆研究跌0.54%，Rambus涨0.39%，希捷科技涨1.83%。 此外，SK海力士ADR跌4.97%。",
           "url": "https://wallstreetcn.com/livenews/3146276",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         },
@@ -302,7 +410,48 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
+          "url": "https://www.zhihu.com/question/2068631767326660517",
+          "source": "知乎",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 09时40分]"
+        },
+        {
+          "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 09时40分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet发行250亿美元投资级债券，共十种久期（2-40年）。 期限最长的公司债定价较可比美债溢价1.3个百分点，最初讨论的溢价幅度为1.55个百分点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3146265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
         }
@@ -310,7 +459,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "怎么看 OpenAI 工程师说「现在大多数大型实验室成员几乎不看论文，因为大部分都是欺诈」？",
@@ -322,6 +471,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 06时33分]"
+        },
+        {
+          "title": "曝OpenAI最快下周推出Astra AI",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9DOpenAI%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E6%8E%A8%E5%87%BAAstra+AI",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "OpenAI为免费用户升级GPT-5.6 Luna",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E4%B8%BA%E5%85%8D%E8%B4%B9%E7%94%A8%E6%88%B7%E5%8D%87%E7%BA%A7GPT-5.6+Luna",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
         }
       ]
     }
