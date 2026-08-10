@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T06:24:21.686075+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-08-11T07:23:18.213765+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 43,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 07时23分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 07时23分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -39,19 +39,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 07时23分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 07时23分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -73,8 +74,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 06时24分]"
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 07时23分]"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -108,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
-          "url": "https://wallstreetcn.com/livenews/3147708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
@@ -157,6 +147,18 @@
           "time_info": "[01时42分 ~ 02时39分]"
         },
         {
+          "title": "美国总统特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
+          "url": "https://wallstreetcn.com/livenews/3147708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
           "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
           "url": "https://flash.jin10.com/detail/20260811011059897800",
           "source": "金十数据",
@@ -167,6 +169,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时39分]"
+        },
+        {
+          "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
+          "url": "https://flash.jin10.com/detail/20260811055607188800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
         },
         {
           "title": "美国总统特朗普宣布“美国疫苗推荐”。 特朗普声称：政府仅认可 11 种核心疫苗的儿童接种建议。 不再建议所有儿童接种乙肝、新冠、流感等疫苗。",
@@ -226,17 +240,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
-        },
-        {
-          "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
-          "url": "https://flash.jin10.com/detail/20260811055607188800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         },
         {
           "title": "美国总统特朗普：不再建议所有儿童接种乙型肝炎、COVID-19和流感等疫苗。",
@@ -382,6 +385,17 @@
           "time_info": "05时31分"
         },
         {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3147719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
           "title": "美国总统特朗普：自沃什获得任命以来，我只与他通过一次电话。（否认华尔街日报报道称双方频繁通话）",
           "url": "https://flash.jin10.com/detail/20260811033805170800",
           "source": "金十数据",
@@ -494,8 +508,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 07时23分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -582,6 +596,19 @@
           "time_info": "[03时46分 ~ 04时29分]"
         },
         {
+          "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
+          "url": "https://flash.jin10.com/detail/20260811045926051800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时23分]"
+        },
+        {
           "title": "伊朗革命卫队海军司令：任何觊觎伊朗岛屿的人，我们都将予以坚决打击。",
           "url": "https://flash.jin10.com/detail/20260811011553614800",
           "source": "金十数据",
@@ -604,18 +631,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时31分]"
-        },
-        {
-          "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
-          "url": "https://flash.jin10.com/detail/20260811045926051800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时24分]"
         },
         {
           "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
@@ -800,8 +815,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 07时23分]"
         },
         {
           "title": "OpenAI：我们正在扩展网络安全计划Daybreak，并推出新模型GPT-5.6-Cyber，用于开展先进且经过授权的网络安全工作。",
@@ -967,7 +982,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -985,11 +1000,12 @@
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -1003,6 +1019,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时24分]"
+        },
+        {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时23分]"
         },
         {
           "title": "Hims & Hers美股盘后涨4%。",
@@ -1067,15 +1095,15 @@
           "time_info": "[05时31分 ~ 06时24分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
           "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时23分"
         },
         {
           "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
@@ -1087,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "美股收盘：芯片股、光通信概念重挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E6%A6%82%E5%BF%B5%E9%87%8D%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "美股三大指数集体走低，纳指跌0.51%，道指跌0.25%， 标普500指数跌0.17%。",
@@ -1166,7 +1205,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌公司：相信我们遵守美国得州数据中心标准。",
@@ -1179,6 +1218,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时39分]"
+        },
+        {
+          "title": "谷歌AI团队告知求职者：其HR筛选系统不可靠",
+          "url": "https://wallstreetcn.com/livenews/3147721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
@@ -1192,11 +1242,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 07时23分]"
         }
       ]
     }
