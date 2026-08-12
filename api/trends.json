@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T18:48:24.037438+08:00",
-  "total_titles_processed": 1525,
+  "generated_at": "2026-08-12T19:37:38.206761+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 18时48分]"
+          "appearance_count": 9,
+          "time_info": "[11时16分 ~ 19时37分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -295,6 +295,17 @@
           "time_info": "[03时52分 ~ 04时31分]"
         },
         {
+          "title": "伊朗总统佩泽希齐扬：（告知日本首相高市早苗）伊朗从未以任何方式违反国际法。",
+          "url": "https://flash.jin10.com/detail/20260812191548705800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "美国波士顿联储主席Susan Collins：伊朗战争正在挤压美国低收入人群的利益。 支持美联储7月维持利率不变，认为当前利率水平“略有限制性”，因此预计通胀会逐步回落。 通胀率太高，失业率依旧相对稳定。 若通胀率依旧居高不下，将支持9月份加息。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3148406",
           "source": "华尔街见闻-快讯",
@@ -408,7 +419,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -444,8 +455,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时29分 ~ 18时48分]"
+          "appearance_count": 11,
+          "time_info": "[06时29分 ~ 19时37分]"
+        },
+        {
+          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
+          "url": "https://www.cls.cn/detail/2452049",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时37分]"
         },
         {
           "title": "特朗普承认：悄悄换乘飞机了",
@@ -458,18 +482,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时16分 ~ 13时22分]"
-        },
-        {
-          "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
-          "url": "https://www.cls.cn/detail/2452049",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时48分]"
         },
         {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
@@ -507,6 +519,18 @@
           "time_info": "[06时30分 ~ 07时27分]"
         },
         {
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
           "source": "澎湃新闻",
@@ -517,6 +541,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时52分 ~ 18时48分]"
+        },
+        {
+          "title": "据大西洋月刊：美国财长贝森特曾告诉特朗普，加强制裁可能会迫使伊朗屈服，并声称随着70%的能源运输转移到地下管道，霍尔木兹海峡将在两年内变得无关紧要。",
+          "url": "https://flash.jin10.com/detail/20260812191933612800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
@@ -539,17 +574,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
-        },
-        {
-          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3148574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
@@ -646,7 +670,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -657,7 +681,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         }
@@ -665,7 +689,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -736,6 +760,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "文远知行第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
@@ -880,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "7月CPI成为“定方向数据”！不同情景下，美元黄金美股如何反应？",
+          "url": "https://flash.jin10.com/detail/20260812190120326800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         }
       ]
     },
@@ -1013,11 +1059,12 @@
             11,
             10,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时21分 ~ 18时48分]"
+          "appearance_count": 8,
+          "time_info": "[13时21分 ~ 19时37分]"
         },
         {
           "title": "DeepSeek会偷偷给人取外号",
@@ -1123,6 +1170,18 @@
           "time_info": "[02时42分 ~ 03时52分]"
         },
         {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
           "title": "标普500指数初步收跌0.3%，电信板块跌2.2%，科技板块跌0.2%，能源板块涨0.9%。 纳斯达克100指数初步收跌0.3%，成分股中，Applovin初步收跌5.8%，Honeywell Technologies Inc.跌5.3%，Datadog跌超5%，SpaceX跌4.5%，谷歌A跌3.9%，拼多多ADR跌2.5%，亚马逊跌2%，希捷科技涨2.3%，闪迪涨2.5%，阿斯麦ADR涨3.6%，AXON涨6.7%。",
           "url": "https://wallstreetcn.com/livenews/3148231",
           "source": "华尔街见闻-快讯",
@@ -1143,17 +1202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3148567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         }
       ]
     },
@@ -1249,11 +1297,12 @@
           "url": "https://wallstreetcn.com/livenews/3148572",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
         }
       ]
     }
