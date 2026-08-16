@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T16:14:28.990843+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-08-16T17:15:09.825022+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时09分 ~ 16时14分]"
+          "appearance_count": 14,
+          "time_info": "[07时09分 ~ 17时15分]"
         },
         {
           "title": "伊朗三大权力机构负责人举行会晤",
@@ -27,8 +27,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 16时14分]"
+          "appearance_count": 8,
+          "time_info": "[12时23分 ~ 17时15分]"
+        },
+        {
+          "title": "伊朗防空专家：战争爆发至今，我们从没引进国外的武器或系统",
+          "url": "https://news.ifeng.com/c/8vd8ID5xoBc",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时23分 ~ 17时15分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时09分 ~ 11时37分]"
-        },
-        {
-          "title": "伊朗防空专家：战争爆发至今，我们从没引进国外的武器或系统",
-          "url": "https://news.ifeng.com/c/8vd8ID5xoBc",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时23分 ~ 16时14分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -99,6 +99,31 @@
           "time_info": "[07时09分 ~ 13时17分]"
         },
         {
+          "title": "据伊朗媒体Fars News：伊朗梅赫兰市市长称，几分钟前在梅赫兰听到的爆炸声是由于在伊拉克境内销毁战争遗留弹药的操作所致。",
+          "url": "https://flash.jin10.com/detail/20260816165308429800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时15分"
+        },
+        {
+          "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
+          "url": "https://wallstreetcn.com/livenews/3150030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            7,
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 17时15分]"
+        },
+        {
           "title": "美国中央司令部：以圣地亚哥为母港的“亚伯拉罕·林肯”号于去年11月启程执行部署任务，并于1月抵达中东。该打击群已成功执行数千次作战飞行任务，以支持“史诗狂怒”行动、地区安全任务以及美国目前对伊朗实施的海上封锁。",
           "url": "https://flash.jin10.com/detail/20260816055833172800",
           "source": "金十数据",
@@ -113,19 +138,6 @@
         },
         {
           "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
-          "url": "https://wallstreetcn.com/livenews/3150030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 16时14分]"
-        },
-        {
-          "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
           "url": "https://flash.jin10.com/detail/20260816123659202800",
           "source": "金十数据",
           "ranks": [
@@ -136,6 +148,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时17分 ~ 16时14分]"
+        },
+        {
+          "title": "伊朗称三名飞行员被卡塔尔活捉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%89%E5%90%8D%E9%A3%9E%E8%A1%8C%E5%91%98%E8%A2%AB%E5%8D%A1%E5%A1%94%E5%B0%94%E6%B4%BB%E6%8D%89%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 17时15分]"
+        },
+        {
+          "title": "伊朗外交部强烈谴责以色列对黎袭击",
+          "url": "https://wallstreetcn.com/livenews/3150039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时15分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋部：在彻底击败敌人之前，我们绝不会退缩",
+          "url": "https://flash.jin10.com/detail/20260816151427691800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时15分]"
         },
         {
           "title": "伊朗能源优化组织负责人：第一种方案中，汽油价格保持不变，但总分配量上限为1.21亿升，一旦用完，加油口将关闭。第二种方案中，每日生产的1.21亿升汽油将分配给各车辆，任何希望超出配额的人必须按自由市场价格购买汽油；第三种方案中，汽油配额分配给民众，每人每月30升，且允许进行配额转让、购买和出售。",
@@ -162,6 +210,42 @@
           "time_info": "[07时09分 ~ 08时29分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队表示，卡塔尔应该允许伊朗的专家团队入驻调查失踪的飞行员事件，而不是否认对飞行员采取了拘留措施。",
+          "url": "https://flash.jin10.com/detail/20260816145833255800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时15分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方失踪人员负责人表示，卡塔尔必须允许伊朗空军的调查团进入该国。",
+          "url": "https://flash.jin10.com/detail/20260816144950823800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时15分]"
+        },
+        {
+          "title": "伊朗外交部强烈谴责以色列对黎袭击",
+          "url": "https://flash.jin10.com/detail/20260816144217334800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 17时15分]"
+        },
+        {
           "title": "伊朗宣布与阿曼达成协议",
           "url": "https://www.douyin.com/hot/2611104",
           "source": "抖音",
@@ -185,70 +269,15 @@
           "time_info": "[07时09分 ~ 08时29分]"
         },
         {
-          "title": "伊朗外交部强烈谴责以色列对黎袭击",
-          "url": "https://wallstreetcn.com/livenews/3150039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "伊朗武装部队总参谋部：在彻底击败敌人之前，我们绝不会退缩",
-          "url": "https://flash.jin10.com/detail/20260816151427691800",
+          "title": "伊朗商会会长：伊朗经济已走出战争冲击",
+          "url": "https://flash.jin10.com/detail/20260816161606856800",
           "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队表示，卡塔尔应该允许伊朗的专家团队入驻调查失踪的飞行员事件，而不是否认对飞行员采取了拘留措施。",
-          "url": "https://flash.jin10.com/detail/20260816145833255800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗军方失踪人员负责人表示，卡塔尔必须允许伊朗空军的调查团进入该国。",
-          "url": "https://flash.jin10.com/detail/20260816144950823800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "伊朗外交部强烈谴责以色列对黎袭击",
-          "url": "https://flash.jin10.com/detail/20260816144217334800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "伊朗称三名飞行员被卡塔尔活捉",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%89%E5%90%8D%E9%A3%9E%E8%A1%8C%E5%91%98%E8%A2%AB%E5%8D%A1%E5%A1%94%E5%B0%94%E6%B4%BB%E6%8D%89%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "time_info": "17时15分"
         },
         {
           "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
@@ -287,8 +316,22 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时23分 ~ 17时15分]"
+        },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
@@ -299,21 +342,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时09分 ~ 16时14分]"
+          "appearance_count": 14,
+          "time_info": "[07时09分 ~ 17时15分]"
         },
         {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            6,
+            7,
             5
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时23分 ~ 16时14分]"
+          "time_info": "[13时17分 ~ 17时15分]"
         },
         {
           "title": "特朗普誓言美航母重回锅气时代",
@@ -328,16 +370,15 @@
           "time_info": "[10时13分 ~ 12时24分]"
         },
         {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 16时14分]"
+          "appearance_count": 6,
+          "time_info": "[07时09分 ~ 17时15分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -432,17 +473,6 @@
           "time_info": "[11时37分 ~ 14时18分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时09分 ~ 16时14分]"
-        },
-        {
           "title": "特朗普称林肯号部署时间不够长",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9E%97%E8%82%AF%E5%8F%B7%E9%83%A8%E7%BD%B2%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9F%E9%95%BF",
           "source": "bilibili 热搜",
@@ -464,6 +494,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时09分 ~ 08时29分]"
+        },
+        {
+          "title": "特朗普为何要求航母改回蒸汽弹射",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%A6%81%E6%B1%82%E8%88%AA%E6%AF%8D%E6%94%B9%E5%9B%9E%E8%92%B8%E6%B1%BD%E5%BC%B9%E5%B0%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         }
       ]
     },
@@ -482,8 +523,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时09分 ~ 16时14分]"
+          "appearance_count": 14,
+          "time_info": "[07时09分 ~ 17时15分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -493,11 +534,12 @@
             10,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时13分 ~ 16时14分]"
+          "appearance_count": 11,
+          "time_info": "[10时13分 ~ 17时15分]"
         },
         {
           "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
@@ -509,11 +551,12 @@
             8,
             11,
             16,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 16时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 17时15分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -521,11 +564,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时17分 ~ 16时14分]"
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 17时15分]"
         },
         {
           "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
@@ -578,11 +622,12 @@
             1,
             4,
             9,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时24分 ~ 16时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时24分 ~ 17时15分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -614,7 +659,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -623,11 +668,12 @@
           "ranks": [
             3,
             8,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 16时14分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 17时15分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -646,11 +692,23 @@
           "url": "https://wallstreetcn.com/articles/3779527",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时14分 ~ 17时15分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         }
       ]
     },
@@ -697,8 +755,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时09分 ~ 16时14分]"
+          "appearance_count": 14,
+          "time_info": "[07时09分 ~ 17时15分]"
         },
         {
           "title": "高瓴旗下HHLR披露最新美股持仓 二季度增持英伟达",
@@ -710,11 +768,12 @@
             12,
             15,
             20,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时14分 ~ 16时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时14分 ~ 17时15分]"
         }
       ]
     }
