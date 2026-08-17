@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T14:26:37.919679+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-08-17T17:27:56.458330+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时27分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[08时27分 ~ 17时27分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -48,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时27分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[08时27分 ~ 17时27分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -63,6 +64,20 @@
           "time_info": "[10时12分 ~ 14时26分]"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时12分 ~ 17时27分]"
+        },
+        {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
           "url": "https://wallstreetcn.com/livenews/3150053",
           "source": "华尔街见闻-快讯",
@@ -72,19 +87,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时10分 ~ 06时08分]"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时12分 ~ 14时26分]"
         },
         {
           "title": "沙土巴3国签署共同防务协议，特朗普发声",
@@ -206,6 +208,18 @@
           "time_info": "[06时08分 ~ 07时08分]"
         },
         {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 17时27分]"
+        },
+        {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
           "url": "https://flash.jin10.com/detail/20260817031430338800",
           "source": "金十数据",
@@ -243,18 +257,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时07分 ~ 06时08分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时26分]"
         },
         {
           "title": "据半岛电视台：巴勒斯坦消息人士透露，库什纳已告知哈马斯领导层，特朗普认为解除各派武装是加沙采取任何其他行动前的关键一步。",
@@ -468,7 +470,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -487,7 +489,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -521,11 +523,12 @@
             8,
             14,
             15,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时09分 ~ 14时26分]"
+          "appearance_count": 18,
+          "time_info": "[00时09分 ~ 17时27分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
@@ -548,8 +551,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时27分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[08时27分 ~ 17时27分]"
         },
         {
           "title": "伊朗议会通过反渗透法案",
@@ -625,7 +628,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -677,8 +680,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 17时27分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，这是美国和以色列政权遭受的绝对最惨痛的失败。",
@@ -807,9 +810,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
+        },
+        {
+          "title": "日本外相茂木敏充：今天起将出访沙特和阿曼。将围绕伊朗局势与这两个重要相关国家就推动事态平息交换意见。我们将围绕确保自由、安全航行进一步深入讨论，并坦率说明日本的立场。对于日本最大的原油采购来源国之一沙特，以及日本重要的原油和液化天然气采购来源国阿曼，我们还将再次确认在保障能源稳定供应方面的合作。",
+          "url": "https://flash.jin10.com/detail/20260817171704703800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "伊朗战争，正在掏空美国弹药库",
@@ -823,6 +837,28 @@
           "time_info": "00时10分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：部分伊朗司法官员即将面临调整和调动，这些调整和调动旨在增强活力、注入新动力，以确保坚定不移地致力于为人民服务。些调整不应被以任何其他方式解读或理解。",
+          "url": "https://flash.jin10.com/detail/20260817171358674800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "伊朗否认伊美谅解备忘录规定“60天期限”",
+          "url": "https://wallstreetcn.com/livenews/3150378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "据沙特官方通讯社，吉赞地区已启动空袭警报。 此前，据伊朗塔斯尼姆通讯社称，沙特阿拉伯吉赞炼油厂附近传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260816210430822800",
           "source": "金十数据",
@@ -832,6 +868,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时10分"
+        },
+        {
+          "title": "伊朗称正在起草与阿曼的海上航线计划",
+          "url": "https://wallstreetcn.com/livenews/3150377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "伊朗议会通过反渗透法案",
@@ -914,11 +961,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 17时27分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -1056,11 +1104,12 @@
           "url": "https://wallstreetcn.com/articles/3779560",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时26分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 17时27分]"
         },
         {
           "title": "20年期美债将于本周三拍卖，长端压力是否会升级？",
@@ -1069,7 +1118,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -1124,8 +1173,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时27分 ~ 14时26分]"
+          "appearance_count": 7,
+          "time_info": "[08时27分 ~ 17时27分]"
         }
       ]
     },
