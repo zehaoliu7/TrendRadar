@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T18:19:20.519862+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-08-17T19:14:42.803691+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时27分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[08时27分 ~ 19时14分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -74,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时12分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[10时12分 ~ 19时14分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -87,6 +87,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时10分 ~ 06时08分]"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 19时14分]"
         },
         {
           "title": "沙土巴3国签署共同防务协议，特朗普发声",
@@ -120,18 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 18时19分]"
         },
         {
           "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
@@ -365,6 +366,17 @@
           "time_info": "11时38分"
         },
         {
+          "title": "特朗普再称伊朗绝不能拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3150454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
           "url": "https://wallstreetcn.com/livenews/3150084",
           "source": "华尔街见闻-快讯",
@@ -459,9 +471,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "特朗普重申伊朗不能拥有核武器",
+          "url": "https://flash.jin10.com/detail/20260817182053714800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "美国总统特朗普周一日程一览",
@@ -486,6 +509,28 @@
           "time_info": "14时26分"
         },
         {
+          "title": "美国总统特朗普：伊朗绝不能以任何方式、形态或形式拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260817181911430800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "美国总统特朗普：首要目标是伊朗不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260817181853245800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "特朗普称要大幅缩减美韩联合军演",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A6%81%E5%A4%A7%E5%B9%85%E7%BC%A9%E5%87%8F%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -500,7 +545,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -525,6 +570,18 @@
           "time_info": "[00时09分 ~ 07时08分]"
         },
         {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时27分 ~ 19时14分]"
+        },
+        {
           "title": "伊朗称逮捕或消灭美军者将获奖励",
           "url": "https://www.toutiao.com/trending/7674484727768301577/",
           "source": "今日头条",
@@ -540,18 +597,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时09分 ~ 17时27分]"
-        },
-        {
-          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
-          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时27分 ~ 18时19分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
@@ -633,6 +678,29 @@
           "time_info": "[03时12分 ~ 07时08分]"
         },
         {
+          "title": "伊朗称正与阿曼敲定霍尔木兹海峡谅解协议",
+          "url": "https://wallstreetcn.com/livenews/3150460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 19时14分]"
+        },
+        {
           "title": "伊朗秘密升级战争计划曝光！强硬派已定下全新打法",
           "url": "https://flash.jin10.com/detail/20260817140632271800",
           "source": "金十数据",
@@ -642,17 +710,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
-        },
-        {
-          "title": "伊朗革命卫队官员：若美履行承诺 霍尔木兹海峡将重新开放",
-          "url": "https://wallstreetcn.com/livenews/3150440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
@@ -669,18 +726,6 @@
           "time_info": "[04时07分 ~ 07时08分]"
         },
         {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 18时19分]"
-        },
-        {
           "title": "据半岛电视台：伊朗议会议长表示，我们必须达到一种威慑水平，以免陷入战争、和平再到战争消耗的循环中。",
           "url": "https://flash.jin10.com/detail/20260817040612612800",
           "source": "金十数据",
@@ -692,6 +737,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时09分 ~ 07时08分]"
+        },
+        {
+          "title": "伊朗革命卫队官员：若美履行承诺 霍尔木兹海峡将重新开放",
+          "url": "https://wallstreetcn.com/livenews/3150440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时14分]"
         },
         {
           "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
@@ -804,6 +861,17 @@
           "time_info": "[00时09分 ~ 00时10分]"
         },
         {
+          "title": "伊朗最高领袖顾问Velayati：美国民众如今正在为其领导人在西亚的冒险付出代价。",
+          "url": "https://flash.jin10.com/detail/20260817184213741800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "伊朗：不要拿霍尔木兹海峡开玩笑",
           "url": "https://flash.jin10.com/detail/20260817124424953800",
           "source": "金十数据",
@@ -813,6 +881,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "伊朗外交部：在确认下落之前，我们将认定我方飞行员在卡塔尔处于被俘状态。",
+          "url": "https://flash.jin10.com/detail/20260817183746045800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
         },
         {
           "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
@@ -843,7 +922,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -936,6 +1015,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "据伊朗方面报道：近期冲突中有超过200架敌方飞机被击落。",
+          "url": "https://flash.jin10.com/detail/20260817181726177800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
           "title": "伊朗称美军已被驱逐不得进入海峡",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%B7%B2%E8%A2%AB%E9%A9%B1%E9%80%90%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -984,11 +1074,12 @@
             15,
             12,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 19时14分]"
         },
         {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
@@ -1132,8 +1223,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 19时14分]"
         },
         {
           "title": "李大霄解读美债收益率",
@@ -1208,8 +1299,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时27分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[08时27分 ~ 19时14分]"
         }
       ]
     },
