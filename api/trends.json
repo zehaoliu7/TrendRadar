@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T20:16:57.638131+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-08-17T23:13:55.930087+08:00",
+  "total_titles_processed": 1766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -13,11 +13,12 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时27分 ~ 20时16分]"
+          "appearance_count": 11,
+          "time_info": "[08时27分 ~ 23时13分]"
         },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -96,7 +97,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -123,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时27分"
+        },
+        {
+          "title": "特朗普要求伊朗举白旗投降",
+          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "特朗普：我和金正恩关系好，将大幅削减美韩军演规模",
@@ -406,9 +418,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
+        },
+        {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳向哈马斯领导人确认，哈马斯的武器将会从加沙地带撤出，不会在加沙存放。",
@@ -488,13 +511,24 @@
           "time_info": "03时12分"
         },
         {
+          "title": "释疑丨扒开新型美式政商关系：特朗普到哪儿，权贵们的房子就买到哪儿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33797232",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "特朗普对：我可能会支持以色列选举中的某位候选人。以色列不该袭击加沙。（福克斯）",
           "url": "https://wallstreetcn.com/livenews/3150476",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -521,13 +555,24 @@
           "time_info": "19时14分"
         },
         {
+          "title": "以色列总统：今天在耶路撒冷总统府会见了美国特使库什纳、“和平委员会”加沙高级代表姆拉德诺夫以及他们的团队。他们正根据特朗普总统提出的20点计划推动加沙下一阶段的落实工作。我强调，下一阶段必须确保以色列国及其公民的安全，并为该地区所有民族带来稳定以及更加美好的未来。",
+          "url": "https://flash.jin10.com/detail/20260817223608155800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
           "url": "https://wallstreetcn.com/livenews/3150475",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -590,7 +635,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -684,6 +729,18 @@
           "time_info": "[00时09分 ~ 06时08分]"
         },
         {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 23时13分]"
+        },
+        {
           "title": "伊朗称美军已被驱逐不得进入海峡",
           "url": "https://wallstreetcn.com/livenews/3150068",
           "source": "华尔街见闻-快讯",
@@ -708,18 +765,6 @@
           "time_info": "[00时10分 ~ 07时08分]"
         },
         {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 20时16分]"
-        },
-        {
           "title": "伊朗：美军不得进入霍尔木兹海峡",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%86%9B%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
           "source": "百度热搜",
@@ -733,6 +778,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时12分 ~ 07时08分]"
+        },
+        {
+          "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
+          "url": "https://news.ifeng.com/c/8vfLF9nDBak",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国再次派遣间谍气球飞越伊拉克埃尔比勒上空。",
+          "url": "https://flash.jin10.com/detail/20260817231127618800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "伊朗秘密升级战争计划曝光！强硬派已定下全新打法",
@@ -795,6 +862,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时19分 ~ 19时14分]"
+        },
+        {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时16分 ~ 23时13分]"
         },
         {
           "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
@@ -918,15 +997,15 @@
           "time_info": "19时14分"
         },
         {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
+          "title": "伊朗称政策转向全面进攻，宇树科技上市时间确定",
+          "url": "https://flash.jin10.com/detail/20260817225828181800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时16分"
+          "time_info": "23时13分"
         },
         {
           "title": "伊朗：不要拿霍尔木兹海峡开玩笑",
@@ -982,6 +1061,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "据伊朗学生通讯社：沙特使用炮火袭击了位于也门萨达省边境地区拉齐赫市的阿尔舒瓦尔克（Al-Shawarq）地区村庄。",
+          "url": "https://flash.jin10.com/detail/20260817225427186800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "据伊朗学生通讯社：沙特阿拉伯袭击也门边境地区 。",
+          "url": "https://flash.jin10.com/detail/20260817225338494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "日本外相茂木敏充：今天起将出访沙特和阿曼。将围绕伊朗局势与这两个重要相关国家就推动事态平息交换意见。我们将围绕确保自由、安全航行进一步深入讨论，并坦率说明日本的立场。对于日本最大的原油采购来源国之一沙特，以及日本重要的原油和液化天然气采购来源国阿曼，我们还将再次确认在保障能源稳定供应方面的合作。",
@@ -1072,6 +1173,17 @@
           "time_info": "00时10分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队否认与美国通过秘密渠道对话",
+          "url": "https://wallstreetcn.com/livenews/3150539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "据伊朗方面报道：近期冲突中有超过200架敌方飞机被击落。",
           "url": "https://flash.jin10.com/detail/20260817181726177800",
           "source": "金十数据",
@@ -1089,7 +1201,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时16分"
         },
@@ -1111,19 +1223,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "DeepSeek正式涨价",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时38分 ~ 14时26分]"
-        },
-        {
           "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
           "url": "https://www.zhihu.com/question/2072598571090538898",
           "source": "知乎",
@@ -1135,8 +1234,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 20时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 23时13分]"
+        },
+        {
+          "title": "DeepSeek正式涨价",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时38分 ~ 14时26分]"
         },
         {
           "title": "如何评价 DeepSeek 涨价后，OpenCode Go 套餐的 Flash 模型调用量削减 94%？",
@@ -1209,8 +1321,102 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2456385",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "Snap美股盘前跌幅收窄至5%，此前一度跌16%。",
+          "url": "https://wallstreetcn.com/livenews/3150487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        },
+        {
+          "title": "美股光通信板块盘初走高，迈威尔科技涨超6%，Coherent涨近5%，Lumentum涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3150550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨超1%，全球科技股指数ETF涨近1%，日常消费品ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3150547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "北美科技软件股指数ETF美股盘初跌超0.6%，报103.24美元，脱离6月1日以来（盘中）最高位106.75美元。",
+          "url": "https://wallstreetcn.com/livenews/3150546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3150545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -1274,6 +1480,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时24分 ~ 14时26分]"
+        },
+        {
+          "title": "市场消息：美国金融服务公司Synchrony宣布与OpenAI达成企业合作协议，Synchrony将部署GPT-5.6 Sol、Terra和Luna模型，还将推出ChatGPT插件。",
+          "url": "https://flash.jin10.com/detail/20260817230059912800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         }
       ]
     },
@@ -1288,11 +1505,12 @@
           "ranks": [
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时24分 ~ 20时16分]"
+          "appearance_count": 8,
+          "time_info": "[13时24分 ~ 23时13分]"
         },
         {
           "title": "李大霄解读美债收益率",
@@ -1374,7 +1592,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "9月按兵不动成主流，本周金价线索藏在美联储细节中",
@@ -1398,34 +1616,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时24分 ~ 14时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Snap美股盘前跌幅收窄至5%，此前一度跌16%。",
-          "url": "https://wallstreetcn.com/livenews/3150487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时16分"
         },
         {
-          "title": "Snap美股盘前跌幅扩大至逾15%。",
-          "url": "https://wallstreetcn.com/livenews/3150462",
-          "source": "华尔街见闻-快讯",
+          "title": "金价回调半年抛压基本释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            29
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时16分"
+          "time_info": "23时13分"
         }
       ]
     }
