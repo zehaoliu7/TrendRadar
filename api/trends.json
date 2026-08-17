@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T17:27:56.458330+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-08-17T18:19:20.519862+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时27分 ~ 17时27分]"
+          "appearance_count": 8,
+          "time_info": "[08时27分 ~ 18时19分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -74,8 +74,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时12分 ~ 17时27分]"
+          "appearance_count": 7,
+          "time_info": "[10时12分 ~ 18时19分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -120,6 +120,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 18时19分]"
         },
         {
           "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
@@ -206,18 +218,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时08分 ~ 07时08分]"
-        },
-        {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 17时27分]"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -453,6 +453,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "据CNN：美国特使库什纳正在与以色列总理内塔尼亚胡会面，试图推动特朗普政府陷入停滞的加沙和平计划。此前一天，库什纳曾与哈马斯方面会谈。",
+          "url": "https://flash.jin10.com/detail/20260817173012578800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "美国总统特朗普周一日程一览",
           "url": "https://flash.jin10.com/detail/20260817092600312800",
           "source": "金十数据",
@@ -489,7 +500,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -531,6 +542,18 @@
           "time_info": "[00时09分 ~ 17时27分]"
         },
         {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时27分 ~ 18时19分]"
+        },
+        {
           "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
           "url": "https://wallstreetcn.com/livenews/3150079",
           "source": "华尔街见闻-快讯",
@@ -541,18 +564,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时10分 ~ 07时08分]"
-        },
-        {
-          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
-          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时27分 ~ 17时27分]"
         },
         {
           "title": "伊朗议会通过反渗透法案",
@@ -633,6 +644,17 @@
           "time_info": "14时26分"
         },
         {
+          "title": "伊朗革命卫队官员：若美履行承诺 霍尔木兹海峡将重新开放",
+          "url": "https://wallstreetcn.com/livenews/3150440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
           "url": "https://flash.jin10.com/detail/20260817033655350800",
           "source": "金十数据",
@@ -645,6 +667,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时07分 ~ 07时08分]"
+        },
+        {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 18时19分]"
         },
         {
           "title": "据半岛电视台：伊朗议会议长表示，我们必须达到一种威慑水平，以免陷入战争、和平再到战争消耗的循环中。",
@@ -670,18 +704,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时10分 ~ 03时12分]"
-        },
-        {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 17时27分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，这是美国和以色列政权遭受的绝对最惨痛的失败。",
@@ -815,13 +837,24 @@
           "time_info": "14时26分"
         },
         {
+          "title": "据伊通社（IRNA）：伊朗国家石油公司首席执行官表示，战争期间燃料生产和供应持续进行，未曾中断。",
+          "url": "https://flash.jin10.com/detail/20260817173746213800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "日本外相茂木敏充：今天起将出访沙特和阿曼。将围绕伊朗局势与这两个重要相关国家就推动事态平息交换意见。我们将围绕确保自由、安全航行进一步深入讨论，并坦率说明日本的立场。对于日本最大的原油采购来源国之一沙特，以及日本重要的原油和液化天然气采购来源国阿曼，我们还将再次确认在保障能源稳定供应方面的合作。",
           "url": "https://flash.jin10.com/detail/20260817171704703800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -843,7 +876,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -854,7 +887,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -876,7 +909,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -944,6 +977,20 @@
           "time_info": "[10时12分 ~ 11时38分]"
         },
         {
+          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
+          "url": "https://www.zhihu.com/question/2072598571090538898",
+          "source": "知乎",
+          "ranks": [
+            15,
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 18时19分]"
+        },
+        {
           "title": "DeepSeek调价生效 涨幅最高达1100%",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E8%B0%83%E4%BB%B7%E7%94%9F%E6%95%88+%E6%B6%A8%E5%B9%85%E6%9C%80%E9%AB%98%E8%BE%BE1100%25",
           "source": "百度热搜",
@@ -954,19 +1001,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时12分 ~ 11时38分]"
-        },
-        {
-          "title": "DeepSeek 新定价已生效，实际体验下来你的感受如何？跟你预想的差异大吗？",
-          "url": "https://www.zhihu.com/question/2072598571090538898",
-          "source": "知乎",
-          "ranks": [
-            15,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 17时27分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -1089,6 +1123,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时24分 ~ 18时19分]"
+        },
+        {
           "title": "李大霄解读美债收益率",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87",
           "source": "bilibili 热搜",
@@ -1098,18 +1145,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时24分 ~ 13时25分]"
-        },
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 17时27分]"
         },
         {
           "title": "20年期美债将于本周三拍卖，长端压力是否会升级？",
@@ -1173,8 +1208,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时27分 ~ 17时27分]"
+          "appearance_count": 8,
+          "time_info": "[08时27分 ~ 18时19分]"
         }
       ]
     },
